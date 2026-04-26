@@ -44,7 +44,6 @@ msgstr "Ngang ngược"
 
 #: kcmtablet.cpp:88
 #, kde-format
-#| msgid "Follow the active screen"
 msgid "Follow the Current Screen"
 msgstr "Theo màn hình hiện tại"
 
@@ -87,8 +86,8 @@ msgid ""
 "Calibration is completed and saved.<nl/><nl/>Refine the calibration further "
 "or close the window."
 msgstr ""
-"Hiệu chuẩn đã hoàn tất và được lưu.<nl/><nl/>Tinh chỉnh thêm hiệu chuẩn "
-"hoặc đóng cửa sổ."
+"Hiệu chuẩn đã hoàn tất và được lưu.<nl/><nl/>Tinh chỉnh thêm hiệu chuẩn hoặc "
+"đóng cửa sổ."
 
 #: ui/Calibration.qml:84
 #, kde-kuit-format
@@ -126,19 +125,16 @@ msgstr "Huỷ"
 
 #: ui/main.qml:32
 #, kde-format
-#| msgid "No drawing tablets found."
 msgid "No drawing tablets found"
 msgstr "Không tìm thấy bảng vẽ"
 
 #: ui/main.qml:33
 #, kde-format
-#| msgid "Configure drawing tablets"
 msgid "Connect a drawing tablet"
 msgstr "Kết nối bảng vẽ"
 
 #: ui/main.qml:41
 #, kde-format
-#| msgid "Tablet"
 msgctxt "Tests tablet functionality like the pen"
 msgid "Test Tablet…"
 msgstr "Kiểm thử máy tính bảng…"
@@ -161,7 +157,6 @@ msgstr "Hướng:"
 
 #: ui/main.qml:137
 #, kde-format
-#| msgid "Left-handed mode:"
 msgid "Left-handed mode:"
 msgstr "Chế độ thuận tay trái:"
 
@@ -200,19 +195,16 @@ msgstr "%1,%2 - %3×%4"
 
 #: ui/main.qml:282
 #, kde-format
-#| msgid "Button %1:"
 msgid "Pen button 1:"
 msgstr "Nút bút 1:"
 
 #: ui/main.qml:283
 #, kde-format
-#| msgid "Tool Button 2"
 msgid "Pen button 2:"
 msgstr "Nút bút 2:"
 
 #: ui/main.qml:284
 #, kde-format
-#| msgid "Tool Button 3"
 msgid "Pen button 3:"
 msgstr "Nút bút 3:"
 
@@ -253,13 +245,11 @@ msgstr "Không"
 
 #: ui/main.qml:404
 #, kde-format
-#| msgid "Button %1:"
 msgid "Pad button %1:"
 msgstr "Nút pad %1:"
 
 #: ui/Tester.qml:25
 #, kde-format
-#| msgid "Tablet"
 msgctxt "@title"
 msgid "Tablet Tester"
 msgstr "Trình kiểm tra máy tính bảng"
@@ -284,7 +274,9 @@ msgstr "Di chuyển bút X=%1 Y=%2"
 msgid ""
 "## Legend:\n"
 "# X, Y - event coordinate\n"
-msgstr "## Chú thích:\n# X, Y - tọa độ sự kiện\n"
+msgstr ""
+"## Chú thích:\n"
+"# X, Y - tọa độ sự kiện\n"
 
 #: ui/Tester.qml:206
 #, kde-format

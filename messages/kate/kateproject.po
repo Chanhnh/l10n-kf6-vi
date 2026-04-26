@@ -518,23 +518,18 @@ msgstr "Hoàn tất dự án"
 
 #: kateprojectconfigpage.cpp:24
 #, kde-format
-#| msgctxt "Groupbox title"
-#| msgid "Autoload Repositories"
 msgctxt "Groupbox title"
 msgid "Autoload Repositories && Build Trees"
 msgstr "Tự động tải kho & Xây cây"
 
 #: kateprojectconfigpage.cpp:26
 #, kde-format
-#| msgid ""
-#| "Project plugin is able to autoload repository working copies when there "
-#| "is no .kateproject file defined yet."
 msgid ""
 "Project plugin is able to autoload repository working copies and build trees "
 "when there is no .kateproject file defined yet."
 msgstr ""
-"Phần cài cắm 'dự án' có thể tự động tải bản sao hoạt động của kho và cây "
-"xây dựng khi chưa có tệp .kateproject nào được xác định."
+"Phần cài cắm 'dự án' có thể tự động tải bản sao hoạt động của kho và cây xây "
+"dựng khi chưa có tệp .kateproject nào được xác định."
 
 #: kateprojectconfigpage.cpp:29
 #, kde-format
@@ -683,7 +678,6 @@ msgstr "Dòng lệnh (cơ sở)"
 
 #: kateprojectinfoview.cpp:56
 #, kde-format
-#| msgid "Terminal (Base)"
 msgid "Terminal (build)"
 msgstr "Dòng lệnh (biên dịch)"
 
@@ -709,29 +703,22 @@ msgstr "Bắt đầu phân tích..."
 
 #: kateprojectinfoviewcodeanalysis.cpp:43
 #, kde-format
-#| msgid "Code Analysis"
 msgctxt "'%1' refers to project name, e.g,. Code Analysis - MyProject"
 msgid "Code Analysis - %1"
 msgstr "Phân tích mã - %1"
 
 #: kateprojectinfoviewcodeanalysis.cpp:100
 #, kde-format
-#| msgid ""
-#| "%1<br/><br/>The tool will be run on all project files which match this "
-#| "list of file extensions:<br/><br/><b>%2</b>"
 msgid ""
 "'%1' is not installed on your system, %2.<br/><br/>%3. The tool will be run "
 "on all project files which match this list of file extensions:<br/><b>%4</b>"
 msgstr ""
 "'%1' chưa được cài đặt trên hệ thống của bạn, %2.<br/><br/>%3. Công cụ sẽ "
-"chạy trên tất cả tệp dự án khớp với danh sách phần mở rộng tệp "
-"này:<br/><b>%4</b>"
+"chạy trên tất cả tệp dự án khớp với danh sách phần mở rộng tệp này:<br/"
+"><b>%4</b>"
 
 #: kateprojectinfoviewcodeanalysis.cpp:110
 #, kde-format
-#| msgid ""
-#| "%1<br/><br/>The tool will be run on all project files which match this "
-#| "list of file extensions:<br/><br/><b>%2</b>"
 msgid ""
 "Using %1 installed at: %2.<br/><br/>%3. The tool will be run on all project "
 "files which match this list of file extensions:<br/><b>%4</b>"
@@ -904,7 +891,6 @@ msgstr "Đóng các dự án mồ côi"
 
 #: kateprojectpluginview.cpp:229
 #, kde-format
-#| msgid "Reload project"
 msgid "Reload Project"
 msgstr "Tải lại dự án"
 

@@ -224,7 +224,6 @@ msgstr "&Dừng ghi vĩ lệnh"
 
 #: keyboardmacrospluginview.cpp:176
 #, kde-format
-#| msgid "Loaded '%1'"
 msgid "Load %1"
 msgstr "Tải %1"
 
@@ -245,7 +244,6 @@ msgstr "Chạy vĩ lệnh '%1' mà không tải nó."
 
 #: keyboardmacrospluginview.cpp:204
 #, kde-format
-#| msgid "Wiped '%1'"
 msgid "Wipe %1"
 msgstr "Xoá %1"
 

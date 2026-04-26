@@ -117,7 +117,6 @@ msgstr ""
 
 #: kmouth.cpp:146 phrasebook/phrasebookdialog.cpp:286
 #, kde-format
-#| msgid "Pastes the clipboard contents to actual position"
 msgid "Pastes the clipboard contents to current position"
 msgstr "Dán nội dung bảng nháp vào vị trí hiện tại"
 
@@ -130,7 +129,6 @@ msgstr "Dán nội dung bảng nháp vào vị trí con trỏ trong ô soạn th
 
 #: kmouth.cpp:151
 #, kde-format
-#| msgid "&Speak"
 msgctxt "Start speaking"
 msgid "&Speak"
 msgstr "&Nói"
@@ -246,7 +244,6 @@ msgstr "Bỏ chọn tất cả các đoạn văn trong lịch sử"
 #: kmouth.cpp:243 kmouth.cpp:262 kmouth.cpp:361 kmouth.cpp:370 kmouth.cpp:387
 #: kmouth.cpp:434 kmouth.cpp:448 kmouth.cpp:462 kmouth.cpp:476
 #, kde-format
-#| msgid "Ready."
 msgctxt "The job is done"
 msgid "Ready."
 msgstr "Sẵn sàng."
@@ -268,7 +265,6 @@ msgstr "In ấn..."
 
 #: kmouth.cpp:392
 #, kde-format
-#| msgid "Exiting..."
 msgctxt "Shutting down the application"
 msgid "Exiting..."
 msgstr "Đang thoát..."
@@ -399,10 +395,6 @@ msgstr "Quyển"
 
 #: phrasebook/phrasebook.cpp:273
 #, kde-format
-#| msgid ""
-#| "*.phrasebook|Phrase Books (*.phrasebook)\n"
-#| "*.txt|Plain Text Files (*.txt)\n"
-#| "*|All Files"
 msgid "Phrase Books (*.phrasebook);;Plain Text Files (*.txt);;All Files (*)"
 msgstr ""
 "Từ điển Thành ngữ (*.phrasebook);;Tệp Văn bản Thuần (*.txt);;Tất cả các Tệp "
@@ -410,10 +402,6 @@ msgstr ""
 
 #: phrasebook/phrasebook.cpp:275
 #, kde-format
-#| msgid ""
-#| "*.txt|Plain Text Files (*.txt)\n"
-#| "*.phrasebook|Phrase Books (*.phrasebook)\n"
-#| "*|All Files"
 msgid "Plain Text Files (*.txt);;Phrase Books (*.phrasebook);;All Files (*)"
 msgstr ""
 "Tệp Văn bản Thuần (*.txt);;Từ điển Thành ngữ (*.phrasebook);;Tất cả các Tệp "
@@ -437,8 +425,8 @@ msgstr "&Ghi đè"
 #: phrasebook/phrasebook.cpp:312
 #, kde-format
 msgid ""
-"Your chosen filename <i>%1</i> has a different extension than <i>."
-"phrasebook</i>. Do you wish to add <i>.phrasebook</i> to the filename?"
+"Your chosen filename <i>%1</i> has a different extension than "
+"<i>.phrasebook</i>. Do you wish to add <i>.phrasebook</i> to the filename?"
 msgstr ""
 "Tên tệp bạn đã chọn <i>%1</i> có đuôi khác <i>.phrasebook</i>. Bạn có thực "
 "sự muốn thêm đuôi <i>.phrasebook</i> vào tên của tệp này?"
@@ -619,12 +607,9 @@ msgstr "Nhập khẩu Từ điển Thành ngữ"
 
 #: phrasebook/phrasebookdialog.cpp:628
 #, kde-format
-#| msgid ""
-#| "*.phrasebook|Phrase Books (*.phrasebook)\n"
-#| "*.txt|Plain Text Files (*.txt)\n"
-#| "*|All Files"
 msgid "Phrase Books (*.phrasebook);Plain Text Files (*.txt);All Files (*)"
-msgstr "Sách Thành ngữ (*.phrasebook);Tệp Văn bản Thuần (*.txt);Tất cả các Tệp (*)"
+msgstr ""
+"Sách Thành ngữ (*.phrasebook);Tệp Văn bản Thuần (*.txt);Tất cả các Tệp (*)"
 
 #: phrasebook/phrasebookdialog.cpp:659 phraselist.cpp:505
 #, kde-format
@@ -642,7 +627,6 @@ msgstr "Xuất khẩu Từ điển Thành ngữ"
 
 #: phrasebook/phrasebookdialog.cpp:670
 #, kde-format
-#| msgid "&Phrase Books"
 msgid "Phrase Books (*.phrasebook)"
 msgstr "Sách Thành ngữ (*.phrasebook)"
 
@@ -761,10 +745,6 @@ msgstr "Mở Tệp Lịch sử"
 
 #: phraselist.cpp:484
 #, kde-format
-#| msgid ""
-#| "*|All Files\n"
-#| "*.phrasebook|Phrase Books (*.phrasebook)\n"
-#| "*.txt|Plain Text Files (*.txt)"
 msgid "All Files (*);;Phrase Books (*.phrasebook);;Plain Text Files (*.txt)"
 msgstr ""
 "Tất cả các Tệp (*) ;;Từ điển Thành ngữ (*.phrasebook) ;;Tệp Văn bản Thuần "
@@ -892,7 +872,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, urlLabel)
 #: texttospeechconfigurationui.ui:123
 #, kde-format
-#| msgid "C&ommand for speaking texts:"
 msgid "Command for speaking &texts:"
 msgstr "Lệnh để phá&t âm văn bản:"
 
@@ -926,7 +905,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, characterCodingLabel)
 #: texttospeechconfigurationui.ui:188
 #, kde-format
-#| msgid "Character &encoding:"
 msgid "Character encodin&g:"
 msgstr "Mã hoá kí &tự:"
 
@@ -944,7 +922,6 @@ msgstr ""
 #: wordcompletion/creationsourcedetailsui.ui:25
 #: wordcompletion/kdedocsourceui.ui:25
 #, kde-format
-#| msgid "&Compare to OpenOffice.org dictionary:"
 msgid "C&ompare to OpenOffice.org dictionary:"
 msgstr "S&o sánh với từ điển của OpenOffice.org:"
 
@@ -1130,7 +1107,6 @@ msgstr "Nguồn của Từ điển Mới (2)"
 
 #: wordcompletion/dictionarycreationwizard.cpp:79
 #, kde-format
-#| msgid "&Directory:"
 msgctxt "In which directory is the file located?"
 msgid "&Directory:"
 msgstr "T&hư mục:"
@@ -1163,7 +1139,6 @@ msgstr "Tài liệu KDE"
 
 #: wordcompletion/dictionarycreationwizard.cpp:294
 #, kde-format
-#| msgid "Default"
 msgctxt "Default dictionary"
 msgid "Default"
 msgstr "Mặc định"
@@ -1347,20 +1322,14 @@ msgid "Performing spell check..."
 msgstr "Chạy kiểm tra đánh vần..."
 
 #, fuzzy
-#~| msgid ""
-#~| "Your chosen filename <i>%1</i> has a different extension than <i>."
-#~| "phrasebook</i>. Do you wish to add <i>.phrasebook</i> to the filename?"
 #~ msgid ""
-#~ "Your chosen filename <i>%1</i> has a different extension than <i>."
-#~ "phrasebook</i>. "
+#~ "Your chosen filename <i>%1</i> has a different extension than "
+#~ "<i>.phrasebook</i>. "
 #~ msgstr ""
 #~ "Tên tệp bạn đã chọn <i>%1</i> có đuôi khác <i>.phrasebook</i>. Bạn có "
 #~ "thực sự muốn thêm đuôi <i>.phrasebook</i> vào tên của tệp này?"
 
 #, fuzzy
-#~| msgid ""
-#~| "Your chosen filename <i>%1</i> has the extension <i>.phrasebook</i>. Do "
-#~| "you wish to save in phrasebook format?"
 #~ msgid ""
 #~ "Your chosen filename <i>%1</i> has the extension <i>.phrasebook</i>. "
 #~ msgstr ""
@@ -1368,13 +1337,11 @@ msgstr "Chạy kiểm tra đánh vần..."
 #~ "lưu theo định dạng phrasebook?"
 
 #, fuzzy
-#~| msgid "Local"
 #~ msgctxt "Local characterset"
 #~ msgid "Local"
 #~ msgstr "Bản địa"
 
 #, fuzzy
-#~| msgid "Latin1"
 #~ msgctxt "Latin1 characterset"
 #~ msgid "Latin1"
 #~ msgstr "Latinh 1"
@@ -1383,17 +1350,11 @@ msgstr "Chạy kiểm tra đánh vần..."
 #~ msgstr "Unicode"
 
 #, fuzzy
-#~| msgid "Latin1"
 #~ msgctxt "Latin characterset"
 #~ msgid "Latin1"
 #~ msgstr "Latinh 1"
 
 #, fuzzy
-#~| msgid ""
-#~| "This check box specifies KMouth tries to use the KTTSD speech service "
-#~| "prior to calling the speech synthesizer directly. The KTTSD speech "
-#~| "service is a KDE daemon which gives KDE applications a standardized "
-#~| "interface for speech synthesis and is currently developed in CVS."
 #~ msgid ""
 #~ "<html><head/><body><p>This check box specifies KMouth tries to use the "
 #~ "system speech service prior to calling the speech synthesizer directly. "

@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,11 +22,14 @@ msgstr "Công cụ Lưu trữ"
 
 #. (itstool) path: description/p
 #: org.kde.ark.appdata.xml:10
-msgid "Ark is a graphical file compression/decompression utility with support for multiple formats, including tar, gzip, bzip2, rar and zip, as well as CD-ROM images. Ark can be used to browse, extract, create, and modify archives."
+msgid ""
+"Ark is a graphical file compression/decompression utility with support for "
+"multiple formats, including tar, gzip, bzip2, rar and zip, as well as CD-ROM "
+"images. Ark can be used to browse, extract, create, and modify archives."
 msgstr ""
-"Ark là tiện ích nén/giải nén tệp đồ họa hỗ trợ nhiều định dạng, bao gồm "
-"tar, gzip, bzip2, rar và zip, cũng như ảnh đĩa CD-ROM. Ark có thể dùng để "
-"duyệt, trích xuất, tạo và chỉnh sửa các tệp nén."
+"Ark là tiện ích nén/giải nén tệp đồ họa hỗ trợ nhiều định dạng, bao gồm tar, "
+"gzip, bzip2, rar và zip, cũng như ảnh đĩa CD-ROM. Ark có thể dùng để duyệt, "
+"trích xuất, tạo và chỉnh sửa các tệp nén."
 
 #. (itstool) path: description/p
 #: org.kde.ark.appdata.xml:15

@@ -88,7 +88,6 @@ msgstr "Mở thuộc tính thư mục để thay đổi thiết lập chia sẻ"
 #~ msgstr "Harald Sitter"
 
 #, fuzzy
-#~| msgid "KDE Panel System Information Control Module"
 #~ msgid "System Information Control Module"
 #~ msgstr "Khối điều khiển thông tin hệ thống bảng KDE"
 
@@ -99,7 +98,6 @@ msgstr "Mở thuộc tính thư mục để thay đổi thiết lập chia sẻ"
 #~ msgstr "Gắn vào"
 
 #, fuzzy
-#~| msgid "Accessed From"
 #~ msgctxt ""
 #~ "@title:column whether a samba share is accessible locally (i.e. mounted)"
 #~ msgid "Accessible"

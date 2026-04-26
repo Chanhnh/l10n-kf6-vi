@@ -14,14 +14,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/kcm_knote_action.json
-#, 
 msgctxt "Name"
 msgid "Actions"
 msgstr "hành động"
 
 #: src/kcm_knote_collection.json
-#, 
-#| msgid "Name=Connections"
 msgctxt "Name"
 msgid "Collections"
 msgstr "Bộ sưu tập"
@@ -32,21 +29,16 @@ msgid "Display"
 msgstr "bộ hiển thị"
 
 #: src/kcm_knote_editor.json
-#, 
-#| msgid "Name=Editors"
 msgctxt "Name"
 msgid "Editor"
 msgstr "Trình biên tập"
 
 #: src/kcm_knote_misc.json
-#, 
 msgctxt "Name"
 msgid "Misc"
 msgstr "Khác"
 
 #: src/kcm_knote_network.json
-#, 
-#| msgid "Name=Network"
 msgctxt "Name"
 msgid "Network"
 msgstr "Mạng"
@@ -57,15 +49,11 @@ msgid "Print"
 msgstr "In"
 
 #: src/kontactplugin/kcmknotessummary.json
-#, 
 msgctxt "Name"
 msgid "New Notes"
 msgstr "Ghi chú mới"
 
 #: src/kontactplugin/knotesplugin.json
-#, 
-#| msgctxt "GenericName"
-#| msgid "Popup Notes"
 msgctxt "Name"
 msgid "Popup Notes"
 msgstr "Ghi chú Bật lên"
@@ -91,13 +79,11 @@ msgid "Setup editor"
 msgstr "Thiết lập trình biên tập"
 
 #: src/kontactplugin/kcmknotessummary.json
-#, 
 msgctxt "Description"
 msgid "Notes Summary Setup"
 msgstr "Cài đặt Tóm tắt Ghi chú"
 
 #: src/kontactplugin/knotesplugin.json
-#, 
 msgctxt "Description"
 msgid "Kontact KNotes Plugin"
 msgstr "Phần cài cắm KNotes của Kontact"
@@ -113,13 +99,11 @@ msgstr "Phần cài cắm KNotes của Kontact"
 #~ msgstr "Name=Các liên kết "
 
 #, fuzzy
-#~| msgid "Name=User Agent"
 #~ msgctxt "Comment"
 #~ msgid "Notes Agent"
 #~ msgstr "Name=User Agent"
 
 #, fuzzy
-#~| msgid "Name=User Agent"
 #~ msgctxt "Name"
 #~ msgid "Notes Agent"
 #~ msgstr "Name=User Agent"

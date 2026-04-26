@@ -74,8 +74,6 @@ msgid "Palapeli Jigsaw Puzzle"
 msgstr "Trò chơi ghép hình Palapeli"
 
 #: src/palapeli.notifyrc:53
-#, 
-#| msgid "Name=File Management"
 msgctxt "Name"
 msgid "File management operations"
 msgstr "Thao tác quản lý tệp"

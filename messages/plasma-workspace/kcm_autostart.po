@@ -100,28 +100,24 @@ msgstr "Tệp '%1' phải có tính thực thi để chạy được khi đăng 
 
 #: ui/main.qml:68
 #, kde-format
-#| msgid "Add…"
 msgctxt "@action:button"
 msgid "Add…"
 msgstr "Thêm…"
 
 #: ui/main.qml:71
 #, kde-format
-#| msgid "Add Application…"
 msgctxt "@action:button"
 msgid "Add Application…"
 msgstr "Thêm ứng dụng…"
 
 #: ui/main.qml:76
 #, kde-format
-#| msgid "Add Login Script…"
 msgctxt "@action:button"
 msgid "Add Login Script…"
 msgstr "Thêm kịch bản đăng nhập…"
 
 #: ui/main.qml:81
 #, kde-format
-#| msgid "Add Logout Script…"
 msgctxt "@action:button"
 msgid "Add Logout Script…"
 msgstr "Thêm kịch bản đăng xuất…"
@@ -144,14 +140,12 @@ msgstr "Chưa tự khởi động"
 
 #: ui/main.qml:148
 #, kde-format
-#| msgid "Properties"
 msgctxt "@action:button"
 msgid "See properties"
 msgstr "Xem thuộc tính"
 
 #: ui/main.qml:159
 #, kde-format
-#| msgid "Remove"
 msgctxt "@action:button"
 msgid "Remove entry"
 msgstr "Xoá mục"
@@ -183,8 +177,6 @@ msgstr "Không có mục khởi động nào do người dùng chỉ định"
 
 #: ui/main.qml:194
 #, kde-kuit-format
-#| msgctxt "@info"
-#| msgid "Click the <interface>Add…</interface> button below to add some"
 msgctxt "@info 'some' refers to autostart items"
 msgid "Click the <interface>Add…</interface> button to add some"
 msgstr "Bấm nút <interface>Thêm…</interface> để thêm"

@@ -34,14 +34,11 @@ msgid "Address Book"
 msgstr "Sổ địa chỉ"
 
 #: src/printing/grantlee/themes/default/theme.html:35
-#, 
 msgid "Contact"
 msgstr "liên hệ"
 
 #: src/printing/grantlee/themes/default/theme.html:42
 #: src/printing/grantlee/themes/full/theme.html:42
-#, 
-#| msgid "Email"
 msgid "Emails"
 msgstr "Email"
 
@@ -77,8 +74,6 @@ msgid "Note"
 msgstr "Lưu ý"
 
 #: src/printing/grantlee/themes/full/theme.html:76
-#, 
-#| msgid "Title"
 msgid "Title"
 msgstr "tiêu đề"
 
@@ -89,8 +84,6 @@ msgid_plural "(%1 years old)"
 msgstr[0] "(%1 tuổi)"
 
 #: src/viewertemplates/contact_embedded.html:47
-#, 
-#| msgid "Email"
 msgid "Email"
 msgstr "thư điện tử"
 
@@ -131,11 +124,11 @@ msgstr "Nhóm liên hệ mới..."
 msgctxt "@info:whatsthis"
 msgid ""
 "You will be presented with a dialog where you can create a new contact group."
-msgstr "Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể tạo một nhóm liên hệ mới."
+msgstr ""
+"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể tạo một nhóm liên hệ mới."
 
 #: src/aboutdata.cpp:19
 #, kde-format
-#| msgid "The KDE Address Book"
 msgid "The KDE Address Book Application"
 msgstr "Ứng dụng Sổ địa chỉ KDE"
 
@@ -315,14 +308,12 @@ msgstr "%1 trong số %2"
 
 #: src/importexport/contactfields.cpp:20
 #, kde-format
-#| msgid "Undefined"
 msgctxt "@item Undefined import field type"
 msgid "Undefined"
 msgstr "Chưa định nghĩa"
 
 #: src/importexport/contactfields.cpp:39
 #, kde-format
-#| msgid "Anniversary"
 msgctxt "The wedding anniversary of a contact"
 msgid "Anniversary"
 msgstr "Kỉ niệm"
@@ -335,21 +326,18 @@ msgstr "Thư điện tử (ưu tiên)"
 
 #: src/importexport/contactfields.cpp:87
 #, kde-format
-#| msgid "Email"
 msgctxt "Second email address"
 msgid "EMail (2)"
 msgstr "Thư điện tử (2)"
 
 #: src/importexport/contactfields.cpp:89
 #, kde-format
-#| msgid "Email"
 msgctxt "Third email address"
 msgid "EMail (3)"
 msgstr "Thư điện tử (3)"
 
 #: src/importexport/contactfields.cpp:91
 #, kde-format
-#| msgid "Email"
 msgctxt "Fourth email address"
 msgid "EMail (4)"
 msgstr "Thư điện tử (4)"
@@ -366,13 +354,11 @@ msgstr "Văn phòng"
 
 #: src/importexport/contactfields.cpp:111
 #, kde-format
-#| msgid "Myanmar"
 msgid "Manager"
 msgstr "Quản lý"
 
 #: src/importexport/contactfields.cpp:113
 #, kde-format
-#| msgid "Assistant's Name"
 msgid "Assistant"
 msgstr "trợ tá"
 
@@ -563,8 +549,8 @@ msgid ""
 "Check this box if you want to export the contact's business fields to the "
 "vCard output file."
 msgstr ""
-"Chọn hộp này nếu bạn muốn xuất khẩu các trường công việc của liên hệ vào "
-"tệp đầu ra vCard."
+"Chọn hộp này nếu bạn muốn xuất khẩu các trường công việc của liên hệ vào tệp "
+"đầu ra vCard."
 
 #: src/importexport/exportselectionwidget.cpp:48
 #, kde-format
@@ -632,9 +618,9 @@ msgid ""
 "vCard's full name field.  This may be required to get the name shown "
 "correctly in GMail or Android."
 msgstr ""
-"Đánh dấu vào ô này nếu bạn muốn xuất tên hiển thị của liên hệ vào trường "
-"tên đầy đủ của vCard. Điều này có thể cần thiết để tên được hiển thị chính "
-"xác trong GMail hoặc Android."
+"Đánh dấu vào ô này nếu bạn muốn xuất tên hiển thị của liên hệ vào trường tên "
+"đầy đủ của vCard. Điều này có thể cần thiết để tên được hiển thị chính xác "
+"trong GMail hoặc Android."
 
 #: src/importexport/importexportengine.cpp:58
 #, kde-format
@@ -847,8 +833,8 @@ msgid ""
 "You will be presented with a dialog where you can configure the application-"
 "wide shortcuts."
 msgstr ""
-"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể cấu hình các phím tắt "
-"toàn ứng dụng."
+"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể cấu hình các phím tắt toàn "
+"ứng dụng."
 
 #: src/mainwindow.cpp:210
 #, kde-format
@@ -856,8 +842,8 @@ msgid ""
 "<qt>This will hide the menu bar completely. You can show it again by typing "
 "%1.</qt>"
 msgstr ""
-"<qt>Thao tác này sẽ ẩn hoàn toàn thanh trình đơn. Bạn có thể hiển thị lại "
-"nó bằng cách gõ %1.</qt>"
+"<qt>Thao tác này sẽ ẩn hoàn toàn thanh trình đơn. Bạn có thể hiển thị lại nó "
+"bằng cách gõ %1.</qt>"
 
 #: src/mainwindow.cpp:213
 #, kde-format
@@ -907,13 +893,11 @@ msgstr "Thư điện tử ưa thích"
 
 #: src/modelcolumnmanager.cpp:102
 #, kde-format
-#| msgid "Email"
 msgid "All EMails"
 msgstr "Tất cả Email"
 
 #: src/printing/compact/compactstyle.cpp:113
 #, kde-format
-#| msgid "Company"
 msgid "Compact Style"
 msgstr "Kiểu cách Gọn gàng"
 
@@ -975,7 +959,6 @@ msgstr "In địa chỉ nhà, số điện thoại nhà và số điện thoại
 #. i18n: ectx: property (text), widget (QCheckBox, cbWithHomeAddress)
 #: src/printing/compact/compactstyle.ui:49
 #, kde-format
-#| msgid "Home Address"
 msgid "with home address"
 msgstr "với địa chỉ nhà"
 
@@ -1391,9 +1374,10 @@ msgid ""
 "KAddressBook has several printing styles, designed for different purposes.\n"
 "Choose the style that suits your needs below."
 msgstr ""
-"Bản in nên trông như thế nào?\nKAddressBook có nhiều kiểu cách in khác "
-"nhau, được thiết kế cho các mục đích khác nhau.\nChọn kiểu cách phù hợp với "
-"nhu cầu của bạn bên dưới."
+"Bản in nên trông như thế nào?\n"
+"KAddressBook có nhiều kiểu cách in khác nhau, được thiết kế cho các mục đích "
+"khác nhau.\n"
+"Chọn kiểu cách phù hợp với nhu cầu của bạn bên dưới."
 
 #: src/printing/stylepage.cpp:121
 #, kde-format
@@ -1466,7 +1450,8 @@ msgstr "Chọn kiểu cách in"
 msgctxt "@info:whatsthis"
 msgid ""
 "Choose your desired printing style. See the preview image to help you decide."
-msgstr "Chọn kiểu in mong muốn của bạn. Xem ảnh xem thử để giúp bạn quyết định."
+msgstr ""
+"Chọn kiểu in mong muốn của bạn. Xem ảnh xem thử để giúp bạn quyết định."
 
 #: src/widgets/quicksearchwidget.cpp:31
 #, kde-format

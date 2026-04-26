@@ -19,17 +19,11 @@ msgstr ""
 "X-Generator: LocFactoryEditor 1.6.4a6\n"
 
 #: krfb/krfb.notifyrc:3 krfb/org.kde.krfb.desktop:118
-#, 
-#| msgctxt "Name"
-#| msgid "Desktop Sharing"
 msgctxt "Comment"
 msgid "Desktop Sharing"
 msgstr "Chia sẻ màn hình"
 
 #: krfb/krfb.notifyrc:77
-#, 
-#| msgctxt "GenericName"
-#| msgid "Remote Desktop Connection"
 msgctxt "Name"
 msgid "User Accepts Connection"
 msgstr "Người dùng chấp nhận kết nối"
@@ -40,9 +34,6 @@ msgid "User accepts connection"
 msgstr "Người dùng chấp nhận kết nối"
 
 #: krfb/krfb.notifyrc:213
-#, 
-#| msgctxt "GenericName"
-#| msgid "Remote Desktop Connection"
 msgctxt "Name"
 msgid "User Refuses Connection"
 msgstr "Người dùng từ chối kết nối"
@@ -53,17 +44,11 @@ msgid "User refuses connection"
 msgstr "Người dùng từ chối kết nối"
 
 #: krfb/krfb.notifyrc:349
-#, 
-#| msgctxt "Name"
-#| msgid "Connection Status"
 msgctxt "Name"
 msgid "Connection Closed"
 msgstr "Kết nối đã đóng"
 
 #: krfb/krfb.notifyrc:413
-#, 
-#| msgctxt "Name"
-#| msgid "Connection Status"
 msgctxt "Comment"
 msgid "Connection closed"
 msgstr "Kết nối đã đóng"
@@ -119,9 +104,6 @@ msgid "Busy, connection refused"
 msgstr "Bận, kết nối bị từ chối"
 
 #: krfb/krfb.notifyrc:1175
-#, 
-#| msgctxt "GenericName"
-#| msgid "Remote Desktop Connection"
 msgctxt "Name"
 msgid "Unexpected Connection"
 msgstr "Kết nối bất ngờ"
@@ -137,9 +119,6 @@ msgid "Krfb"
 msgstr "Krfb"
 
 #: krfb/org.kde.krfb.desktop:79
-#, 
-#| msgctxt "GenericName"
-#| msgid "Desktop Sharing"
 msgctxt "GenericName"
 msgid "Desktop Sharing (VNC)"
 msgstr "Chia sẻ Desktop (VNC)"
@@ -155,15 +134,11 @@ msgid "Remote Virtual Monitor"
 msgstr "Màn hình ảo từ xa"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Transfer plugin for KGet"
 #~ msgctxt "Comment"
 #~ msgid "Event plugins for KRfb"
 #~ msgstr "Phần bổ sung truyền cho KGet"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Transfer plugin for KGet"
 #~ msgctxt "Comment"
 #~ msgid "Frame Buffer plugins for KRfb"
 #~ msgstr "Phần bổ sung truyền cho KGet"

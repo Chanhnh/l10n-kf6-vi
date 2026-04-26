@@ -427,7 +427,6 @@ msgstr "Vui lòng chọn tên cho ví mới:"
 
 #: kwalletmanager.cpp:327
 #, kde-format
-#| msgid "New Wallet"
 msgctxt "@title:window"
 msgid "New Wallet"
 msgstr "Ví mới"
@@ -578,20 +577,17 @@ msgstr "Bản quyền ©2013–2017, các tác giả trình quản lí ví KDE"
 
 #: main.cpp:35
 #, kde-format
-#| msgid "Valentin Rusu"
 msgctxt "@info:credit"
 msgid "Valentin Rusu"
 msgstr "Valentin Rusu"
 
 #: main.cpp:35
 #, kde-format
-#| msgid "Maintainer, user interface refactoring"
 msgid "Former Maintainer, user interface refactoring"
 msgstr "Cựu bảo trì viên, cấu trúc lại giao diện người dùng"
 
 #: main.cpp:36
 #, kde-format
-#| msgid "George Staikos"
 msgctxt "@info:credit"
 msgid "George Staikos"
 msgstr "George Staikos"
@@ -603,7 +599,6 @@ msgstr "Tác giả gốc và bảo trì viên trước đây"
 
 #: main.cpp:37
 #, kde-format
-#| msgid "Michael Leupold"
 msgctxt "@info:credit"
 msgid "Michael Leupold"
 msgstr "Michael Leupold"
@@ -615,7 +610,6 @@ msgstr "Nhà phát triển và bảo trì viên trước đây"
 
 #: main.cpp:38
 #, kde-format
-#| msgid "Isaac Clerencia"
 msgctxt "@info:credit"
 msgid "Isaac Clerencia"
 msgstr "Isaac Clerencia"
@@ -652,10 +646,6 @@ msgstr "Đón&g"
 
 #: walletcontrolwidget.cpp:73
 #, kde-format
-#| msgctxt ""
-#| "the 'kdewallet' is currently open (e.g. %1 will be replaced with current "
-#| "wallet name)"
-#| msgid "The '%1' wallet is currently open"
 msgctxt ""
 "the 'kdewallet' is currently open (e.g. %1 will be replaced with current "
 "wallet name)"
@@ -664,7 +654,6 @@ msgstr "Ví '%1' hiện đang mở."
 
 #: walletcontrolwidget.cpp:90
 #, kde-format
-#| msgid "The wallet is currently closed"
 msgid "The wallet is currently closed."
 msgstr "Ví hiện đang đóng."
 

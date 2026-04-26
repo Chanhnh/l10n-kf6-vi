@@ -39,8 +39,7 @@ msgstr "&Thực thi lệnh hệ vỏ..."
 msgid ""
 "KShellCmdPlugin::slotExecuteShellCommand: Program error, please report a bug."
 msgstr ""
-"Lỗi chương trình KShellCmdPlugin::slotExecuteShellCommand, vui lòng báo "
-"lỗi."
+"Lỗi chương trình KShellCmdPlugin::slotExecuteShellCommand, vui lòng báo lỗi."
 
 #: kshellcmdplugin.cpp:51
 #, kde-format
@@ -49,7 +48,6 @@ msgstr "Thực thi lệnh hệ vỏ chỉ làm việc trên các thư mục trê
 
 #: kshellcmdplugin.cpp:73
 #, kde-format
-#| msgid "Execute Shell Command"
 msgctxt "@title:window"
 msgid "Execute Shell Command"
 msgstr "Thực thi lệnh hệ vỏ"

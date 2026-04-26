@@ -34,7 +34,6 @@ msgid "Use the default window background color."
 msgstr "Sử dụng màu nền cửa sổ mặc định."
 
 #: backgrounds/default.desktop:2 tilesets/default.desktop:2
-#, 
 msgctxt "Name"
 msgid "Default"
 msgstr "Mặc định"
@@ -93,11 +92,10 @@ msgstr "Tre"
 msgctxt "Description"
 msgid "Japanese tileset with brightly-colored kanji on a soft woodgrain"
 msgstr ""
-"Bộ gạch lát kiểu Nhật Bản với các ký tự kanji màu sắc rực rỡ trên nền vân "
-"gỗ mềm mại"
+"Bộ gạch lát kiểu Nhật Bản với các ký tự kanji màu sắc rực rỡ trên nền vân gỗ "
+"mềm mại"
 
 #: tilesets/classic.desktop:2
-#, 
 msgctxt "Name"
 msgid "Classic"
 msgstr "Cổ điển"
@@ -106,8 +104,8 @@ msgstr "Cổ điển"
 msgctxt "Description"
 msgid "Chinese tileset, inspired by the classic version shipped with KDE 3"
 msgstr ""
-"Bộ gạch lát kiểu Trung Quốc, lấy cảm hứng từ phiên bản cổ điển được giao "
-"kèm với KDE 3"
+"Bộ gạch lát kiểu Trung Quốc, lấy cảm hứng từ phiên bản cổ điển được giao kèm "
+"với KDE 3"
 
 #: tilesets/default.desktop:68
 msgctxt "Description"
@@ -115,9 +113,6 @@ msgid "Art inspired by real Japanese Mahjongg tiles"
 msgstr "Nghệ thuật lấy cảm hứng từ các quân bài Mahjongg Nhật Bản thực tế"
 
 #: tilesets/egypt.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Penguins"
 msgctxt "Name"
 msgid "Ancient Egyptians"
 msgstr "Người Ai Cập cổ đại"

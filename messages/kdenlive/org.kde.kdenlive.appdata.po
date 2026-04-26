@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,13 +22,18 @@ msgstr "Trình biên tập phim"
 
 #. (itstool) path: description/p
 #: org.kde.kdenlive.appdata.xml:14
-msgid "Kdenlive is a video editing application with support for many audio and video formats. It offers advanced editing features, a variety of effects and transitions, color correction, audio post-production and subtitling tools. Additionally, it provides the flexibility to render into practically any format of your choice."
+msgid ""
+"Kdenlive is a video editing application with support for many audio and "
+"video formats. It offers advanced editing features, a variety of effects and "
+"transitions, color correction, audio post-production and subtitling tools. "
+"Additionally, it provides the flexibility to render into practically any "
+"format of your choice."
 msgstr ""
 "Kdenlive là một ứng dụng chỉnh sửa phim với hỗ trợ nhiều định dạng âm thanh "
-"và hình ảnh. Nó cung cấp các tính năng chỉnh sửa nâng cao, nhiều hiệu ứng "
-"và chuyển tiếp, hiệu chỉnh màu sắc, hậu kỳ âm thanh và công cụ phụ đề. "
-"Ngoài ra, nó cung cấp sự linh hoạt để kết xuất vào bất kỳ định dạng nào mà "
-"bạn lựa chọn."
+"và hình ảnh. Nó cung cấp các tính năng chỉnh sửa nâng cao, nhiều hiệu ứng và "
+"chuyển tiếp, hiệu chỉnh màu sắc, hậu kỳ âm thanh và công cụ phụ đề. Ngoài "
+"ra, nó cung cấp sự linh hoạt để kết xuất vào bất kỳ định dạng nào mà bạn lựa "
+"chọn."
 
 #. (itstool) path: description/p
 #: org.kde.kdenlive.appdata.xml:15
@@ -48,8 +54,8 @@ msgstr "Giao diện và phím tắt có thể cấu hình"
 #: org.kde.kdenlive.appdata.xml:19
 msgid "Scopes: Histogram, Vectorscope, RGB Parade, Waveform and Audio Meter"
 msgstr ""
-"Phạm vi: Biểu đồ tần suất, Biểu đồ véc-tơ, Biểu đồ RGB, Sóng hình và Đồng "
-"hồ âm thanh"
+"Phạm vi: Biểu đồ tần suất, Biểu đồ véc-tơ, Biểu đồ RGB, Sóng hình và Đồng hồ "
+"âm thanh"
 
 #. (itstool) path: ul/li
 #: org.kde.kdenlive.appdata.xml:20

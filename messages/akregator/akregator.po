@@ -34,10 +34,10 @@ msgid ""
 "checking all your favorite web sites manually for updates, Akregator "
 "collects the content for you."
 msgstr ""
-"Trình đọc nguồn cấp dữ liệu cung cấp một cách tiện lợi để duyệt các loại "
-"nội dung khác nhau, bao gồm tin tức, blog và các nội dung khác từ các trang "
-"web trực tuyến. Thay vì kiểm tra thủ công tất cả các trang web yêu thích "
-"của bạn để cập nhật, Akregator sẽ thu thập nội dung cho bạn."
+"Trình đọc nguồn cấp dữ liệu cung cấp một cách tiện lợi để duyệt các loại nội "
+"dung khác nhau, bao gồm tin tức, blog và các nội dung khác từ các trang web "
+"trực tuyến. Thay vì kiểm tra thủ công tất cả các trang web yêu thích của bạn "
+"để cập nhật, Akregator sẽ thu thập nội dung cho bạn."
 
 #: src/about/introduction_akregator.html:19
 msgid ""
@@ -46,57 +46,42 @@ msgid ""
 "want to see this page anymore, <a href='config:/disable_introduction'>click "
 "here</a>."
 msgstr ""
-"Để biết thêm thông tin về cách sử dụng Akregator, hãy xem <a "
-"href='https://kontact.kde.org/components/akregator/'>trang web "
-"Akregator</a>. Nếu bạn không muốn thấy trang này nữa, <a "
-"href='config:/disable_introduction'>nhấp vào đây</a>."
+"Để biết thêm thông tin về cách sử dụng Akregator, hãy xem <a href='https://"
+"kontact.kde.org/components/akregator/'>trang web Akregator</a>. Nếu bạn "
+"không muốn thấy trang này nữa, <a href='config:/disable_introduction'>nhấp "
+"vào đây</a>."
 
 #: src/formatter/html/combinedview.html:24
-#, 
-#| msgid "&Mark Feed as Read"
 msgid "Mark as Read"
 msgstr "Đánh dấu đã đọc"
 
 #: src/formatter/html/combinedview.html:27
-#, 
-#| msgid "Mark selected article as unread"
 msgid "Mark as Unread"
 msgstr "Đánh dấu chưa đọc"
 
 #: src/formatter/html/combinedview.html:31
-#, 
-#| msgid "Remove &Important Mark"
 msgid "Remove Important Status"
 msgstr "Xoá dấu quan trọng"
 
 #: src/formatter/html/combinedview.html:33
-#, 
-#| msgid "&Mark as Important"
 msgid "Mark as Important"
 msgstr "Đánh dấu là quan trọng"
 
 #: src/formatter/html/combinedview.html:35
-#, 
-#| msgid "Open Link in External &Browser"
 msgid "Open Link in External Browser"
 msgstr "Mở liên kết trong trình duyệt ngoài"
 
 #: src/formatter/html/combinedview.html:36
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:110
 #, kde-format
-#| msgid "Open in Background Tab"
 msgid "Open In Background Tab"
 msgstr "Mở trong thẻ nền"
 
 #: src/formatter/html/combinedview.html:37
-#, 
-#| msgid "Send &Link Address..."
 msgid "Send File Address"
 msgstr "Gửi địa chỉ tệp"
 
 #: src/formatter/html/combinedview.html:38
-#, 
-#| msgid "Send &Link Address..."
 msgid "Send Link Address"
 msgstr "Gửi địa chỉ liên kết"
 
@@ -136,7 +121,6 @@ msgstr[0] " phút"
 
 #: configuration/akregatorconfigurepluginlistwidget.cpp:51
 #, kde-format
-#| msgid "Configure Feeds"
 msgid "Webengine Plugins"
 msgstr "Trình bổ sung Webengine"
 
@@ -246,7 +230,6 @@ msgstr "Thiết lập lưu trữ mặc định"
 #. i18n: ectx: property (text), widget (QRadioButton, rb_DisableArchiving)
 #: configuration/ui/settings_archive.ui:36
 #, kde-format
-#| msgid "Disable archiving"
 msgid "Disa&ble archiving"
 msgstr "Tắt lư&u trữ"
 
@@ -261,7 +244,6 @@ msgstr "G&iữ tất cả bài viết"
 #. i18n: ectx: property (text), widget (QRadioButton, rb_LimitArticleNumber)
 #: configuration/ui/settings_archive.ui:64
 #, kde-format
-#| msgid "Limit feed archive size to:"
 msgid "Limit feed archi&ve size to:"
 msgstr "Giới hạn kích thước kho trữ n&guồn tin:"
 
@@ -331,14 +313,12 @@ msgstr "firefox %u"
 #. i18n: ectx: property (text), widget (QRadioButton, kcfg_ExternalBrowserUseCustomCommand)
 #: configuration/ui/settings_browser.ui:90
 #, kde-format
-#| msgid "Use this command:"
 msgid "Use &this command:"
 msgstr "Sử dụng &lệnh này:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, kcfg_ExternalBrowserUseKdeDefault)
 #: configuration/ui/settings_browser.ui:97
 #, kde-format
-#| msgid "Use default web browser"
 msgid "Use default web &browser"
 msgstr "Sử dụng trình duyệt we&b mặc định"
 
@@ -415,7 +395,6 @@ msgstr "Hiện biểu tượng &khay hệ thống"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowUnreadInTaskbar)
 #: configuration/ui/settings_general.ui:43
 #, kde-format
-#| msgid " (no unread articles)"
 msgid "Show unread articles in Taskbar"
 msgstr "Hiển thị các bài viết chưa đọc trên thanh tác vụ"
 
@@ -423,7 +402,6 @@ msgstr "Hiển thị các bài viết chưa đọc trên thanh tác vụ"
 #. i18n: ectx: label, entry, group (View)
 #: configuration/ui/settings_general.ui:50 interfaces/akregator.kcfg:9
 #, kde-format
-#| msgid " (no unread articles)"
 msgid "Hide feeds with no unread articles"
 msgstr "Ẩn nguồn cấp dữ liệu không có bài viết chưa đọc"
 
@@ -437,7 +415,6 @@ msgstr "Khóa nguồn tin tại vị trí"
 #. i18n: ectx: whatsthis, entry, group (View)
 #: configuration/ui/settings_general.ui:64 interfaces/akregator.kcfg:27
 #, kde-format
-#| msgid " (no unread articles)"
 msgid "Auto-expand folders containing unread articles"
 msgstr "Tự động mở rộng các thư mục chứa các bài viết chưa đọc"
 
@@ -521,9 +498,9 @@ msgid ""
 "This may allow websites or third parties to observe the articles that you "
 "have viewed."
 msgstr ""
-"Cho phép xem thử bài viết tải các tham chiếu bên ngoài từ Internet. Điều "
-"này có thể cho phép các trang web hoặc bên thứ ba quan sát các bài viết mà "
-"bạn đã xem."
+"Cho phép xem thử bài viết tải các tham chiếu bên ngoài từ Internet. Điều này "
+"có thể cho phép các trang web hoặc bên thứ ba quan sát các bài viết mà bạn "
+"đã xem."
 
 #: export/akregatorstorageexporter.cpp:280
 #, kde-format
@@ -533,7 +510,6 @@ msgstr "Xuất khẩu Akregator cho %1"
 #. i18n: ectx: whatsthis, entry, group (View)
 #: interfaces/akregator.kcfg:10
 #, kde-format
-#| msgid " (no unread articles)"
 msgid "Hides feeds with no unread articles"
 msgstr "Ẩn nguồn cấp dữ liệu không có bài viết chưa đọc"
 
@@ -552,7 +528,6 @@ msgstr "Khóa nguồn cấp dữ liệu ở vị trí hiện tại"
 #. i18n: ectx: label, entry, group (View)
 #: interfaces/akregator.kcfg:26
 #, kde-format
-#| msgid " (no unread articles)"
 msgid "Auto-Expand folders with unread articles"
 msgstr "Tự động mở rộng các thư mục có bài viết chưa đọc"
 
@@ -843,9 +818,9 @@ msgstr "Hiển thị tin chưa đọc trên thanh tác vụ"
 #. i18n: ectx: whatsthis, entry, group (General)
 #: interfaces/akregator.kcfg:183
 #, kde-format
-#| msgid " (no unread articles)"
 msgid "Specifies if we show unread article in taskbar."
-msgstr "Xác định xem có hiển thị bài viết chưa đọc trong thanh tác vụ hay không."
+msgstr ""
+"Xác định xem có hiển thị bài viết chưa đọc trong thanh tác vụ hay không."
 
 #. i18n: ectx: whatsthis, entry, group (Browser)
 #: interfaces/akregator.kcfg:200
@@ -902,7 +877,6 @@ msgstr "Sử dụng lệnh đã chỉ định khi mở trình duyệt ngoài."
 #. i18n: ectx: whatsthis, entry, group (Browser)
 #: interfaces/akregator.kcfg:224
 #, no-c-format, kde-format
-#| msgid "Command to launch external browser.  URL will substitute for %u."
 msgid "Command to launch external browser. URL will substitute for %u."
 msgstr "Lệnh để khởi chạy trình duyệt ngoài. URL sẽ được thay cho %u."
 
@@ -960,7 +934,6 @@ msgstr "Akregator"
 
 #: kontactplugin/akregator_plugin.cpp:29
 #, kde-format
-#| msgid "&Add Feed..."
 msgctxt "@action:inmenu"
 msgid "New Feed..."
 msgstr "Nguồn tin mới..."
@@ -976,8 +949,8 @@ msgstr "Tạo một nguồn cấp dữ liệu mới"
 msgctxt "@info:whatsthis"
 msgid "You will be presented with a dialog where you can add a new feed."
 msgstr ""
-"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể thêm một nguồn cấp dữ "
-"liệu mới."
+"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể thêm một nguồn cấp dữ liệu "
+"mới."
 
 #: src/aboutdata.cpp:21
 #, kde-format
@@ -986,7 +959,6 @@ msgstr "Một trình đọc tin của KDE"
 
 #: src/aboutdata.cpp:23
 #, kde-format
-#| msgid "Copyright © 2004–2010 Akregator authors"
 msgid "Copyright © 2004–%1 Akregator authors"
 msgstr "Bản quyền © 2004–%1 các tác giả Akregator"
 
@@ -1003,20 +975,17 @@ msgstr "Người duy trì"
 
 #: src/aboutdata.cpp:28
 #, kde-format
-#| msgid "Frank Osterfeld"
 msgctxt "@info:credit"
 msgid "Frank Osterfeld"
 msgstr "Frank Osterfeld"
 
 #: src/aboutdata.cpp:28
 #, kde-format
-#| msgid "Maintainer"
 msgid "Former maintainer"
 msgstr "Người bảo trì trước đây"
 
 #: src/aboutdata.cpp:29
 #, kde-format
-#| msgid "Teemu Rytilahti"
 msgctxt "@info:credit"
 msgid "Teemu Rytilahti"
 msgstr "Teemu Rytilahti"
@@ -1029,28 +998,24 @@ msgstr "Nhà phát triển"
 
 #: src/aboutdata.cpp:30
 #, kde-format
-#| msgid "Sashmit Bhaduri"
 msgctxt "@info:credit"
 msgid "Sashmit Bhaduri"
 msgstr "Sashmit Bhaduri"
 
 #: src/aboutdata.cpp:31
 #, kde-format
-#| msgid "Pierre Habouzit"
 msgctxt "@info:credit"
 msgid "Pierre Habouzit"
 msgstr "Pierre Habouzit"
 
 #: src/aboutdata.cpp:32
 #, kde-format
-#| msgid "Stanislav Karchebny"
 msgctxt "@info:credit"
 msgid "Stanislav Karchebny"
 msgstr "Stanislav Karchebny"
 
 #: src/aboutdata.cpp:33
 #, kde-format
-#| msgid "Gary Cramblitt"
 msgctxt "@info:credit"
 msgid "Gary Cramblitt"
 msgstr "Gary Cramblitt"
@@ -1062,21 +1027,18 @@ msgstr "Người đóng góp"
 
 #: src/aboutdata.cpp:34
 #, kde-format
-#| msgid "Stephan Binner"
 msgctxt "@info:credit"
 msgid "Stephan Binner"
 msgstr "Stephan Binner"
 
 #: src/aboutdata.cpp:35
 #, kde-format
-#| msgid "Christof Musik"
 msgctxt "@info:credit"
 msgid "Christof Musik"
 msgstr "Christof Musik"
 
 #: src/aboutdata.cpp:36
 #, kde-format
-#| msgid "Anne-Marie Mahfouf"
 msgctxt "@info:credit"
 msgid "Anne-Marie Mahfouf"
 msgstr "Anne-Marie Mahfouf"
@@ -1088,7 +1050,6 @@ msgstr "Sổ tay"
 
 #: src/aboutdata.cpp:37
 #, kde-format
-#| msgid "Frerich Raabe"
 msgctxt "@info:credit"
 msgid "Frerich Raabe"
 msgstr "Frerich Raabe"
@@ -1100,7 +1061,6 @@ msgstr "Tác giả librss"
 
 #: src/aboutdata.cpp:38
 #, kde-format
-#| msgid "Eckhart Woerner"
 msgctxt "@info:credit"
 msgid "Eckhart Woerner"
 msgstr "Eckhart Woerner"
@@ -1112,7 +1072,6 @@ msgstr "Quản lí theo dõi lỗi, cải thiện khả năng sử dụng"
 
 #: src/aboutdata.cpp:39
 #, kde-format
-#| msgid "Heinrich Wendel"
 msgctxt "@info:credit"
 msgid "Heinrich Wendel"
 msgstr "Heinrich Wendel"
@@ -1124,7 +1083,6 @@ msgstr "Rất nhiều sửa lỗi"
 
 #: src/aboutdata.cpp:40
 #, kde-format
-#| msgid "Eike Hein"
 msgctxt "@info:credit"
 msgid "Eike Hein"
 msgstr "Eike Hein"
@@ -1136,7 +1094,6 @@ msgstr "Tính năng 'đánh dấu đã đọc trễ'"
 
 #: src/aboutdata.cpp:41
 #, kde-format
-#| msgid "Marcel Dierkes"
 msgctxt "@info:credit"
 msgid "Marcel Dierkes"
 msgstr "Marcel Dierkes"
@@ -1148,7 +1105,6 @@ msgstr "Biểu tượng"
 
 #: src/aboutdata.cpp:42
 #, kde-format
-#| msgid "George Staikos"
 msgctxt "@info:credit"
 msgid "George Staikos"
 msgstr "George Staikos"
@@ -1160,7 +1116,6 @@ msgstr "Mất ngủ"
 
 #: src/aboutdata.cpp:43
 #, kde-format
-#| msgid "Philipp Droessler"
 msgctxt "@info:credit"
 msgid "Philipp Droessler"
 msgstr "Philipp Droessler"
@@ -1182,7 +1137,6 @@ msgstr "&Xoá nguồn tin"
 
 #: src/actions/actionmanagerimpl.cpp:66 src/actions/actionmanagerimpl.cpp:249
 #, kde-format
-#| msgid "&Edit Feed..."
 msgid "&Edit Feed…"
 msgstr "Sửa n&guồn tin..."
 
@@ -1213,19 +1167,16 @@ msgstr "Đánh &dấu đã đọc nguồn tin"
 
 #: src/actions/actionmanagerimpl.cpp:191
 #, kde-format
-#| msgid "&Import Feeds..."
 msgid "&Import Feeds…"
 msgstr "Nhập khẩu N&guồn tin..."
 
 #: src/actions/actionmanagerimpl.cpp:195
 #, kde-format
-#| msgid "&Export Feeds..."
 msgid "&Export Feeds…"
 msgstr "Xuấ&t khẩu Nguồn tin..."
 
 #: src/actions/actionmanagerimpl.cpp:200
 #, kde-format
-#| msgid "&Configure Akregator..."
 msgid "&Configure Akregator…"
 msgstr "&Cấu hình Akregator..."
 
@@ -1241,13 +1192,11 @@ msgstr "Tải lại tất cả thẻ"
 
 #: src/actions/actionmanagerimpl.cpp:231
 #, kde-format
-#| msgid "Add Feed"
 msgid "&Add Feed…"
 msgstr "Thêm &nguồn tin..."
 
 #: src/actions/actionmanagerimpl.cpp:237
 #, kde-format
-#| msgid "Ne&w Folder..."
 msgid "Ne&w Folder…"
 msgstr "Thư &mục mới..."
 
@@ -1314,7 +1263,6 @@ msgstr "Đã đọ&c"
 
 #: src/actions/actionmanagerimpl.cpp:371
 #, kde-format
-#| msgid "Mark selected article as read"
 msgctxt "@info:tooltip"
 msgid "Mark selected article as read"
 msgstr "Đánh dấu bài viết đã chọn là đã đọc"
@@ -1327,7 +1275,6 @@ msgstr "&Mới"
 
 #: src/actions/actionmanagerimpl.cpp:380
 #, kde-format
-#| msgid "Mark selected article as new"
 msgctxt "@info:tooltip"
 msgid "Mark selected article as new"
 msgstr "Đánh dấu bài viết đã chọn là mới"
@@ -1340,7 +1287,6 @@ msgstr "&Chưa đọc"
 
 #: src/actions/actionmanagerimpl.cpp:387
 #, kde-format
-#| msgid "Mark selected article as unread"
 msgctxt "@info:tooltip"
 msgid "Mark selected article as unread"
 msgstr "Đánh dấu bài viết đã chọn là chưa đọc"
@@ -1352,7 +1298,6 @@ msgstr "Đánh dấu &quan trọng"
 
 #: src/actions/actionmanagerimpl.cpp:397
 #, kde-format
-#| msgid "Remove &Important Mark"
 msgctxt "@action:button"
 msgid "Remove &Important Mark"
 msgstr "Xoá dấu qua&n trọng"
@@ -1379,13 +1324,11 @@ msgstr "Di chuyển nút sang phải"
 
 #: src/actions/actionmanagerimpl.cpp:422
 #, kde-format
-#| msgid "Send &Link Address..."
 msgid "Send &Link Address…"
 msgstr "Gửi địa chỉ &liên kết..."
 
 #: src/actions/actionmanagerimpl.cpp:427
 #, kde-format
-#| msgid "Send &File..."
 msgid "Send &File…"
 msgstr "Gử&i tệp..."
 
@@ -1457,7 +1400,6 @@ msgstr "Đi xuống trong cây"
 
 #: src/actions/actionmanagerimpl.cpp:538
 #, kde-format
-#| msgid "N&ext Unread Feed"
 msgid "Hide Read Feeds"
 msgstr "Ẩn nguồn tin đã đọc"
 
@@ -1468,7 +1410,6 @@ msgstr "Khóa Feeds tại Địa điểm"
 
 #: src/actions/actionmanagerimpl.cpp:550
 #, kde-format
-#| msgid " (no unread articles)"
 msgid "Auto-expand folders with unread articles"
 msgstr "Tự động mở rộng các thư mục có bài viết chưa đọc"
 
@@ -1521,7 +1462,6 @@ msgstr "Kích hoạt Thẻ %1"
 
 #: src/actions/actionmanagerimpl.cpp:633
 #, kde-format
-#| msgid "&Save Link As..."
 msgid "&Save Link As…"
 msgstr "Lưu liên kế&t dưới tên..."
 
@@ -1554,7 +1494,6 @@ msgstr "Mở liên kết trong trình duyệt &ngoài"
 
 #: src/addfeeddialog.cpp:49
 #, kde-format
-#| msgid "Add Feed"
 msgctxt "@title:window"
 msgid "Add Feed"
 msgstr "Thêm nguồn tin"
@@ -1571,27 +1510,23 @@ msgstr "Không tìm thấy tin từ %1."
 
 #: src/addfeeddialog.cpp:121
 #, kde-format
-#| msgid "Feed found, downloading..."
 msgid "Feed found, downloading…"
 msgstr "Đã tìm thấy nguồn tin, đang tải..."
 
 #: src/akregator_options.h:20 src/akregator_options.h:28
 #, kde-format
-#| msgid "Add a feed with the given URL"
 msgctxt "@info:shell"
 msgid "Add a feed with the given URL"
 msgstr "Thêm một nguồn tin với URL được cung cấp"
 
 #: src/akregator_options.h:23
 #, kde-format
-#| msgid "When adding feeds, place them in this group"
 msgctxt "@info:shell"
 msgid "When adding feeds, place them in this group"
 msgstr "Khi thêm nguồn tin, hãy đặt chúng vào nhóm này"
 
 #: src/akregator_options.h:25
 #, kde-format
-#| msgid "Hide main window on startup"
 msgctxt "@info:shell"
 msgid "Hide main window on startup"
 msgstr "Ẩn cửa sổ chính khi khởi động"
@@ -1658,7 +1593,6 @@ msgstr "Không thể nhập tệp %1 (không có OPML hợp lệ)"
 
 #: src/akregator_part.cpp:464 src/command/loadfeedlistcommand.cpp:71
 #, kde-format
-#| msgid "OPML Parsing Error"
 msgctxt "@title:window"
 msgid "OPML Parsing Error"
 msgstr "Lỗi phân tích OPML"
@@ -1674,7 +1608,6 @@ msgstr ""
 
 #: src/akregator_part.cpp:469 src/command/loadfeedlistcommand.cpp:144
 #, kde-format
-#| msgid "Read Error"
 msgctxt "@title:window"
 msgid "Read Error"
 msgstr "Lỗi đọc"
@@ -1687,7 +1620,6 @@ msgstr ""
 
 #: src/akregator_part.cpp:481
 #, kde-format
-#| msgid "Write Error"
 msgctxt "@title:window"
 msgid "Write Error"
 msgstr "Lỗi ghi"
@@ -1719,12 +1651,6 @@ msgstr "Không tìm thấy kết quả"
 
 #: src/articlelistview.cpp:375
 #, kde-format
-#| msgid ""
-#| "<h2>Article list</h2>Here you can browse articles from the currently "
-#| "selected feed. You can also manage articles, as marking them as "
-#| "persistent (\"Keep Article\") or delete them, using the right mouse "
-#| "button menu.To view the web page of the article, you can open the article "
-#| "internally in a tab or in an external browser window."
 msgid ""
 "<h2>Article list</h2>Here you can browse articles from the currently "
 "selected feed. You can also manage articles, as marking them as persistent "
@@ -1734,9 +1660,9 @@ msgid ""
 msgstr ""
 "<h2>Danh sách bài viết</h2>Ở đây bạn có thể duyệt các bài viết từ nguồn tin "
 "hiện được chọn. Bạn cũng có thể quản lý các bài viết, như đánh dấu chúng là "
-"lưu trữ (\"Đánh dấu là Quan trọng\") hoặc xóa chúng, sử dụng trình đơn "
-"chuột phải. Để xem trang web của bài viết, bạn có thể mở bài viết trong một "
-"thẻ nội bộ hoặc trong cửa sổ trình duyệt bên ngoài."
+"lưu trữ (\"Đánh dấu là Quan trọng\") hoặc xóa chúng, sử dụng trình đơn chuột "
+"phải. Để xem trang web của bài viết, bạn có thể mở bài viết trong một thẻ "
+"nội bộ hoặc trong cửa sổ trình duyệt bên ngoài."
 
 #: src/articlemodel.cpp:74
 #, kde-format
@@ -1776,13 +1702,11 @@ msgstr "Nội dung"
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:143
 #, kde-format
-#| msgid "A KDE news feed reader."
 msgid "Akregator is a KDE news feed reader."
 msgstr "Akregator là một trình đọc tin tức của KDE."
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:184
 #, kde-format
-#| msgid "&Save Link As..."
 msgctxt "@title:window"
 msgid "Save As"
 msgstr "Lưu thành"
@@ -1804,7 +1728,6 @@ msgstr "Bạn có chắc muốn tắt trang giới thiệu này?"
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:377
 #, kde-format
-#| msgid "Disable Introduction Page"
 msgctxt "@title:window"
 msgid "Disable Introduction Page"
 msgstr "Tắt trang giới thiệu"
@@ -1866,7 +1789,6 @@ msgstr ""
 
 #: src/command/deletesubscriptioncommand.cpp:44
 #, kde-format
-#| msgid "Delete Folder"
 msgctxt "@title:window"
 msgid "Delete Folder"
 msgstr "Xóa thư mục"
@@ -1883,7 +1805,6 @@ msgstr "<qt>Bạn có muốn xoá nguồn tin <b>%1</b>?</qt>"
 
 #: src/command/deletesubscriptioncommand.cpp:68
 #, kde-format
-#| msgid "Delete Feed"
 msgctxt "@title:window"
 msgid "Delete Feed"
 msgstr "Xoá nguồn tin"
@@ -1923,7 +1844,6 @@ msgstr ""
 
 #: src/command/loadfeedlistcommand.cpp:129
 #, kde-format
-#| msgid "Opening Feed List..."
 msgid "Opening Feed List…"
 msgstr "Đang mở danh sách nguồn tin..."
 
@@ -1940,9 +1860,6 @@ msgstr "Lỗi phân tích XML"
 
 #: src/command/loadfeedlistcommand.cpp:157
 #, kde-kuit-format
-#| msgid ""
-#| "<qt><p>XML parsing error in line <numid>%1</numid>, column <numid>%2</"
-#| "numid> of %3:</p><p>%4</p></qt>"
 msgid "<qt><p>XML parsing error in line %1, column %2 of %3:</p><p>%4</p></qt>"
 msgstr "<qt><p>Lỗi phân tích XML ở dòng %1, cột %2 của %3:</p><p>%4</p></qt>"
 
@@ -1966,9 +1883,6 @@ msgstr ""
 
 #: src/crashwidget/crashwidget.cpp:21
 #, kde-format
-#| msgid ""
-#| "Akregator did not close correctly. Would you like to restore the previous "
-#| "session?"
 msgctxt "@label:textbox"
 msgid ""
 "Akregator did not close correctly. Would you like to restore the previous "
@@ -1984,13 +1898,11 @@ msgstr "Phục hồi"
 
 #: src/crashwidget/crashwidget.cpp:43
 #, kde-format
-#| msgid "Restore Session"
 msgid "Do Not Restore Session"
 msgstr "Không khôi phục phiên"
 
 #: src/crashwidget/crashwidget.cpp:49
 #, kde-format
-#| msgid "Ask Me Later"
 msgid "Ask me later"
 msgstr "Hỏi sau"
 
@@ -2067,7 +1979,6 @@ msgstr[0] "Ngày"
 
 #: src/feed/feedpropertiesdialog.cpp:60 src/feed/feedpropertiesdialog.cpp:112
 #, kde-format
-#| msgid "Feed Properties"
 msgctxt "@title:window"
 msgid "Feed Properties"
 msgstr "Thuộc tính nguồn tin"
@@ -2092,7 +2003,6 @@ msgstr[0] " bài viết"
 
 #: src/feed/feedpropertiesdialog.cpp:112
 #, kde-format
-#| msgid "Properties of %1"
 msgctxt "@title:window"
 msgid "Properties of %1"
 msgstr "Thuộc tính của %1"
@@ -2117,19 +2027,16 @@ msgstr[0] " (%1 bài viết chưa đọc)"
 
 #: src/formatter/grantleeviewformatter.cpp:179
 #, kde-format
-#| msgid "<b>Description:</b> %1<br /><br />"
 msgid "<b>Description:</b> %1<br />"
 msgstr "<b>Mô tả:</b> %1<br />"
 
 #: src/formatter/grantleeviewformatter.cpp:186
 #, kde-format
-#| msgid "<b>Homepage:</b> <a href=\"%1\">%2</a>"
 msgid "<b>Homepage:</b> <a href=\"%1\">%1</a>"
 msgstr "<b>Trang chủ:</b> <a href=\"%1\">%1</a>"
 
 #: src/formatter/grantleeviewformatter.cpp:193
 #, kde-format
-#| msgid "<b>Description:</b> %1<br /><br />"
 msgid "<b>Copyright:</b> %1</a>"
 msgstr "<b>Bản quyền:</b> %1</a>"
 
@@ -2140,7 +2047,6 @@ msgstr "Ngày tháng"
 
 #: src/formatter/grantleeviewformatter.cpp:254
 #, kde-format
-#| msgid "Comments"
 msgid "Comment"
 msgstr "Chú thích"
 
@@ -2166,7 +2072,6 @@ msgstr "Chưa đặt tên"
 
 #: src/frame/frame.cpp:140
 #, kde-format
-#| msgid "Loading..."
 msgid "Loading…"
 msgstr "Đang tải..."
 
@@ -2202,42 +2107,37 @@ msgstr "Giới thiệu"
 
 #: src/mainwidget.cpp:777
 #, kde-format
-#| msgid "<qt>Are you sure you want to delete feed <b>%1</b>?</qt>"
 msgid ""
 "<qt>Are you sure you want to mark <b>all articles in the feed</b> as read?</"
 "qt>"
 msgstr ""
-"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các bài viết trong nguồn "
-"tin</b> là đã đọc?</qt>"
+"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các bài viết trong nguồn tin</"
+"b> là đã đọc?</qt>"
 
 #: src/mainwidget.cpp:778
 #, kde-format
-#| msgid "&Mark Feed as Read"
 msgctxt "@title:window"
 msgid "Mark Feed as Read"
 msgstr "Đánh dấu nguồn tin đã đọc"
 
 #: src/mainwidget.cpp:781
 #, kde-format
-#| msgid "<qt>Are you sure you want to delete feed <b>%1</b>?</qt>"
 msgid "<qt>Are you sure you want to mark <b>all feeds</b> as read?</qt>"
 msgstr ""
-"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các nguồn tin</b> là đã "
-"đọc?</qt>"
+"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các nguồn tin</b> là đã đọc?</"
+"qt>"
 
 #: src/mainwidget.cpp:783
 #, kde-format
-#| msgid "<qt>Are you sure you want to delete this feed?</qt>"
 msgid ""
 "<qt>Are you sure you want to mark <b>all feeds in the folder</b> as read?</"
 "qt>"
 msgstr ""
-"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các nguồn tin trong thư "
-"mục</b> là đã đọc?</qt>"
+"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các nguồn tin trong thư mục</b> "
+"là đã đọc?</qt>"
 
 #: src/mainwidget.cpp:785
 #, kde-format
-#| msgid "&Mark Feeds as Read"
 msgctxt "@title:window"
 msgid "Mark Feeds as Read"
 msgstr "Đánh dấu nguồn tin đã đọc"
@@ -2249,7 +2149,6 @@ msgstr "Mạng không sẵn sàng."
 
 #: src/mainwidget.cpp:866
 #, kde-format
-#| msgid "Fetching Feeds..."
 msgid "Fetching Feeds…"
 msgstr "Đang lấy tin..."
 
@@ -2267,7 +2166,6 @@ msgstr[0] "<qt>Bạn có chắc muốn xoá %1 bài viết đã chọn?</qt>"
 
 #: src/mainwidget.cpp:1075
 #, kde-format
-#| msgid "Delete Article"
 msgctxt "@title:window"
 msgid "Delete Article"
 msgstr "Xóa bài viết"
@@ -2283,8 +2181,8 @@ msgid ""
 "<qt>This will hide the menu bar completely. You can show it again by typing "
 "%1.</qt>"
 msgstr ""
-"<qt>Thao tác này sẽ ẩn hoàn toàn thanh trình đơn. Bạn có thể hiển thị lại "
-"nó bằng cách gõ %1.</qt>"
+"<qt>Thao tác này sẽ ẩn hoàn toàn thanh trình đơn. Bạn có thể hiển thị lại nó "
+"bằng cách gõ %1.</qt>"
 
 #: src/mainwindow.cpp:124
 #, kde-format
@@ -2411,48 +2309,41 @@ msgstr "Tất cả"
 
 #: src/tabwidget.cpp:92
 #, kde-format
-#| msgid "Close the current tab"
 msgctxt "@info:tooltip"
 msgid "Close the current tab"
 msgstr "Đóng thẻ hiện tại"
 
 #: src/tabwidget.cpp:95
 #, kde-format
-#| msgid "Close Tab"
 msgid "Close tab"
 msgstr "Đóng thẻ"
 
 #: src/tabwidget.cpp:118
 #, kde-format
-#| msgid "Detach Tab"
 msgctxt "@action:inmenu"
 msgid "Detach Tab"
 msgstr "Tháo rời thẻ"
 
 #: src/tabwidget.cpp:123
 #, kde-format
-#| msgid "Close Tab"
 msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr "Đóng thẻ"
 
 #: src/tabwidget.cpp:127
 #, kde-format
-#| msgid "Close the current tab"
 msgctxt "@action:inmenu"
 msgid "Close All Other Tabs"
 msgstr "Đóng tất cả các thẻ khác"
 
 #: src/tabwidget.cpp:131
 #, kde-format
-#| msgid "Close Tab"
 msgctxt "@action:inmenu"
 msgid "Close All Tabs"
 msgstr "Đóng tất cả các thẻ"
 
 #: src/trayicon.cpp:54
 #, kde-format
-#| msgid " (no unread articles)"
 msgid "There are no unread articles"
 msgstr "Không có bài viết chưa đọc"
 
@@ -2501,7 +2392,6 @@ msgstr "&Sử dụng thời gian cập nhật tuỳ biến"
 #. i18n: ectx: property (text), widget (QLabel, updateLabel)
 #: src/ui/feedpropertieswidgetbase.ui:88
 #, kde-format
-#| msgid "Update &every:"
 msgid "Update ever&y:"
 msgstr "Cập nhật &mỗi:"
 
@@ -2532,7 +2422,6 @@ msgstr "Hiện tên cột RSS"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/ui/feedpropertieswidgetbase.ui:171
 #, kde-format
-#| msgid "Comments"
 msgid "Comment:"
 msgstr "Bình luận:"
 
@@ -2586,13 +2475,11 @@ msgstr "Đánh dấu đã đọc bài viết &khi chúng tới"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:40
 #, kde-format
-#| msgid "Disable Introduction Page"
 msgid "Disable Introduction"
 msgstr "Tắt trang giới thiệu"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:58
 #, kde-format
-#| msgid "Copy Link Address"
 msgid "&Copy Email Address"
 msgstr "Sa&o chép địa chỉ thư điện tử"
 
@@ -2603,50 +2490,42 @@ msgstr "Địa chỉ đã được sao chép vào bảng tạm."
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:98
 #, kde-format
-#| msgid "Ma&rk All Feeds as Read"
 msgid "Mark Article as Read"
 msgstr "Đánh dấu bài viết đã đọc"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:100
 #, kde-format
-#| msgid "Mark selected article as unread"
 msgid "Mark Article as Unread"
 msgstr "Đánh dấu bài viết là chưa đọc"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:102
 #, kde-format
-#| msgid "Remove &Important Mark"
 msgid "Change Important Flag"
 msgstr "Thay đổi cờ quan trọng"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:104
 #, kde-format
-#| msgid "Share Article"
 msgid "Send the URL of the article"
 msgstr "Gửi URL của bài viết"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:106
 #, kde-format
-#| msgid "Share Article"
 msgid "Send the Html Page of Article"
 msgstr "Gửi trang HTML của bài viết"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:108
 #, kde-format
-#| msgid "Open in External Browser"
 msgid "Open In External Browser"
 msgstr "Mở trong trình duyệt ngoài"
 
 #: src/widgets/searchbar.cpp:43
 #, kde-format
-#| msgid "Unread articles:"
 msgctxt "@info:placeholder"
 msgid "Search articles…"
 msgstr "Tìm kiếm bài viết..."
 
 #: src/widgets/searchbar.cpp:118
 #, kde-format
-#| msgid "Unread articles:"
 msgctxt "@info:placeholder"
 msgid "Search articles…<%1>"
 msgstr "Tìm kiếm bài viết…<%1>"
@@ -2670,8 +2549,6 @@ msgstr "Chưa đọc"
 
 #: src/widgets/statussearchbuttons.cpp:57
 #, kde-format
-#| msgctxt "as in: mark as read"
-#| msgid "&Read"
 msgctxt "Read articles filter"
 msgid "Read"
 msgstr "Đã đọc"
@@ -2683,12 +2560,10 @@ msgid "Important"
 msgstr "Quan trọng"
 
 #, fuzzy
-#~| msgid "Keep Enabled"
 #~ msgid "Access Key Enabled"
 #~ msgstr "Giữ bật"
 
 #, fuzzy
-#~| msgid "Text Filter"
 #~ msgid "Filter"
 #~ msgstr "Lọc văn bản"
 
@@ -2717,12 +2592,10 @@ msgstr "Quan trọng"
 #~ msgstr "Thiết lập nguồn tin"
 
 #, fuzzy
-#~| msgid "Configure Feeds"
 #~ msgid "Configure Plugins"
 #~ msgstr "Thiết lập nguồn tin"
 
 #, fuzzy
-#~| msgid "Configure Feeds"
 #~ msgid "Configure User Feedback"
 #~ msgstr "Thiết lập nguồn tin"
 

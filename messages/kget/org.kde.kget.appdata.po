@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,7 +23,8 @@ msgstr "Trình quản lý tải về"
 #. (itstool) path: description/p
 #: org.kde.kget.appdata.xml:12
 msgid "KGet is a versatile and user-friendly download manager."
-msgstr "KGet là một trình quản lý tải về linh hoạt và thân thiện với người dùng."
+msgstr ""
+"KGet là một trình quản lý tải về linh hoạt và thân thiện với người dùng."
 
 #. (itstool) path: description/p
 #: org.kde.kget.appdata.xml:15
@@ -36,10 +38,12 @@ msgstr "Tải về các tệp từ các nguồn FTP và HTTP(S)."
 
 #. (itstool) path: ul/li
 #: org.kde.kget.appdata.xml:18
-msgid "Pausing and resuming of downloading files, as well as the ability to restart a download."
+msgid ""
+"Pausing and resuming of downloading files, as well as the ability to restart "
+"a download."
 msgstr ""
-"Tạm dừng và tiếp tục tải về các tệp, cũng như khả năng khởi động lại một "
-"lần tải về."
+"Tạm dừng và tiếp tục tải về các tệp, cũng như khả năng khởi động lại một lần "
+"tải về."
 
 #. (itstool) path: ul/li
 #: org.kde.kget.appdata.xml:19
@@ -58,10 +62,12 @@ msgstr "Tích hợp với trình duyệt web Konqueror."
 
 #. (itstool) path: ul/li
 #: org.kde.kget.appdata.xml:22
-msgid "Metalink support which contain multiple URLs for downloads, along with checksums and other information."
+msgid ""
+"Metalink support which contain multiple URLs for downloads, along with "
+"checksums and other information."
 msgstr ""
-"Hỗ trợ Metalink chứa nhiều URL cho các lần tải về, cùng với các giá trị "
-"tổng kiểm và thông tin khác."
+"Hỗ trợ Metalink chứa nhiều URL cho các lần tải về, cùng với các giá trị tổng "
+"kiểm và thông tin khác."
 
 #. (itstool) path: screenshot/caption
 #: org.kde.kget.appdata.xml:31

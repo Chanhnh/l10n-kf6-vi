@@ -20,14 +20,12 @@ msgstr ""
 
 #: uachangerplugin.cpp:46
 #, kde-format
-#| msgid "Change Browser Identification"
 msgctxt "@title:menu Changes the browser identification"
 msgid "Change Browser Identification"
 msgstr "Thay đổi định danh trình duyệt"
 
 #: uachangerplugin.cpp:83
 #, kde-format
-#| msgid "Default Identification"
 msgctxt "@action:inmenu Uses the default browser identification"
 msgid "Default Identification"
 msgstr "Định danh mặc định"
@@ -48,25 +46,21 @@ msgstr "Thanh công cụ thêm"
 #~ msgstr "Khác"
 
 #, fuzzy
-#~| msgid "Version %1"
 #~ msgctxt "%1 = browser version (e.g. 2.0)"
 #~ msgid "Version %1"
 #~ msgstr "Phiên bản %1"
 
 #, fuzzy
-#~| msgid "%1 %2 on %3"
 #~ msgctxt "%1 = browser name, %2 = browser version (e.g. Firefox, 2.0)"
 #~ msgid "%1 %2"
 #~ msgstr "%1 %2 trên %3"
 
 #, fuzzy
-#~| msgid "Version %1 on %2"
 #~ msgctxt "%1 = browser version, %2 = platform (e.g. 2.0, Windows XP)"
 #~ msgid "Version %1 on %2"
 #~ msgstr "Phiên bản %1 trên %2"
 
 #, fuzzy
-#~| msgid "%1 %2 on %3"
 #~ msgctxt ""
 #~ "%1 = browser name, %2 = browser version, %3 = platform (e.g. Firefox, "
 #~ "2.0, Windows XP)"

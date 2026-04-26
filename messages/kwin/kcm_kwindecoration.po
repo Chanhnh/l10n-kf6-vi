@@ -223,33 +223,26 @@ msgstr "Sửa chủ đề %1"
 
 #: utils.cpp:25
 #, kde-format
-#| msgid "No Side Borders"
 msgid "No Window Borders"
 msgstr "Không viền cửa sổ"
 
 #: utils.cpp:26
 #, kde-format
-#| msgid "No Side Borders"
 msgid "No Side Window Borders"
 msgstr "Không viền cửa sổ bên"
 
 #: utils.cpp:27
 #, kde-format
-#| msgctxt "Selector label"
-#| msgid "Window border size:"
 msgid "Tiny Window Borders"
 msgstr "Viền cửa sổ nhỏ"
 
 #: utils.cpp:28
 #, kde-format
-#| msgid "No Side Borders"
 msgid "Normal Window Borders"
 msgstr "Viền Cửa Sổ Thông Thường"
 
 #: utils.cpp:29
 #, kde-format
-#| msgctxt "Selector label"
-#| msgid "Window border size:"
 msgid "Large Window Borders"
 msgstr "Viền cửa sổ lớn"
 
@@ -260,22 +253,16 @@ msgstr "Viền Cửa Sổ Rất Lớn"
 
 #: utils.cpp:31
 #, kde-format
-#| msgctxt "Selector label"
-#| msgid "Window border size:"
 msgid "Huge Window Borders"
 msgstr "Viền cửa sổ lớn"
 
 #: utils.cpp:32
 #, kde-format
-#| msgctxt "Selector label"
-#| msgid "Window border size:"
 msgid "Very Huge Window Borders"
 msgstr "Viền cửa sổ rất lớn"
 
 #: utils.cpp:33
 #, kde-format
-#| msgctxt "Selector label"
-#| msgid "Window border size:"
 msgid "Oversized Window Borders"
 msgstr "Viền cửa sổ quá lớn"
 
@@ -335,16 +322,13 @@ msgstr "Viền cửa sổ quá lớn"
 #~ msgstr "Trình đơn"
 
 #, fuzzy
-#~| msgid "Keep Below Others"
 #~ msgid "Keep below"
 #~ msgstr "Giữ nằm dưới các cửa sổ khác"
 
 #, fuzzy
-#~| msgid "Keep Above Others"
 #~ msgid "Keep above"
 #~ msgstr "Giữ nằm trên các cửa sổ khác"
 
 #, fuzzy
-#~| msgid "&Window Decoration"
 #~ msgid "Download New Window Decorations"
 #~ msgstr "Trang trí cửa &sổ"

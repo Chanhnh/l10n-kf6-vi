@@ -35,8 +35,6 @@ msgid "disk;drive;space;storage;usage;"
 msgstr "đĩa;ổ đĩa;không gian;lưu trữ;sử dụng;"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "View Disk Usage"
 #~ msgctxt "Comment"
 #~ msgid "View disk usage information"
 #~ msgstr "Xem đĩa trống "

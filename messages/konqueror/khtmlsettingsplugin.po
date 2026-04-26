@@ -92,8 +92,6 @@ msgstr "Chế độ duyệt ng&oại tuyến"
 
 #: settingsplugin.cpp:170
 #, kde-format
-#| msgid ""
-#| "I can't enable cookies, because the cookie daemon could not be started."
 msgid ""
 "The cookie setting could not be changed, because the cookie daemon could not "
 "be contacted."
@@ -103,7 +101,6 @@ msgstr ""
 
 #: settingsplugin.cpp:172
 #, kde-format
-#| msgid "Cookies Disabled"
 msgctxt "@title:window"
 msgid "Cookie Settings Unavailable"
 msgstr "Thiết lập Bánh Quy Không Khả Dụng"

@@ -24,7 +24,6 @@ msgid "App Code Template Generator"
 msgstr "Trình tạo mẫu mã ứng dụng"
 
 #: src/application/org.kde.kapptemplate.desktop:45
-#, 
 msgctxt "Name"
 msgid "KAppTemplate"
 msgstr "Mẫu ứng dụng KDE"
@@ -35,8 +34,6 @@ msgid "C++ KDE Frameworks"
 msgstr "C++ KDE Frameworks"
 
 #: src/templates/C++/kde-frameworks6/kde-frameworks6.kdevtemplate:43
-#, 
-#| msgid "Comment=A KDE Application"
 msgctxt "Comment"
 msgid "A KDE Frameworks 6 GUI Application in C++"
 msgstr "Một ứng dụng GUI C++ dựa trên KDE Frameworks 6"
@@ -47,8 +44,6 @@ msgid "Minimal C++ KDE Frameworks"
 msgstr "Tối thiểu C++ KDE Frameworks"
 
 #: src/templates/C++/kde-frameworks6-simple/kde-frameworks6-simple.kdevtemplate:43
-#, 
-#| msgid "Comment=A KDE Application"
 msgctxt "Comment"
 msgid "A very basic KDE Frameworks 6 GUI Application in C++"
 msgstr "Một ứng dụng GUI KDE Frameworks 6 cơ bản bằng C++"

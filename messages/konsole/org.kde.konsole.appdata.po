@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,10 +22,12 @@ msgstr "Sử dụng giao diện dòng lệnh"
 
 #. (itstool) path: description/p
 #: org.kde.konsole.appdata.xml:10
-msgid "Konsole is a terminal to run a command shell. It provides a command line interface for directly controlling your computer."
+msgid ""
+"Konsole is a terminal to run a command shell. It provides a command line "
+"interface for directly controlling your computer."
 msgstr ""
-"Konsole là trình dòng lệnh để chạy shell. Nó cung cấp giao diện dòng lệnh "
-"để điều khiển máy tính trực tiếp."
+"Konsole là trình dòng lệnh để chạy shell. Nó cung cấp giao diện dòng lệnh để "
+"điều khiển máy tính trực tiếp."
 
 #. (itstool) path: description/p
 #: org.kde.konsole.appdata.xml:11

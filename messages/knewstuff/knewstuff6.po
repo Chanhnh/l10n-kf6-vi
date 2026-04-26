@@ -21,23 +21,19 @@ msgstr ""
 
 #: attica/atticaprovider.cpp:165
 #, kde-format
-#| msgid "All Categories"
 msgid "All categories are missing"
 msgstr "Tất cả các loại đều bị thiếu"
 
 #: attica/atticaprovider.cpp:480
 #, kde-format
-#| msgctxt ""
-#| "the price of a download item, parameter 1 is the currency, 2 is the price"
-#| msgid ""
-#| "This items costs %1 %2.\n"
-#| "Do you want to buy it?"
 msgctxt ""
 "the price of a download item, parameter 1 is the currency, 2 is the price"
 msgid ""
 "This item costs %1 %2.\n"
 "Do you want to buy it?"
-msgstr "Mục này có giá %1 %2.\nBạn có muốn mua không?"
+msgstr ""
+"Mục này có giá %1 %2.\n"
+"Bạn có muốn mua không?"
 
 #: attica/atticaprovider.cpp:494
 #, kde-format
@@ -71,7 +67,6 @@ msgstr "Dịch vụ hiện đang được bảo trì và dự kiến sẽ trở 
 
 #: attica/atticaprovider.cpp:585
 #, kde-format
-#| msgid "Network error. (%1)"
 msgid "Network error %1: %2"
 msgstr "Lỗi mạng %1: %2"
 
@@ -94,7 +89,6 @@ msgstr "Lỗi API Dịch vụ cộng tác mở không rõ. (%1)"
 
 #: core/commentsmodel.cpp:154
 #, kde-format
-#| msgid "Unknown socket error"
 msgctxt ""
 "The value returned for an unknown role when requesting data from the model."
 msgid "Unknown CommentsModel role"
@@ -102,21 +96,20 @@ msgstr "Vai trò CommentsModel không rõ"
 
 #: core/enginebase.cpp:43
 #, kde-format
-#| msgid "An error occurred while accessing '%1'"
 msgid ""
 "An error occurred during the installation process:\n"
 "%1"
-msgstr "Đã xảy ra lỗi trong quá trình cài đặt:\n%1"
+msgstr ""
+"Đã xảy ra lỗi trong quá trình cài đặt:\n"
+"%1"
 
 #: core/enginebase.cpp:79
 #, kde-format
-#| msgid "Configuration file is invalid: \"%1\""
 msgid "Configuration file does not exist: \"%1\""
 msgstr "Tệp cấu hình không tồn tại: \"%1\""
 
 #: core/enginebase.cpp:87
 #, kde-format
-#| msgid "Configuration file not found: \"%1\""
 msgid "Configuration file exists, but cannot be opened: \"%1\""
 msgstr "Tệp cấu hình tồn tại, nhưng không thể mở: \"%1\""
 
@@ -137,8 +130,9 @@ msgid ""
 "%2\n"
 "This is a critical error and should be reported to the application author"
 msgstr ""
-"Không thể khởi tạo trình xử lý cài đặt cho %1:\n%2\nĐây là lỗi nghiêm trọng "
-"và cần được báo cáo cho tác giả ứng dụng"
+"Không thể khởi tạo trình xử lý cài đặt cho %1:\n"
+"%2\n"
+"Đây là lỗi nghiêm trọng và cần được báo cáo cho tác giả ứng dụng"
 
 #: core/enginebase.cpp:284
 #, kde-format
@@ -186,7 +180,6 @@ msgstr "Không thể cài đặt \"%1\": không tìm thấy tệp."
 
 #: core/installation.cpp:352 core/installation.cpp:599
 #, kde-format
-#| msgid "Installing"
 msgid "Installation of %1 failed: %2"
 msgstr "Cài đặt %1 không thành công: %2"
 
@@ -197,7 +190,6 @@ msgstr "Không xác định được kiểu kho trữ của tệp %1 đã tải 
 
 #: core/installation.cpp:398
 #, kde-format
-#| msgid "Unable to open temporary file."
 msgid "Failed to open the archive file %1. The reported error was: %2"
 msgstr "Không thể mở tệp kho trữ %1. Lỗi được báo cáo là: %2"
 
@@ -209,12 +201,11 @@ msgid ""
 "existing file?"
 msgstr ""
 "Tệp này đã tồn tại trên ổ đĩa (có thể do một lần tải về không thành công "
-"trước đó). Tiếp tục sẽ có nghĩa là ghi đè lên nó. Bạn có muốn ghi đè lên "
-"tệp hiện có không?"
+"trước đó). Tiếp tục sẽ có nghĩa là ghi đè lên nó. Bạn có muốn ghi đè lên tệp "
+"hiện có không?"
 
 #: core/installation.cpp:468
 #, kde-format
-#| msgid "Overwrite File?"
 msgid "Overwrite File"
 msgstr "Ghi đè tệp"
 
@@ -232,8 +223,11 @@ msgid ""
 "The returned output was:\n"
 "%2"
 msgstr ""
-"Cài đặt không thành công khi cố gắng chạy lệnh:\n%1\n\nKết quả trả về "
-"là:\n%2"
+"Cài đặt không thành công khi cố gắng chạy lệnh:\n"
+"%1\n"
+"\n"
+"Kết quả trả về là:\n"
+"%2"
 
 #: core/installation.cpp:521
 #, kde-format
@@ -244,8 +238,11 @@ msgid ""
 "The returned output was:\n"
 "%3"
 msgstr ""
-"Cài đặt không thành công với mã %1 khi cố gắng chạy lệnh:\n%2\n\nKết quả "
-"trả về là:\n%3"
+"Cài đặt không thành công với mã %1 khi cố gắng chạy lệnh:\n"
+"%2\n"
+"\n"
+"Kết quả trả về là:\n"
+"%3"
 
 #: core/installation.cpp:563
 #, kde-format
@@ -266,9 +263,11 @@ msgid ""
 "If you think this is incorrect, you can continue or cancel the "
 "uninstallation process"
 msgstr ""
-"Quá trình gỡ cài đặt không thể chạy thành công lệnh %1\nKết quả đầu ra "
-"là:\n%2\nNếu bạn nghĩ rằng điều này không chính xác, bạn có thể tiếp tục "
-"hoặc huỷ quá trình gỡ cài đặt"
+"Quá trình gỡ cài đặt không thể chạy thành công lệnh %1\n"
+"Kết quả đầu ra là:\n"
+"%2\n"
+"Nếu bạn nghĩ rằng điều này không chính xác, bạn có thể tiếp tục hoặc huỷ quá "
+"trình gỡ cài đặt"
 
 #: core/jobs/filecopyworker.cpp:49
 #, kde-format
@@ -318,11 +317,12 @@ msgstr ""
 msgid ""
 "Failed to adopt '%1'\n"
 "%2"
-msgstr "Không thể áp dụng '%1'\n%2"
+msgstr ""
+"Không thể áp dụng '%1'\n"
+"%2"
 
 #: qtquick/categoriesmodel.cpp:52
 #, kde-format
-#| msgid "All Categories"
 msgctxt ""
 "The first entry in the category selection list (also the default value)"
 msgid "All Categories"
@@ -330,7 +330,6 @@ msgstr "Tất cả các loại"
 
 #: qtquick/categoriesmodel.cpp:74
 #, kde-format
-#| msgid "Unknown error"
 msgctxt ""
 "The string passed back in the case the requested category is not known"
 msgid "Unknown Category"
@@ -350,20 +349,17 @@ msgstr "Các thứ"
 
 #: qtquick/qml/Button.qml:44
 #, kde-format
-#| msgid "Download New %1"
 msgid "Download New %1…"
 msgstr "Tải về %1 mới..."
 
 #: qtquick/qml/Dialog.qml:44
 #, kde-format
-#| msgid "Download New %1"
 msgctxt "The dialog title when we know which type of stuff is being requested"
 msgid "Download New %1"
 msgstr "Tải về %1 mới"
 
 #: qtquick/qml/Dialog.qml:45
 #, kde-format
-#| msgid "Download New Stuff"
 msgctxt ""
 "A placeholder title used in the dialog when there is no better title "
 "available"
@@ -395,7 +391,6 @@ msgstr "Cài đặt"
 
 #: qtquick/qml/EntryDetails.qml:89
 #, kde-format
-#| msgid "Installing"
 msgctxt ""
 "A passive notification shown when installation of an item is initiated"
 msgid "Installing %1 from %2"
@@ -413,7 +408,6 @@ msgstr "%1 bởi %2"
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:43
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:48
 #, kde-format
-#| msgid "Install"
 msgctxt ""
 "Request installation of this item, available when there is exactly one "
 "downloadable item"
@@ -424,7 +418,6 @@ msgstr "Cài đặt"
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:44
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:49
 #, kde-format
-#| msgid "Install"
 msgctxt ""
 "Show installation options, where there is more than one downloadable item"
 msgid "Install…"
@@ -434,14 +427,12 @@ msgstr "Cài đặt..."
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:59
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:64
 #, kde-format
-#| msgid "Update"
 msgctxt "Request updating of this item"
 msgid "Update"
 msgstr "Cập nhật"
 
 #: qtquick/qml/EntryDetails.qml:135 qtquick/qml/Page.qml:114
 #, kde-format
-#| msgid "Uninstall"
 msgctxt "Request uninstallation of this item"
 msgid "Uninstall"
 msgstr "Gỡ cài đặt"
@@ -471,9 +462,9 @@ msgid ""
 "bugs.kde.org/enter_bug.cgi?product=frameworks-knewstuff\">Please report this "
 "to the KDE Community in a bug report</a>."
 msgstr ""
-"Mục này hiện đang ở trạng thái không hợp lệ hoặc không rõ. <a "
-"href=\"https://bugs.kde.org/enter_bug.cgi?product=frameworks-knewstuff\">Vui "
-"lòng báo cáo điều này cho Cộng đồng KDE trong một báo cáo lỗi</a>."
+"Mục này hiện đang ở trạng thái không hợp lệ hoặc không rõ. <a href=\"https://"
+"bugs.kde.org/enter_bug.cgi?product=frameworks-knewstuff\">Vui lòng báo cáo "
+"điều này cho Cộng đồng KDE trong một báo cáo lỗi</a>."
 
 #: qtquick/qml/EntryDetails.qml:214
 #, kde-format
@@ -482,7 +473,6 @@ msgstr "Bình luận và Đánh giá:"
 
 #: qtquick/qml/EntryDetails.qml:216
 #, kde-format
-#| msgid "View Comments"
 msgctxt ""
 "A link which, when clicked, opens a new sub page with comments (comments "
 "with or without ratings) for this entry"
@@ -491,13 +481,11 @@ msgstr "%1 Đánh giá và Bình luận"
 
 #: qtquick/qml/EntryDetails.qml:222
 #, kde-format
-#| msgid "Rating: "
 msgid "Rating:"
 msgstr "Đánh giá:"
 
 #: qtquick/qml/EntryDetails.qml:227
 #, kde-format
-#| msgid "Homepage"
 msgid "Homepage:"
 msgstr "Trang chủ:"
 
@@ -530,9 +518,9 @@ msgid ""
 "contain executable code that hasn't been tested by KDE or your distributor "
 "for safety, stability, or quality."
 msgstr ""
-"Hãy cẩn thận khi truy cập nội dung do người dùng tạo ra được hiển thị ở "
-"đây, vì nó có thể chứa mã thực thi chưa được KDE hoặc nhà phân phối của bạn "
-"kiểm tra về an toàn, ổn định hoặc chất lượng."
+"Hãy cẩn thận khi truy cập nội dung do người dùng tạo ra được hiển thị ở đây, "
+"vì nó có thể chứa mã thực thi chưa được KDE hoặc nhà phân phối của bạn kiểm "
+"tra về an toàn, ổn định hoặc chất lượng."
 
 #: qtquick/qml/Page.qml:141
 #, kde-format
@@ -555,13 +543,11 @@ msgstr "Đã cài"
 
 #: qtquick/qml/Page.qml:176
 #, kde-format
-#| msgid "Update"
 msgid "Updateable"
 msgstr "Có thể cập nhật"
 
 #: qtquick/qml/Page.qml:196
 #, kde-format
-#| msgid "All Categories"
 msgctxt "List option which will set the filter to show everything"
 msgid "Show All Entries"
 msgstr "Hiển thị tất cả mục"
@@ -598,14 +584,11 @@ msgstr "Đánh giá"
 
 #: qtquick/qml/Page.qml:237
 #, kde-format
-#| msgid "1 download"
-#| msgid_plural "%1 downloads"
 msgid "Downloads"
 msgstr "Tải về"
 
 #: qtquick/qml/Page.qml:257
 #, kde-format
-#| msgid "Show directories first"
 msgctxt ""
 "List option which will set the sort order to based on when items were most "
 "recently updated"
@@ -622,14 +605,12 @@ msgstr "Sắp xếp theo thứ tự bảng chữ cái theo tên"
 
 #: qtquick/qml/Page.qml:279
 #, kde-format
-#| msgid "Show directories first"
 msgctxt "List option which will set the sort order to based on user ratings"
 msgid "Show Highest Rated First"
 msgstr "Hiện những bài đánh giá cao nhất trước"
 
 #: qtquick/qml/Page.qml:290
 #, kde-format
-#| msgid "Most downloads"
 msgctxt ""
 "List option which will set the sort order to based on number of downloads"
 msgid "Show Most Downloaded First"
@@ -637,14 +618,14 @@ msgstr "Hiển thị những mục được tải về nhiều nhất trước"
 
 #: qtquick/qml/Page.qml:303
 #, kde-format
-#| msgid "New Upload"
 msgid "Upload…"
 msgstr "Tải lên..."
 
 #: qtquick/qml/Page.qml:304
 #, kde-format
 msgid "Learn how to add your own hot new stuff to this list"
-msgstr "Tìm hiểu cách thêm những thứ mới tuyệt vời của riêng bạn vào danh sách này"
+msgstr ""
+"Tìm hiểu cách thêm những thứ mới tuyệt vời của riêng bạn vào danh sách này"
 
 #: qtquick/qml/Page.qml:314
 #, kde-format
@@ -653,7 +634,6 @@ msgstr "Đi đến..."
 
 #: qtquick/qml/Page.qml:321 qtquick/qml/Page.qml:330
 #, kde-format
-#| msgid "Search:"
 msgid "Search…"
 msgstr "Tìm kiếm..."
 
@@ -669,8 +649,6 @@ msgstr "Đóng góp của bạn..."
 
 #: qtquick/qml/private/EntryCommentDelegate.qml:103
 #, kde-format
-#| msgctxt "@note/rich"
-#| msgid "<i>Note</i>: %1"
 msgctxt ""
 "Placeholder title for when a comment has no subject, but does have a rating"
 msgid "<i>(no title)</i>"
@@ -692,14 +670,12 @@ msgstr "Bình luận và Đánh giá cho %1"
 
 #: qtquick/qml/private/EntryCommentsPage.qml:30
 #, kde-format
-#| msgid "All Categories"
 msgctxt "Title for the item which is checked when all comments should be shown"
 msgid "Show All Comments"
 msgstr "Hiện tất cả bình luận"
 
 #: qtquick/qml/private/EntryCommentsPage.qml:38
 #, kde-format
-#| msgid "Show Preview"
 msgctxt ""
 "Title for the item which is checked when only comments which are reviews "
 "should be shown"
@@ -717,8 +693,6 @@ msgstr "Hiện Đánh Giá và Hồi Đáp"
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:140
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:185
 #, kde-format
-#| msgid "1 download"
-#| msgid_plural "%1 downloads"
 msgctxt "The number of times the item has been downloaded"
 msgid "%1 downloads"
 msgstr "%1 lượt tải"
@@ -726,8 +700,6 @@ msgstr "%1 lượt tải"
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:153
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:164
 #, kde-format
-#| msgctxt "Show the author of this item in a list"
-#| msgid "By <i>%1</i>"
 msgctxt ""
 "Subheading for the tile view, located immediately underneath the name of the "
 "item"
@@ -744,7 +716,6 @@ msgstr "Đang xử lý..."
 
 #: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:48
 #, kde-format
-#| msgid "Updating"
 msgctxt ""
 "Label for the busy indicator showing an item is in the process of being "
 "updated"
@@ -761,13 +732,12 @@ msgid ""
 "product=frameworks-knewstuff\">Please report this to the KDE Community in a "
 "bug report</a>."
 msgstr ""
-"Trạng thái không hợp lệ hoặc không rõ. <a "
-"href=\"https://bugs.kde.org/enter_bug.cgi?product=frameworks-knewstuff\">Vui "
-"lòng báo cáo điều này cho Cộng đồng KDE trong một báo cáo lỗi</a>."
+"Trạng thái không hợp lệ hoặc không rõ. <a href=\"https://bugs.kde.org/"
+"enter_bug.cgi?product=frameworks-knewstuff\">Vui lòng báo cáo điều này cho "
+"Cộng đồng KDE trong một báo cáo lỗi</a>."
 
 #: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:63
 #, kde-format
-#| msgid "Installing"
 msgctxt "Label for the busy indicator showing an item is installing"
 msgid "Installing…"
 msgstr "Đang cài đặt..."
@@ -785,8 +755,6 @@ msgstr "Vui lòng thử lại sau."
 
 #: qtquick/qml/private/GridTileDelegate.qml:120
 #, kde-format
-#| msgctxt "No border line"
-#| msgid "None"
 msgid "None"
 msgstr "Không"
 
@@ -799,14 +767,12 @@ msgstr "(%1/%2)"
 
 #: qtquick/qml/UploadPage.qml:50
 #, kde-format
-#| msgid "Download New Stuff"
 msgctxt "@knewstuff6"
 msgid "Upload New Stuff: %1"
 msgstr "Tải lên các thứ mới: %1"
 
 #: qtquick/qml/UploadPage.qml:111
 #, kde-format
-#| msgid "Provider information"
 msgctxt ""
 "A text shown beside a busy indicator suggesting that data is being fetched"
 msgid "Updating information…"
@@ -820,7 +786,6 @@ msgstr "Cửa hàng KDE"
 
 #: qtquick/qml/UploadPage.qml:132
 #, kde-format
-#| msgid "Provider:"
 msgctxt "An unnamed provider"
 msgid "Your Provider"
 msgstr "Nhà cung cấp của bạn"
@@ -854,8 +819,8 @@ msgstr ""
 "Để tải lên các mục mới hoặc thêm nội dung vào một mục hiện có trên Cửa hàng "
 "KDE, vui lòng mở website và đăng nhập. Sau khi làm điều này, bạn sẽ có thể "
 "tìm thấy mục Sản phẩm của Tôi trong trình đơn hiện lên khi bạn bấm vào biểu "
-"tượng người dùng của mình. Bấm vào mục này để đến hệ thống quản lý sản "
-"phẩm, nơi bạn có thể làm việc với các sản phẩm của mình."
+"tượng người dùng của mình. Bấm vào mục này để đến hệ thống quản lý sản phẩm, "
+"nơi bạn có thể làm việc với các sản phẩm của mình."
 
 #: qtquick/qml/UploadPage.qml:160
 #, kde-format
@@ -868,12 +833,12 @@ msgid ""
 "might be required to contact the managers of the site directly to get new "
 "content added."
 msgstr ""
-"Để tải lên các mục nhập mới hoặc thêm nội dung vào một mục nhập hiện có, "
-"vui lòng mở địa điểm web của nhà cung cấp và làm theo hướng dẫn tại đó. Bạn "
-"có thể cần phải tạo một tài khoản người dùng và đăng nhập vào hệ thống quản "
-"lý sản phẩm, nơi bạn sẽ cần phải làm theo hướng dẫn về cách thêm nội dung. "
-"Hoặc bạn có thể được yêu cầu liên hệ trực tiếp với các quản lý của địa điểm "
-"web để thêm nội dung mới."
+"Để tải lên các mục nhập mới hoặc thêm nội dung vào một mục nhập hiện có, vui "
+"lòng mở địa điểm web của nhà cung cấp và làm theo hướng dẫn tại đó. Bạn có "
+"thể cần phải tạo một tài khoản người dùng và đăng nhập vào hệ thống quản lý "
+"sản phẩm, nơi bạn sẽ cần phải làm theo hướng dẫn về cách thêm nội dung. Hoặc "
+"bạn có thể được yêu cầu liên hệ trực tiếp với các quản lý của địa điểm web "
+"để thêm nội dung mới."
 
 #: qtquick/quickengine.cpp:54 qtquick/quickengine.cpp:134
 #: qtquick/quickengine.cpp:142
@@ -924,15 +889,12 @@ msgstr "Khởi động lại"
 
 #: qtquick/searchpresetmodel.cpp:52
 #, kde-format
-#| msgid "Newest"
 msgctxt "Knewstuff5"
 msgid "New"
 msgstr "Mới"
 
 #: qtquick/searchpresetmodel.cpp:54
 #, kde-format
-#| msgctxt "A link to the description of this Get Hot New Stuff item"
-#| msgid "Homepage"
 msgctxt "Knewstuff5"
 msgid "Home"
 msgstr "Trang chủ"
@@ -957,14 +919,12 @@ msgstr "Được đề xuất"
 
 #: qtquick/searchpresetmodel.cpp:62
 #, kde-format
-#| msgid "Description:"
 msgctxt "Knewstuff5"
 msgid "Subscriptions"
 msgstr "Đăng ký"
 
 #: qtquick/searchpresetmodel.cpp:64
 #, kde-format
-#| msgid "All Categories"
 msgctxt "Knewstuff5"
 msgid "All Entries"
 msgstr "Tất cả mục"
@@ -1001,38 +961,37 @@ msgid ""
 "file.\n"
 " An example of such a url is kns://sddmtheme.knsrc/api.kde-look.org/2059021"
 msgstr ""
-"Một URL kns để hiển thị thông tin từ. Định dạng của một URL kns là "
-"kns://knsrcfile/providerid/entryid\n'knsrcfile'\nlà tên của một tệp knsrc "
-"như có thể được truyền trực tiếp thông qua đối số knsrcfile của công cụ "
-"này\n'providerid'\nlà tên máy chủ của nhà cung cấp mà mục nhập nên tồn tại "
-"trên\n'entryid'\nlà mã định danh duy nhất của một mục nhập được tìm thấy "
-"trong nhà cung cấp được chỉ định bởi tệp knsrc.\nVí dụ về một URL như vậy "
-"là kns://sddmtheme.knsrc/api.kde-look.org/2059021"
+"Một URL kns để hiển thị thông tin từ. Định dạng của một URL kns là kns://"
+"knsrcfile/providerid/entryid\n"
+"'knsrcfile'\n"
+"là tên của một tệp knsrc như có thể được truyền trực tiếp thông qua đối số "
+"knsrcfile của công cụ này\n"
+"'providerid'\n"
+"là tên máy chủ của nhà cung cấp mà mục nhập nên tồn tại trên\n"
+"'entryid'\n"
+"là mã định danh duy nhất của một mục nhập được tìm thấy trong nhà cung cấp "
+"được chỉ định bởi tệp knsrc.\n"
+"Ví dụ về một URL như vậy là kns://sddmtheme.knsrc/api.kde-look.org/2059021"
 
 #: widgets/action.cpp:28 widgets/button.cpp:70
 #, kde-format
-#| msgid "Download New Stuff"
 msgctxt "@action"
 msgid "Download New Stuff…"
 msgstr "Tải về các thứ mới..."
 
 #, fuzzy
-#~| msgid "Preview Images"
 #~ msgid "Preview"
 #~ msgstr "Ảnh xem trước"
 
 #, fuzzy
-#~| msgid "Details view mode"
 #~ msgid "Detailed Tiles View Mode"
 #~ msgstr "Xem chi tiết"
 
 #, fuzzy
-#~| msgid "Icons view mode"
 #~ msgid "Icons Only View Mode"
 #~ msgstr "Xem biểu tượng"
 
 #, fuzzy
-#~| msgid "Details view mode"
 #~ msgid "Large Preview View Mode"
 #~ msgstr "Xem chi tiết"
 
@@ -1056,27 +1015,23 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr[0] "Đang tải %1 xem trước"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgctxt ""
 #~ "A text shown beside a busy indicator suggesting that data is being fetched"
 #~ msgid "Loading more…"
 #~ msgstr "&Xem thử bản in..."
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgctxt "Request installation of this item"
 #~ msgid "Install"
 #~ msgstr "Cài đặt"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgctxt ""
 #~ "List option which will set the filter so only installed items are shown"
 #~ msgid "Installed Only"
 #~ msgstr "Cài đặt"
 
 #, fuzzy
-#~| msgid "Show directories first"
 #~ msgctxt ""
 #~ "List option which will set the sort order to based on when items were "
 #~ "most recently updated"
@@ -1084,37 +1039,31 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Hiện thư mục trước"
 
 #, fuzzy
-#~| msgid "Show directories first"
 #~ msgctxt "List option which will set the sort order to based on user ratings"
 #~ msgid "Show highest rated first"
 #~ msgstr "Hiện thư mục trước"
 
 #, fuzzy
-#~| msgid "Most downloads"
 #~ msgctxt ""
 #~ "List option which will set the sort order to based on number of downloads"
 #~ msgid "Show most downloaded first"
 #~ msgstr "Tải về nhiều nhất"
 
 #, fuzzy
-#~| msgid "Download New %1"
 #~ msgid "Download New %1..."
 #~ msgstr "Tải về %1 mới"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgctxt ""
 #~ "Show installation options, where there is more than one downloadable item"
 #~ msgid "Install..."
 #~ msgstr "Cài đặt"
 
 #, fuzzy
-#~| msgid "Search"
 #~ msgid "Search..."
 #~ msgstr "Tìm kiếm"
 
 #, fuzzy
-#~| msgid "Updating"
 #~ msgctxt ""
 #~ "Label for the busy indicator showing an item is in the process of being "
 #~ "updated"
@@ -1122,88 +1071,70 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Đang cập nhật"
 
 #, fuzzy
-#~| msgid "Installing"
 #~ msgctxt "Label for the busy indicator showing an item is installing"
 #~ msgid "Installing..."
 #~ msgstr "Đang cài đặt"
 
 #, fuzzy
-#~| msgid "Installed"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Not installed:"
 #~ msgstr "Đã cài"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "@option:check An item in a list of resources that allows to query for "
-#~| "more resources to put in the list"
-#~| msgid "More..."
 #~ msgctxt "@action:inmenu"
 #~ msgid "More"
 #~ msgstr "Thêm..."
 
 #, fuzzy
-#~| msgid "Confi&gure..."
 #~ msgctxt "@action:inmenu"
 #~ msgid "Configure..."
 #~ msgstr "&Cấu hình..."
 
 #, fuzzy
-#~| msgid "Visit contributor's homepage"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Visit homepage"
 #~ msgstr "Xem trang chủ của người đóng góp"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Install"
 #~ msgstr "Cài đặt"
 
 #, fuzzy
-#~| msgid "There is no matching item available.\n"
 #~ msgctxt "@action:inmenu"
 #~ msgid "No further information available."
 #~ msgstr "Không có gì khớp.\n"
 
 #, fuzzy
-#~| msgid "Configure"
 #~ msgid "Configure menu"
 #~ msgstr "Cấu hình"
 
 #, fuzzy
-#~| msgid "&Configure %1..."
 #~ msgid "Configure menu - %1"
 #~ msgstr "&Cấu hình %1..."
 
 #, fuzzy
-#~| msgid "Path to documents folder"
 #~ msgctxt "@action:inmenu %1=\"$GenericName\""
 #~ msgid "%1 - current folder"
 #~ msgstr "Đường dẫn tới thư mục tài liệu"
 
 #, fuzzy
-#~| msgid "Maintainer"
 #~ msgid "Main section"
 #~ msgstr "Nhà duy trì"
 
 #, fuzzy
-#~| msgid "Move &Down"
 #~ msgid "Move down"
 #~ msgstr "Đem &xuống"
 
 #, fuzzy
-#~| msgid "Move &Up"
 #~ msgid "Move up"
 #~ msgstr "Đem &lên"
 
 #, fuzzy
-#~| msgid "Move to Trash"
 #~ msgid "Move to Main section"
 #~ msgstr "Chuyển vào Rác"
 
 #, fuzzy
-#~| msgid "More Actions"
 #~ msgid "Move to More section"
 #~ msgstr "Thêm hành động"
 
@@ -1211,15 +1142,10 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Đặt lại"
 
 #, fuzzy
-#~| msgid "More Actions"
 #~ msgid "More section"
 #~ msgstr "Thêm hành động"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "@option:check An item in a list of resources that allows to query for "
-#~| "more resources to put in the list"
-#~| msgid "More..."
 #~ msgid "More tools..."
 #~ msgstr "Thêm..."
 
@@ -1318,7 +1244,6 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Tác giả :"
 
 #, fuzzy
-#~| msgid "<a href=\"http://opendesktop.org\">Homepage</a>"
 #~ msgid "<a href=\"https://opendesktop.org\">Homepage</a>"
 #~ msgstr "<a href=\"http://opendesktop.org\">Trang chủ</a>"
 
@@ -1360,7 +1285,6 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Đánh giá: %1%"
 
 #, fuzzy
-#~| msgid "<br />Provider: %1"
 #~ msgctxt "Show the size of the file in a list"
 #~ msgid "<br />Size: %1"
 #~ msgstr "<br />Nhà cung cấp: %1"
@@ -1388,14 +1312,11 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Cài đặt lại"
 
 #, fuzzy
-#~| msgid "<p>Downloads: %1</p>\n"
 #~ msgctxt "Show the size of the file in a list"
 #~ msgid "<p>Size: %1</p>"
 #~ msgstr "<p>Tải về: %1</p>\n"
 
 #, fuzzy
-#~| msgctxt "No border line"
-#~| msgid "None"
 #~ msgctxt "@action:button"
 #~ msgid "No"
 #~ msgstr "Không"
@@ -1429,7 +1350,6 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Đang tải dữ liệu nội dung từ máy chủ..."
 
 #, fuzzy
-#~| msgid "Provider information"
 #~ msgid "Could not fetch provider information."
 #~ msgstr "Thông tin về nhà cung cấp"
 
@@ -1593,18 +1513,15 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Bắt đầu tải lên"
 
 #, fuzzy
-#~| msgid "Failed to open scriptfile \"%1\""
 #~ msgid "Failed to execute install script"
 #~ msgstr "Lỗi mở tệp văn lệnh \"%1\"."
 
 #, fuzzy
-#~| msgid "Installing"
 #~ msgctxt "Label for the busy indicator showing an item is being installed"
 #~ msgid "Installing..."
 #~ msgstr "Đang cài đặt"
 
 #, fuzzy
-#~| msgid "Details view mode"
 #~ msgid "Tiles view mode"
 #~ msgstr "Xem chi tiết"
 
@@ -1612,7 +1529,6 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Hiện:"
 
 #, fuzzy
-#~| msgid "Show directories first"
 #~ msgctxt ""
 #~ "List option which will set the sort order to based on when items were "
 #~ "most recently updated"
@@ -1620,19 +1536,16 @@ msgstr "Tải về các thứ mới..."
 #~ msgstr "Hiện thư mục trước"
 
 #, fuzzy
-#~| msgid "Show directories first"
 #~ msgctxt "List option which will set the sort order to based on user ratings"
 #~ msgid "Highest rated first"
 #~ msgstr "Hiện thư mục trước"
 
 #, fuzzy
-#~| msgid "Most downloads"
 #~ msgctxt ""
 #~ "List option which will set the sort order to based on number of downloads"
 #~ msgid "Most downloaded first"
 #~ msgstr "Tải về nhiều nhất"
 
 #, fuzzy
-#~| msgid "loading %1"
 #~ msgid "Using %1"
 #~ msgstr "đang tải %1"

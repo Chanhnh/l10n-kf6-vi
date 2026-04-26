@@ -44,7 +44,6 @@ msgstr ""
 
 #: klettres.cpp:94
 #, kde-format
-#| msgid "KLettres"
 msgid "KLettres - Error"
 msgstr "KLettres - Lỗi"
 
@@ -93,7 +92,6 @@ msgstr ""
 
 #: klettres.cpp:140
 #, kde-format
-#| msgid "L&evel"
 msgctxt "@label:listbox which difficulty level to use"
 msgid "L&evel"
 msgstr "Cấ&p độ"
@@ -117,14 +115,12 @@ msgstr ""
 
 #: klettres.cpp:145
 #, kde-format
-#| msgid "&Language"
 msgctxt "@label:listbox"
 msgid "&Language"
 msgstr "&Ngôn ngữ"
 
 #: klettres.cpp:148 klettres.cpp:149 klettres.cpp:150 klettres.cpp:151
 #, kde-format
-#| msgid "Level 1"
 msgctxt "@item:inlistbox choose level"
 msgid "Level %1"
 msgid_plural "Level %1"
@@ -173,8 +169,7 @@ msgstr "Chế độ Người lớn"
 #, kde-format
 msgid "The Grownup mode is the normal mode where you can see the menubar."
 msgstr ""
-"Chế độ Người lớn là chế độ bình thường, nơi bạn có thể nhìn thấy thanh "
-"menu."
+"Chế độ Người lớn là chế độ bình thường, nơi bạn có thể nhìn thấy thanh menu."
 
 #. i18n: ectx: label, entry (Font), group (mFont)
 #: klettres.cpp:210 klettres.kcfg:51
@@ -194,7 +189,6 @@ msgstr "Đồng hồ hẹn giờ"
 
 #: klettres.cpp:212
 #, kde-format
-#| msgid "Timer setting widgets"
 msgid "Timer Settings"
 msgstr "Thiết lập Đồng hồ hẹn giờ"
 
@@ -329,7 +323,6 @@ msgstr "Kid"
 
 #: kltheme.cpp:86
 #, kde-format
-#| msgid "Desert"
 msgctxt "@item:inlistbox desert theme for the interface"
 msgid "Desert"
 msgstr "Sa mạc"
@@ -358,7 +351,6 @@ msgstr "Luganda"
 
 #: langutils.cpp:92
 #, kde-format
-#| msgid "English sounds"
 msgid "English Phonics"
 msgstr "Tiếng Anh Phonic"
 
@@ -388,7 +380,9 @@ msgid ""
 "25 languages are available."
 msgstr ""
 "KLettres giúp trẻ nhỏ hoặc người lớn đang học một ngôn ngữ mới bằng cách "
-"liên kết âm thanh và chữ cái trong ngôn ngữ đó.\n\nHiện có 25 ngôn ngữ."
+"liên kết âm thanh và chữ cái trong ngôn ngữ đó.\n"
+"\n"
+"Hiện có 25 ngôn ngữ."
 
 #: main.cpp:28
 #, kde-format
@@ -417,7 +411,6 @@ msgstr "Danny Allen"
 
 #: main.cpp:33
 #, kde-format
-#| msgid "Background picture"
 msgid "SVG background pictures"
 msgstr "Hình nền SVG"
 
@@ -488,7 +481,6 @@ msgstr "Lỗi tải tên âm thanh."
 
 #: timer.cpp:19 timer.cpp:20 timer.cpp:28 timer.cpp:29
 #, kde-format
-#| msgid "tenths of second"
 msgid "1 tenth of second"
 msgid_plural "%1 tenths of second"
 msgstr[0] "%1 phần mười giây"
@@ -503,7 +495,6 @@ msgstr "Đặt thời gian giữa hai chữ cái."
 #. i18n: ectx: property (toolTip), widget (QSlider, kcfg_GrownTimer)
 #: timerui.ui:91 timerui.ui:184
 #, kde-format
-#| msgid "Set the timer (in minutes)"
 msgid "Set the timer (in tenths of seconds)"
 msgstr "Đặt đồng hồ hẹn giờ (theo phần mười giây)"
 
@@ -528,10 +519,10 @@ msgid ""
 "indent:0; text-indent:0px;\">Kid Mode</p></body></html>"
 msgstr ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
-"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; "
-"font-weight:400; font-style:normal; text-decoration:none;\"><p style=\" "
-"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
-"-qt-block-indent:0; text-indent:0px;\">Chế độ trẻ em</p></body></html>"
+"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+"weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+"indent:0; text-indent:0px;\">Chế độ trẻ em</p></body></html>"
 
 #. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_GrownTimer)
 #: timerui.ui:187
@@ -554,7 +545,7 @@ msgid ""
 "indent:0; text-indent:0px;\">Grown-up Mode</p></body></html>"
 msgstr ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
-"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; "
-"font-weight:400; font-style:normal; text-decoration:none;\"><p style=\" "
-"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
-"-qt-block-indent:0; text-indent:0px;\">Chế độ người lớn</p></body></html>"
+"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+"weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+"indent:0; text-indent:0px;\">Chế độ người lớn</p></body></html>"

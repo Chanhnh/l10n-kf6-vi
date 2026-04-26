@@ -17,21 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.blinken.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "blinKen"
 msgctxt "Name"
 msgid "Blinken"
 msgstr "Blinken"
 
 #: src/org.kde.blinken.desktop:63
-#, 
 msgctxt "GenericName"
 msgid "Memory Enhancement Game"
 msgstr "Trò chơi tăng cường trí nhớ"
 
 #: src/org.kde.blinken.desktop:124
-#, 
 msgctxt "Comment"
 msgid "A memory enhancement game"
 msgstr "Một trò chơi tăng cường trí nhớ"

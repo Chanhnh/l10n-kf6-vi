@@ -1057,9 +1057,6 @@ msgid "Symbols for Legacy Computing"
 msgstr "Kí hiệu điện toán đời cũ"
 
 #: kcharselect.cpp:391
-#, 
-#| msgctxt "KCharSelect|@info:placeholder"
-#| msgid "Enter a search term or character..."
 msgctxt "KCharSelect|@info:placeholder"
 msgid "Enter a search term or character…"
 msgstr "Nhập từ khóa hoặc ký tự tìm kiếm..."
@@ -1070,9 +1067,6 @@ msgid "Enter a search term or character here"
 msgstr "Nhập vào đây một chuỗi hoặc kí tự tìm kiếm"
 
 #: kcharselect.cpp:400
-#, 
-#| msgctxt "KStandardGuiItem|"
-#| msgid "&Find"
 msgctxt "KCharSelect|@action"
 msgid "&Find…"
 msgstr "&Tìm..."
@@ -1458,17 +1452,11 @@ msgid "Unknown"
 msgstr "Không rõ"
 
 #: kcolorcombo.cpp:333
-#, 
-#| msgctxt "KColorCombo|@item:inlistbox Custom color"
-#| msgid "Custom..."
 msgctxt "KColorCombo|@item:inlistbox Custom color"
 msgid "Custom…"
 msgstr "Tùy chỉnh..."
 
 #: kcontextualhelpbutton.cpp:80
-#, 
-#| msgctxt "KPasswordDialog|"
-#| msgid "Show Contextual Help"
 msgctxt "QObject|@action:button accessible name"
 msgid "Contextual Help"
 msgstr "Trợ giúp theo ngữ cảnh"
@@ -1732,9 +1720,6 @@ msgid "Show only monospaced fonts"
 msgstr "Chỉ hiện phông chữ đơn cách"
 
 #: kfontrequester.cpp:184
-#, 
-#| msgctxt "KFontRequester|@info:tooltip"
-#| msgid "Choose font..."
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Choose font…"
 msgstr "Chọn phông chữ..."
@@ -1851,9 +1836,6 @@ msgid "Close message"
 msgstr "Đóng thông điệp"
 
 #: kmimetypechooser.cpp:88
-#, 
-#| msgctxt "KMimeTypeChooser|@info:placeholder"
-#| msgid "Search for file type or filename pattern..."
 msgctxt "KMimeTypeChooser|@info:placeholder"
 msgid "Search for file type or filename pattern…"
 msgstr "Tìm kiểu tệp hoặc dạng mẫu tên tệp..."
@@ -1879,9 +1861,6 @@ msgid "Patterns"
 msgstr "Dạng mẫu"
 
 #: kmimetypechooser.cpp:126
-#, 
-#| msgctxt "KMimeTypeChooser|@action:button"
-#| msgid "&Edit..."
 msgctxt "KMimeTypeChooser|@action:button"
 msgid "&Edit…"
 msgstr "Chỉ&nh sửa..."
@@ -1980,9 +1959,6 @@ msgid "Password strength &meter:"
 msgstr "Thước đo độ &mạnh mật khẩu:"
 
 #: kpageview.cpp:449
-#, 
-#| msgctxt "KPageView|"
-#| msgid "Search..."
 msgctxt "KPageView|@info:placeholder"
 msgid "Search…"
 msgstr "Tìm kiếm..."
@@ -2043,17 +2019,11 @@ msgid "Change the visibility of the password"
 msgstr "Thay đổi tính khả kiến của mật khẩu"
 
 #: kpasswordlineedit.cpp:87
-#, 
-#| msgctxt "KPasswordDialog|@title:window"
-#| msgid "Password"
 msgctxt "QObject|@action:inmenu"
 msgid "Show Password"
 msgstr "Hiện mật khẩu"
 
 #: kpasswordlineedit.cpp:88
-#, 
-#| msgctxt "KPasswordDialog|@title:window"
-#| msgid "Password"
 msgctxt "QObject|@action:inmenu"
 msgid "Hide Password"
 msgstr "Ẩn Mật khẩu"
@@ -2152,9 +2122,6 @@ msgid "Do not save data"
 msgstr "Đừng lưu dữ liệu"
 
 #: kstandardguiitem.cpp:184
-#, 
-#| msgctxt "KStandardGuiItem|"
-#| msgid "Save &As..."
 msgctxt "KStandardGuiItem|"
 msgid "Save &As…"
 msgstr "&Lưu Với Tên..."
@@ -2186,9 +2153,6 @@ msgstr ""
 "Dùng cách này để thử các thiết lập khác nhau."
 
 #: kstandardguiitem.cpp:203
-#, 
-#| msgctxt "KStandardGuiItem|"
-#| msgid "Administrator &Mode..."
 msgctxt "KStandardGuiItem|"
 msgid "Administrator &Mode…"
 msgstr "&Chế độ Quản trị viên..."
@@ -2294,9 +2258,6 @@ msgid "Go forward one step"
 msgstr "Đi tiến một bước"
 
 #: kstandardguiitem.cpp:276
-#, 
-#| msgctxt "KStandardGuiItem|"
-#| msgid "&Print..."
 msgctxt "KStandardGuiItem|"
 msgid "&Print…"
 msgstr "&In..."
@@ -2327,9 +2288,6 @@ msgid "Delete item(s)"
 msgstr "Xoá (các) mục"
 
 #: kstandardguiitem.cpp:299
-#, 
-#| msgctxt "KStandardGuiItem|"
-#| msgid "&Open..."
 msgctxt "KStandardGuiItem|"
 msgid "&Open…"
 msgstr "&Mở..."
@@ -2365,9 +2323,6 @@ msgid "&Insert"
 msgstr "Chè&n"
 
 #: kstandardguiitem.cpp:325
-#, 
-#| msgctxt "KStandardGuiItem|"
-#| msgid "Confi&gure..."
 msgctxt "KStandardGuiItem|"
 msgid "Confi&gure…"
 msgstr "Cấu &hình..."

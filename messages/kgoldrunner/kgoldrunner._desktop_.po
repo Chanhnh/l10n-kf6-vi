@@ -14,7 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.kgoldrunner.desktop:2
-#, 
 msgctxt "Name"
 msgid "KGoldrunner"
 msgstr "KGoldrunner"
@@ -40,7 +39,6 @@ msgid "A monochrome, black on white theme for KGoldrunner"
 msgstr "Một chủ đề đơn sắc, đen trên nền trắng cho KGoldrunner"
 
 #: themes/default.desktop:2
-#, 
 msgctxt "Name"
 msgid "KGoldRunner Default"
 msgstr "Mặc định của KGoldRunner"
@@ -71,8 +69,6 @@ msgid "The hero is trapped inside a computer."
 msgstr "Người hùng bị mắc kẹt bên trong máy tính."
 
 #: themes/nostalgia-blues.desktop:2
-#, 
-#| msgid "Name=Nostalgy"
 msgctxt "Name"
 msgid "Nostalgia Blues"
 msgstr "Nostalgia Blues"
@@ -81,11 +77,10 @@ msgstr "Nostalgia Blues"
 msgctxt "Description"
 msgid ""
 "A theme for KGoldrunner that brings back that 8-bit look... now in blue!"
-msgstr "Một chủ đề cho KGoldrunner mang lại vẻ 8-bit... bây giờ trong màu xanh!"
+msgstr ""
+"Một chủ đề cho KGoldrunner mang lại vẻ 8-bit... bây giờ trong màu xanh!"
 
 #: themes/nostalgia.desktop:2
-#, 
-#| msgid "Name=Nostalgy"
 msgctxt "Name"
 msgid "Nostalgia"
 msgstr "Nostalgia"

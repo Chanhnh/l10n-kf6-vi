@@ -14,13 +14,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/gui/org.kde.ksudoku.desktop:2
-#, 
 msgctxt "Name"
 msgid "KSudoku"
 msgstr "KSudoku"
 
 #: src/gui/org.kde.ksudoku.desktop:63
-#, 
 msgctxt "GenericName"
 msgid "Sudoku Game"
 msgstr "Trò chơi Sudoku"
@@ -71,7 +69,6 @@ msgid "Three-dimensional puzzle with two interlocking 3x3x3 cubes"
 msgstr "Câu đố ba chiều với hai khối lập phương 3x3x3 đan xen"
 
 #: src/shapes/Jigsaw.desktop:2
-#, 
 msgctxt "Name"
 msgid "Jigsaw"
 msgstr "Jigsaw"
@@ -92,7 +89,6 @@ msgid "4x4 Sudoku, but cages must add to totals shown"
 msgstr "Sudoku 4x4, nhưng các ô phải có tổng bằng các giá trị đã cho"
 
 #: src/shapes/Killer_9x9.desktop:2
-#, 
 msgctxt "Name"
 msgid "Killer Sudoku"
 msgstr "Killer Sudoku"
@@ -223,8 +219,6 @@ msgid "XSudoku shape puzzle"
 msgstr "Câu đố hình dạng XSudoku"
 
 #: src/themes/abstraction.desktop:2
-#, 
-#| msgid "Name=Attraction"
 msgctxt "Name"
 msgid "Abstraction"
 msgstr "Trừu tượng"

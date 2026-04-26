@@ -14,9 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.ksnakeduel.desktop:6
-#, 
-#| msgctxt "Name"
-#| msgid "KSpaceDuel"
 msgctxt "Name"
 msgid "KSnakeDuel"
 msgstr "KSnakeDuel"
@@ -27,20 +24,16 @@ msgid "A race in hyperspace"
 msgstr "Cuộc đua trong không gian siêu tốc"
 
 #: themes/default.desktop:3
-#, 
 msgctxt "Name"
 msgid "Default Theme"
 msgstr "Chủ đề mặc định"
 
 #: themes/default.desktop:55
-#, 
 msgctxt "Description"
 msgid "Default theme."
 msgstr "Chủ đề mặc định."
 
 #: themes/neon.desktop:3
-#, 
-#| msgid "Name=Korn"
 msgctxt "Name"
 msgid "Neon"
 msgstr "Neon"

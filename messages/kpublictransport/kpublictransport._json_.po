@@ -7,6 +7,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -449,7 +450,8 @@ msgstr "Đường sắt quốc gia Áo."
 #: src/lib/networks/au_navitia.json src/lib/networks/un_navitia.json
 msgctxt "Description"
 msgid "World-wide Free Software and Open Data transport data provider."
-msgstr "Nhà cung cấp dữ liệu giao thông miễn phí và mã nguồn mở trên toàn thế giới."
+msgstr ""
+"Nhà cung cấp dữ liệu giao thông miễn phí và mã nguồn mở trên toàn thế giới."
 
 #: src/lib/networks/au_nsw.json
 msgctxt "Description"
@@ -532,8 +534,8 @@ msgid ""
 "German national railway, covers local and long-distance services in Germany "
 "and neighbouring countries."
 msgstr ""
-"Đường sắt quốc gia Đức, bao gồm các dịch vụ địa phương và dài hạn tại Đức "
-"và các nước lân cận."
+"Đường sắt quốc gia Đức, bao gồm các dịch vụ địa phương và dài hạn tại Đức và "
+"các nước lân cận."
 
 #: src/lib/networks/de_he_nvv.json
 msgctxt "Description"

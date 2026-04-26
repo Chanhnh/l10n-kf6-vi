@@ -56,14 +56,12 @@ msgstr "Mở bằ&ng..."
 
 #: src/browseropenorsavequestion.cpp:245
 #, kde-format
-#| msgid "&Open"
 msgctxt "@label:button"
 msgid "&Open with"
 msgstr "&Mở bằng"
 
 #: src/browseropenorsavequestion.cpp:314
 #, kde-format
-#| msgid "&Open"
 msgctxt "@label:button"
 msgid "&Open"
 msgstr "&Mở"
@@ -120,7 +118,6 @@ msgstr "Làm &rỗng thùng rác"
 
 #: src/konq_popupmenu.cpp:314
 #, kde-format
-#| msgid "&Empty Trash Bin"
 msgid "&Configure Trash Bin"
 msgstr "&Cấu hình Thùng Rác"
 
@@ -151,7 +148,6 @@ msgstr "Đánh dấ&u tệp này"
 
 #: src/konq_popupmenu.cpp:386
 #, kde-format
-#| msgid "Preview"
 msgid "Preview In"
 msgstr "Xem thử trong"
 

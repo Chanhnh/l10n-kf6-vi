@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,11 @@ msgstr "Trình khách BitTorrent"
 
 #. (itstool) path: description/p
 #: org.kde.ktorrent.appdata.xml:13
-msgid "KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. It enables you to run multiple torrents at the same time and comes with extended features to make it a full-featured client for BitTorrent."
+msgid ""
+"KTorrent is a BitTorrent application by KDE which allows you to download "
+"files using the BitTorrent protocol. It enables you to run multiple torrents "
+"at the same time and comes with extended features to make it a full-featured "
+"client for BitTorrent."
 msgstr ""
 "KTorrent là một ứng dụng BitTorrent của KDE cho phép bạn tải về các tệp sử "
 "dụng giao thức BitTorrent. Nó cho phép bạn chạy nhiều torrent cùng một lúc "
@@ -65,7 +70,8 @@ msgstr "Tải về chọn lọc cho các torrent nhiều tệp"
 
 #. (itstool) path: ul/li
 #: org.kde.ktorrent.appdata.xml:26
-msgid "Kick/ban peers with an additional IP Filter dialog for list/edit purposes"
+msgid ""
+"Kick/ban peers with an additional IP Filter dialog for list/edit purposes"
 msgstr ""
 "Cấm/chặn các đối tác với một hộp thoại bộ lọc IP bổ sung để danh sách/chỉnh "
 "sửa"
@@ -102,7 +108,9 @@ msgstr "Hỗ trợ bảng băm phân tán (DHT, phiên bản Mainline)"
 
 #. (itstool) path: ul/li
 #: org.kde.ktorrent.appdata.xml:33
-msgid "Support for UPnP to automatically forward ports on a LAN with dynamic assigned hosts"
+msgid ""
+"Support for UPnP to automatically forward ports on a LAN with dynamic "
+"assigned hosts"
 msgstr ""
 "Hỗ trợ UPnP để tự động chuyển tiếp các cổng trên mạng LAN với các máy chủ "
 "được gán động"
@@ -129,5 +137,8 @@ msgstr "Kết nối thông qua uỷ nhiệm"
 
 #. (itstool) path: description/p
 #: org.kde.ktorrent.appdata.xml:39
-msgid "In addition to the built-in functionalities, there are some plugins available for KTorrent."
-msgstr "Ngoài các chức năng tích hợp sẵn, KTorrent còn có một số plugin khả dụng."
+msgid ""
+"In addition to the built-in functionalities, there are some plugins "
+"available for KTorrent."
+msgstr ""
+"Ngoài các chức năng tích hợp sẵn, KTorrent còn có một số plugin khả dụng."

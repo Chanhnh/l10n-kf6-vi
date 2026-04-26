@@ -24,9 +24,6 @@ msgid "KRDC"
 msgstr "KRDC"
 
 #: org.kde.krdc.desktop:68
-#, 
-#| msgctxt "GenericName"
-#| msgid "Remote Desktop Connection"
 msgctxt "GenericName"
 msgid "Remote Desktop Client"
 msgstr "Trình khách kết nối màn hình nền từ xa"
@@ -41,8 +38,6 @@ msgstr "Kết nối với RDP hoặc VNC với máy tính khác"
 #~ msgstr "Mở kết nối màn hình nền từ xa đến máy này"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Kopete Plugin"
 #~ msgctxt "Name"
 #~ msgid "KRDC Plugin"
 #~ msgstr "Phần bổ sung Kopete"

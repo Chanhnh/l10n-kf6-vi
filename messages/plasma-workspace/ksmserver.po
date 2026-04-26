@@ -157,7 +157,8 @@ msgid ""
 "%1"
 msgstr ""
 "Không thể quản lý một số ứng dụng do tài nguyên quản lý phiên của hệ thống "
-"đã cạn kiệt. Ba ứng dụng tiêu tốn nhiều tài nguyên phiên nhất:\n%1"
+"đã cạn kiệt. Ba ứng dụng tiêu tốn nhiều tài nguyên phiên nhất:\n"
+"%1"
 
 #: server.cpp:1070
 #, kde-kuit-format
@@ -181,7 +182,6 @@ msgstr ""
 #~ msgstr "Đăng xuất không qua xác nhận"
 
 #, fuzzy
-#~| msgid "Halt Without Confirmation"
 #~ msgid "Shut Down Without Confirmation"
 #~ msgstr "Tắt không qua xác nhận"
 

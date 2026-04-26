@@ -86,10 +86,9 @@ msgid ""
 "because they either do not support smooth scrolling, or have their own "
 "setting for enabling and disabling it."
 msgstr ""
-"Thiết lập này bật hoặc tắt chuyển tiếp động khi cuộn bằng con lăn chuột "
-"hoặc bàn phím. Một số ứng dụng có thể không tuân theo thiết lập này vì "
-"chúng không hỗ trợ cuộn mượt hoặc có thiết lập riêng để bật tắt tính năng "
-"này."
+"Thiết lập này bật hoặc tắt chuyển tiếp động khi cuộn bằng con lăn chuột hoặc "
+"bàn phím. Một số ứng dụng có thể không tuân theo thiết lập này vì chúng "
+"không hỗ trợ cuộn mượt hoặc có thiết lập riêng để bật tắt tính năng này."
 
 #: ui/main.qml:146
 #, kde-format
@@ -148,7 +147,6 @@ msgstr "Bấm giữa để cuộn đến vị trí bấm"
 
 #: ui/main.qml:255
 #, kde-format
-#| msgid "Middle Click:"
 msgctxt ""
 "@radio part of a complete sentence: 'Middle click pastes selected text'"
 msgid "Middle Click:"
@@ -156,7 +154,6 @@ msgstr "Bấm giữa:"
 
 #: ui/main.qml:257
 #, kde-format
-#| msgid "Paste selected text"
 msgctxt ""
 "@radio part of a complete sentence: 'Middle click pastes selected text'"
 msgid "Pastes selected text"
@@ -207,7 +204,6 @@ msgstr ""
 
 #: ui/main.qml:355
 #, kde-format
-#| msgid "Open by double-clicking instead"
 msgid "Double-click interval:"
 msgstr "Khoảng thời gian bấm đúp:"
 
@@ -258,7 +254,6 @@ msgstr "Bấm trái trong rãnh thanh cuộn sẽ di chuyển thanh cuộn đi m
 #. i18n: ectx: label, entry (doubleClickInterval), group (KDE)
 #: workspaceoptions_kdeglobalssettings.kcfg:25
 #, kde-format
-#| msgid "Open by double-clicking instead"
 msgid "Double click interval"
 msgstr "Khoảng thời gian bấm đúp"
 

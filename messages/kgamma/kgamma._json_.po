@@ -26,9 +26,6 @@ msgid "Gamma"
 msgstr "Gamma"
 
 #: kcmkgamma/kcm_kgamma.json
-#, 
-#| msgctxt "Comment"
-#| msgid "A monitor calibration tool"
 msgctxt "Description"
 msgid "A monitor calibration tool"
 msgstr "Công cụ hiệu chỉnh màn hình"

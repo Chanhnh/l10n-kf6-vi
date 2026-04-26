@@ -42,7 +42,6 @@ msgstr "Đang bỏ gắn kết…"
 
 #: package/contents/ui/DeviceItem.qml:198
 #, kde-format
-#| msgid "Don't unplug yet! Files are still being transferred..."
 msgid "Don't unplug yet! Files are still being transferred…"
 msgstr "Đừng rút ra! Các tệp vẫn đang được truyền..."
 
@@ -174,7 +173,8 @@ msgstr "Một hoặc nhiều tệp trên thiết bị này đang được mở t
 msgid "One or more files on this device are opened in application \"%2\"."
 msgid_plural ""
 "One or more files on this device are opened in following applications: %2."
-msgstr[0] "Một hoặc nhiều tệp trên thiết bị này đang được mở trong ứng dụng \"%2\"."
+msgstr[0] ""
+"Một hoặc nhiều tệp trên thiết bị này đang được mở trong ứng dụng \"%2\"."
 
 #: plugin/ksolidnotify.cpp:253
 #, kde-format
@@ -189,7 +189,6 @@ msgstr "Không gắn kết được thiết bị này."
 
 #: plugin/ksolidnotify.cpp:274
 #, kde-format
-#| msgid "Click to safely remove all devices"
 msgctxt "Remove is less technical for unmount"
 msgid "Could not remove this device."
 msgstr "Không rút được thiết bị này."

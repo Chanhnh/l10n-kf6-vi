@@ -1173,9 +1173,9 @@ msgstr ""
 #: plasma-apply-colorscheme.cpp:53
 #, kde-format
 msgid ""
-"The name of the accent color you want to set. SVG color names (https://www."
-"w3.org/TR/SVG11/types.html#ColorKeywords) and hex color codes are supported. "
-"Quote the hex code if there is possibility of shell expansion"
+"The name of the accent color you want to set. SVG color names (https://"
+"www.w3.org/TR/SVG11/types.html#ColorKeywords) and hex color codes are "
+"supported. Quote the hex code if there is possibility of shell expansion"
 msgstr ""
 "Tên của màu chủ đạo bạn muốn đặt. Các tên màu SVG (https://www.w3.org/TR/"
 "SVG11/types.html#ColorKeywords) và các mã màu hex đều được hỗ trợ. Đặt dấu "
@@ -1242,7 +1242,6 @@ msgstr " * %1 (quy hoạch màu hiện tại)"
 
 #: ui/AccentColorUI.qml:27
 #, kde-format
-#| msgid "Restore Color Scheme"
 msgctxt "@item:inlistbox Accent color from color scheme"
 msgid "Accent Color From Color Scheme"
 msgstr "Màu nhấn từ quy hoạch màu"
@@ -1255,7 +1254,6 @@ msgstr "Màu Nhấn Từ Phông Nền"
 
 #: ui/AccentColorUI.qml:29
 #, kde-format
-#| msgid "Choose custom accent color"
 msgctxt "@item:inlistbox User-chosen custom accent color"
 msgid "Custom Accent Color"
 msgstr "Màu chủ đạo tự chọn"

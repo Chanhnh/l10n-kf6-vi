@@ -7,6 +7,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +30,8 @@ msgstr "Trình khách cho Mastodon"
 #: src/tokodon.notifyrc:41
 msgctxt "Comment"
 msgid "A client for Mastodon, the decentralized social media"
-msgstr "Một trình khách cho Mastodon, phương tiện truyền thông xã hội phi tập trung"
+msgstr ""
+"Một trình khách cho Mastodon, phương tiện truyền thông xã hội phi tập trung"
 
 #: src/tokodon.notifyrc:71
 msgctxt "Name"

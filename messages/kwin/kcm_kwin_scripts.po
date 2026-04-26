@@ -50,21 +50,17 @@ msgstr "Lỗi khi gỡ cài đặt kịch bản KWin: %1"
 
 #: ui/main.qml:23
 #, kde-format
-#| msgid "Install from File..."
 msgid "Install from File…"
 msgstr "Cài từ tệp…"
 
 #: ui/main.qml:27
 #, kde-format
-#| msgid "Get New Scripts..."
 msgctxt "@action:button get new KWin scripts"
 msgid "Get New…"
 msgstr "Lấy mới…"
 
 #: ui/main.qml:65
 #, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid "Delete..."
 msgctxt "@info:tooltip"
 msgid "Delete…"
 msgstr "Xoá…"

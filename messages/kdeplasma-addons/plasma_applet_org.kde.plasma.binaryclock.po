@@ -27,8 +27,6 @@ msgstr "Diện mạo"
 #: package/contents/ui/configGeneral.qml:29
 #: package/contents/ui/configGeneral.qml:59
 #, kde-format
-#| msgctxt "@option:check"
-#| msgid "Inactive LEDs"
 msgctxt "@option:check"
 msgid "Inactive lights"
 msgstr "Đèn bất hoạt"
@@ -46,8 +44,6 @@ msgstr "Dùng màu riêng cho:"
 
 #: package/contents/ui/configGeneral.qml:46
 #, kde-format
-#| msgctxt "@option:check"
-#| msgid "Active LEDs"
 msgctxt "@option:check"
 msgid "Active lights"
 msgstr "Đèn hoạt động"

@@ -24,9 +24,6 @@ msgid "Task Scheduler"
 msgstr "Trình lập lịch tác vụ"
 
 #: src/kcm_cron.json
-#, 
-#| msgctxt "Comment"
-#| msgid "Configure and schedule tasks"
 msgctxt "Description"
 msgid "Configure and schedule tasks"
 msgstr "Cấu hình và lập lịch các tác vụ"

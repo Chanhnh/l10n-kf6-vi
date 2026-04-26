@@ -1085,7 +1085,6 @@ msgstr "Lí do: %1"
 
 #: gui/signaturemodel.cpp:177
 #, kde-format
-#| msgid "Reason: %1"
 msgid "Location: %1"
 msgstr "Vị trí: %1"
 
@@ -1522,8 +1521,6 @@ msgstr "Độ mờ đục"
 
 #: part/annotationactionhandler.cpp:695
 #, kde-format
-#| msgctxt "@item:inlistbox"
-#| msgid "%1%"
 msgctxt ""
 "@item:inlistbox Annotation opacity percentage level, make sure to include %1 "
 "in your translation"
@@ -1532,7 +1529,6 @@ msgstr "%1%"
 
 #: part/annotationmodel.cpp:320
 #, kde-format
-#| msgid "Page %1"
 msgctxt "Page label (number)"
 msgid "Page %1 (%2)"
 msgstr "Trang %1 (%2)"
@@ -1705,8 +1701,8 @@ msgstr "Chọn kí hiệu con dấu tự chọn"
 msgid ""
 "*.ico *.png *.xpm *.svg *.svgz | Icon Files (*.ico *.png *.xpm *.svg *.svgz)"
 msgstr ""
-"*.ico *.png *.xpm *.svg *.svgz | Tệp biểu tượng (*.ico *.png *.xpm *.svg *."
-"svgz)"
+"*.ico *.png *.xpm *.svg *.svgz | Tệp biểu tượng (*.ico *.png *.xpm *.svg "
+"*.svgz)"
 
 #: part/annotationwidgets.cpp:160
 #, kde-kuit-format
@@ -2096,7 +2092,9 @@ msgstr "Tùy chọn"
 msgid ""
 "This annotation may contain LaTeX code.\n"
 "Click here to render."
-msgstr "Chú dẫn này có thể chứa mã LaTeX.\nNhấp vào đây để hiển thị."
+msgstr ""
+"Chú dẫn này có thể chứa mã LaTeX.\n"
+"Nhấp vào đây để hiển thị."
 
 #: part/annotwindow.cpp:416
 #, kde-format
@@ -2639,11 +2637,14 @@ msgid ""
 "If %f is not specified, then the file name is appended to the specified "
 "command."
 msgstr ""
-"Đặt lệnh cho trình biên tập văn bản tùy chỉnh để khởi chạy.<br />\nBạn cũng "
-"có thể sử dụng một số ký tự đại diện:\n<ul>\n  <li>%f - tên tệp</li>\n  "
-"<li>%l - dòng của tệp cần đến</li>\n  <li>%c - cột của tệp cần "
-"đến</li>\n</ul>\nNếu %f không được chỉ định, tên tệp sẽ được thêm vào cuối "
-"lệnh đã chỉ định."
+"Đặt lệnh cho trình biên tập văn bản tùy chỉnh để khởi chạy.<br />\n"
+"Bạn cũng có thể sử dụng một số ký tự đại diện:\n"
+"<ul>\n"
+"  <li>%f - tên tệp</li>\n"
+"  <li>%l - dòng của tệp cần đến</li>\n"
+"  <li>%c - cột của tệp cần đến</li>\n"
+"</ul>\n"
+"Nếu %f không được chỉ định, tên tệp sẽ được thêm vào cuối lệnh đã chỉ định."
 
 #: part/dlgeditor.cpp:63
 #, kde-format
@@ -2938,9 +2939,8 @@ msgid ""
 "Loads and keeps everything in memory. Preload all pages. (Will use at "
 "maximum 50% of your total memory or your free memory, whatever is bigger.)"
 msgstr ""
-"Tải và giữ mọi thứ trong bộ nhớ. Tải trước tất cả các trang. (Sẽ sử dụng "
-"tối đa 50% tổng bộ nhớ hoặc bộ nhớ trống của bạn, tùy theo cái nào lớn "
-"hơn.)"
+"Tải và giữ mọi thứ trong bộ nhớ. Tải trước tất cả các trang. (Sẽ sử dụng tối "
+"đa 50% tổng bộ nhớ hoặc bộ nhớ trống của bạn, tùy theo cái nào lớn hơn.)"
 
 #: part/dlgpresentation.cpp:37
 #, kde-format
@@ -3747,8 +3747,6 @@ msgstr "Tự động vừa khít"
 
 #: part/pageview.cpp:4052
 #, kde-format
-#| msgctxt "@item:inlistbox"
-#| msgid "%1%"
 msgctxt ""
 "Zoom percentage value %1 will be replaced by the actual zoom factor value, "
 "so make sure you include it in your translation in order to not to break "
@@ -3821,7 +3819,8 @@ msgstr "Bôi đen văn bản"
 msgid ""
 "Draw a rectangle around the table, then click near edges to divide up; press "
 "Esc to clear."
-msgstr "Vẽ hình chữ nhật quanh bảng, sau đó bấm gần cạnh để chia; nhấn Esc để xóa."
+msgstr ""
+"Vẽ hình chữ nhật quanh bảng, sau đó bấm gần cạnh để chia; nhấn Esc để xóa."
 
 #: part/pageview.cpp:5129
 #, kde-format
@@ -3843,7 +3842,8 @@ msgstr ""
 #: part/pageview.cpp:5148
 #, kde-format
 msgid "You have unsaved changes. Please save the document before signing it."
-msgstr "Bạn có những thay đổi chưa được lưu. Vui lòng lưu tài liệu trước khi ký nó."
+msgstr ""
+"Bạn có những thay đổi chưa được lưu. Vui lòng lưu tài liệu trước khi ký nó."
 
 #: part/pageview.cpp:5164
 #, kde-format
@@ -3892,7 +3892,8 @@ msgstr "Ký"
 #, kde-format
 msgctxt "%1 is a file path"
 msgid "Could not sign. Invalid certificate password or could not write to '%1'"
-msgstr "Không ký được. Mật khẩu chứng chỉ không hợp lệ hoặc không ghi được vào '%1'"
+msgstr ""
+"Không ký được. Mật khẩu chứng chỉ không hợp lệ hoặc không ghi được vào '%1'"
 
 #: part/pageviewannotator.cpp:1177
 #, kde-format
@@ -4271,7 +4272,8 @@ msgid ""
 "Any modification will be lost once Okular is closed."
 msgstr ""
 "Bạn vừa chỉnh sửa tài liệu đang mở, nhưng loại tài liệu này không thể lưu "
-"được.\nMọi chỉnh sửa sẽ bị mất khi Okular đóng lại."
+"được.\n"
+"Mọi chỉnh sửa sẽ bị mất khi Okular đóng lại."
 
 #: part/part.cpp:1092
 #, kde-format
@@ -4371,8 +4373,8 @@ msgid ""
 "This document wants to be shown full screen.\n"
 "Leave normal mode and enter presentation mode?"
 msgstr ""
-"Tài liệu này muốn hiển thị toàn màn hình.\nRời chế độ bình thường và vào "
-"chế độ trình chiếu?"
+"Tài liệu này muốn hiển thị toàn màn hình.\n"
+"Rời chế độ bình thường và vào chế độ trình chiếu?"
 
 #: part/part.cpp:1697
 #, kde-format
@@ -4403,10 +4405,10 @@ msgid ""
 "changes made in the other program.<nl/><nl/>Do you want to continue "
 "reloading the file?"
 msgstr ""
-"Tệp <filename>%1</filename> có các thay đổi chưa lưu nhưng đã được chỉnh "
-"sửa bởi một chương trình khác. Tải lại sẽ thay thế các thay đổi chưa lưu "
-"bằng các thay đổi được thực hiện trong chương trình kia.<nl/><nl/>Bạn có "
-"muốn tiếp tục tải lại tệp không?"
+"Tệp <filename>%1</filename> có các thay đổi chưa lưu nhưng đã được chỉnh sửa "
+"bởi một chương trình khác. Tải lại sẽ thay thế các thay đổi chưa lưu bằng "
+"các thay đổi được thực hiện trong chương trình kia.<nl/><nl/>Bạn có muốn "
+"tiếp tục tải lại tệp không?"
 
 #: part/part.cpp:1823 part/part.cpp:1833
 #, kde-format
@@ -4432,9 +4434,9 @@ msgid ""
 "changes made in the other program.<nl/><nl/>Do you want to continue closing "
 "the file?"
 msgstr ""
-"Tệp <filename>%1</filename> có thay đổi chưa lưu nhưng đã được chỉnh sửa "
-"bởi chương trình khác. Đóng tệp sẽ thay thế các thay đổi chưa lưu bằng các "
-"thay đổi từ chương trình kia.<nl/><nl/>Bạn có muốn tiếp tục đóng tệp không?"
+"Tệp <filename>%1</filename> có thay đổi chưa lưu nhưng đã được chỉnh sửa bởi "
+"chương trình khác. Đóng tệp sẽ thay thế các thay đổi chưa lưu bằng các thay "
+"đổi từ chương trình kia.<nl/><nl/>Bạn có muốn tiếp tục đóng tệp không?"
 
 #: part/part.cpp:1834
 #, kde-format
@@ -4532,8 +4534,8 @@ msgid ""
 "You have chosen to save an Okular Archive without the file name ending with "
 "the '%1' extension. That is not allowed, do you want to choose a new name?"
 msgstr ""
-"Bạn đã chọn lưu kho trữ Okular mà không có phần mở rộng '%1' ở cuối tên "
-"tệp. Điều này không được phép, bạn có muốn chọn tên mới không?"
+"Bạn đã chọn lưu kho trữ Okular mà không có phần mở rộng '%1' ở cuối tên tệp. "
+"Điều này không được phép, bạn có muốn chọn tên mới không?"
 
 #: part/part.cpp:2580
 #, kde-format
@@ -4554,9 +4556,9 @@ msgid ""
 "you save now, any changes made in the other program will be lost. Are you "
 "sure you want to continue?"
 msgstr ""
-"Tệp <filename>%1</filename> đã được chỉnh sửa bởi một chương trình khác. "
-"Nếu bạn lưu bây giờ, mọi thay đổi trong chương trình kia sẽ bị mất. Bạn có "
-"chắc muốn tiếp tục?"
+"Tệp <filename>%1</filename> đã được chỉnh sửa bởi một chương trình khác. Nếu "
+"bạn lưu bây giờ, mọi thay đổi trong chương trình kia sẽ bị mất. Bạn có chắc "
+"muốn tiếp tục?"
 
 #: part/part.cpp:2626 part/part.cpp:2644 part/part.cpp:2696
 #, kde-format
@@ -4576,8 +4578,8 @@ msgid ""
 "your undo/redo history will be lost.<br />Do you want to continue?"
 msgstr ""
 "Tài liệu hiện tại được bảo vệ bằng mật khẩu.<br />Để lưu, cần tải lại tệp. "
-"Bạn sẽ được yêu cầu nhập lại mật khẩu và lịch sử hoàn tác/làm lại sẽ bị "
-"mất.<br />Bạn có muốn tiếp tục không?"
+"Bạn sẽ được yêu cầu nhập lại mật khẩu và lịch sử hoàn tác/làm lại sẽ bị mất."
+"<br />Bạn có muốn tiếp tục không?"
 
 #: part/part.cpp:2670
 #, kde-format
@@ -4625,9 +4627,9 @@ msgid ""
 "saving the following elements. Please use the <i>Okular document archive</i> "
 "format to preserve them."
 msgstr ""
-"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các "
-"phần tử sau. Vui lòng sử dụng định dạng <i>lưu trữ tài liệu Okular</i> để "
-"bảo toàn chúng."
+"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các phần "
+"tử sau. Vui lòng sử dụng định dạng <i>lưu trữ tài liệu Okular</i> để bảo "
+"toàn chúng."
 
 #: part/part.cpp:2735 part/part.cpp:2757
 #, kde-format
@@ -4647,9 +4649,9 @@ msgid ""
 "format to preserve them. Click <i>Continue</i> to save the document and "
 "discard these elements."
 msgstr ""
-"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các "
-"phần tử sau. Vui lòng sử dụng định dạng <i>Okular document archive</i> để "
-"giữ chúng. Bấm <i>Tiếp tục</i> để lưu tài liệu và loại bỏ các phần tử này."
+"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các phần "
+"tử sau. Vui lòng sử dụng định dạng <i>Okular document archive</i> để giữ "
+"chúng. Bấm <i>Tiếp tục</i> để lưu tài liệu và loại bỏ các phần tử này."
 
 #: part/part.cpp:2751
 #, kde-format
@@ -4659,10 +4661,10 @@ msgid ""
 "format to preserve them. Click <i>Continue</i> to save, but you will lose "
 "these elements as well as the undo/redo history."
 msgstr ""
-"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các "
-"phần tử sau. Vui lòng sử dụng định dạng <i>Okular document archive</i> để "
-"giữ chúng. Bấm <i>Tiếp tục</i> để lưu, nhưng bạn sẽ mất các phần tử này "
-"cùng lịch sử hoàn tác/làm lại."
+"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các phần "
+"tử sau. Vui lòng sử dụng định dạng <i>Okular document archive</i> để giữ "
+"chúng. Bấm <i>Tiếp tục</i> để lưu, nhưng bạn sẽ mất các phần tử này cùng "
+"lịch sử hoàn tác/làm lại."
 
 #: part/part.cpp:2753
 #, kde-format
@@ -4686,8 +4688,9 @@ msgid ""
 "\n"
 "The document does not exist anymore."
 msgstr ""
-"Okular không thể sao chép %1 đến vị trí đã chọn.\n\nTài liệu không còn tồn "
-"tại."
+"Okular không thể sao chép %1 đến vị trí đã chọn.\n"
+"\n"
+"Tài liệu không còn tồn tại."
 
 #: part/part.cpp:2856
 #, kde-format
@@ -4759,7 +4762,8 @@ msgstr "Không in được tài liệu. Lỗi không rõ. Vui lòng báo tới b
 msgid ""
 "Could not print the document. Detailed error is \"%1\". Please report to "
 "bugs.kde.org"
-msgstr "Không in được tài liệu. Lỗi chi tiết là \"%1\". Vui lòng báo tại bugs.kde.org"
+msgstr ""
+"Không in được tài liệu. Lỗi chi tiết là \"%1\". Vui lòng báo tại bugs.kde.org"
 
 #: part/part.cpp:3640
 #, kde-format
@@ -4777,8 +4781,8 @@ msgid ""
 "<qt><strong>File Error!</strong> Could not create temporary file "
 "<nobr><strong>%1</strong></nobr>.</qt>"
 msgstr ""
-"<qt><strong>Lỗi tệp!</strong> Không tạo được tệp tạm "
-"<nobr><strong>%1</strong></nobr>.</qt>"
+"<qt><strong>Lỗi tệp!</strong> Không tạo được tệp tạm <nobr><strong>%1</"
+"strong></nobr>.</qt>"
 
 #: part/part.cpp:3681
 #, kde-format
@@ -4786,8 +4790,8 @@ msgid ""
 "<qt><strong>File Error!</strong> Could not open the file <nobr><strong>%1</"
 "strong></nobr> for uncompression. The file will not be loaded.</qt>"
 msgstr ""
-"<qt><strong>Lỗi tệp!</strong> Không mở được tệp "
-"<nobr><strong>%1</strong></nobr> để giải nén. Tệp sẽ không được tải.</qt>"
+"<qt><strong>Lỗi tệp!</strong> Không mở được tệp <nobr><strong>%1</strong></"
+"nobr> để giải nén. Tệp sẽ không được tải.</qt>"
 
 #: part/part.cpp:3685
 #, kde-format
@@ -4804,11 +4808,11 @@ msgstr ""
 #: part/part.cpp:3707
 #, kde-format
 msgid ""
-"<qt><strong>File Error!</strong> Could not uncompress the file <nobr><strong>"
-"%1</strong></nobr>. The file will not be loaded.</qt>"
+"<qt><strong>File Error!</strong> Could not uncompress the file "
+"<nobr><strong>%1</strong></nobr>. The file will not be loaded.</qt>"
 msgstr ""
-"<qt><strong>Lỗi tệp!</strong> Không giải nén được tệp "
-"<nobr><strong>%1</strong></nobr>. Tệp sẽ không được tải.</qt>"
+"<qt><strong>Lỗi tệp!</strong> Không giải nén được tệp <nobr><strong>%1</"
+"strong></nobr>. Tệp sẽ không được tải.</qt>"
 
 #: part/part.cpp:3711
 #, kde-format
@@ -4951,8 +4955,9 @@ msgid ""
 " %1 \n"
 "If you want to use the setting, start okular without the option --editor-cmd"
 msgstr ""
-"Trình biên tập đã được đặt bởi dòng lệnh thành \n %1 \nNếu muốn sử dụng cài "
-"đặt này, khởi động okular không có lựa chọn --editor-cmd"
+"Trình biên tập đã được đặt bởi dòng lệnh thành \n"
+" %1 \n"
+"Nếu muốn sử dụng cài đặt này, khởi động okular không có lựa chọn --editor-cmd"
 
 #: part/presentationsearchbar.cpp:77
 #, kde-format
@@ -5279,7 +5284,6 @@ msgstr "Tùy chọn lọc"
 #. i18n: ectx: property (windowTitle), widget (QDialog, SelectCertificateDialog)
 #: part/selectcertificatedialog.ui:14
 #, kde-format
-#| msgid "Sign Certificate"
 msgid "Certificates"
 msgstr "Chứng chỉ"
 
@@ -5469,7 +5473,6 @@ msgstr "Xem chứng chỉ..."
 
 #: part/signaturepropertiesdialog.cpp:92
 #, kde-format
-#| msgid "Sign Certificate"
 msgid "View in Certificate Manager"
 msgstr "Xem trong Trình quản lý chứng chỉ"
 
@@ -5661,13 +5664,16 @@ msgstr "Không thể tìm thấy thành phần Okular."
 msgid ""
 "Click to open a file\n"
 "Click and hold to open a recent file"
-msgstr "Bấm để mở tệp\nBấm và giữ để mở tệp gần đây"
+msgstr ""
+"Bấm để mở tệp\n"
+"Bấm và giữ để mở tệp gần đây"
 
 #: shell/shell.cpp:570
 #, kde-format
 msgid ""
 "<b>Click</b> to open a file or <b>Click and hold</b> to select a recent file"
-msgstr "<b>Nhấp chuột</b> để mở tệp hoặc <b>Nhấp và giữ</b> để bôi đen tệp gần đây"
+msgstr ""
+"<b>Nhấp chuột</b> để mở tệp hoặc <b>Nhấp và giữ</b> để bôi đen tệp gần đây"
 
 #: shell/shell.cpp:583
 #, kde-format

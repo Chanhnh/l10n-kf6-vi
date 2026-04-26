@@ -26,7 +26,6 @@ msgstr "Khác…"
 
 #: components/componentchooserarchivemanager.cpp:15
 #, kde-format
-#| msgid "Select default file manager"
 msgid "Select default archive manager"
 msgstr "Chọn trình quản lí kho trữ mặc định"
 
@@ -52,19 +51,16 @@ msgstr "Chọn bản đồ mặc định"
 
 #: components/componentchooserimageviewer.cpp:15
 #, kde-format
-#| msgid "Select default file manager"
 msgid "Select default image viewer"
 msgstr "Chọn trình xem ảnh mặc định"
 
 #: components/componentchoosermusicplayer.cpp:15
 #, kde-format
-#| msgid "Select default map"
 msgid "Select default music player"
 msgstr "Bôi đen trình phát nhạc mặc định"
 
 #: components/componentchooserpdfviewer.cpp:11
 #, kde-format
-#| msgid "Select default browser"
 msgid "Select default PDF viewer"
 msgstr "Chọn trình xem PDF mặc định"
 
@@ -80,13 +76,11 @@ msgstr "Chọn trình giả lập thiết bị đầu cuối mặc định"
 
 #: components/componentchoosertexteditor.cpp:15
 #, kde-format
-#| msgid "Select default terminal emulator"
 msgid "Select default text editor"
 msgstr "Chọn trình biên tập văn bản mặc định"
 
 #: components/componentchooservideoplayer.cpp:15
 #, kde-format
-#| msgid "Select default file manager"
 msgid "Select default video player"
 msgstr "Chọn trình phát phim mặc định"
 
@@ -118,8 +112,7 @@ msgid ""
 "This application does not advertise support for the following file types, "
 "but may be able to open them anyway:"
 msgstr ""
-"Ứng dụng này không quảng cáo hỗ trợ các loại tệp sau, nhưng có thể mở "
-"chúng:"
+"Ứng dụng này không quảng cáo hỗ trợ các loại tệp sau, nhưng có thể mở chúng:"
 
 #: ui/ComponentOverlay.qml:146
 #, kde-format
@@ -218,13 +211,11 @@ msgstr "Trình giả lập thiết bị đầu cuối:"
 
 #: ui/main.qml:279
 #, kde-format
-#| msgid "File manager:"
 msgid "Archive manager:"
 msgstr "Trình quản lí kho trữ:"
 
 #: ui/main.qml:301
 #, kde-format
-#| msgid "Map:"
 msgctxt "Map related application’s category’s name"
 msgid "Map:"
 msgstr "Bản đồ:"

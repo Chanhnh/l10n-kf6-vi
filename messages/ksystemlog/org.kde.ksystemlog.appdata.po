@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,11 +22,14 @@ msgstr "trình xem nhật kí hệ thống"
 
 #. (itstool) path: description/p
 #: org.kde.ksystemlog.appdata.xml:9
-msgid "KSystemLog show all logs of your system, grouped by General (Default system log, Authentication, Kernel, X.org...), and optional Services (Apache, Cups, etc, ...). It includes many features to read nicely your log files:"
+msgid ""
+"KSystemLog show all logs of your system, grouped by General (Default system "
+"log, Authentication, Kernel, X.org...), and optional Services (Apache, Cups, "
+"etc, ...). It includes many features to read nicely your log files:"
 msgstr ""
 "KSystemLog hiển thị tất cả các nhật kí của hệ thống của bạn, được nhóm theo "
-"Chung (Nhật kí hệ thống mặc định, Xác thực, Kernel, X.org...) và các Dịch "
-"vụ tùy chọn (Apache, Cups, v.v.). Nó bao gồm nhiều tính năng để đọc các tệp "
+"Chung (Nhật kí hệ thống mặc định, Xác thực, Kernel, X.org...) và các Dịch vụ "
+"tùy chọn (Apache, Cups, v.v.). Nó bao gồm nhiều tính năng để đọc các tệp "
 "nhật kí của bạn một cách dễ dàng:"
 
 #. (itstool) path: ul/li

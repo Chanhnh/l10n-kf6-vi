@@ -39,7 +39,6 @@ msgstr "Nhắm vào thanh tìm kiếm"
 
 #: searchbar.cpp:272
 #, kde-format
-#| msgid "Find in This Page"
 msgid "Find in Page..."
 msgstr "Tìm trong trang này..."
 

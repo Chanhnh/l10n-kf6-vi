@@ -14,7 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: levels/default_levels.dat:2
-#, 
 msgctxt "Name"
 msgid "Original levels"
 msgstr "Mức độ gốc"
@@ -25,9 +24,6 @@ msgid "This is the original collection of KAtomic levels."
 msgstr "Đây là bộ sưu tập các mức độ KAtomic gốc."
 
 #: levels/default_levels.dat:102
-#, 
-#| msgctxt "Name"
-#| msgid "Water"
 msgctxt "Name"
 msgid "Water"
 msgstr "Nước"
@@ -93,8 +89,6 @@ msgid "Formaldehyde"
 msgstr "Formaldehyde"
 
 #: levels/default_levels.dat:1095
-#, 
-#| msgid "Name=Crystal"
 msgctxt "Name"
 msgid "Crystal 1"
 msgstr "Pha lê 1"
@@ -155,8 +149,6 @@ msgid "Ethane"
 msgstr "Ethane"
 
 #: levels/default_levels.dat:2045
-#, 
-#| msgid "Name=Crystal"
 msgctxt "Name"
 msgid "Crystal 2"
 msgstr "Pha lê 2"
@@ -187,8 +179,6 @@ msgid "Anthracene"
 msgstr "Anthracene"
 
 #: levels/default_levels.dat:2523
-#, 
-#| msgid "Name=Triangle"
 msgctxt "Name"
 msgid "Thiazole"
 msgstr "Thiazole"
@@ -269,8 +259,6 @@ msgid "Vanillin"
 msgstr "Vanillin"
 
 #: levels/default_levels.dat:3935
-#, 
-#| msgid "Name=Crystal"
 msgctxt "Name"
 msgid "Crystal 3"
 msgstr "Pha lê 3"
@@ -301,8 +289,6 @@ msgid "Carbonic acid"
 msgstr "Axit cacbonic"
 
 #: levels/default_levels.dat:4423
-#, 
-#| msgid "Name=Crystal"
 msgctxt "Name"
 msgid "Crystal 4"
 msgstr "Pha lê 4"
@@ -318,7 +304,6 @@ msgid "Acrylo-Nitril"
 msgstr "Acrylo-Nitril"
 
 #: levels/default_levels.dat:4663
-#, 
 msgctxt "Name"
 msgid "Furan"
 msgstr "Furan"
@@ -339,8 +324,6 @@ msgid "meso-Tartaric acid"
 msgstr "axit meso-Tartaric"
 
 #: levels/default_levels.dat:4982
-#, 
-#| msgid "Name=Crystal"
 msgctxt "Name"
 msgid "Crystal 5"
 msgstr "Pha lê 5"
@@ -356,7 +339,6 @@ msgid "1,4-Cyclohexadiene"
 msgstr "1,4-Cyclohexadiene"
 
 #: levels/default_levels.dat:5224
-#, 
 msgctxt "Name"
 msgid "Squaric acid"
 msgstr "Axit squaric"
@@ -382,8 +364,6 @@ msgid "Thiophene"
 msgstr "Thiophene"
 
 #: levels/default_levels.dat:5617
-#, 
-#| msgid "Name=Arena"
 msgctxt "Name"
 msgid "Urea"
 msgstr "Urea"
@@ -404,7 +384,6 @@ msgid "Phosphoric Acid"
 msgstr "Axit Phosphoric"
 
 #: levels/default_levels.dat:5925
-#, 
 msgctxt "Name"
 msgid "Diacetyl"
 msgstr "Diacetyl"
@@ -455,7 +434,6 @@ msgid "KAtomic"
 msgstr "KAtomic"
 
 #: src/org.kde.katomic.desktop:80
-#, 
 msgctxt "GenericName"
 msgid "Sokoban-like Logic Game"
 msgstr "Trò chơi logic kiểu Sokoban"

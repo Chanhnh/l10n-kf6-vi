@@ -72,7 +72,6 @@ msgstr "Cài từ tệp…"
 
 #: ui/main.qml:72
 #, kde-format
-#| msgid "Get New Icons…"
 msgid "Get New…"
 msgstr "Lấy mới…"
 

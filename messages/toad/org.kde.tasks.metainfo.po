@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +27,9 @@ msgstr "Cộng đồng KDE, Felipe Kinoshita"
 
 #. (itstool) path: description/p
 #: org.kde.tasks.metainfo.xml:14
-msgid "Tasks is a to-do application, you can edit tasks on the fly and it saves all your work automatically."
+msgid ""
+"Tasks is a to-do application, you can edit tasks on the fly and it saves all "
+"your work automatically."
 msgstr ""
 "Tasks là một ứng dụng quản lý công việc, bạn có thể sửa đổi các công việc "
 "ngay lập tức và nó sẽ tự động lưu lại tất cả công việc của bạn."

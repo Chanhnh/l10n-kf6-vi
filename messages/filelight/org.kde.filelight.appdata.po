@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,11 +22,14 @@ msgstr "Hiển thị mức sử dụng đĩa và xóa các tệp không sử d�
 
 #. (itstool) path: description/p
 #: org.kde.filelight.appdata.xml:13
-msgid "Filelight is an application to visualize the disk usage on your computer by showing folders using an easy-to-understand view of concentric rings. Filelight makes it simple to free up space!"
+msgid ""
+"Filelight is an application to visualize the disk usage on your computer by "
+"showing folders using an easy-to-understand view of concentric rings. "
+"Filelight makes it simple to free up space!"
 msgstr ""
 "Filelight là một ứng dụng để trực quan hóa việc sử dụng ổ đĩa trên máy tính "
-"của bạn bằng cách hiển thị các thư mục sử dụng một khung xem dễ hiểu của "
-"các vòng đồng tâm. Filelight giúp bạn dễ dàng giải phóng không gian!"
+"của bạn bằng cách hiển thị các thư mục sử dụng một khung xem dễ hiểu của các "
+"vòng đồng tâm. Filelight giúp bạn dễ dàng giải phóng không gian!"
 
 #. (itstool) path: description/p
 #: org.kde.filelight.appdata.xml:16

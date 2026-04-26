@@ -40,7 +40,6 @@ msgstr "Thay thế"
 
 #: main.cpp:69
 #, kde-format
-#| msgid "Get New Task Switchers..."
 msgid "Get New Task Switchers…"
 msgstr "Lấy trình chuyển tác vụ mới…"
 
@@ -61,7 +60,6 @@ msgstr "Nội dung"
 #. i18n: ectx: property (text), widget (QCheckBox, showDesktop)
 #: main.ui:41
 #, kde-format
-#| msgid "Include \"Show Desktop\" icon"
 msgid "Include \"Show Desktop\" entry"
 msgstr "Bao gồm mục \"Hiện bàn làm việc\""
 

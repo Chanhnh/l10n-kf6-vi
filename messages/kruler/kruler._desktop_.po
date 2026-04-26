@@ -20,21 +20,16 @@ msgstr ""
 "X-Generator: KAider 0.1\n"
 
 #: kruler.notifyrc:4
-#, 
-#| msgctxt "GenericName"
-#| msgid "Screen Ruler"
 msgctxt "Comment"
 msgid "On-Screen Ruler"
 msgstr "Thước đo trên màn hình"
 
 #: kruler.notifyrc:67
-#, 
 msgctxt "Name"
 msgid "Moved by Cursor Keys"
 msgstr "Di chuyển bằng các phím con trỏ"
 
 #: kruler.notifyrc:136
-#, 
 msgctxt "Comment"
 msgid "The ruler has moved pixelwise using the cursor keys"
 msgstr "Thước đã được di chuyển pixel bằng các phím con trỏ"

@@ -40,7 +40,6 @@ msgstr "Kết thúc trò chơi"
 
 #: game.cpp:114
 #, kde-format
-#| msgid "Winner is Player %1!"
 msgid "The winner is Player %1!"
 msgstr "Người chiến thắng là Người chơi %1!"
 
@@ -71,8 +70,6 @@ msgstr "Khởi động di chuyển máy tính"
 
 #: game.cpp:267
 #, kde-format
-#| msgctxt "NAME OF TRANSLATORS"
-#| msgid "Your names"
 msgid "Your turn"
 msgstr "Lượt của bạn"
 
@@ -131,11 +128,12 @@ msgstr "Trò chơi mới"
 msgid ""
 "The file %1 already exists.\n"
 "Do you want to overwrite it?"
-msgstr "Tệp %1 đang tồn tại.\nBạn muốn chép đè không?"
+msgstr ""
+"Tệp %1 đang tồn tại.\n"
+"Bạn muốn chép đè không?"
 
 #: game.cpp:600
 #, kde-format
-#| msgid "game saved as %1"
 msgid "Game saved as %1"
 msgstr "Bàn chơi được lưu với tên %1"
 
@@ -176,9 +174,11 @@ msgid ""
 "Do you wish to abandon the current game or continue playing and restore the "
 "previous size setting?"
 msgstr ""
-"Bạn đã thay đổi cài đặt kích thước của trò chơi và điều này yêu cầu phải "
-"bắt đầu một trò chơi mới.\n\nBạn có muốn bỏ qua trò chơi hiện tại hoặc tiếp "
-"tục chơi và khôi phục cài đặt kích thước trước đó?"
+"Bạn đã thay đổi cài đặt kích thước của trò chơi và điều này yêu cầu phải bắt "
+"đầu một trò chơi mới.\n"
+"\n"
+"Bạn có muốn bỏ qua trò chơi hiện tại hoặc tiếp tục chơi và khôi phục cài đặt "
+"kích thước trước đó?"
 
 #: game.cpp:683
 #, kde-format
@@ -188,7 +188,9 @@ msgid ""
 "Do you wish to abandon the current game?"
 msgstr ""
 "Bạn đã yêu cầu một bàn chơi mới, nhưng hiện đang có một bàn chơi đang diễn "
-"ra.\n\nBạn có muốn bỏ bàn chơi hiện tại không?"
+"ra.\n"
+"\n"
+"Bạn có muốn bỏ bàn chơi hiện tại không?"
 
 #: game.cpp:689
 #, kde-format
@@ -307,13 +309,15 @@ msgstr "Liệu người chơi 1 có được điều khiển bởi máy tính ha
 #: kjumpingcube.kcfg:53
 #, kde-format
 msgid "Whether computer player 1 uses Kepler AI."
-msgstr "Liệu người chơi máy tính 1 có sử dụng trí tuệ nhân tạo Kepler hay không."
+msgstr ""
+"Liệu người chơi máy tính 1 có sử dụng trí tuệ nhân tạo Kepler hay không."
 
 #. i18n: ectx: label, entry (Newton1), group (Game)
 #: kjumpingcube.kcfg:57
 #, kde-format
 msgid "Whether computer player 1 uses Newton AI."
-msgstr "Liệu người chơi máy tính 1 có sử dụng trí tuệ nhân tạo Newton hay không."
+msgstr ""
+"Liệu người chơi máy tính 1 có sử dụng trí tuệ nhân tạo Newton hay không."
 
 #. i18n: ectx: label, entry (Skill1), group (Game)
 #: kjumpingcube.kcfg:68
@@ -331,13 +335,15 @@ msgstr "Liệu người chơi 2 có được điều khiển bởi máy tính ha
 #: kjumpingcube.kcfg:76
 #, kde-format
 msgid "Whether computer player 2 uses Kepler AI."
-msgstr "Liệu người chơi máy tính 2 có sử dụng trí tuệ nhân tạo Kepler hay không."
+msgstr ""
+"Liệu người chơi máy tính 2 có sử dụng trí tuệ nhân tạo Kepler hay không."
 
 #. i18n: ectx: label, entry (Newton2), group (Game)
 #: kjumpingcube.kcfg:80
 #, kde-format
 msgid "Whether computer player 2 uses Newton AI."
-msgstr "Liệu người chơi máy tính 2 có sử dụng trí tuệ nhân tạo Newton hay không."
+msgstr ""
+"Liệu người chơi máy tính 2 có sử dụng trí tuệ nhân tạo Newton hay không."
 
 #. i18n: ectx: label, entry (Skill2), group (Game)
 #: kjumpingcube.kcfg:91

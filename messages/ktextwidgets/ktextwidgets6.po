@@ -106,7 +106,6 @@ msgstr "Biểu thức chính &quy"
 
 #: findreplace/kfinddialog.cpp:84
 #, kde-format
-#| msgid "&Edit..."
 msgctxt "@action:button"
 msgid "&Edit…"
 msgstr "C&hỉnh sửa..."
@@ -240,9 +239,10 @@ msgid ""
 msgstr ""
 "<qt>Nếu bật, bất kì lần xuất hiện nào của <code><b>\\N</b></code>, với "
 "<code><b>N</b></code> là một số nguyên, sẽ được thay thế bằng thu thập "
-"(\"chuỗi con đặt trong ngoặc\") tương ứng ở trong dạng mẫu.<p>Để có <code><b>"
-"\\N</b></code> nguyên dạng trong văn bản thay thế, hãy đặt thêm một dấu gạch "
-"chéo ngược vào trước nó, theo dạng <code><b>\\\\N</b></code>.</p></qt>"
+"(\"chuỗi con đặt trong ngoặc\") tương ứng ở trong dạng mẫu.<p>Để có "
+"<code><b>\\N</b></code> nguyên dạng trong văn bản thay thế, hãy đặt thêm một "
+"dấu gạch chéo ngược vào trước nó, theo dạng <code><b>\\\\N</b></code>.</p></"
+"qt>"
 
 #: findreplace/kfinddialog.cpp:231
 #, kde-format
@@ -436,8 +436,6 @@ msgstr ""
 
 #: widgets/krichtextwidget.cpp:207
 #, kde-format
-#| msgctxt "@action"
-#| msgid "Text &Color..."
 msgctxt "@action"
 msgid "Text &Color…"
 msgstr "Màu vă&n bản..."
@@ -450,8 +448,6 @@ msgstr "Màu"
 
 #: widgets/krichtextwidget.cpp:221
 #, kde-format
-#| msgctxt "@action"
-#| msgid "Text &Highlight..."
 msgctxt "@action"
 msgid "Text &Highlight…"
 msgstr "Tô sá&ng văn bản..."
@@ -727,7 +723,6 @@ msgstr "Không có gì để kiểm tra đánh vần."
 
 #: widgets/ktextedit.cpp:501
 #, kde-format
-#| msgid "Check Spelling..."
 msgctxt "@action:inmenu"
 msgid "Check Spelling…"
 msgstr "Kiểm tra chính tả..."

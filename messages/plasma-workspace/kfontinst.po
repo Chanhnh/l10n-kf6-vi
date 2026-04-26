@@ -59,7 +59,6 @@ msgstr "(C) Craig Drummond, 2007"
 
 #: apps/Installer.cpp:124
 #, kde-format
-#| msgid "Makes the dialog transient for an X app specified by winid"
 msgid "Makes the dialog transient for a window specified by windowHandle"
 msgstr "Làm hộp thoại tạm thời cho cửa sổ được xác định bởi windowHandle"
 
@@ -801,11 +800,11 @@ msgstr "Không có gì để di chuyển"
 #: kcmfontinst/KCmFontInst.cpp:662
 #, kde-format
 msgid ""
-"<p>Do you really want to move</p><p>'<b>%1</b>'</p><p>from <i>%2</i> to <i>"
-"%3</i>?</p>"
+"<p>Do you really want to move</p><p>'<b>%1</b>'</p><p>from <i>%2</i> to "
+"<i>%3</i>?</p>"
 msgstr ""
-"<p>Bạn có thật sự muốn di chuyển</p><p>'<b>%1</b>'</p><p>từ <i>%2</i> đến <i>"
-"%3</i>?</p>"
+"<p>Bạn có thật sự muốn di chuyển</p><p>'<b>%1</b>'</p><p>từ <i>%2</i> đến "
+"<i>%3</i>?</p>"
 
 #: kcmfontinst/KCmFontInst.cpp:667
 #, kde-format
@@ -896,25 +895,26 @@ msgstr[0] "%1 phông chữ"
 #: kcmfontinst/KCmFontInst.cpp:900
 #, kde-format
 msgid ""
-"<table><tr><td align=\"right\">Enabled:</td><td>%1</td></tr><tr><td align="
-"\"right\">Disabled:</td><td>%2</td></tr><tr><td align=\"right\">Partially "
-"enabled:</td><td>%3</td></tr><tr><td align=\"right\">Total:</td><td>%4</td></"
-"tr></table>"
+"<table><tr><td align=\"right\">Enabled:</td><td>%1</td></tr><tr><td "
+"align=\"right\">Disabled:</td><td>%2</td></tr><tr><td "
+"align=\"right\">Partially enabled:</td><td>%3</td></tr><tr><td "
+"align=\"right\">Total:</td><td>%4</td></tr></table>"
 msgstr ""
-"<table><tr><td align=\"right\">Bật:</td><td>%1</td></tr><tr><td align=\"right"
-"\">Tắt:</td><td>%2</td></tr><tr><td align=\"right\">Bật một phần:</td><td>"
-"%3</td></tr><tr><td align=\"right\">Tổng:</td><td>%4</td></tr></table>"
+"<table><tr><td align=\"right\">Bật:</td><td>%1</td></tr><tr><td "
+"align=\"right\">Tắt:</td><td>%2</td></tr><tr><td align=\"right\">Bật một "
+"phần:</td><td>%3</td></tr><tr><td align=\"right\">Tổng:</td><td>%4</td></"
+"tr></table>"
 
 #: kcmfontinst/KCmFontInst.cpp:910
 #, kde-format
 msgid ""
-"<table><tr><td align=\"right\">Enabled:</td><td>%1</td></tr><tr><td align="
-"\"right\">Disabled:</td><td>%2</td></tr><tr><td align=\"right\">Total:</"
-"td><td>%3</td></tr></table>"
+"<table><tr><td align=\"right\">Enabled:</td><td>%1</td></tr><tr><td "
+"align=\"right\">Disabled:</td><td>%2</td></tr><tr><td align=\"right\">Total:"
+"</td><td>%3</td></tr></table>"
 msgstr ""
-"<table><tr><td align=\"right\">Bật:</td><td>%1</td></tr><tr><td align=\"right"
-"\">Tắt:</td><td>%2</td></tr><tr><td align=\"right\">Tổng:</td><td>%3</td></"
-"tr></table>"
+"<table><tr><td align=\"right\">Bật:</td><td>%1</td></tr><tr><td "
+"align=\"right\">Tắt:</td><td>%2</td></tr><tr><td align=\"right\">Tổng:</"
+"td><td>%3</td></tr></table>"
 
 #: kcmfontinst/KCmFontInst.cpp:987
 #, kde-format
@@ -1015,8 +1015,8 @@ msgid ""
 "<p>Do you really want to enable this font contained within group '<b>%2</b>'?"
 "</p>"
 msgid_plural ""
-"<p>Do you really want to enable these %1 fonts contained within group '<b>"
-"%2</b>'?</p>"
+"<p>Do you really want to enable these %1 fonts contained within group "
+"'<b>%2</b>'?</p>"
 msgstr[0] ""
 "<p>Bạn có thật sự muốn bật %1 phông chữ này, nằm trong nhóm '<b>%2</b>'?</p>"
 
@@ -1026,8 +1026,8 @@ msgid ""
 "<p>Do you really want to disable this font contained within group '<b>%2</"
 "b>'?</p>"
 msgid_plural ""
-"<p>Do you really want to disable these %1 fonts contained within group '<b>"
-"%2</b>'?</p>"
+"<p>Do you really want to disable these %1 fonts contained within group "
+"'<b>%2</b>'?</p>"
 msgstr[0] ""
 "<p>Bạn có thật sự muốn tắt %1 phông chữ này, nằm trong nhóm '<b>%2</b>'?</p>"
 

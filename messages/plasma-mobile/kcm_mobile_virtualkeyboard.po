@@ -39,7 +39,6 @@ msgstr "Gõ vào đây..."
 
 #: ui/main.qml:38
 #, kde-format
-#| msgid "Feedback:"
 msgctxt "@title:group"
 msgid "Feedback"
 msgstr "Phản hồi"
@@ -66,7 +65,6 @@ msgstr "Có rung khi ấn phím không."
 
 #: ui/main.qml:62
 #, kde-format
-#| msgid "Text correction:"
 msgctxt "@title:group"
 msgid "Text Correction"
 msgstr "Sửa văn bản"

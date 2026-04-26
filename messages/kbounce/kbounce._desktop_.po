@@ -24,7 +24,6 @@ msgid "Ball Bouncing Game"
 msgstr "Trò chơi bóng nảy"
 
 #: src/org.kde.kbounce.desktop:140
-#, 
 msgctxt "Comment"
 msgid "Ball Bouncing Game"
 msgstr "Trò chơi bóng nảy"
@@ -40,9 +39,6 @@ msgid "KBounce, Egyptian style."
 msgstr "Phong cách Ai Cập của KBounce."
 
 #: themes/geometry.desktop:3
-#, 
-#| msgctxt "GenericName"
-#| msgid "Strategy Game"
 msgctxt "Name"
 msgid "Strange Geometry"
 msgstr "Hình học kỳ lạ"
@@ -50,7 +46,8 @@ msgstr "Hình học kỳ lạ"
 #: themes/geometry.desktop:59
 msgctxt "Description"
 msgid "A simple high-contrast theme for those who like it clean."
-msgstr "Một chủ đề tương phản cao đơn giản dành cho những người thích sự sạch sẽ."
+msgstr ""
+"Một chủ đề tương phản cao đơn giản dành cho những người thích sự sạch sẽ."
 
 #: themes/oxygen.desktop:3
 msgctxt "Name"
@@ -58,9 +55,6 @@ msgid "Oxygen"
 msgstr "Oxygen"
 
 #: themes/roads.desktop:3
-#, 
-#| msgctxt "Name"
-#| msgid "Road"
 msgctxt "Name"
 msgid "Roads"
 msgstr "Đường"
@@ -71,9 +65,6 @@ msgid "Roads, cones and wheels."
 msgstr "Đường, nón và bánh xe."
 
 #: themes/the_beach.desktop:3
-#, 
-#| msgctxt "Name"
-#| msgid "Beach"
 msgctxt "Name"
 msgid "The Beach"
 msgstr "Bãi biển"

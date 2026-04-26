@@ -28,7 +28,6 @@ msgstr "Chọn biểu tượng…"
 
 #: widgets/kicondialog.cpp:329
 #, kde-format
-#| msgid "All"
 msgctxt "@item:inmenu All icons"
 msgid "All"
 msgstr "Tất cả"
@@ -117,8 +116,8 @@ msgstr "Chọn biểu tượng"
 msgid ""
 "*.ico *.png *.xpm *.svg *.svgz|Icon Files (*.ico *.png *.xpm *.svg *.svgz)"
 msgstr ""
-"*.ico *.png *.xpm *.svg *.svgz|Tệp biểu tượng (*.ico *.png *.xpm *.svg *."
-"svgz)"
+"*.ico *.png *.xpm *.svg *.svgz|Tệp biểu tượng (*.ico *.png *.xpm *.svg "
+"*.svgz)"
 
 #. i18n: ectx: property (accessibleName), widget (QComboBox, contextCombo)
 #: widgets/kicondialog.ui:24

@@ -43,8 +43,6 @@ msgstr "Thẻ gắn:"
 
 #: checkoutdialog.cpp:71
 #, kde-format
-#| msgctxt "@action:button"
-#| msgid "Commit"
 msgctxt "@option:radio Git Checkout"
 msgid "Commit:"
 msgstr "Cam kết:"
@@ -123,8 +121,6 @@ msgstr "Bạn phải chọn một nhánh hợp lệ trước đã."
 
 #: checkoutdialog.cpp:255
 #, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid "You must enter a commit message first."
 msgctxt "@info:tooltip"
 msgid "You must enter a valid commit Id (Sha signature)."
 msgstr "Bạn phải nhập một mã định danh chuyển giao hợp lệ (chữ ký Sha)."
@@ -163,8 +159,6 @@ msgstr "Thư mục:"
 
 #: clonedialog.cpp:52
 #, kde-format
-#| msgctxt "@option:radio Git Checkout"
-#| msgid "Branch:"
 msgctxt "@label:textbox"
 msgid "Branch:"
 msgstr "Nhánh:"
@@ -189,7 +183,6 @@ msgstr "Chọn thư mục sao chép"
 
 #: clonedialog.cpp:93
 #, kde-kuit-format
-#| msgid "<application>Git</application> Log"
 msgctxt "@title:window"
 msgid "<application>Git</application> Clone"
 msgstr "Nhân bản <application>Git</application>"
@@ -259,8 +252,6 @@ msgstr "Hiện các thay đổi <application>Git</application> cục bộ"
 
 #: fileviewgitplugin.cpp:69
 #, kde-kuit-format
-#| msgctxt "@title:window"
-#| msgid "<application>Git</application> Create Tag"
 msgid "<application>Git</application> Restore staged"
 msgstr "Khôi phục đã tổ chức <application>Git</application>"
 
@@ -301,7 +292,6 @@ msgstr "Trộn <application>Git</application>..."
 
 #: fileviewgitplugin.cpp:105
 #, kde-kuit-format
-#| msgid "<application>Git</application> Log..."
 msgid "<application>Git</application> Clone..."
 msgstr "Nhân bản <application>Git</application>..."
 
@@ -391,50 +381,41 @@ msgstr "Tác giả"
 
 #: fileviewgitplugin.cpp:561
 #, kde-kuit-format
-#| msgid "Removing files from <application>Git</application> repository..."
 msgid ""
 "Restoring staged files from <application>Git</application> repository..."
-msgstr "Đang khôi phục các tệp đã tổ chức từ kho <application>Git</application>..."
+msgstr ""
+"Đang khôi phục các tệp đã tổ chức từ kho <application>Git</application>..."
 
 #: fileviewgitplugin.cpp:562
 #, kde-kuit-format
-#| msgid ""
-#| "Removing files from <application>Git</application> repository failed."
 msgid ""
 "Restoring staged files from <application>Git</application> repository failed."
 msgstr ""
-"Khôi phục các tệp đã tổ chức từ kho <application>Git</application> thất "
-"bại."
+"Khôi phục các tệp đã tổ chức từ kho <application>Git</application> thất bại."
 
 #: fileviewgitplugin.cpp:563
 #, kde-kuit-format
-#| msgid "Reverted files from <application>Git</application> repository."
 msgid "Restoring staged files from <application>Git</application> repository."
-msgstr "Đang khôi phục các tệp đã tổ chức từ kho <application>Git</application>."
+msgstr ""
+"Đang khôi phục các tệp đã tổ chức từ kho <application>Git</application>."
 
 #: fileviewgitplugin.cpp:589
 #, kde-kuit-format
-#| msgctxt "@title:window"
-#| msgid "<application>Git</application> Create Tag"
 msgid "<application>Git</application> error starting: %1"
 msgstr "Lỗi khởi động <application>Git</application>: %1"
 
 #: fileviewgitplugin.cpp:593
 #, kde-kuit-format
-#| msgid "<application>Git</application> Log failed."
 msgid "<application>Git</application> clone failed: %1"
 msgstr "Sao chép <application>Git</application> thất bại: %1"
 
 #: fileviewgitplugin.cpp:595
 #, kde-kuit-format
-#| msgctxt "@title:window"
-#| msgid "<application>Git</application> Checkout"
 msgid "<application>Git</application> clone complete."
 msgstr "Sao chép <application>Git</application> hoàn tất."
 
 #: fileviewgitplugin.cpp:603
 #, kde-kuit-format
-#| msgid "<application>Git</application> Merge..."
 msgid "<application>Git</application> cloning repository..."
 msgstr "Đang sao chép kho lưu trữ <application>Git</application>..."
 
@@ -668,15 +649,11 @@ msgid "A tag named '%1' already exists."
 msgstr "Một thẻ gắn tên là '%1' đã tồn tại rồi."
 
 #, fuzzy
-#~| msgctxt "@option:radio Git Checkout"
-#~| msgid "Branch:"
 #~ msgctxt "@option:check"
 #~ msgid "Branch:"
 #~ msgstr "Nhánh:"
 
 #, fuzzy
-#~| msgctxt "@action:button"
-#~| msgid "Checkout"
 #~ msgctxt "@option:check"
 #~ msgid "No Checkout"
 #~ msgstr "Lấy ra"

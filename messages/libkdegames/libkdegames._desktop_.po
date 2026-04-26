@@ -14,9 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/carddecks/svg-ancient-egyptians/index.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Penguins"
 msgctxt "Name"
 msgid "Ancient Egyptians"
 msgstr "Người Ai Cập cổ đại"
@@ -32,17 +29,11 @@ msgid "Dondorf"
 msgstr "Dondorf"
 
 #: src/carddecks/svg-future/index.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Standard"
 msgctxt "Name"
 msgid "Future Simple"
 msgstr "Tương lai Đơn"
 
 #: src/carddecks/svg-gm-paris/index.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Oasis"
 msgctxt "Name"
 msgid "Paris"
 msgstr "Paris"
@@ -88,17 +79,11 @@ msgid "Oxygen White"
 msgstr "Oxygen White"
 
 #: src/carddecks/svg-penguins/index.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Penguins"
 msgctxt "Name"
 msgid "Penguins"
 msgstr "Chim cánh cụt"
 
 #: src/carddecks/svg-standard/index.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Standard"
 msgctxt "Name"
 msgid "Standard"
 msgstr "Tiêu chuẩn"
@@ -114,13 +99,11 @@ msgid "Tigullio International"
 msgstr "Tigullio International"
 
 #: src/carddecks/svg-xskat-french/index.desktop:2
-#, 
 msgctxt "Name"
 msgid "XSkat French"
 msgstr "XSkat Pháp"
 
 #: src/carddecks/svg-xskat-german/index.desktop:2
-#, 
 msgctxt "Name"
 msgid "XSkat German"
 msgstr "XSkat Đức"

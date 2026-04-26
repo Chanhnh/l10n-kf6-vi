@@ -50,8 +50,6 @@ msgstr "Hệ thống"
 
 #: cpu/cpu.cpp:46
 #, kde-format
-#| msgctxt "@title, Short for 'System Usage'"
-#| msgid "System"
 msgctxt "@title, Short for '%1 System Usage'"
 msgid "%1 System"
 msgstr "Hệ thống %1"
@@ -70,8 +68,6 @@ msgstr "Người dùng"
 
 #: cpu/cpu.cpp:53
 #, kde-format
-#| msgctxt "@title, Short for 'User Usage'"
-#| msgid "User"
 msgctxt "@title, Short for '%1 User Usage'"
 msgid "%1 User"
 msgstr "Người dùng %1"
@@ -90,8 +86,6 @@ msgstr "Chờ"
 
 #: cpu/cpu.cpp:60
 #, kde-format
-#| msgctxt "@title, Short for 'Wait Load'"
-#| msgid "Wait"
 msgctxt "@title, Short for '%1 Wait Load'"
 msgid "%1 Wait"
 msgstr "Chờ %1"
@@ -1127,8 +1121,6 @@ msgstr "Áp suất"
 
 #: pressure/pressure.cpp:141
 #, kde-format
-#| msgctxt "@title"
-#| msgid "Memory Frequency"
 msgctxt "@title"
 msgid "Memory Pressure"
 msgstr "Áp lực bộ nhớ"
@@ -1266,8 +1258,8 @@ msgid ""
 "Amount of time that at least one task is stalled waiting for available CPU "
 "resources, measured in microseconds"
 msgstr ""
-"Thời gian mà ít nhất một tác vụ bị treo chờ các tài nguyên CPU hiện có, "
-"được đo bằng microseconds"
+"Thời gian mà ít nhất một tác vụ bị treo chờ các tài nguyên CPU hiện có, được "
+"đo bằng microseconds"
 
 #: pressure/pressure.cpp:168
 #, kde-format
@@ -1332,8 +1324,8 @@ msgid ""
 "Percentage of time that all tasks are stalled waiting for available memory "
 "resources, averaged over 1 minutes"
 msgstr ""
-"Phần trăm thời gian mà tất cả các nhiệm vụ đều bị treo chờ các tài nguyên "
-"bộ nhớ khả dụng, được tính trung bình trong 1 phút"
+"Phần trăm thời gian mà tất cả các nhiệm vụ đều bị treo chờ các tài nguyên bộ "
+"nhớ khả dụng, được tính trung bình trong 1 phút"
 
 #: pressure/pressure.cpp:191
 #, kde-format
@@ -1438,8 +1430,8 @@ msgid ""
 "Amount of time that all tasks are stalled waiting for available IO "
 "resources, measured in microseconds"
 msgstr ""
-"Số lượng thời gian mà tất cả các nhiệm vụ đang bị treo chờ các tài nguyên "
-"IO khả dụng, được đo bằng microseconds"
+"Số lượng thời gian mà tất cả các nhiệm vụ đang bị treo chờ các tài nguyên IO "
+"khả dụng, được đo bằng microseconds"
 
 #~ msgctxt "@title, Short for 'Current Frequency'"
 #~ msgid "Frequency"

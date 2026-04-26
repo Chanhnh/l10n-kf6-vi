@@ -20,7 +20,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, u_gdbLabel)
 #: advanced_settings.ui:17
 #, kde-format
-#| msgid "GDB command"
 msgid "GDB command"
 msgstr "Lệnh GDB"
 
@@ -504,8 +503,6 @@ msgstr "Thiết lập bộ điều hợp gỡ lỗi người dùng"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: debugconfig.ui:41
 #, kde-format
-#| msgctxt "Tab label"
-#| msgid "Settings"
 msgid "Settings File:"
 msgstr "Tệp thiết lập:"
 
@@ -517,7 +514,6 @@ msgstr "Thiết lập Bộ Gỡ Lỗi Mặc Định"
 
 #: debugconfigpage.cpp:72 debugconfigpage.cpp:77
 #, kde-format
-#| msgid "Debug"
 msgid "Debugger"
 msgstr "Trình gỡ lỗi"
 
@@ -645,7 +641,6 @@ msgstr "mục được đặt tên"
 
 #: plugin_kategdb.cpp:103
 #, kde-format
-#| msgid "Kate GDB"
 msgid "Kate Debug"
 msgstr "Gỡ lỗi Kate"
 
@@ -678,8 +673,6 @@ msgstr "Khung"
 
 #: plugin_kategdb.cpp:197
 #, kde-format
-#| msgctxt "Tab label"
-#| msgid "GDB Output"
 msgctxt "Tab label"
 msgid "Debug Output"
 msgstr "Đầu ra gỡ lỗi"
@@ -805,7 +798,6 @@ msgstr "&Gỡ lỗi"
 #. i18n: ectx: ToolBar (gdbplugin)
 #: ui.rc:29
 #, kde-format
-#| msgid "GDB Plugin"
 msgid "Debug Plugin"
 msgstr "Phần cài cắm gỡ lỗi"
 

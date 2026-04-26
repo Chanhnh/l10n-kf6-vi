@@ -230,9 +230,6 @@ msgstr "Tệp"
 
 #: exportwizard.cpp:54
 #, kde-format
-#| msgid ""
-#| "*.csv|Comma Separated Values\n"
-#| "*|All files"
 msgid "Comma Separated Values"
 msgstr "Các giá trị phân cách bởi dấu phẩy"
 

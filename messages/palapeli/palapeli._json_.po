@@ -49,7 +49,6 @@ msgid "Stefan Majewsky"
 msgstr "Stefan Majewsky"
 
 #, fuzzy
-#~| msgid "Name=File Management"
 #~ msgctxt "Name"
 #~ msgid "File management operations"
 #~ msgstr "Name=Quản lí file "

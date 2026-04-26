@@ -419,8 +419,8 @@ msgstr "<qt>KDE yêu cầu truy cập đến ví mở '<b>%1</b>'.</qt>"
 #: kwalletd.cpp:858
 #, kde-format
 msgid ""
-"<qt>The application '<b>%1</b>' has requested access to the open wallet '<b>"
-"%2</b>'.</qt>"
+"<qt>The application '<b>%1</b>' has requested access to the open wallet "
+"'<b>%2</b>'.</qt>"
 msgstr "<qt>Ứng dụng '<b>%1</b>' yêu cầu truy cập đến ví mở '<b>%2</b>'.</qt>"
 
 #: kwalletd.cpp:966
@@ -682,7 +682,6 @@ msgstr "Valentin Rusu"
 
 #: main.cpp:174
 #, kde-format
-#| msgid "Maintainer, GPG backend support"
 msgid "Former Maintainer, GPG backend support"
 msgstr "Cựu Bảo trì viên, hỗ trợ hậu phương GPG"
 
@@ -717,6 +716,5 @@ msgid "D-Bus Interface"
 msgstr "Giao diện D-Bus"
 
 #, fuzzy
-#~| msgid "KWallet"
 #~ msgid "kwalletd"
 #~ msgstr "KWallet"

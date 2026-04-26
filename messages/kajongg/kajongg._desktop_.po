@@ -14,9 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: org.kde.kajongg.desktop:3
-#, 
-#| msgctxt "Name"
-#| msgid "KMahjongg"
 msgctxt "Name"
 msgid "Kajongg"
 msgstr "Kajongg"

@@ -25,9 +25,6 @@ msgid "Gwenview"
 msgstr "Gwenview"
 
 #: app/org.kde.gwenview.desktop.cmake:75
-#, 
-#| msgctxt "GenericName"
-#| msgid "Image Viewer"
 msgctxt "GenericName"
 msgid "Image Viewer"
 msgstr "Trình xem ảnh"
@@ -39,17 +36,11 @@ msgstr "Bộ xem ảnh đơn giản"
 
 #: importer/gwenview_importer_camera.desktop:10
 #: importer/gwenview_importer.desktop:11
-#, 
-#| msgctxt "Name"
-#| msgid "Browse with Gwenview"
 msgctxt "Name"
 msgid "Download Photos with Gwenview"
 msgstr "Tải về ảnh bằng Gwenview"
 
 #: importer/org.kde.gwenview_importer.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Gwenview Image Viewer"
 msgctxt "Name"
 msgid "Gwenview Importer"
 msgstr "Trình nhập Gwenview"

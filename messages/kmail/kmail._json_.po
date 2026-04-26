@@ -14,121 +14,101 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/kmail_config_accounts.json
-#, 
 msgctxt "Name"
 msgid "Accounts"
 msgstr "Tài khoản"
 
 #: src/kmail_config_appearance.json
-#, 
 msgctxt "Name"
 msgid "Appearance"
 msgstr "diện mạo"
 
 #: src/kmail_config_composer.json
-#, 
 msgctxt "Name"
 msgid "Composer"
 msgstr "Trình soạn thảo"
 
 #: src/kmail_config_misc.json
-#, 
 msgctxt "Name"
 msgid "Misc"
 msgstr "Khác"
 
 #: src/kmail_config_plugins.json
-#, 
 msgctxt "Name"
 msgid "Plugins"
 msgstr "Plugins"
 
 #: src/kmail_config_security.json
-#, 
 msgctxt "Name"
 msgid "Security"
 msgstr "an ninh"
 
 #: src/kontactplugin/kmail/kcmkmailsummary.json
-#, 
 msgctxt "Name"
 msgid "New Messages"
 msgstr "Tin nhắn mới"
 
 #: src/kontactplugin/kmail/kmailplugin.json
-#, 
 msgctxt "Name"
 msgid "Mail"
 msgstr "Thư"
 
 #: src/kontactplugin/summary/kcmkontactsummary.json
-#, 
 msgctxt "Name"
 msgid "Summaries"
 msgstr "Tóm tắt"
 
 #: src/kontactplugin/summary/summaryplugin.json
-#, 
 msgctxt "Name"
 msgid "Summary"
 msgstr "Tóm tắt"
 
 #: src/kmail_config_accounts.json
-#, 
 msgctxt "Description"
 msgid "Setup for Sending and Receiving Messages"
 msgstr "Thiết lập để Gửi và Nhận Tin nhắn"
 
 #: src/kmail_config_appearance.json
-#, 
 msgctxt "Description"
 msgid "Customize Visual Appearance"
 msgstr "Tùy chỉnh diện mạo trực quan"
 
 #: src/kmail_config_composer.json
-#, 
 msgctxt "Description"
 msgid "Message Composer Settings"
 msgstr "Thiết lập Trình soạn thảo Thông điệp"
 
 #: src/kmail_config_misc.json
-#, 
 msgctxt "Description"
 msgid "Settings that don't fit elsewhere"
 msgstr "Các thiết lập không phù hợp với các mục khác"
 
 #: src/kmail_config_plugins.json
-#, 
 msgctxt "Description"
 msgid "Settings Plugins"
 msgstr "Các plugin thiết lập"
 
 #: src/kmail_config_security.json
-#, 
 msgctxt "Description"
 msgid "Security & Privacy Settings"
 msgstr "Thiết lập An ninh & Tính riêng tư"
 
 #: src/kontactplugin/kmail/kcmkmailsummary.json
-#, 
 msgctxt "Description"
 msgid "Mail Summary Setup"
 msgstr "Cài đặt Tóm tắt thư"
 
 #: src/kontactplugin/kmail/kmailplugin.json
-#, 
 msgctxt "Description"
 msgid "Kontact KMail Plugin"
 msgstr "Phần cài cắm KMail của Kontact"
 
 #: src/kontactplugin/summary/kcmkontactsummary.json
-#, 
 msgctxt "Description"
 msgid "Summary Selection"
 msgstr "Lựa chọn tóm tắt"
 
 #: src/kontactplugin/summary/summaryplugin.json
-#, 
 msgctxt "Description"
 msgid "Kontact SummaryView Plugin"
 msgstr "Phần cài cắm SummaryView của Kontact"
@@ -169,8 +149,6 @@ msgstr "Phần cài cắm SummaryView của Kontact"
 #~ msgstr "Trình lịch"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Mail Client"
 #~ msgctxt "Name"
 #~ msgid "Mail is sent"
 #~ msgstr "Mail Client"
@@ -236,8 +214,6 @@ msgstr "Phần cài cắm SummaryView của Kontact"
 #~ msgstr "Name=KColorChooser"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KMail"
 #~ msgctxt "Name"
 #~ msgid "KMail view"
 #~ msgstr "KMail"

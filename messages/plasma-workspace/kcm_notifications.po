@@ -49,16 +49,12 @@ msgstr "Hiện huy hiệu thông báo"
 
 #: ui/ApplicationConfiguration.qml:180
 #, kde-format
-#| msgid "Configure Events…"
 msgctxt "@title:table Configure individual notification events in an app"
 msgid "Configure Events"
 msgstr "Cấu hình sự kiện"
 
 #: ui/ApplicationConfiguration.qml:188
 #, kde-format
-#| msgid ""
-#| "This application does not support configuring notifications on a per-"
-#| "event basis."
 msgid ""
 "This application does not support configuring notifications on a per-event "
 "basis"
@@ -93,14 +89,12 @@ msgstr "Chọn tệp âm thanh"
 
 #: ui/main.qml:46
 #, kde-format
-#| msgid "Notifications"
 msgctxt "@action:button Plasma-specific notifications"
 msgid "System Notifications…"
 msgstr "Thông báo hệ thống…"
 
 #: ui/main.qml:52
 #, kde-format
-#| msgid "Application Settings"
 msgctxt "@action:button Application-specific notifications"
 msgid "Application Settings…"
 msgstr "Thiết lập ứng dụng…"
@@ -141,16 +135,12 @@ msgstr "Bật tự động:"
 
 #: ui/main.qml:111
 #, kde-format
-#| msgctxt "Enable Do Not Disturb mode when screens are mirrored"
-#| msgid "When screens are mirrored"
 msgctxt "Automatically enable Do Not Disturb mode when screens are mirrored"
 msgid "When screens are mirrored"
 msgstr "Khi màn hình được nhân đôi"
 
 #: ui/main.qml:123
 #, kde-format
-#| msgctxt "Enable Do Not Disturb mode during screen sharing"
-#| msgid "During screen sharing"
 msgctxt "Automatically enable Do Not Disturb mode during screen sharing"
 msgid "During screen sharing"
 msgstr "Trong khi chia sẻ màn hình"
@@ -287,22 +277,17 @@ msgstr "Dịch vụ hệ thống"
 
 #: ui/SourcesPage.qml:156
 #, kde-format
-#| msgid "No application or event matches your search term."
 msgid "No application or event matches your search term"
 msgstr "Không có ứng dụng hoặc sự kiện nào khớp với từ khóa tìm kiếm"
 
 #: ui/SourcesPage.qml:180
 #, kde-format
-#| msgid ""
-#| "Select an application from the list to configure its notification "
-#| "settings and behavior."
 msgid ""
 "Select an application from the list to configure its notification settings "
 "and behavior"
 msgstr "Chọn ứng dụng từ danh sách để cấu hình thiết lập và ứng xử thông báo"
 
 #, fuzzy
-#~| msgid "Application Settings"
 #~ msgctxt "@action:button Application-specific notifications"
 #~ msgid "Configure Application Settings…"
 #~ msgstr "Thiết lập ứng dụng"

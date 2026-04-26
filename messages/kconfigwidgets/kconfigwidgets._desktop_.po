@@ -20,8 +20,6 @@ msgid "US English"
 msgstr "Tiếng Anh Mĩ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "US English"
 #~ msgctxt "Name"
 #~ msgid "British English"
 #~ msgstr "Tiếng Anh Mĩ"

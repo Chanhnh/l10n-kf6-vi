@@ -14,7 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.knetwalk.desktop:5
-#, 
 msgctxt "Name"
 msgid "KNetWalk"
 msgstr "KNetWalk"
@@ -25,14 +24,11 @@ msgid "Network Construction Game"
 msgstr "Trò chơi xây dựng mạng"
 
 #: src/org.kde.knetwalk.desktop:122
-#, 
-#| msgid "Comment=Strategy Game"
 msgctxt "Comment"
 msgid "Strategy game"
 msgstr "Trò chơi chiến lược"
 
 #: themes/default.desktop:2
-#, 
 msgctxt "Name"
 msgid "Default"
 msgstr "Mặc định"

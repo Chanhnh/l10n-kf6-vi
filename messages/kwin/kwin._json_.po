@@ -176,9 +176,6 @@ msgid "Invert"
 msgstr "Đảo"
 
 #: src/plugins/kdecorations/aurorae/src/config/kcm_auroraeconfig.json
-#, 
-#| msgctxt "Name"
-#| msgid "KWin Aurorae"
 msgctxt "Name"
 msgid "Aurorae"
 msgstr "Aurorae"
@@ -374,9 +371,6 @@ msgid "Zoom"
 msgstr "Thu phóng"
 
 #: src/tabbox/switchers/thumbnail_grid/metadata.json
-#, 
-#| msgctxt "Name"
-#| msgid "Thumbnail Aside"
 msgctxt "Name"
 msgid "Thumbnail Grid"
 msgstr "Lưới hình nhỏ"
@@ -547,9 +541,6 @@ msgid "Inverts the color of the desktop and windows"
 msgstr "Đảo màu bàn làm việc và các cửa sổ"
 
 #: src/plugins/kdecorations/aurorae/src/config/kcm_auroraeconfig.json
-#, 
-#| msgctxt "Name"
-#| msgid "Window Decorations"
 msgctxt "Description"
 msgid "Window Decoration Theme Engine"
 msgstr "Dụng cụ chủ đề trang trí cửa sổ"
@@ -611,9 +602,6 @@ msgid "Allows you to draw lines on the desktop"
 msgstr "Cho phép bạn vẽ các nét trên bàn làm việc"
 
 #: src/plugins/outputlocator/metadata.json
-#, 
-#| msgctxt "Name"
-#| msgid "Screen Edges"
 msgctxt "Description"
 msgid "Show screen names"
 msgstr "Hiển thị tên màn hình"
@@ -868,15 +856,11 @@ msgstr "Chris Holland"
 #~ msgstr "Marco Martin"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KWin Effect"
 #~ msgctxt "Name"
 #~ msgid "Quick Effect"
 #~ msgstr "Hiệu ứng KWin"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KWin Effect"
 #~ msgctxt "Description"
 #~ msgid "Quick Effect"
 #~ msgstr "Hiệu ứng KWin"

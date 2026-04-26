@@ -25,7 +25,8 @@ msgstr "Xuất ra tệp CSV..."
 #: csv/csvimportexportplugininterface.cpp:37
 #, kde-format
 msgid "Export contacts to a file in comma separated value format."
-msgstr "Xuất khẩu danh bạ vào một tệp ở định dạng giá trị phân cách bằng dấu phẩy."
+msgstr ""
+"Xuất khẩu danh bạ vào một tệp ở định dạng giá trị phân cách bằng dấu phẩy."
 
 #: csv/csvimportexportplugininterface.cpp:42
 #, kde-format
@@ -35,7 +36,8 @@ msgstr "Nhập khẩu tệp CSV..."
 #: csv/csvimportexportplugininterface.cpp:43
 #, kde-format
 msgid "Import contacts from a file in comma separated value format."
-msgstr "Nhập khẩu danh bạ từ một tệp ở định dạng giá trị phân cách bằng dấu phẩy."
+msgstr ""
+"Nhập khẩu danh bạ từ một tệp ở định dạng giá trị phân cách bằng dấu phẩy."
 
 #: csv/csvimportexportplugininterface.cpp:148
 #: gmx/gmximportexportplugininterface.cpp:80
@@ -97,7 +99,8 @@ msgctxt "@info:whatsthis"
 msgid ""
 "Click this button to start a file chooser that will allow you to select a "
 "csv file to import."
-msgstr "Bấm nút này để mở trình chọn tệp, cho phép bạn chọn một tệp CSV để nhập."
+msgstr ""
+"Bấm nút này để mở trình chọn tệp, cho phép bạn chọn một tệp CSV để nhập."
 
 #: csv/import/csvimportdialog.cpp:311
 #, kde-format
@@ -171,7 +174,6 @@ msgstr ""
 
 #: csv/import/csvimportdialog.cpp:340
 #, kde-format
-#| msgid "Space"
 msgctxt "@option:radio Field separator"
 msgid "Space"
 msgstr "Khoảng trắng"
@@ -194,7 +196,6 @@ msgstr ""
 
 #: csv/import/csvimportdialog.cpp:346
 #, kde-format
-#| msgid "Other"
 msgctxt "@option:radio Custom field separator"
 msgid "Other"
 msgstr "Khác"
@@ -212,8 +213,8 @@ msgid ""
 "Select this option if to use some other character as the field delimiter for "
 "the data in your csv file."
 msgstr ""
-"Chọn tùy chọn này nếu muốn sử dụng một ký tự khác làm dấu tách trường cho "
-"dữ liệu trong tệp CSV của bạn."
+"Chọn tùy chọn này nếu muốn sử dụng một ký tự khác làm dấu tách trường cho dữ "
+"liệu trong tệp CSV của bạn."
 
 #: csv/import/csvimportdialog.cpp:355
 #, kde-format
@@ -229,9 +230,8 @@ msgid ""
 "more than 1 character, only the first will be used and the remaining "
 "characters will be ignored."
 msgstr ""
-"Nhập một kí tự tùy chọn để sử dụng làm dấu tách. Nếu bạn nhập nhiều hơn 1 "
-"kí tự, chỉ kí tự đầu tiên sẽ được sử dụng và các kí tự còn lại sẽ bị bỏ "
-"qua."
+"Nhập một kí tự tùy chọn để sử dụng làm dấu tách. Nếu bạn nhập nhiều hơn 1 kí "
+"tự, chỉ kí tự đầu tiên sẽ được sử dụng và các kí tự còn lại sẽ bị bỏ qua."
 
 #: csv/import/csvimportdialog.cpp:363
 #, kde-format
@@ -293,11 +293,11 @@ msgid ""
 "item><item>H: hours with 2 digits</item><item>I: minutes with 2 digits</"
 "item><item>S: seconds with 2 digits</item></list></para>"
 msgstr ""
-"<para><list><item>y: năm với 2 chữ số</item><item>Y: năm với 4 chữ "
-"số</item><item>m: tháng với 1 hoặc 2 chữ số</item><item>M: tháng với 2 chữ "
-"số</item><item>d: ngày với 1 hoặc 2 chữ số</item><item>D: ngày với 2 chữ "
-"số</item><item>H: giờ với 2 chữ số</item><item>I: phút với 2 chữ "
-"số</item><item>S: giây với 2 chữ số</item></list></para>"
+"<para><list><item>y: năm với 2 chữ số</item><item>Y: năm với 4 chữ số</"
+"item><item>m: tháng với 1 hoặc 2 chữ số</item><item>M: tháng với 2 chữ số</"
+"item><item>d: ngày với 1 hoặc 2 chữ số</item><item>D: ngày với 2 chữ số</"
+"item><item>H: giờ với 2 chữ số</item><item>I: phút với 2 chữ số</"
+"item><item>S: giây với 2 chữ số</item></list></para>"
 
 #: csv/import/csvimportdialog.cpp:401
 #, kde-kuit-format
@@ -313,14 +313,14 @@ msgid ""
 "para><para>Example: \"Y-M-D\" corresponds to a date like \"2012-01-04\"</"
 "para>"
 msgstr ""
-"<para>Chỉ định một định dạng để sử dụng cho các ngày tháng trong dữ liệu "
-"csv của bạn. Sử dụng các chuỗi sau để giúp bạn xác định định "
-"dạng:</para><para><list><item>y: năm với 2 chữ số</item><item>Y: năm với 4 "
-"chữ số</item><item>m: tháng với 1 hoặc 2 chữ số</item><item>M: tháng với 2 "
-"chữ số</item><item>d: ngày với 1 hoặc 2 chữ số</item><item>D: ngày với 2 "
-"chữ số</item><item>H: giờ với 2 chữ số</item><item>I: phút với 2 chữ "
-"số</item><item>S: giây với 2 chữ số</item></list></para><para>Ví dụ: "
-"\"Y-M-D\" tương ứng với một ngày như \"2012-01-04\"</para>"
+"<para>Chỉ định một định dạng để sử dụng cho các ngày tháng trong dữ liệu csv "
+"của bạn. Sử dụng các chuỗi sau để giúp bạn xác định định dạng:</"
+"para><para><list><item>y: năm với 2 chữ số</item><item>Y: năm với 4 chữ số</"
+"item><item>m: tháng với 1 hoặc 2 chữ số</item><item>M: tháng với 2 chữ số</"
+"item><item>d: ngày với 1 hoặc 2 chữ số</item><item>D: ngày với 2 chữ số</"
+"item><item>H: giờ với 2 chữ số</item><item>I: phút với 2 chữ số</"
+"item><item>S: giây với 2 chữ số</item></list></para><para>Ví dụ: \"Y-M-D\" "
+"tương ứng với một ngày như \"2012-01-04\"</para>"
 
 #: csv/import/csvimportdialog.cpp:417
 #, kde-format
@@ -583,8 +583,8 @@ msgid ""
 "Check this box if you want to export the contact's business fields to the "
 "vCard output file."
 msgstr ""
-"Chọn hộp này nếu bạn muốn xuất khẩu các trường công việc của liên hệ vào "
-"tệp vCard."
+"Chọn hộp này nếu bạn muốn xuất khẩu các trường công việc của liên hệ vào tệp "
+"vCard."
 
 #: vcards/engine/vcardexportselectionwidget.cpp:43
 #, kde-format
@@ -676,9 +676,9 @@ msgid ""
 "vCard's full name field.  This may be required to get the name shown "
 "correctly in GMail or Android."
 msgstr ""
-"Đánh dấu vào ô này nếu bạn muốn xuất tên hiển thị của liên hệ vào trường "
-"tên đầy đủ của vCard. Điều này có thể cần thiết để tên được hiển thị chính "
-"xác trong GMail hoặc Android."
+"Đánh dấu vào ô này nếu bạn muốn xuất tên hiển thị của liên hệ vào trường tên "
+"đầy đủ của vCard. Điều này có thể cần thiết để tên được hiển thị chính xác "
+"trong GMail hoặc Android."
 
 #: vcards/engine/vcardviewerdialog.cpp:28
 #, kde-format
@@ -768,8 +768,7 @@ msgid ""
 "You have selected a list of contacts, shall they be exported to several "
 "files?"
 msgstr ""
-"Bạn đã chọn một danh sách các liên hệ, chúng có được xuất ra nhiều tệp "
-"không?"
+"Bạn đã chọn một danh sách các liên hệ, chúng có được xuất ra nhiều tệp không?"
 
 #: vcards/vcardimportexportplugininterface.cpp:439
 #, kde-format

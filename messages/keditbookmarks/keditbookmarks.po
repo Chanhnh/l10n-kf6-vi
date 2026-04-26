@@ -281,7 +281,6 @@ msgstr "%1; không tìm thấy thành phần HTML nào (%2)"
 
 #: faviconupdater.cpp:74
 #, kde-format
-#| msgid "%1; no HTML component found (%2)"
 msgid "No browser component found"
 msgstr "Không tìm thấy thành phần trình duyệt"
 

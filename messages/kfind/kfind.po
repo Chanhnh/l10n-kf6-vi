@@ -182,8 +182,6 @@ msgstr "Có tê&n:"
 
 #: kftabdlg.cpp:68
 #, kde-format
-#| msgid ""
-#| "You can use wildcard matching and \";\" for separating multiple names"
 msgctxt "@info:tooltip"
 msgid "You can use wildcard matching and \";\" for separating multiple names"
 msgstr "Bạn có thể dùng khớp thế tự và \";\" để phân cách nhiều tên"
@@ -226,10 +224,10 @@ msgid ""
 "following special characters:<ul><li><b>?</b> matches any single character</"
 "li><li><b>*</b> matches zero or more of any characters</li><li><b>[...]</b> "
 "matches any of the characters between the braces</li></ul><br />Example "
-"searches:<ul><li><b>*.kwd;*.txt</b> finds all files ending with .kwd or ."
-"txt</li><li><b>go[dt]</b> finds god and got</li><li><b>Hel?o</b> finds all "
-"files that start with \"Hel\" and end with \"o\", having one character in "
-"between</li><li><b>My Document.kwd</b> finds a file of exactly that name</"
+"searches:<ul><li><b>*.kwd;*.txt</b> finds all files ending with .kwd "
+"or .txt</li><li><b>go[dt]</b> finds god and got</li><li><b>Hel?o</b> finds "
+"all files that start with \"Hel\" and end with \"o\", having one character "
+"in between</li><li><b>My Document.kwd</b> finds a file of exactly that name</"
 "li></ul></qt>"
 msgstr ""
 "<qt>Nhập tên tệp bạn đang tìm.<br />Các khả năng khác nhau có thể được phân "
@@ -570,7 +568,6 @@ msgstr "(c) 1998-2021, Các nhà phát triển KDE"
 
 #: main.cpp:30
 #, kde-format
-#| msgid "Kai Uwe Broulik"
 msgctxt "@info:credit"
 msgid "Kai Uwe Broulik"
 msgstr "Kai Uwe Broulik"
@@ -582,7 +579,6 @@ msgstr "Bảo trì viên hiện tại"
 
 #: main.cpp:31
 #, kde-format
-#| msgid "Eric Coquelle"
 msgctxt "@info:credit"
 msgid "Eric Coquelle"
 msgstr "Eric Coquelle"
@@ -594,7 +590,6 @@ msgstr "Bảo trì viên trước đây"
 
 #: main.cpp:32
 #, kde-format
-#| msgid "Mark W. Webb"
 msgctxt "@info:credit"
 msgid "Mark W. Webb"
 msgstr "Mark W. Webb"
@@ -606,7 +601,6 @@ msgstr "Nhà phát triển"
 
 #: main.cpp:33
 #, kde-format
-#| msgid "Beppe Grimaldi"
 msgctxt "@info:credit"
 msgid "Beppe Grimaldi"
 msgstr "Beppe Grimaldi"
@@ -618,70 +612,60 @@ msgstr "Thiết kế UI & các lựa chọn tìm kiếm thêm"
 
 #: main.cpp:34
 #, kde-format
-#| msgid "Martin Hartig"
 msgctxt "@info:credit"
 msgid "Martin Hartig"
 msgstr "Martin Hartig"
 
 #: main.cpp:35
 #, kde-format
-#| msgid "Stephan Kulow"
 msgctxt "@info:credit"
 msgid "Stephan Kulow"
 msgstr "Stephan Kulow"
 
 #: main.cpp:36
 #, kde-format
-#| msgid "Mario Weilguni"
 msgctxt "@info:credit"
 msgid "Mario Weilguni"
 msgstr "Mario Weilguni"
 
 #: main.cpp:37
 #, kde-format
-#| msgid "Alex Zepeda"
 msgctxt "@info:credit"
 msgid "Alex Zepeda"
 msgstr "Alex Zepeda"
 
 #: main.cpp:38
 #, kde-format
-#| msgid "Miroslav Flídr"
 msgctxt "@info:credit"
 msgid "Miroslav Flídr"
 msgstr "Miroslav Flídr"
 
 #: main.cpp:39
 #, kde-format
-#| msgid "Harri Porten"
 msgctxt "@info:credit"
 msgid "Harri Porten"
 msgstr "Harri Porten"
 
 #: main.cpp:40
 #, kde-format
-#| msgid "Dima Rogozin"
 msgctxt "@info:credit"
 msgid "Dima Rogozin"
 msgstr "Dima Rogozin"
 
 #: main.cpp:41
 #, kde-format
-#| msgid "Carsten Pfeiffer"
 msgctxt "@info:credit"
 msgid "Carsten Pfeiffer"
 msgstr "Carsten Pfeiffer"
 
 #: main.cpp:42
 #, kde-format
-#| msgid "Hans Petter Bieker"
 msgctxt "@info:credit"
 msgid "Hans Petter Bieker"
 msgstr "Hans Petter Bieker"
 
 #: main.cpp:43
 #, kde-format
-#| msgid "Waldo Bastian"
 msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr "Waldo Bastian"
@@ -693,14 +677,12 @@ msgstr "Thiết kế UI"
 
 #: main.cpp:44
 #, kde-format
-#| msgid "Alexander Neundorf"
 msgctxt "@info:credit"
 msgid "Alexander Neundorf"
 msgstr "Alexander Neundorf"
 
 #: main.cpp:45
 #, kde-format
-#| msgid "Clarence Dang"
 msgctxt "@info:credit"
 msgid "Clarence Dang"
 msgstr "Clarence Dang"

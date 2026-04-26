@@ -48,10 +48,6 @@ msgstr "Liên lạc với trình nền phím tắt toàn cục thất bại"
 
 #: kcm_keys.cpp:315
 #, kde-format
-#| msgctxt "%2 is the name of a category inside the 'Common Actions' section"
-#| msgid ""
-#| "Shortcut %1 is already assigned to the common %2 action '%3'.\n"
-#| "Do you want to reassign it?"
 msgctxt ""
 "@info %2 is the name of a category inside the 'Common Actions' section"
 msgid ""
@@ -65,14 +61,14 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Shortcut <shortcut>%1</shortcut> is already assigned to action <interface>"
-"%2</interface> of <application>%3</application>.<nl/><nl/>Reassign it to "
-"action <interface>%4</interface> of <application>%4</application>?"
+"Shortcut <shortcut>%1</shortcut> is already assigned to action "
+"<interface>%2</interface> of <application>%3</application>.<nl/><nl/"
+">Reassign it to action <interface>%4</interface> of <application>%4</"
+"application>?"
 msgstr ""
-"Phím tắt <shortcut>%1</shortcut> đã được gán cho hành động "
-"<interface>%2</interface> của <application>%3</application>.<nl/><nl/>Gán "
-"lại cho hành động <interface>%4</interface> của "
-"<application>%4</application>?"
+"Phím tắt <shortcut>%1</shortcut> đã được gán cho hành động <interface>%2</"
+"interface> của <application>%3</application>.<nl/><nl/>Gán lại cho hành động "
+"<interface>%4</interface> của <application>%4</application>?"
 
 #: kcm_keys.cpp:330
 #, kde-format
@@ -128,7 +124,6 @@ msgstr "Lệnh"
 
 #: ui/main.qml:27
 #, kde-format
-#| msgid "System Settings"
 msgid "System Services"
 msgstr "Dịch vụ hệ thống"
 
@@ -139,21 +134,18 @@ msgstr "Hành động chung"
 
 #: ui/main.qml:43
 #, kde-format
-#| msgid "Import"
 msgctxt "@action: button Import shortcut scheme"
 msgid "Import…"
 msgstr "Nhập…"
 
 #: ui/main.qml:48
 #, kde-format
-#| msgid "Cancel Export"
 msgctxt "@action:button"
 msgid "Cancel Export"
 msgstr "Huỷ xuất khẩu"
 
 #: ui/main.qml:49
 #, kde-format
-#| msgid "Export Scheme…"
 msgctxt "@action:button Export shortcut scheme"
 msgid "Export…"
 msgstr "Xuất…"
@@ -172,7 +164,6 @@ msgstr ""
 
 #: ui/main.qml:97
 #, kde-format
-#| msgid "Save scheme"
 msgctxt "@action:button Save shortcut scheme"
 msgid "Save Scheme"
 msgstr "Lưu quy hoạch"
@@ -185,8 +176,6 @@ msgstr "Thêm mới"
 
 #: ui/main.qml:170
 #, kde-format
-#| msgctxt "@action:button Keep translated text as short as possible"
-#| msgid "Add Application…"
 msgctxt "@action:menu End of the sentence 'Add New Application…'"
 msgid "Application…"
 msgstr "Ứng dụng…"
@@ -261,7 +250,6 @@ msgstr "Thêm"
 
 #: ui/main.qml:432
 #, kde-format
-#| msgid "Enter a command or the full path to a script file:"
 msgid "Enter a command or choose a script file:"
 msgstr "Nhập lệnh hoặc chọn tệp kịch bản:"
 

@@ -1168,8 +1168,8 @@ msgid ""
 "<para><application>%1</application> is not responding. Do you want to "
 "terminate this application?</para>"
 msgstr ""
-"<para><application>%1</application> không phản hồi. Bạn có muốn kết thúc "
-"ứng dụng này không?</para>"
+"<para><application>%1</application> không phản hồi. Bạn có muốn kết thúc ứng "
+"dụng này không?</para>"
 
 #: helpers/killer/killer.cpp:151
 #, kde-kuit-format
@@ -1183,11 +1183,6 @@ msgstr ""
 
 #: helpers/killer/killer.cpp:154
 #, kde-kuit-format
-#| msgctxt "@info"
-#| msgid ""
-#| "<para>Do you want to terminate this application?</"
-#| "para><para><warning>Terminating the application will close all of its "
-#| "child windows. Any unsaved data will be lost.</warning></para>"
 msgctxt "@info"
 msgid ""
 "<para><emphasis strong='true'>Terminating this application will close all of "
@@ -1198,22 +1193,18 @@ msgstr ""
 
 #: helpers/killer/killer.cpp:156
 #, kde-format
-#| msgid "&Terminate Application %1"
 msgctxt "@action:button Terminate app"
 msgid "&Terminate %1"
 msgstr "Kế&t thúc %1"
 
 #: helpers/killer/killer.cpp:157
 #, kde-format
-#| msgid "Wait Longer"
 msgctxt "@action:button Wait for frozen app to maybe respond again"
 msgid "&Wait Longer"
 msgstr "Đợi t&hêm"
 
 #: helpers/killer/killer.cpp:165
 #, kde-format
-#| msgctxt "Application is not responding, appended to window title"
-#| msgid "(Not Responding)"
 msgctxt "@title:window"
 msgid "Not Responding"
 msgstr "Không phản hồi"
@@ -1226,7 +1217,6 @@ msgstr "ID tiến trình: %1"
 
 #: helpers/killer/killer.cpp:183
 #, kde-format
-#| msgid "hostname"
 msgctxt "@info"
 msgid "Host name: %1"
 msgstr "Tên máy: %1"
@@ -1332,8 +1322,6 @@ msgstr "Vlad Zahorodnii"
 
 #: main.cpp:207
 #, kde-format
-#| msgctxt "@item:inlistbox Button size:"
-#| msgid "Very Huge"
 msgid "Xaver Hugl"
 msgstr "Xaver Hugl"
 
@@ -1520,8 +1508,6 @@ msgstr "Cường độ mờ:"
 #. i18n: ectx: property (text), widget (QLabel, labelConstantNoiseLight)
 #: plugins/blur/blur_config.ui:42 plugins/blur/blur_config.ui:108
 #, kde-format
-#| msgctxt "A mouse button"
-#| msgid "Right"
 msgid "Light"
 msgstr "Nhẹ"
 
@@ -1590,13 +1576,12 @@ msgstr "Cường độ:"
 
 #: plugins/colorpicker/colorpicker.cpp:108
 #, kde-format
-#| msgid ""
-#| "Select window to force close with left click or enter.\n"
-#| "Escape or right click to cancel."
 msgid ""
 "Select a position for color picking with left click or enter.\n"
 "Escape or right click to cancel."
-msgstr "Bấm trái hoặc enter để chọn vị trí lấy màu.\nEscape hoặc bấm phải để huỷ."
+msgstr ""
+"Bấm trái hoặc enter để chọn vị trí lấy màu.\n"
+"Escape hoặc bấm phải để huỷ."
 
 #. i18n: ectx: property (text), widget (QLabel, label_Strength)
 #: plugins/diminactive/diminactive_config.ui:17
@@ -1619,28 +1604,24 @@ msgstr "Giá và bảng"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimDesktop)
 #: plugins/diminactive/diminactive_config.ui:54
 #, kde-format
-#| msgid "&Desktops"
 msgid "Desktop"
 msgstr "Bàn làm việc"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimKeepAbove)
 #: plugins/diminactive/diminactive_config.ui:61
 #, kde-format
-#| msgid "Keep above"
 msgid "Keep above windows"
 msgstr "Giữ trên các cửa sổ khác"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimByGroup)
 #: plugins/diminactive/diminactive_config.ui:68
 #, kde-format
-#| msgid "Window role"
 msgid "By window group"
 msgstr "Theo nhóm cửa sổ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DimFullScreen)
 #: plugins/diminactive/diminactive_config.ui:75
 #, kde-format
-#| msgid "Fullscreen"
 msgid "Fullscreen windows"
 msgstr "Cửa sổ toàn màn hình"
 
@@ -1648,7 +1629,6 @@ msgstr "Cửa sổ toàn màn hình"
 #: plugins/glide/glide_config.ui:19
 #: plugins/scale/package/contents/ui/config.ui:17
 #, kde-format
-#| msgid "caption"
 msgid "Duration:"
 msgstr "Thời lượng:"
 
@@ -1670,7 +1650,6 @@ msgstr " mi-li giây"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_InAnimation)
 #: plugins/glide/glide_config.ui:50
 #, kde-format
-#| msgid "Window position"
 msgid "Window Open Animation"
 msgstr "Hiệu ứng động mở cửa sổ"
 
@@ -1678,7 +1657,6 @@ msgstr "Hiệu ứng động mở cửa sổ"
 #. i18n: ectx: property (text), widget (QLabel, label_OutRotationEdge)
 #: plugins/glide/glide_config.ui:56 plugins/glide/glide_config.ui:154
 #, kde-format
-#| msgid "Rotation"
 msgid "Rotation edge:"
 msgstr "Cạnh xoay:"
 
@@ -1695,8 +1673,6 @@ msgstr "Trên"
 #: plugins/glide/glide_config.ui:75 plugins/glide/glide_config.ui:173
 #: plugins/kdecorations/aurorae/themes/plastik/package/contents/ui/config.ui:43
 #, kde-format
-#| msgctxt "A mouse button"
-#| msgid "Right"
 msgid "Right"
 msgstr "Phải"
 
@@ -1713,8 +1689,6 @@ msgstr "Dưới"
 #: plugins/glide/glide_config.ui:85 plugins/glide/glide_config.ui:183
 #: plugins/kdecorations/aurorae/themes/plastik/package/contents/ui/config.ui:29
 #, kde-format
-#| msgctxt "A mouse button"
-#| msgid "Left"
 msgid "Left"
 msgstr "Trái"
 
@@ -1722,7 +1696,6 @@ msgstr "Trái"
 #. i18n: ectx: property (text), widget (QLabel, label_OutRotationAngle)
 #: plugins/glide/glide_config.ui:93 plugins/glide/glide_config.ui:191
 #, kde-format
-#| msgid "Rotation"
 msgid "Rotation angle:"
 msgstr "Góc xoay:"
 
@@ -1736,7 +1709,6 @@ msgstr "Khoảng cách:"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_OutAnimation)
 #: plugins/glide/glide_config.ui:148
 #, kde-format
-#| msgid "Window position"
 msgid "Window Close Animation"
 msgstr "Hiệu ứng động đóng cửa sổ"
 
@@ -1749,7 +1721,6 @@ msgstr "Không bao giờ"
 #: plugins/hidecursor/hidecursor_config.cpp:58
 #: plugins/hidecursor/hidecursor_config.cpp:62
 #, kde-format
-#| msgid " milliseconds"
 msgid "%1 second"
 msgid_plural "%1 seconds"
 msgstr[0] "%1 mi-li giây"
@@ -1819,21 +1790,18 @@ msgstr "Rất khổng lồ"
 
 #: plugins/kdecorations/aurorae/src/config/auroraeconfig.cpp:54
 #, kde-format
-#| msgid "&Resize"
 msgctxt "@item:inlistbox Button size:"
 msgid "Oversized"
 msgstr "Quá cỡ"
 
 #: plugins/kdecorations/aurorae/src/config/auroraeconfig.cpp:57
 #, kde-format
-#| msgid "Buttons"
 msgid "Button size:"
 msgstr "Cỡ nút:"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, PlastikConfigDialog)
 #: plugins/kdecorations/aurorae/themes/plastik/package/contents/ui/config.ui:14
 #, kde-format
-#| msgid "Dialog"
 msgid "Config Dialog"
 msgstr "Hộp thoại cấu hình"
 
@@ -1862,7 +1830,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_coloredBorder)
 #: plugins/kdecorations/aurorae/themes/plastik/package/contents/ui/config.ui:56
 #, kde-format
-#| msgid "Toggle Window Border"
 msgid "Colored window border"
 msgstr "Viền cửa sổ có màu"
 
@@ -2055,8 +2022,6 @@ msgstr " px"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: plugins/magnifier/magnifier_config.ui:55
 #, kde-format
-#| msgctxt "A mouse button"
-#| msgid "Right"
 msgid "&Height:"
 msgstr "Ch&iều cao:"
 
@@ -2068,24 +2033,18 @@ msgstr "Bật/tắt hiệu ứng bấm chuột"
 
 #: plugins/mouseclick/mouseclick.cpp:45
 #, kde-format
-#| msgctxt "A mouse button"
-#| msgid "Left"
 msgctxt "Left mouse button"
 msgid "Left"
 msgstr "Trái"
 
 #: plugins/mouseclick/mouseclick.cpp:46
 #, kde-format
-#| msgctxt "A mouse button"
-#| msgid "Middle"
 msgctxt "Middle mouse button"
 msgid "Middle"
 msgstr "Giữa"
 
 #: plugins/mouseclick/mouseclick.cpp:47
 #, kde-format
-#| msgctxt "A mouse button"
-#| msgid "Right"
 msgctxt "Right mouse button"
 msgid "Right"
 msgstr "Phải"
@@ -2099,21 +2058,18 @@ msgstr "Thiết lập cơ bản"
 #. i18n: ectx: property (text), widget (QLabel, button1_label)
 #: plugins/mouseclick/mouseclick_config.ui:37
 #, kde-format
-#| msgid "No Mouse Buttons"
 msgid "Left Mouse Button Color:"
 msgstr "Màu Nút Chuột Trái:"
 
 #. i18n: ectx: property (text), widget (QLabel, button2_label)
 #: plugins/mouseclick/mouseclick_config.ui:50
 #, kde-format
-#| msgid "No Mouse Buttons"
 msgid "Middle Mouse Button Color:"
 msgstr "Màu nút chuột giữa:"
 
 #. i18n: ectx: property (text), widget (QLabel, button3_label)
 #: plugins/mouseclick/mouseclick_config.ui:70
 #, kde-format
-#| msgid "No Mouse Buttons"
 msgid "Right Mouse Button Color:"
 msgstr "Màu nút chuột phải:"
 
@@ -2164,8 +2120,6 @@ msgstr "Bán kính vòng:"
 #. i18n: ectx: property (text), widget (QLabel, ring_count_label)
 #: plugins/mouseclick/mouseclick_config.ui:184
 #, kde-format
-#| msgctxt "Number of fingers in this pinch gesture"
-#| msgid "Finger count"
 msgid "Ring Count:"
 msgstr "Số vòng:"
 
@@ -2184,7 +2138,6 @@ msgstr "Phông chữ:"
 #. i18n: ectx: property (text), widget (QLabel, showtext_label)
 #: plugins/mouseclick/mouseclick_config.ui:233
 #, kde-format
-#| msgid "Show Desktop"
 msgid "Show Text:"
 msgstr "Hiện chữ:"
 
@@ -2232,14 +2185,12 @@ msgstr "&Màu:"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
 #: plugins/mousemark/mousemark_config.ui:82
 #, kde-format
-#| msgid "Draw with the mouse by holding Shift+Meta keys and moving the mouse."
 msgid "Draw with the mouse by holding modifier keys and moving the mouse"
 msgstr "Vẽ bằng chuột bằng cách giữ phím bổ trợ và di chuyển chuột"
 
 #. i18n: ectx: property (text), widget (QLabel, label_FreedrawModifierKeys)
 #: plugins/mousemark/mousemark_config.ui:103
 #, kde-format
-#| msgid "Modifiers"
 msgid "Free draw modifier keys:"
 msgstr "Phím bổ trợ vẽ tự do:"
 
@@ -2250,8 +2201,6 @@ msgstr "Phím bổ trợ vẽ tự do:"
 #: plugins/mousemark/mousemark_config.ui:179
 #: plugins/trackmouse/trackmouse_config.ui:65
 #, kde-format
-#| msgctxt "A keyboard modifier"
-#| msgid "Alt"
 msgid "Alt"
 msgstr "Alt"
 
@@ -2272,8 +2221,6 @@ msgstr "Ctrl"
 #: plugins/mousemark/mousemark_config.ui:193
 #: plugins/trackmouse/trackmouse_config.ui:79
 #, kde-format
-#| msgctxt "A keyboard modifier"
-#| msgid "Shift"
 msgid "Shift"
 msgstr "Shift"
 
@@ -2284,30 +2231,23 @@ msgstr "Shift"
 #: plugins/mousemark/mousemark_config.ui:200
 #: plugins/trackmouse/trackmouse_config.ui:86
 #, kde-format
-#| msgctxt "A keyboard modifier"
-#| msgid "Meta"
 msgid "Meta"
 msgstr "Meta"
 
 #. i18n: ectx: property (text), widget (QLabel, label_ArrowdrawModifierKeys)
 #: plugins/mousemark/mousemark_config.ui:157
 #, kde-format
-#| msgid "Modifiers"
 msgid "Arrow draw modifier keys:"
 msgstr "Phím bổ trợ vẽ mũi tên:"
 
 #: plugins/nightlight/nightlightmanager.cpp:58
 #, kde-format
-#| msgctxt "Night Color was enabled"
-#| msgid "Night Color On"
 msgctxt "Night Light was temporarily disabled"
 msgid "Night Light Suspended"
 msgstr "Tạm Dừng Ánh Sáng Đêm"
 
 #: plugins/nightlight/nightlightmanager.cpp:59
 #, kde-format
-#| msgctxt "Night Color was enabled"
-#| msgid "Night Color On"
 msgctxt "Night Light was reenabled from temporary suspension"
 msgid "Night Light Resumed"
 msgstr "Đã tiếp tục Ánh sáng đêm"
@@ -2325,8 +2265,6 @@ msgstr "Xem thử nhiệt độ màu"
 
 #: plugins/outputlocator/outputlocator.cpp:50
 #, kde-format
-#| msgctxt "The input device of the event is not known"
-#| msgid "Unknown"
 msgctxt "@label"
 msgid "Unknown"
 msgstr "Không rõ"
@@ -2346,14 +2284,12 @@ msgstr "Chuyển đổi giữa Khung xem Lưới và Tổng quan"
 
 #: plugins/overview/kcm/overvieweffectkcm.cpp:53
 #, kde-format
-#| msgid "Toggle Overview"
 msgctxt "@action Overview is the name of a KWin effect"
 msgid "Toggle Overview"
 msgstr "Bật/tắt Tổng quan"
 
 #: plugins/overview/kcm/overvieweffectkcm.cpp:60
 #, kde-format
-#| msgid "Toggle Overview"
 msgctxt "@action Grid View is the name of a KWin effect"
 msgid "Toggle Grid View"
 msgstr "Bật/tắt khung xem lưới"
@@ -2361,7 +2297,6 @@ msgstr "Bật/tắt khung xem lưới"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: plugins/overview/kcm/overvieweffectkcm.ui:22
 #, kde-format
-#| msgid "Minimize Window"
 msgid "Ignore minimized windows:"
 msgstr "Bỏ qua cửa sổ thu nhỏ:"
 
@@ -2385,56 +2320,46 @@ msgstr "Chuyển đổi giữa Overview và Khung xem lưới"
 
 #: plugins/overview/overvieweffect.cpp:143
 #, kde-format
-#| msgid "Toggle Overview"
 msgctxt "@action Overview is the name of a Kwin effect"
 msgid "Toggle Overview"
 msgstr "Bật/tắt Tổng quan"
 
 #: plugins/overview/overvieweffect.cpp:151
 #, kde-format
-#| msgid "Toggle Overview"
 msgctxt "@action Grid view is the name of a Kwin effect"
 msgid "Toggle Grid View"
 msgstr "Bật/tắt khung xem lưới"
 
 #: plugins/overview/qml/DesktopBar.qml:165
 #, kde-format
-#| msgid "Peek at Desktop"
 msgid "Delete Virtual Desktop"
 msgstr "Xóa bàn làm việc ảo"
 
 #: plugins/overview/qml/DesktopBar.qml:262
 #, kde-format
-#| msgctxt "Create a new desktop and add the window to that desktop"
-#| msgid "Add to &New Desktop"
 msgid "Add Virtual Desktop"
 msgstr "Thêm bàn làm việc ảo"
 
 #: plugins/overview/qml/main.qml:381
 #, kde-format
-#| msgid "Peek at Desktop"
 msgctxt "@info:placeholder"
 msgid "No other Virtual Desktops to show"
 msgstr "Không có Bàn làm việc Ảo khác để hiển thị"
 
 #: plugins/overview/qml/main.qml:387
 #, kde-format
-#| msgctxt "Create a new desktop and add the window to that desktop"
-#| msgid "Add to &New Desktop"
 msgctxt "@action:button"
 msgid "Add Virtual Desktop"
 msgstr "Thêm bàn làm việc ảo"
 
 #: plugins/overview/qml/main.qml:394
 #, kde-format
-#| msgid "Configure virtual keyboards..."
 msgctxt "@action:button"
 msgid "Configure Virtual Desktops…"
 msgstr "Cấu hình bàn làm việc ảo…"
 
 #: plugins/overview/qml/main.qml:739
 #, kde-format
-#| msgid "X11 Unmanaged Windows"
 msgctxt "@info:placeholder"
 msgid "No matching windows"
 msgstr "Không có cửa sổ phù hợp"
@@ -2446,7 +2371,6 @@ msgstr "Kéo xuống để đóng"
 
 #: plugins/private/qml/WindowHeapDelegate.qml:457
 #, kde-format
-#| msgid "Close Window"
 msgctxt "@info:tooltip as in: 'close this window'"
 msgid "Close window"
 msgstr "Đóng cửa sổ"
@@ -2454,14 +2378,12 @@ msgstr "Đóng cửa sổ"
 #. i18n: ectx: property (text), widget (QLabel, label_InScale)
 #: plugins/scale/package/contents/ui/config.ui:46
 #, kde-format
-#| msgid "Window role"
 msgid "Window open scale:"
 msgstr "Tỷ lệ mở cửa sổ:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_OutScale)
 #: plugins/scale/package/contents/ui/config.ui:53
 #, kde-format
-#| msgid "Window role"
 msgid "Window close scale:"
 msgstr "Tỷ lệ đóng cửa sổ:"
 
@@ -2483,7 +2405,6 @@ msgstr "Không thể kết nối ngữ cảnh PipeWire"
 
 #: plugins/screencast/screencastmanager.cpp:45
 #, kde-format
-#| msgid "Close running window on %1"
 msgid "Could not find window id %1"
 msgstr "Không tìm được mã định danh cửa sổ %1"
 
@@ -2499,7 +2420,6 @@ msgstr "Vùng không hợp lệ"
 
 #: plugins/screencast/screencaststream.cpp:350
 #, kde-format
-#| msgid "No OpenGL compositor running"
 msgid "OpenGL compositing is required for screencasting"
 msgstr "Cần có trình kết hợp OpenGL để quay màn hình"
 
@@ -2510,25 +2430,21 @@ msgstr "Không thể tạo luồng PipeWire"
 
 #: plugins/screenshot/screenshotdbusinterface2.cpp:525
 #, kde-format
-#| msgid ""
-#| "Select window to force close with left click or enter.\n"
-#| "Escape or right click to cancel."
 msgid ""
 "Select window to screen shot with left click or enter.\n"
 "Escape or right click to cancel."
 msgstr ""
-"Bấm trái hoặc enter để chọn cửa sổ chụp màn hình.\nEscape hoặc bấm phải để "
-"huỷ."
+"Bấm trái hoặc enter để chọn cửa sổ chụp màn hình.\n"
+"Escape hoặc bấm phải để huỷ."
 
 #: plugins/screenshot/screenshotdbusinterface2.cpp:543
 #, kde-format
-#| msgid ""
-#| "Select window to force close with left click or enter.\n"
-#| "Escape or right click to cancel."
 msgid ""
 "Create screen shot with left click or enter.\n"
 "Escape or right click to cancel."
-msgstr "Bấm trái hoặc enter để chụp màn hình.\nEscape hoặc bấm phải để huỷ."
+msgstr ""
+"Bấm trái hoặc enter để chụp màn hình.\n"
+"Escape hoặc bấm phải để huỷ."
 
 #: plugins/showfps/qml/main-fallback.qml:26 plugins/showfps/qml/main.qml:192
 #, kde-format
@@ -2538,8 +2454,6 @@ msgstr "Hiệu ứng này không phải là một sự chuẩn kiểm"
 
 #: plugins/showfps/qml/main.qml:110
 #, kde-format
-#| msgctxt "A mouse pointer motion event"
-#| msgid "Pointer Motion"
 msgctxt "@label"
 msgid "Paint Duration"
 msgstr "Thời gian vẽ"
@@ -2552,7 +2466,6 @@ msgstr "Lượng sơn:"
 
 #: plugins/showfps/qml/main.qml:175
 #, kde-format
-#| msgid "Current Layout:"
 msgctxt "@label"
 msgid "Current FPS"
 msgstr "FPS hiện tại"
@@ -2577,16 +2490,12 @@ msgstr "Chỗ trống giữa các bàn làm việc"
 #. i18n: ectx: property (text), widget (QLabel, label_HorizontalGap)
 #: plugins/slide/slide_config.ui:23
 #, kde-format
-#| msgctxt "An orientation of a pointer axis event"
-#| msgid "Horizontal"
 msgid "Horizontal:"
 msgstr "Ngang:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_VerticalGap)
 #: plugins/slide/slide_config.ui:46
 #, kde-format
-#| msgctxt "An orientation of a pointer axis event"
-#| msgid "Vertical"
 msgid "Vertical:"
 msgstr "Dọc:"
 
@@ -2647,13 +2556,11 @@ msgstr "Phần lót:"
 
 #: plugins/tileseditor/qml/main.qml:161
 #, kde-format
-#| msgid "Load Layout..."
 msgid "Load Layout…"
 msgstr "Tải bố cục…"
 
 #: plugins/tileseditor/qml/main.qml:271
 #, kde-format
-#| msgid "&Close"
 msgid "Close"
 msgstr "Đóng"
 
@@ -2693,14 +2600,12 @@ msgstr "Kích hoạt hiệu ứng bằng:"
 #. i18n: ectx: property (text), widget (QLabel, label_KeyboardShortcut)
 #: plugins/trackmouse/trackmouse_config.ui:33
 #, kde-format
-#| msgid "Keyboard"
 msgid "Keyboard shortcut:"
 msgstr "Phím tắt:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_ModifierKeys)
 #: plugins/trackmouse/trackmouse_config.ui:43
 #, kde-format
-#| msgid "Modifiers"
 msgid "Modifier keys:"
 msgstr "Phím bổ trợ:"
 
@@ -2733,7 +2638,6 @@ msgstr "Đục"
 #. i18n: ectx: property (text), widget (QLabel, dialogs_label)
 #: plugins/translucency/package/contents/ui/config.ui:137
 #, kde-format
-#| msgid "Dialog"
 msgid "Dialogs:"
 msgstr "Hộp thoại:"
 
@@ -2754,14 +2658,12 @@ msgstr "Trình đơn:"
 #. i18n: ectx: property (text), widget (QLabel, moveresize_label)
 #: plugins/translucency/package/contents/ui/config.ui:207
 #, kde-format
-#| msgid "Move Window"
 msgid "Moving windows:"
 msgstr "Cửa sổ di chuyển:"
 
 #. i18n: ectx: property (text), widget (QLabel, inactive_label)
 #: plugins/translucency/package/contents/ui/config.ui:226
 #, kde-format
-#| msgid "Internal Windows"
 msgid "Inactive windows:"
 msgstr "Cửa sổ bất hoạt:"
 
@@ -2818,8 +2720,6 @@ msgstr "Danh sách phân cách bởi dấu phẩy các lớp cửa sổ"
 #. i18n: ectx: property (text), widget (QLabel, applyLabel)
 #: plugins/videowall/package/contents/ui/config.ui:45
 #, kde-format
-#| msgctxt "A keyboard modifier"
-#| msgid "Alt"
 msgid "All"
 msgstr "Tất cả"
 
@@ -2844,7 +2744,6 @@ msgstr "Ẩn/hiện \"Các cửa sổ hiện thời\" (Bàn làm việc hiện t
 #: plugins/windowview/kcm/windowvieweffectkcm.cpp:49
 #: plugins/windowview/windowvieweffect.cpp:57
 #, kde-format
-#| msgid "Keep Window on All Desktops"
 msgid "Toggle Present Windows (All desktops)"
 msgstr "Bật/tắt Hiện tất cả cửa sổ (Mọi bàn làm việc)"
 
@@ -2864,7 +2763,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_IgnoreMinimized)
 #: plugins/windowview/kcm/windowvieweffectkcm.ui:22
 #, kde-format
-#| msgid "Minimize Window"
 msgid "Ignore &minimized windows"
 msgstr "Bỏ qu&a cửa sổ thu nhỏ"
 
@@ -2875,13 +2773,11 @@ msgstr "Không mục nào khớp"
 
 #: plugins/windowview/qml/main.qml:107
 #, kde-format
-#| msgid "Windows"
 msgid "No Windows"
 msgstr "Không có cửa sổ"
 
 #: plugins/windowview/qml/main.qml:122
 #, kde-format
-#| msgid "Internal Windows"
 msgid "Filter windows…"
 msgstr "Lọc cửa sổ…"
 
@@ -2906,7 +2802,6 @@ msgstr "Độ &kéo:"
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: plugins/wobblywindows/wobblywindows_config.ui:81
 #, kde-format
-#| msgid "Move to %1"
 msgid "&Move factor:"
 msgstr "Hệ số &di chuyển:"
 
@@ -2948,13 +2843,11 @@ msgstr "Nhiều"
 
 #: plugins/zoom/zoom.cpp:69
 #, kde-format
-#| msgid "Move Window One Screen to the Left"
 msgid "Move Zoomed Area to Left"
 msgstr "Di chuyển vùng phóng đại sang trái"
 
 #: plugins/zoom/zoom.cpp:76
 #, kde-format
-#| msgid "Move Window One Screen to the Right"
 msgid "Move Zoomed Area to Right"
 msgstr "Di chuyển vùng phóng to sang phải"
 
@@ -2970,37 +2863,31 @@ msgstr "Di chuyển vùng được thu phóng xuống dưới"
 
 #: plugins/zoom/zoom.cpp:98 plugins/zoom/zoom_config.cpp:98
 #, kde-format
-#| msgid "No Mouse Buttons"
 msgid "Move Mouse to Focus"
 msgstr "Di chuyển chuột để nhắm"
 
 #: plugins/zoom/zoom.cpp:105 plugins/zoom/zoom_config.cpp:105
 #, kde-format
-#| msgid "Move Window to the Center"
 msgid "Move Mouse to Center"
 msgstr "Di chuyển chuột vào tâm"
 
 #: plugins/zoom/zoom_config.cpp:70
 #, kde-format
-#| msgid "Move Window Left"
 msgid "Move Left"
 msgstr "Di chuyển sang trái"
 
 #: plugins/zoom/zoom_config.cpp:77
 #, kde-format
-#| msgid "Move Window Right"
 msgid "Move Right"
 msgstr "Di chuyển sang phải"
 
 #: plugins/zoom/zoom_config.cpp:84
 #, kde-format
-#| msgid "Move Window Up"
 msgid "Move Up"
 msgstr "Di chuyển lên"
 
 #: plugins/zoom/zoom_config.cpp:91
 #, kde-format
-#| msgid "Move Window Down"
 msgid "Move Down"
 msgstr "Di chuyển xuống"
 
@@ -3064,8 +2951,6 @@ msgstr "Cách hiển thị con trỏ chuột."
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MousePointer)
 #: plugins/zoom/zoom_config.ui:103
 #, kde-format
-#| msgctxt "Current scale in pinch gesture"
-#| msgid "Scale"
 msgid "Scale"
 msgstr "Tỉ lệ"
 
@@ -3090,7 +2975,6 @@ msgstr "Theo dõi di chuyển của chuột."
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MouseTracking)
 #: plugins/zoom/zoom_config.ui:125
 #, kde-format
-#| msgid "Position"
 msgid "Proportional"
 msgstr "Tỷ lệ"
 
@@ -3637,7 +3521,6 @@ msgstr "Lớp"
 #. i18n: ectx: label, entry (layerrule), group ($(ruleDescriptionOrNumber))
 #: rulesettings.kcfg:441
 #, kde-format
-#| msgid "Shaded rule type"
 msgid "Layer rule type"
 msgstr "Kiểu luật lớp"
 
@@ -3650,7 +3533,6 @@ msgstr "Đồng bộ thích ứng"
 #. i18n: ectx: label, entry (adaptivesyncrule), group ($(ruleDescriptionOrNumber))
 #: rulesettings.kcfg:450
 #, kde-format
-#| msgid "Activity rule type"
 msgid "AdaptiveSync rule type"
 msgstr "Kiểu luật AdaptiveSync"
 
@@ -3671,7 +3553,9 @@ msgstr "..."
 msgid ""
 "The following applications did not close:\n"
 "%1"
-msgstr "Các ứng dụng sau không đóng:\n%1"
+msgstr ""
+"Các ứng dụng sau không đóng:\n"
+"%1"
 
 #: sm.cpp:480
 #, kde-format
@@ -3693,7 +3577,6 @@ msgstr "Hiện bàn làm việc"
 
 #: tabbox/switchers/thumbnail_grid/contents/ui/main.qml:208
 #, kde-format
-#| msgid "Windows"
 msgctxt "@info:placeholder no entries in the task switcher"
 msgid "No open windows"
 msgstr "Không có cửa sổ mở"
@@ -3801,19 +3684,16 @@ msgstr "&Không có thanh tiêu đề và khung"
 
 #: useractions.cpp:258
 #, kde-format
-#| msgid "Set Window Short&cut..."
 msgid "Set Window Short&cut…"
 msgstr "Đặt phím tắt &cửa sổ…"
 
 #: useractions.cpp:264
 #, kde-format
-#| msgid "Configure Special &Window Settings..."
 msgid "Configure Special &Window Settings…"
 msgstr "Cấu hình &thiết lập cửa sổ đặc biệt…"
 
 #: useractions.cpp:269
 #, kde-format
-#| msgid "Configure S&pecial Application Settings..."
 msgid "Configure S&pecial Application Settings…"
 msgstr "Cấu hình thiết lậ&p ứng dụng đặc biệt…"
 
@@ -4303,17 +4183,6 @@ msgstr "(Không hồi đáp)"
 
 #: workspace.cpp:1557
 #, kde-format
-#| msgctxt "Introductory text shown in the support information."
-#| msgid ""
-#| "KWin Support Information:\n"
-#| "The following information should be used when requesting support on e.g. "
-#| "https://forum.kde.org.\n"
-#| "It provides information about the currently running instance, which "
-#| "options are used,\n"
-#| "what OpenGL driver and which effects are running.\n"
-#| "Please post the information provided underneath this introductory text to "
-#| "a paste bin service\n"
-#| "like https://paste.kde.org instead of pasting into support threads.\n"
 msgctxt "Introductory text shown in the support information."
 msgid ""
 "KWin Support Information:\n"
@@ -4326,12 +4195,14 @@ msgid ""
 "paste bin service\n"
 "like https://paste.kde.org instead of pasting into support threads.\n"
 msgstr ""
-"Thông tin hỗ trợ KWin:\nThông tin sau đây nên được dùng khi yêu cầu hỗ trợ "
-"vd. ở https://discuss.kde.org.\nGồm có thông tin về hiện thể đang chạy, các "
-"lựa chọn được dùng,\ntrình điều khiển OpenGL nào và các hiệu ứng nào đang "
-"chạy.\nVui lòng đăng thông tin được cung cấp bên dưới phần văn bản giới "
-"thiệu này vào một dịch vụ lưu trữ văn bản,\nchẳng hạn như "
-"https://paste.kde.org, thay vì dán vào mạch bài hỗ trợ.\n"
+"Thông tin hỗ trợ KWin:\n"
+"Thông tin sau đây nên được dùng khi yêu cầu hỗ trợ vd. ở https://"
+"discuss.kde.org.\n"
+"Gồm có thông tin về hiện thể đang chạy, các lựa chọn được dùng,\n"
+"trình điều khiển OpenGL nào và các hiệu ứng nào đang chạy.\n"
+"Vui lòng đăng thông tin được cung cấp bên dưới phần văn bản giới thiệu này "
+"vào một dịch vụ lưu trữ văn bản,\n"
+"chẳng hạn như https://paste.kde.org, thay vì dán vào mạch bài hỗ trợ.\n"
 
 #: xwayland/xwaylandlauncher.cpp:277
 #, kde-format
@@ -4342,26 +4213,19 @@ msgstr "Xwayland đã gặp sự cố"
 #~ msgstr "Bề mặt"
 
 #, fuzzy
-#~| msgctxt "An orientation of a pointer axis event"
-#~| msgid "Horizontal"
 #~ msgid "Split Horizontally"
 #~ msgstr "Ngang"
 
 #, fuzzy
-#~| msgctxt "An orientation of a pointer axis event"
-#~| msgid "Vertical"
 #~ msgid "Split Vertically"
 #~ msgstr "Dọc"
 
 #, fuzzy
-#~| msgctxt "Night Color was disabled"
-#~| msgid "Night Color Off"
 #~ msgctxt "Night Light was disabled"
 #~ msgid "Night Light Off"
 #~ msgstr "Màu buổi tối tắt"
 
 #, fuzzy
-#~| msgid "Toggle Night Color"
 #~ msgid "Toggle Night Light"
 #~ msgstr "Bật/tắt màu buổi tối"
 
@@ -4378,13 +4242,10 @@ msgstr "Xwayland đã gặp sự cố"
 #~ msgstr "Chuyển đến %1 %2"
 
 #, fuzzy
-#~| msgctxt "Name of a hardware switch"
-#~| msgid "Tablet mode"
 #~ msgid "Layout mode:"
 #~ msgstr "Chế độ máy tính bảng"
 
 #, fuzzy
-#~| msgid "&Close"
 #~ msgid "Closest"
 #~ msgstr "Đón&g"
 
@@ -4422,7 +4283,6 @@ msgstr "Xwayland đã gặp sự cố"
 #~ "%3), chạy trên máy \"%4\", nhưng ứng dụng đó không hồi đáp.</para>"
 
 #, fuzzy
-#~| msgid "Show Desktop"
 #~ msgid "Show Desktop Grid"
 #~ msgstr "Hiện bàn làm việc"
 
@@ -4431,8 +4291,6 @@ msgstr "Xwayland đã gặp sự cố"
 #~ msgstr "Tắt"
 
 #, fuzzy
-#~| msgctxt "A mouse button"
-#~| msgid "Right"
 #~ msgid "Top-Right"
 #~ msgstr "Phải"
 
@@ -4443,8 +4301,6 @@ msgstr "Xwayland đã gặp sự cố"
 #~ msgstr "Trái dưới"
 
 #, fuzzy
-#~| msgctxt "A mouse button"
-#~| msgid "Left"
 #~ msgid "Top-Left"
 #~ msgstr "Trái"
 
@@ -4461,7 +4317,6 @@ msgstr "Xwayland đã gặp sự cố"
 #~ msgstr "Số lượng &hàng:"
 
 #, fuzzy
-#~| msgid "Desktop file name"
 #~ msgid "Desktop &name alignment:"
 #~ msgstr "Tên tệp desktop"
 
@@ -4472,12 +4327,10 @@ msgstr "Xwayland đã gặp sự cố"
 #~ msgstr "Chế độ bố cục &lưới:"
 
 #, fuzzy
-#~| msgid "Windows"
 #~ msgid "Windows layout:"
 #~ msgstr "Cửa sổ"
 
 #, fuzzy
-#~| msgid "caption"
 #~ msgid "Activation"
 #~ msgstr "tiêu-đề"
 

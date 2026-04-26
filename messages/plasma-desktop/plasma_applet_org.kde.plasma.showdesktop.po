@@ -19,8 +19,6 @@ msgstr ""
 
 #: package/contents/ui/main.qml:116
 #, kde-format
-#| msgctxt "@action:button"
-#| msgid "Minimize All Windows"
 msgid "Minimize All Applet Active Indicator"
 msgstr "Chỉ báo hoạt động tiểu ứng dụng Thu nhỏ tất cả"
 

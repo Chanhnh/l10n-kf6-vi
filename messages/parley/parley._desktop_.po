@@ -22,9 +22,6 @@ msgid "Parley"
 msgstr "Parley"
 
 #: src/org.kde.parley.desktop:67
-#, 
-#| msgctxt "Comment"
-#| msgid "A program to help revise Latin"
 msgctxt "Comment"
 msgid "A program to help you memorize things."
 msgstr "Một chương trình giúp bạn ghi nhớ các thứ."
@@ -55,15 +52,11 @@ msgid "A simple gray theme."
 msgstr "Một chủ đề xám đơn giản."
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Vocabulary Trainer"
 #~ msgctxt "Comment"
 #~ msgid "Vocabulary data for Plasmoids"
 #~ msgstr "Luyện tập Từ vựng"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Vocabulary Trainer"
 #~ msgctxt "Comment"
 #~ msgid "Vocabulary Cards"
 #~ msgstr "Luyện tập Từ vựng"

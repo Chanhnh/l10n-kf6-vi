@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,12 +22,16 @@ msgstr "Săn vàng, tránh kẻ thù và giải đố"
 
 #. (itstool) path: description/p
 #: org.kde.kgoldrunner.appdata.xml:12
-msgid "KGoldrunner is an action game where the hero runs through a maze, climbs stairs, dig holes and dodges enemies in order to collect all the gold nuggets and escape to the next level. Your enemies are also after the gold. Worse still, they are after you!."
+msgid ""
+"KGoldrunner is an action game where the hero runs through a maze, climbs "
+"stairs, dig holes and dodges enemies in order to collect all the gold "
+"nuggets and escape to the next level. Your enemies are also after the gold. "
+"Worse still, they are after you!."
 msgstr ""
 "KGoldrunner là một trò chơi hành động nơi nhân vật chính chạy qua một mê "
 "cung, leo cầu thang, đào lỗ và tránh kẻ thù để thu thập tất cả các miếng "
-"vàng và thoát ra cấp độ tiếp theo. Kẻ thù của bạn cũng đang săn tìm vàng. "
-"Tệ hơn nữa, chúng đang săn lùng bạn!"
+"vàng và thoát ra cấp độ tiếp theo. Kẻ thù của bạn cũng đang săn tìm vàng. Tệ "
+"hơn nữa, chúng đang săn lùng bạn!"
 
 #. (itstool) path: description/p
 #: org.kde.kgoldrunner.appdata.xml:17
@@ -50,7 +55,10 @@ msgstr "Trình chỉnh sửa cấp độ"
 
 #. (itstool) path: ul/li
 #: org.kde.kgoldrunner.appdata.xml:22
-msgid "Two modes for the enemies: classical and KGoldrunner-mode, in KGoldrunner-mode they are more intelligent, in the classical mode it is easier to fool them"
+msgid ""
+"Two modes for the enemies: classical and KGoldrunner-mode, in KGoldrunner-"
+"mode they are more intelligent, in the classical mode it is easier to fool "
+"them"
 msgstr ""
 "Hai chế độ cho kẻ thù: chế độ cổ điển và chế độ KGoldrunner, trong chế độ "
 "KGoldrunner chúng thông minh hơn, trong chế độ cổ điển thì dễ lừa chúng hơn"

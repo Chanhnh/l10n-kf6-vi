@@ -70,13 +70,11 @@ msgstr "Mỗi 60 phút"
 
 #: autorefresh.cpp:41
 #, kde-format
-#| msgid "Every 5 Minutes"
 msgid "Every 2 Hours"
 msgstr "Mỗi 2 giờ"
 
 #: autorefresh.cpp:42
 #, kde-format
-#| msgid "Every 60 Minutes"
 msgid "Every 6 Hours"
 msgstr "Mỗi 6 giờ"
 

@@ -68,21 +68,18 @@ msgstr "Thông báo: Bật"
 
 #: package/contents/ui/EditContextMenu.qml:32
 #, kde-format
-#| msgid "Copy Link Address"
 msgctxt "@action:inmenu"
 msgid "Copy Link Address"
 msgstr "Chép địa chỉ liên kết"
 
 #: package/contents/ui/EditContextMenu.qml:44
 #, kde-format
-#| msgid "Copy"
 msgctxt "@action:inmenu"
 msgid "Copy"
 msgstr "Chép"
 
 #: package/contents/ui/EditContextMenu.qml:61
 #, kde-format
-#| msgid "Select All"
 msgctxt "@action:inmenu"
 msgid "Select All"
 msgstr "Bôi đen tất cả"
@@ -245,8 +242,6 @@ msgstr "%1%"
 
 #: package/contents/ui/JobItem.qml:179
 #, kde-format
-#| msgctxt "A button tooltip; hides item details"
-#| msgid "Hide Details"
 msgctxt "Hides/expands item details"
 msgid "Details"
 msgstr "Chi tiết"
@@ -439,7 +434,6 @@ msgstr "Gửi"
 #~ msgstr "Xoá lịch sử"
 
 #, fuzzy
-#~| msgid "Select All"
 #~ msgctxt "Clear all notifications"
 #~ msgid "Clear All"
 #~ msgstr "Chọn tất cả"

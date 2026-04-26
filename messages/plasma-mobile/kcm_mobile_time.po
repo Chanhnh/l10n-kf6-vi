@@ -3036,13 +3036,11 @@ msgstr "Chọn múi giờ"
 
 #: ui/main.qml:168
 #, kde-format
-#| msgid "Pick Date"
 msgid "Pick System Date"
 msgstr "Chọn ngày hệ thống"
 
 #: ui/main.qml:210
 #, kde-format
-#| msgid "Pick Time"
 msgid "Pick System Time"
 msgstr "Chọn Giờ Hệ Thống"
 

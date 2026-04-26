@@ -21,153 +21,99 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 
 #: kcharsets.cpp:153
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Western European"
 msgctxt "KCharsets|@item Text character set"
 msgid "Western European"
 msgstr "Tây Âu"
 
 #: kcharsets.cpp:159
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Central European"
 msgctxt "KCharsets|@item Text character set"
 msgid "Central European"
 msgstr "Trung Âu"
 
 #: kcharsets.cpp:162
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Baltic"
 msgctxt "KCharsets|@item Text character set"
 msgid "Baltic"
 msgstr "Ban-tích"
 
 #: kcharsets.cpp:165
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "South-Eastern Europe"
 msgctxt "KCharsets|@item Text character set"
 msgid "South-Eastern Europe"
 msgstr "Đông Nam Âu"
 
 #: kcharsets.cpp:168
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Turkish"
 msgctxt "KCharsets|@item Text character set"
 msgid "Turkish"
 msgstr "Thổ Nhĩ Kỳ"
 
 #: kcharsets.cpp:171
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Cyrillic"
 msgctxt "KCharsets|@item Text character set"
 msgid "Cyrillic"
 msgstr "Tiếng Cyrillic"
 
 #: kcharsets.cpp:177
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Chinese Traditional"
 msgctxt "KCharsets|@item Text character set"
 msgid "Chinese Traditional"
 msgstr "Trung Quốc Truyền thống"
 
 #: kcharsets.cpp:180
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Chinese Simplified"
 msgctxt "KCharsets|@item Text character set"
 msgid "Chinese Simplified"
 msgstr "Tiếng Trung giản thể"
 
 #: kcharsets.cpp:184
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Korean"
 msgctxt "KCharsets|@item Text character set"
 msgid "Korean"
 msgstr "Tiếng Hàn"
 
 #: kcharsets.cpp:187
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Japanese"
 msgctxt "KCharsets|@item Text character set"
 msgid "Japanese"
 msgstr "Tiếng Nhật"
 
 #: kcharsets.cpp:191
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Greek"
 msgctxt "KCharsets|@item Text character set"
 msgid "Greek"
 msgstr "Hy Lạp"
 
 #: kcharsets.cpp:194
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Arabic"
 msgctxt "KCharsets|@item Text character set"
 msgid "Arabic"
 msgstr "Ả Rập"
 
 #: kcharsets.cpp:197
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Hebrew"
 msgctxt "KCharsets|@item Text character set"
 msgid "Hebrew"
 msgstr "Do Thái"
 
 #: kcharsets.cpp:202
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Thai"
 msgctxt "KCharsets|@item Text character set"
 msgid "Thai"
 msgstr "Thái"
 
 #: kcharsets.cpp:205
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Unicode"
 msgctxt "KCharsets|@item Text character set"
 msgid "Unicode"
 msgstr "Unicode"
 
 #: kcharsets.cpp:211
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Other"
 msgctxt "KCharsets|@item Text character set"
 msgid "Other"
 msgstr "Khác"
 
 #: kcharsets.cpp:382
 #, qt-format
-#| msgctxt "@item %1 character set, %2 encoding"
-#| msgid "%1 ( %2 )"
 msgctxt "KCharsets|@item %1 character set, %2 encoding"
 msgid "%1 ( %2 )"
 msgstr "%1 ( %2 )"
 
 #: kcharsets.cpp:384
 #, qt-format
-#| msgctxt "@item"
-#| msgid "Other encoding (%1)"
 msgctxt "KCharsets|@item"
 msgid "Other encoding (%1)"
 msgstr "Mã hoá khác (%1)"
 
 #: kcharsets.cpp:413
 #, qt-format
-#| msgctxt "@item %1 character set, %2 encoding"
-#| msgid "%1 ( %2 )"
 msgctxt "KCharsets|@item Text encoding: %1 character set, %2 encoding"
 msgid "%1 ( %2 )"
 msgstr "%1 ( %2 )"
@@ -179,8 +125,8 @@ msgid ""
 "@.\n"
 "You will not create valid messages if you do not change your address."
 msgstr ""
-"Địa chỉ email bạn nhập không hợp lệ vì nó chứa nhiều hơn một ký tự @.\nBạn "
-"sẽ không tạo được tin nhắn hợp lệ nếu không thay đổi địa chỉ của bạn."
+"Địa chỉ email bạn nhập không hợp lệ vì nó chứa nhiều hơn một ký tự @.\n"
+"Bạn sẽ không tạo được tin nhắn hợp lệ nếu không thay đổi địa chỉ của bạn."
 
 #: kemailaddress.cpp:509
 msgctxt "QObject|"
@@ -188,8 +134,8 @@ msgid ""
 "The email address you entered is not valid because it does not contain a @.\n"
 "You will not create valid messages if you do not change your address."
 msgstr ""
-"Địa chỉ email bạn nhập không hợp lệ vì nó không chứa ký tự @.\nBạn sẽ không "
-"thể tạo được tin nhắn hợp lệ nếu không thay đổi địa chỉ của bạn."
+"Địa chỉ email bạn nhập không hợp lệ vì nó không chứa ký tự @.\n"
+"Bạn sẽ không thể tạo được tin nhắn hợp lệ nếu không thay đổi địa chỉ của bạn."
 
 #: kemailaddress.cpp:515
 msgctxt "QObject|"
@@ -222,9 +168,6 @@ msgstr ""
 "được đóng."
 
 #: kemailaddress.cpp:529
-#, 
-#| msgctxt "@info"
-#| msgid "The date you entered is invalid"
 msgctxt "QObject|"
 msgid "The email address you entered is valid."
 msgstr "Địa chỉ email bạn vừa nhập là hợp lệ."
@@ -244,8 +187,7 @@ msgid ""
 "The email address you entered is not valid because it contains too many "
 "closing angle brackets."
 msgstr ""
-"Địa chỉ email bạn nhập không hợp lệ vì nó chứa quá nhiều dấu ngoặc nhọn "
-"đóng."
+"Địa chỉ email bạn nhập không hợp lệ vì nó chứa quá nhiều dấu ngoặc nhọn đóng."
 
 #: kemailaddress.cpp:539
 msgctxt "QObject|"
@@ -261,9 +203,9 @@ msgid ""
 "This probably means you have used an escaping type character like a '\\' as "
 "the last character in your email address."
 msgstr ""
-"Địa chỉ email bạn nhập không hợp lệ vì nó kết thúc bất ngờ.\nĐiều này có "
-"thể có nghĩa là bạn đã sử dụng một ký tự thoát như '\\' làm ký tự cuối cùng "
-"trong địa chỉ email của bạn."
+"Địa chỉ email bạn nhập không hợp lệ vì nó kết thúc bất ngờ.\n"
+"Điều này có thể có nghĩa là bạn đã sử dụng một ký tự thoát như '\\' làm ký "
+"tự cuối cùng trong địa chỉ email của bạn."
 
 #: kemailaddress.cpp:549
 msgctxt "QObject|"
@@ -296,8 +238,7 @@ msgid ""
 "The email address you have entered is not valid because it contains an "
 "invalid display name."
 msgstr ""
-"Địa chỉ email bạn đã nhập không hợp lệ vì nó chứa tên hiển thị không hợp "
-"lệ."
+"Địa chỉ email bạn đã nhập không hợp lệ vì nó chứa tên hiển thị không hợp lệ."
 
 #: kemailaddress.cpp:566
 msgctxt "QObject|"
@@ -306,8 +247,8 @@ msgid ""
 "'.'.\n"
 "You will not create valid messages if you do not change your address."
 msgstr ""
-"Địa chỉ email bạn nhập không hợp lệ vì nó không chứa dấu '.'.\nBạn sẽ không "
-"tạo được tin nhắn hợp lệ nếu không thay đổi địa chỉ của bạn."
+"Địa chỉ email bạn nhập không hợp lệ vì nó không chứa dấu '.'.\n"
+"Bạn sẽ không tạo được tin nhắn hợp lệ nếu không thay đổi địa chỉ của bạn."
 
 #: kemailaddress.cpp:572
 msgctxt "QObject|"
@@ -321,140 +262,91 @@ msgid ""
 "It does not seem to contain an actual email address, i.e. something of the "
 "form joe@example.org."
 msgstr ""
-"Địa chỉ email bạn nhập không hợp lệ.\nNó không có vẻ là một địa chỉ email "
-"thực, tức là cái gì đó dạng joe@example.org."
+"Địa chỉ email bạn nhập không hợp lệ.\n"
+"Nó không có vẻ là một địa chỉ email thực, tức là cái gì đó dạng "
+"joe@example.org."
 
 #: kencodingprober.cpp:221 kencodingprober.cpp:262
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Disabled"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Disabled"
 msgstr "Đã tắt"
 
 #: kencodingprober.cpp:223 kencodingprober.cpp:265
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Universal"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Universal"
 msgstr "Phổ quát"
 
 #: kencodingprober.cpp:225 kencodingprober.cpp:307
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Unicode"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Unicode"
 msgstr "Unicode"
 
 #: kencodingprober.cpp:227 kencodingprober.cpp:277
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Cyrillic"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Cyrillic"
 msgstr "Tiếng Cyrillic"
 
 #: kencodingprober.cpp:229 kencodingprober.cpp:292
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Western European"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Western European"
 msgstr "Tây Âu"
 
 #: kencodingprober.cpp:231 kencodingprober.cpp:274
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Central European"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Central European"
 msgstr "Trung Âu"
 
 #: kencodingprober.cpp:233 kencodingprober.cpp:280
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Greek"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Greek"
 msgstr "Hy Lạp"
 
 #: kencodingprober.cpp:235 kencodingprober.cpp:283
-#, 
-#| msgctxt "@item Spelling dictionary"
-#| msgid "Hebrew"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Hebrew"
 msgstr "Do Thái"
 
 #: kencodingprober.cpp:237 kencodingprober.cpp:289
-#, 
-#| msgctxt "@item Spelling dictionary"
-#| msgid "Turkish"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Turkish"
 msgstr "Thổ Nhĩ Kỳ"
 
 #: kencodingprober.cpp:239 kencodingprober.cpp:286
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Japanese"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Japanese"
 msgstr "Tiếng Nhật"
 
 #: kencodingprober.cpp:241 kencodingprober.cpp:271
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Baltic"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Baltic"
 msgstr "Ban-tích"
 
 #: kencodingprober.cpp:243 kencodingprober.cpp:295
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Chinese Traditional"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Chinese Traditional"
 msgstr "Trung Quốc Truyền thống"
 
 #: kencodingprober.cpp:245 kencodingprober.cpp:298
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Chinese Simplified"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Chinese Simplified"
 msgstr "Tiếng Trung giản thể"
 
 #: kencodingprober.cpp:247 kencodingprober.cpp:301
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Korean"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Korean"
 msgstr "Hàn Quốc"
 
 #: kencodingprober.cpp:249 kencodingprober.cpp:304
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Thai"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Thai"
 msgstr "Thái"
 
 #: kencodingprober.cpp:251 kencodingprober.cpp:268
-#, 
-#| msgctxt "@item Text character set"
-#| msgid "Arabic"
 msgctxt "KEncodingProber|@item Text character set"
 msgid "Arabic"
 msgstr "Ả Rập"
 
 #, fuzzy
-#~| msgctxt "@item Text character set"
-#~| msgid "Northern Saami"
 #~ msgctxt "KCharsets|@item Text character set"
 #~ msgid "Northern Saami"
 #~ msgstr "Bắc Saami"

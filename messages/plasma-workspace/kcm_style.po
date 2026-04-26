@@ -113,7 +113,6 @@ msgstr "Nhãn trên thanh công cụ thứ"
 
 #: ui/EffectSettingsPopup.qml:19
 #, kde-format
-#| msgid "Configure Icons and Toolbars"
 msgctxt "@title:window"
 msgid "Configure Icon and Toolbars"
 msgstr "Cấu hình biểu tượng và thanh công cụ"
@@ -200,7 +199,6 @@ msgstr "Kho trữ chủ đề GTK (*.tar.xz *.tar.gz *.tar.bz2)"
 
 #: ui/main.qml:55
 #, kde-format
-#| msgid "Configure Icons and Toolbars"
 msgid "Configure Icons and Toolbars…"
 msgstr "Cấu hình biểu tượng và thanh công cụ…"
 

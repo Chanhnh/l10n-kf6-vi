@@ -21,7 +21,6 @@ msgstr ""
 
 #: imgallerydialog.cpp:37
 #, kde-format
-#| msgid "Create Image Gallery"
 msgctxt "@title:window"
 msgid "Create Image Gallery"
 msgstr "Tạo Bộ Sưu Tập Ảnh"
@@ -103,7 +102,6 @@ msgstr "&Lưu vào tệp HTML:"
 
 #: imgallerydialog.cpp:147
 #, kde-format
-#| msgid "<p>The name of the HTML file this gallery will be saved to."
 msgid "<p>The name of the HTML file this gallery will be saved to.</p>"
 msgstr "<p>Tên của tệp HTML mà thư viện ảnh này sẽ được lưu vào.</p>"
 
@@ -114,13 +112,11 @@ msgstr "Đệ &quy thư mục con"
 
 #: imgallerydialog.cpp:152
 #, kde-format
-#| msgid ""
-#| "<p>Whether subfolders should be included for the image gallery creation "
-#| "or not."
 msgid ""
 "<p>Whether subfolders should be included for the image gallery creation or "
 "not.</p>"
-msgstr "<p>Có nên bao gồm các thư mục con khi tạo bộ sưu tập ảnh hay không.</p>"
+msgstr ""
+"<p>Có nên bao gồm các thư mục con khi tạo bộ sưu tập ảnh hay không.</p>"
 
 #: imgallerydialog.cpp:163
 #, kde-format
@@ -129,9 +125,6 @@ msgstr "Vô hạn"
 
 #: imgallerydialog.cpp:165
 #, kde-format
-#| msgid ""
-#| "<p>You can limit the number of folders the image gallery creator will "
-#| "traverse to by setting an upper bound for the recursion depth."
 msgid ""
 "<p>You can limit the number of folders the image gallery creator will "
 "traverse to by setting an upper bound for the recursion depth.</p>"
@@ -151,9 +144,6 @@ msgstr "Chép tệ&p gốc"
 
 #: imgallerydialog.cpp:174
 #, kde-format
-#| msgid ""
-#| "<p>This makes a copy of all images and the gallery will refer to these "
-#| "copies instead of the original images."
 msgid ""
 "<p>This makes a copy of all images and the gallery will refer to these "
 "copies instead of the original images.</p>"
@@ -168,10 +158,6 @@ msgstr "Dùng tệp &chú thích"
 
 #: imgallerydialog.cpp:181
 #, kde-format
-#| msgid ""
-#| "<p>If you enable this option you can specify a comment file which will be "
-#| "used for generating subtitles for the images.<p>For details about the "
-#| "file format please see the \"What's This?\" help below."
 msgid ""
 "<p>If you enable this option you can specify a comment file which will be "
 "used for generating subtitles for the images.</p><p>For details about the "
@@ -183,11 +169,6 @@ msgstr ""
 
 #: imgallerydialog.cpp:190
 #, kde-format
-#| msgid ""
-#| "<p>You can specify the name of the comment file here. The comment file "
-#| "contains the subtitles for the images. The format of this file is:"
-#| "<p>FILENAME1:<br>Description<br><br>FILENAME2:<br>Description<br><br>and "
-#| "so on"
 msgid ""
 "<p>You can specify the name of the comment file here. The comment file "
 "contains the subtitles for the images. The format of this file is:</"
@@ -250,7 +231,6 @@ msgstr "Đang tạo các hình thu nhỏ"
 
 #: imgalleryplugin.cpp:103 imgalleryplugin.cpp:270
 #, kde-format
-#| msgid "Couldn't create folder: %1"
 msgid "Could not create folder: %1"
 msgstr "Không thể tạo thư mục: %1"
 
@@ -291,13 +271,11 @@ msgstr ""
 
 #: imgalleryplugin.cpp:225
 #, kde-format
-#| msgid "KB"
 msgid "KiB"
 msgstr "KiB"
 
 #: imgalleryplugin.cpp:343 imgalleryplugin.cpp:443
 #, kde-format
-#| msgid "Couldn't open file: %1"
 msgid "Could not open file: %1"
 msgstr "Không thể mở tệp: %1"
 

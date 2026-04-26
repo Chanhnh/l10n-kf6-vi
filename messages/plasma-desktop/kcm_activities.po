@@ -19,8 +19,6 @@ msgstr ""
 
 #: ui/ActivityEditor.qml:22
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Activity Settings"
 msgctxt "@title:window"
 msgid "Activity Settings for %1"
 msgstr "Thiết lập Hoạt động cho %1"
@@ -39,21 +37,18 @@ msgstr "Lưu"
 
 #: ui/ActivityEditor.qml:57
 #, kde-format
-#| msgid "Icon:"
 msgctxt "@label:chooser"
 msgid "Icon:"
 msgstr "Biểu tượng:"
 
 #: ui/ActivityEditor.qml:68
 #, kde-format
-#| msgid "Name:"
 msgctxt "@label:textbox"
 msgid "Name:"
 msgstr "Tên:"
 
 #: ui/ActivityEditor.qml:74
 #, kde-format
-#| msgid "Description:"
 msgctxt "@label:textbox"
 msgid "Description:"
 msgstr "Mô tả:"
@@ -105,15 +100,12 @@ msgstr "Xoá Hoạt động"
 
 #: ui/main.qml:87
 #, kde-format
-#| msgid "Are you sure you want to delete '%1'?"
 msgctxt "%1 is an activity name"
 msgid "Do you want to delete activity '%1'?"
 msgstr "Bạn có muốn xoá hoạt động '%1'?"
 
 #: ui/main.qml:94
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Delete Activity"
 msgid "Delete Activity"
 msgstr "Xoá Hoạt động"
 
@@ -122,7 +114,6 @@ msgstr "Xoá Hoạt động"
 #~ msgstr "Cấu hình Hoạt động %1"
 
 #, fuzzy
-#~| msgid "Privacy:"
 #~ msgctxt "@option:check"
 #~ msgid "Privacy:"
 #~ msgstr "Tính riêng tư:"

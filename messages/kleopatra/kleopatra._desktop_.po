@@ -19,8 +19,6 @@ msgid "Kleopatra Decrypt/Verify Files"
 msgstr "Kleopatra Giải mã/Xác minh Tệp"
 
 #: src/data/kleopatra_decryptverifyfiles.desktop:62
-#, 
-#| msgid "Description=Text File"
 msgctxt "Name"
 msgid "Decrypt/Verify File"
 msgstr "Giải mã/Xác minh Tệp"
@@ -36,7 +34,6 @@ msgid "Decrypt/Verify All Files In Folder"
 msgstr "Giải mã/Xác minh Tất cả Tệp trong Thư mục"
 
 #: src/data/kleopatra_import.desktop:8 src/data/org.kde.kleopatra.desktop:6
-#, 
 msgctxt "Name"
 msgid "Kleopatra"
 msgstr "Kleopatra"

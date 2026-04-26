@@ -24,16 +24,11 @@ msgid "Kolor Lines"
 msgstr "Kolor Lines"
 
 #: src/org.kde.klines.desktop:153
-#, 
-#| msgctxt "GenericName"
-#| msgid "Tactical Game"
 msgctxt "Comment"
 msgid "Tactical game"
 msgstr "Trò chơi chiến thuật"
 
 #: themes/crystal.desktop:3
-#, 
-#| msgid "Name=Crystal"
 msgctxt "Name"
 msgid "Crystal"
 msgstr "Pha lê"
@@ -49,15 +44,11 @@ msgid "An Egyptian style theme for Kolor Lines."
 msgstr "Một chủ đề kiểu cách Ai Cập cho Kolor Lines."
 
 #: themes/klines-gems.desktop:3
-#, 
-#| msgctxt "Name"
-#| msgid "Kolor Lines"
 msgctxt "Name"
 msgid "Gems for Kolor Lines"
 msgstr "Gems cho Kolor Lines"
 
 #: themes/metal.desktop:3
-#, 
 msgctxt "Name"
 msgid "Metal"
 msgstr "Kim loại"

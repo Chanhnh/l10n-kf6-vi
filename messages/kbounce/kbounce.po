@@ -62,14 +62,18 @@ msgstr "xem thử"
 msgid ""
 "Welcome to KBounce.\n"
 " Click to start a game"
-msgstr "Chào mừng đến với KBounce.\n Bấm để bắt đầu một bàn chơi"
+msgstr ""
+"Chào mừng đến với KBounce.\n"
+" Bấm để bắt đầu một bàn chơi"
 
 #: gamewidget.cpp:399
 #, kde-format
 msgid ""
 "Paused\n"
 " Click to resume"
-msgstr "Đã tạm dừng\n Bấm để tiếp tục trở lại"
+msgstr ""
+"Đã tạm dừng\n"
+" Bấm để tiếp tục trở lại"
 
 #: gamewidget.cpp:402
 #, kde-format
@@ -101,7 +105,9 @@ msgstr "Tiến lên cấp độ %1. Nhớ là bạn sẽ có %2 mạng!"
 msgid ""
 "Game over.\n"
 " Click to start a game"
-msgstr "Kết thúc trò chơi.\n Bấm để bắt đầu bàn chơi"
+msgstr ""
+"Kết thúc trò chơi.\n"
+" Bấm để bắt đầu bàn chơi"
 
 #. i18n: ectx: label, entry (PlaySounds), group (Sound)
 #: kbounce.kcfg:16
@@ -130,7 +136,9 @@ msgstr "Trò chơi bóng nảy"
 msgid ""
 "(c) 2000-2005, Stefan Schimanski\n"
 "(c) 2007, Tomasz Boczkowski"
-msgstr "(c) 2000-2005, Stefan Schimanski\n(c) 2007, Tomasz Boczkowski"
+msgstr ""
+"(c) 2000-2005, Stefan Schimanski\n"
+"(c) 2007, Tomasz Boczkowski"
 
 #: main.cpp:34
 #, kde-format
@@ -225,7 +233,6 @@ msgstr "Phát Âm Thanh"
 
 #: mainwindow.cpp:133
 #, kde-format
-#| msgid "Do you really want to close the running game?"
 msgid "Are you sure you want to quit the current game?"
 msgstr "Bạn có chắc muốn thoát khỏi trò chơi hiện tại?"
 

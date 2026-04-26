@@ -40,7 +40,6 @@ msgstr "Trang web"
 
 #: ui/main.qml:63
 #, kde-format
-#| msgid "Software"
 msgctxt "@title:group"
 msgid "Software"
 msgstr "Phần mềm"
@@ -78,7 +77,6 @@ msgstr "%1-bit"
 
 #: ui/main.qml:102
 #, kde-format
-#| msgid "Hardware"
 msgctxt "@title:group"
 msgid "Hardware"
 msgstr "Phần cứng"

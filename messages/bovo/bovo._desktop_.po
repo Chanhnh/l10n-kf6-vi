@@ -19,7 +19,6 @@ msgid "Bovo"
 msgstr "Bovo"
 
 #: src/org.kde.bovo.desktop:74
-#, 
 msgctxt "GenericName"
 msgid "Five-in-a-row Board Game"
 msgstr "Trò chơi cờ năm trong hàng"
@@ -35,8 +34,6 @@ msgid "A classic Japanese theme"
 msgstr "Một chủ đề cổ điển của Nhật Bản"
 
 #: themes/highcontrast/themerc:2
-#, 
-#| msgid "Name=High contrast"
 msgctxt "Name"
 msgid "High Contrast"
 msgstr "Tương phản cao"
@@ -57,9 +54,6 @@ msgid "A pen and paper theme"
 msgstr "Một chủ đề bút và giấy"
 
 #: themes/spacy/themerc:2
-#, 
-#| msgctxt "Name"
-#| msgid "Spaced"
 msgctxt "Name"
 msgid "Spacy"
 msgstr "Spacy"

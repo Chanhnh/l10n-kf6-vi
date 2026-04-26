@@ -37,9 +37,6 @@ msgid "Configuration tools for your computer"
 msgstr "Các công cụ cấu hình cho máy tính của bạn"
 
 #: app/kdesystemsettings.desktop:206 app/systemsettings.desktop:252
-#, 
-#| msgctxt "GenericName"
-#| msgid "System Settings"
 msgctxt "Keywords"
 msgid "systemsettings"
 msgstr "thiết lập hệ thống"
@@ -85,9 +82,6 @@ msgid "Hidden"
 msgstr "Ẩn"
 
 #: categories/settings-appearance.desktop:8
-#, 
-#| msgctxt "Name"
-#| msgid "Appearance"
 msgctxt "Name"
 msgid "Appearance & Style"
 msgstr "Diện mạo & Kiểu cách"
@@ -103,9 +97,6 @@ msgid "Colors & Themes"
 msgstr "Màu sắc & Chủ đề"
 
 #: categories/settings-applications-defaults.desktop:8
-#, 
-#| msgctxt "Name"
-#| msgid "Applications"
 msgctxt "Name"
 msgid "Default Applications"
 msgstr "Ứng dụng Mặc định"
@@ -116,25 +107,16 @@ msgid "Apps & Windows"
 msgstr "Ứng dụng & Cửa sổ"
 
 #: categories/settings-applications-permissions.desktop:8
-#, 
-#| msgctxt "Name"
-#| msgid "Applications"
 msgctxt "Name"
 msgid "Application Permissions"
 msgstr "Quyền Ứng dụng"
 
 #: categories/settings-hardware.desktop:8
-#, 
-#| msgctxt "Name"
-#| msgid "Input Devices"
 msgctxt "Name"
 msgid "Connected Devices"
 msgstr "Thiết bị kết nối"
 
 #: categories/settings-hardware-display.desktop:8
-#, 
-#| msgctxt "Name"
-#| msgid "Display and Monitor"
 msgctxt "Name"
 msgid "Display & Monitor"
 msgstr "Bộ hiển thị & màn hình"
@@ -175,9 +157,6 @@ msgid "Disks & Cameras"
 msgstr "Ổ đĩa & Máy ảnh"
 
 #: categories/settings-network.desktop:8
-#, 
-#| msgctxt "Name"
-#| msgid "Network"
 msgctxt "Name"
 msgid "Networking"
 msgstr "Mạng"
@@ -223,9 +202,6 @@ msgid "Search"
 msgstr "Tìm kiếm"
 
 #: categories/settings-workspace-session.desktop:8
-#, 
-#| msgctxt "Name"
-#| msgid "Permissions"
 msgctxt "Name"
 msgid "Session"
 msgstr "Phiên"
@@ -244,8 +220,6 @@ msgstr "Quản lí cửa sổ"
 #~ msgstr "Kết nối"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Window Behavior"
 #~ msgctxt "Name"
 #~ msgid "Behavior"
 #~ msgstr "Ứng xử của cửa sổ"
@@ -255,8 +229,6 @@ msgstr "Quản lí cửa sổ"
 #~ msgstr "Phím tắt"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Regional Settings"
 #~ msgctxt "Name"
 #~ msgid "Personal Settings"
 #~ msgstr "Thiết lập vùng"
@@ -266,8 +238,6 @@ msgstr "Quản lí cửa sổ"
 #~ msgstr "Ứng xử của không gian làm việc"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Account Details"
 #~ msgctxt "Name"
 #~ msgid "Accounts"
 #~ msgstr "Chi tiết danh khoản"

@@ -68,7 +68,6 @@ msgstr "Chuyển…"
 #: package/contents/ui/CalendarView.qml:436
 #: package/contents/ui/CalendarView.qml:437
 #, kde-format
-#| msgid "Switch to another timezone"
 msgid "Switch to another time zone"
 msgstr "Chuyển múi giờ"
 
@@ -99,7 +98,6 @@ msgstr "Luôn ở dưới thời gian"
 
 #: package/contents/ui/configAppearance.qml:74
 #, kde-format
-#| msgid "Show seconds"
 msgid "Show seconds:"
 msgstr "Hiện giây:"
 
@@ -205,16 +203,12 @@ msgstr "Dạng riêng"
 
 #: package/contents/ui/configAppearance.qml:212
 #, kde-format
-#| msgid ""
-#| "<a href=\"https://doc.qt.io/qt-5/qml-qtqml-qt.html#formatDateTime-method"
-#| "\">Time Format Documentation</a>"
 msgid ""
-"<a href=\"https://doc.qt.io/qt-6/qml-qtqml-qt.html#formatDateTime-method"
-"\">Time Format Documentation</a>"
+"<a href=\"https://doc.qt.io/qt-6/qml-qtqml-qt.html#formatDateTime-"
+"method\">Time Format Documentation</a>"
 msgstr ""
-"<a "
-"href=\"https://doc.qt.io/qt-6/qml-qtqml-qt.html#formatDateTime-method\">Tài "
-"liệu định dạng thời gian</a>"
+"<a href=\"https://doc.qt.io/qt-6/qml-qtqml-qt.html#formatDateTime-"
+"method\">Tài liệu định dạng thời gian</a>"
 
 #: package/contents/ui/configAppearance.qml:237
 #, kde-format
@@ -282,10 +276,6 @@ msgstr "Phần cài cắm khả dụng:"
 
 #: package/contents/ui/configTimeZones.qml:42
 #, kde-format
-#| msgid ""
-#| "Tip: if you travel frequently, add another entry for your home time zone "
-#| "to this list. It will only appear when you change the systemwide time "
-#| "zone to something else."
 msgid ""
 "Tip: if you travel frequently, add your home time zone to this list. It will "
 "only appear when you change the systemwide time zone to something else."
@@ -305,11 +295,6 @@ msgstr "Đồng hồ hiện đang dùng múi giờ này"
 
 #: package/contents/ui/configTimeZones.qml:95
 #, kde-format
-#| msgctxt ""
-#| "@label This list item shows a time zone city name that is identical to "
-#| "the local time zone's city, and will be hidden in the timezone display in "
-#| "the plasmoid's popup"
-#| msgid "Hidden while this is the local time zone's city"
 msgctxt ""
 "@label This list item shows a time zone city name that is identical to the "
 "local time zone's city, and will be hidden in the time zone display in the "
@@ -363,21 +348,16 @@ msgstr ""
 
 #: package/contents/ui/configTimeZones.qml:208
 #, kde-format
-#| msgid "Add More Timezones"
 msgid "Add More Time Zones"
 msgstr "Thêm múi giờ khác"
 
 #: package/contents/ui/configTimeZones.qml:220
 #, kde-format
-#| msgid ""
-#| "At least one time zone needs to be enabled. Your local timezone was "
-#| "enabled automatically."
 msgid ""
 "At least one time zone needs to be enabled. Your local time zone was enabled "
 "automatically."
 msgstr ""
-"Cần bật ít nhất một múi giờ. Múi giờ địa phương của bạn đã được tự động "
-"bật."
+"Cần bật ít nhất một múi giờ. Múi giờ địa phương của bạn đã được tự động bật."
 
 #: package/contents/ui/configTimeZones.qml:256
 #, kde-format

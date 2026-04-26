@@ -72,7 +72,9 @@ msgstr "Không thể tải về %1: %2"
 msgid ""
 "Could not open or properly read \"%1\"\n"
 "(Error reported: %2)"
-msgstr "Không thể mở hoặc đọc đúng cách \"%1\"\n(Lỗi được báo cáo: %2)"
+msgstr ""
+"Không thể mở hoặc đọc đúng cách \"%1\"\n"
+"(Lỗi được báo cáo: %2)"
 
 #: keduvocdocument/keduvocdocument.cpp:300
 #: keduvocdocument/keduvocdocument.cpp:326
@@ -322,8 +324,6 @@ msgstr "Cá nhân"
 #: keduvocdocument/keduvockvtmlcompability.cpp:55
 #: keduvocdocument/keduvockvtmlcompability.cpp:248
 #, kde-format
-#| msgctxt "EMAIL OF TRANSLATORS"
-#| msgid "Your emails"
 msgctxt "@item:inlistbox A subtype of the grammatical word type: Noun"
 msgid "Male"
 msgstr "Nam"
@@ -331,8 +331,6 @@ msgstr "Nam"
 #: keduvocdocument/keduvockvtmlcompability.cpp:56
 #: keduvocdocument/keduvockvtmlcompability.cpp:251
 #, kde-format
-#| msgctxt "EMAIL OF TRANSLATORS"
-#| msgid "Your emails"
 msgctxt "@item:inlistbox A subtype of the grammatical word type: Noun"
 msgid "Female"
 msgstr "Nữ"

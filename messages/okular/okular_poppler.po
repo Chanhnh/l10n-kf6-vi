@@ -60,7 +60,6 @@ msgstr "Hình dạng"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: conf/pdfsettingswidget.ui:72
 #, kde-format
-#| msgid "Scaling mode for the printed pages"
 msgid "Default scaling mode when printing:"
 msgstr "Chế độ đổi cỡ mặc định khi in:"
 

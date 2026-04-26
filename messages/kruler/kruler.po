@@ -50,22 +50,18 @@ msgstr "Hiện biểu tượng khay"
 
 #: klineal.cpp:85
 #, kde-format
-#| msgid "KRuler"
 msgctxt "@title:window"
 msgid "KRuler"
 msgstr "Thước kẻ K"
 
 #: klineal.cpp:88
 #, kde-format
-#| msgid ""
-#| "This is a tool to measure pixel distances and colors on the screen. It is "
-#| "useful for working on layouts of dialogs, web pages etc."
 msgid ""
 "This is a tool to measure pixel distances on the screen. It is useful for "
 "working on layouts of dialogs, web pages etc."
 msgstr ""
-"Đây là công cụ để đo khoảng cách điểm ảnh trên màn hình. Nó rất hữu dụng "
-"khi làm việc với trình bày hộp hội thoại, trang web v.v."
+"Đây là công cụ để đo khoảng cách điểm ảnh trên màn hình. Nó rất hữu dụng khi "
+"làm việc với trình bày hộp hội thoại, trang web v.v."
 
 #: klineal.cpp:108
 #, kde-format
@@ -157,7 +153,6 @@ msgstr "Màu nền của thước đo."
 #. i18n: ectx: label, entry (Length), group (StoredSettings)
 #: kruler.kcfg:15
 #, kde-format
-#| msgid "&Orientation"
 msgid "Length of the ruler."
 msgstr "Độ dài của thước đo."
 
@@ -176,7 +171,6 @@ msgstr "Thước ngang"
 #. i18n: ectx: label, entry (LeftToRight), group (StoredSettings)
 #: kruler.kcfg:27
 #, kde-format
-#| msgid "&Orientation"
 msgid "Direction of the ruler"
 msgstr "Hướng của thước đo"
 
@@ -225,7 +219,9 @@ msgstr "Thước đo màn hình của KDE"
 msgid ""
 "(c) 2000 - 2008, Till Krech\n"
 "(c) 2009, Mathias Soeken"
-msgstr "(c) 2000 - 2008, Till Krech\n(c) 2009, Mathias Soeken"
+msgstr ""
+"(c) 2000 - 2008, Till Krech\n"
+"(c) 2009, Mathias Soeken"
 
 #: main.cpp:28
 #, kde-format

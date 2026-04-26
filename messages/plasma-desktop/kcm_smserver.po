@@ -82,7 +82,6 @@ msgstr "Khởi động lại ngay"
 
 #: ui/main.qml:74
 #, kde-format
-#| msgid "General:"
 msgctxt "@title:group"
 msgid "General"
 msgstr "Chung"
@@ -222,12 +221,10 @@ msgstr "Đi vào màn hình cài đặt phần sụn"
 #~ "không."
 
 #, fuzzy
-#~| msgid "Default leave option:"
 #~ msgid "Default option:"
 #~ msgstr "Lựa chọn thoát mặc định:"
 
 #, fuzzy
-#~| msgid "Restart Now"
 #~ msgctxt "@option:radio"
 #~ msgid "Restart"
 #~ msgstr "Khởi động lại ngay"
@@ -325,7 +322,6 @@ msgstr "Đi vào màn hình cài đặt phần sụn"
 #~ "này chỉ có ý nghĩa nếu bạn đăng nhập qua KDM."
 
 #, fuzzy
-#~| msgid "Default Shutdown Option"
 #~ msgid "Default Leave Option"
 #~ msgstr "Tuỳ chọn tắt máy mặc định"
 

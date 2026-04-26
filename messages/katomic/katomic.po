@@ -31,7 +31,6 @@ msgstr "Email của bạn"
 
 #: chooselevelsetdialog.cpp:29
 #, kde-format
-#| msgid "Level: %1"
 msgctxt "@title:window"
 msgid "Level Sets"
 msgstr "Các Vòng"
@@ -41,12 +40,11 @@ msgstr "Các Vòng"
 msgid ""
 "Failed to load level set \"%1\". Check if it is installed on your computer."
 msgstr ""
-"Không thể tải bộ cấp độ \"%1\". Hãy kiểm tra xem nó có được cài đặt trên "
-"máy tính của bạn không."
+"Không thể tải bộ cấp độ \"%1\". Hãy kiểm tra xem nó có được cài đặt trên máy "
+"tính của bạn không."
 
 #: gamewidget.cpp:140
 #, kde-format
-#| msgid "Level: %1"
 msgid "Level %1 finished. "
 msgstr "Vòng %1 đã hoàn thành."
 
@@ -117,7 +115,6 @@ msgstr "Chọn một bộ cấp độ để chơi:"
 #. i18n: ectx: property (text), widget (KNSWidgets::Button, m_pbNewStuff)
 #: levelsetwidget.ui:45
 #, kde-format
-#| msgid "6 new levels"
 msgid "Download New Levels…"
 msgstr "Tải về Các Cấp Độ Mới..."
 
@@ -128,7 +125,6 @@ msgstr "Nguyên tử"
 
 #: main.cpp:35
 #, kde-format
-#| msgid "KDE Atomic Entertainment Game"
 msgid "Atomic Entertainment Game"
 msgstr "Trò chơi ghép nguyên tử"
 
@@ -137,7 +133,9 @@ msgstr "Trò chơi ghép nguyên tử"
 msgid ""
 "(c) 1998, Andreas Wuest\n"
 "(c) 2007-2009 Dmitry Suzdalev"
-msgstr "(c) 1998, Andreas Wuest\n(c) 2007-2009 Dmitry Suzdalev"
+msgstr ""
+"(c) 1998, Andreas Wuest\n"
+"(c) 2007-2009 Dmitry Suzdalev"
 
 #: main.cpp:38
 #, kde-format
@@ -265,7 +263,6 @@ msgstr "Cấp độ tiếp theo"
 
 #: toplevel.cpp:103
 #, kde-format
-#| msgid "Level: %1"
 msgctxt "@action"
 msgid "Choose Level Set…"
 msgstr "Chọn Bộ Cấp Độ..."
@@ -308,49 +305,42 @@ msgstr "Làm lại Tất cả"
 
 #: toplevel.cpp:139
 #, kde-format
-#| msgid "Atom Up"
 msgctxt "@action"
 msgid "Atom Up"
 msgstr "Chuyển nguyên tử lên"
 
 #: toplevel.cpp:145
 #, kde-format
-#| msgid "Atom Down"
 msgctxt "@action"
 msgid "Atom Down"
 msgstr "Chuyển nguyên tử xuống"
 
 #: toplevel.cpp:151
 #, kde-format
-#| msgid "Atom Left"
 msgctxt "@action"
 msgid "Atom Left"
 msgstr "Chuyển nguyên tử qua trái"
 
 #: toplevel.cpp:157
 #, kde-format
-#| msgid "Atom Right"
 msgctxt "@action"
 msgid "Atom Right"
 msgstr "Chuyển nguyên tử qua phải"
 
 #: toplevel.cpp:163
 #, kde-format
-#| msgid "Next Atom"
 msgctxt "@action"
 msgid "Next Atom"
 msgstr "Nguyên tử tiếp theo"
 
 #: toplevel.cpp:169
 #, kde-format
-#| msgid "Previous Atom"
 msgctxt "@action"
 msgid "Previous Atom"
 msgstr "Nguyên tử trước"
 
 #: toplevel.cpp:190
 #, kde-format
-#| msgid "Level: %1"
 msgid "Level: %1 (%2)"
 msgstr "Cấp độ: %1 (%2)"
 

@@ -14,13 +14,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/data/akregator.notifyrc:4
-#, 
 msgctxt "Comment"
 msgid "Akregator"
 msgstr "Akregator"
 
 #: src/data/akregator.notifyrc:73
-#, 
 msgctxt "Name"
 msgid "Feed added"
 msgstr "Đã thêm nguồn cấp dữ liệu"
@@ -31,31 +29,26 @@ msgid "A new feed was remotely added to Akregator"
 msgstr "Một nguồn cấp dữ liệu mới đã được thêm vào Akregator từ xa"
 
 #: src/data/akregator.notifyrc:202
-#, 
 msgctxt "Name"
 msgid "New Articles"
 msgstr "Bài viết mới"
 
 #: src/data/akregator.notifyrc:268
-#, 
 msgctxt "Comment"
 msgid "New articles were fetched"
 msgstr "Đã tải về các bài viết mới"
 
 #: src/data/org.kde.akregator.desktop:2
-#, 
 msgctxt "Name"
 msgid "Akregator"
 msgstr "Akregator"
 
 #: src/data/org.kde.akregator.desktop:76
-#, 
 msgctxt "GenericName"
 msgid "Feed Reader"
 msgstr "Trình đọc tin"
 
 #: src/data/org.kde.akregator.desktop:135
-#, 
 msgctxt "Comment"
 msgid "A KDE News Feed Reader"
 msgstr "Trình đọc tin tức KDE"
@@ -81,7 +74,6 @@ msgstr "Trình đọc tin tức KDE"
 #~ msgstr "Pháp "
 
 #, fuzzy
-#~| msgid "Name=Archiver"
 #~ msgctxt "Name"
 #~ msgid "Archive"
 #~ msgstr "Name=Luư trữ "
@@ -122,7 +114,6 @@ msgstr "Trình đọc tin tức KDE"
 #~ msgstr "Cấu hình các thiết lập cache ở đây ."
 
 #, fuzzy
-#~| msgid "Name=Launch Feedback"
 #~ msgctxt "Name"
 #~ msgid "User Feedback"
 #~ msgstr "Name=MềEtrình gửi feedback "

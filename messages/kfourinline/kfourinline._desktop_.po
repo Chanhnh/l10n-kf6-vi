@@ -14,15 +14,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.kfourinline.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Kolor Lines"
 msgctxt "Name"
 msgid "KFourInLine"
 msgstr "KFourInLine"
 
 #: src/org.kde.kfourinline.desktop:61
-#, 
 msgctxt "GenericName"
 msgid "Four-in-a-row Board Game"
 msgstr "Trò chơi cờ 4 ô liên tiếp"

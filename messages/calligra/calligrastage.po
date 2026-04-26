@@ -61,97 +61,77 @@ msgid "&Settings"
 msgstr "&Thiết lập"
 
 #: part/commands/KPrAddCustomSlideShowCommand.cpp:19
-#, 
 msgctxt "(qtundo-format)"
 msgid "Add custom slide show"
 msgstr "Thêm trình chiếu tự chọn"
 
 #: part/commands/KPrAnimationCreateCommand.cpp:32
-#, 
-#| msgid "Create HTML Presentation"
 msgctxt "(qtundo-format)"
 msgid "Create shape animation"
 msgstr "Tạo hiệu ứng động hình dạng"
 
 #: part/commands/KPrAnimationEditNodeTypeCommand.cpp:34
-#, 
-#| msgid "Create HTML Presentation"
 msgctxt "(qtundo-format)"
 msgid "Edit animation trigger event"
 msgstr "Sửa sự kiện kích hoạt hiệu ứng động"
 
 #: part/commands/KPrAnimationRemoveCommand.cpp:30
-#, 
-#| msgid "Create HTML Presentation"
 msgctxt "(qtundo-format)"
 msgid "Remove shape animation"
 msgstr "Xoá hiệu ứng động hình dạng"
 
 #: part/commands/KPrDelCustomSlideShowCommand.cpp:20
-#, 
 msgctxt "(qtundo-format)"
 msgid "Delete custom slide show"
 msgstr "Xóa trình chiếu tùy chỉnh"
 
 #: part/commands/KPrDeleteSlidesCommand.cpp:25
-#, 
 msgctxt "(qtundo-format) Delete one slide"
 msgid "Delete slide"
 msgstr "Xóa trang"
 
 #: part/commands/KPrDeleteSlidesCommand.cpp:44
-#, 
 msgctxt "(qtundo-format)"
 msgid "Delete slide"
 msgid_plural "Delete slides"
 msgstr[0] "Xóa các trang chiếu"
 
 #: part/commands/KPrEditAnimationTimeLineCommand.cpp:35
-#, 
 msgctxt "(qtundo-format)"
 msgid "Edit animation delay/duration"
 msgstr "Sửa độ trễ/thời lượng hiệu ứng động"
 
 #: part/commands/KPrEditCustomSlideShowsCommand.cpp:21
-#, 
 msgctxt "(qtundo-format)"
 msgid "Edit custom slide show"
 msgstr "Sửa trình chiếu tự chọn"
 
 #: part/commands/KPrPageEffectSetCommand.cpp:38
-#, 
-#| msgid "Create page effect"
 msgctxt "(qtundo-format)"
 msgid "Create Slide Effect"
 msgstr "Tạo hiệu ứng trang trình chiếu"
 
 #: part/commands/KPrPageEffectSetCommand.cpp:40
-#, 
-#| msgid "Modify page effect"
 msgctxt "(qtundo-format)"
 msgid "Modify Slide Effect"
 msgstr "Chỉnh sửa hiệu ứng trang trình chiếu"
 
 #: part/commands/KPrPageEffectSetCommand.cpp:43
-#, 
 msgctxt "(qtundo-format)"
 msgid "Delete Slide Effect"
 msgstr "Xóa hiệu ứng trang"
 
 #: part/commands/KPrPageTransitionSetCommand.cpp:32
-#, 
 msgctxt "(qtundo-format)"
 msgid "Modify Slide Transition"
 msgstr "Chỉnh sửa chuyển tiếp trang trình chiếu"
 
 #: part/commands/KPrRenameCustomSlideShowCommand.cpp:24
-#, 
 msgctxt "(qtundo-format)"
 msgid "Rename custom slide show"
 msgstr "Đổi tên trình chiếu tự chọn"
 
 #: part/commands/KPrReorderAnimationCommand.cpp:34
-#, 
 msgctxt "(qtundo-format)"
 msgid "Reorder animations"
 msgstr "Sắp xếp lại hiệu ứng động"
@@ -164,19 +144,16 @@ msgstr "Calligra Chấp nhận"
 
 #: part/KPrAboutData.h:21
 #, kde-format
-#| msgid "Presentation"
 msgid "Presentation Tool"
 msgstr "Công cụ Trình diễn"
 
 #: part/KPrAboutData.h:23
 #, kde-format
-#| msgid "(c) 1998-2007, The KPresenter Team"
 msgid "Copyright 1998-%1, The Stage Team"
 msgstr "Bản quyền 1998-%1, Nhóm Stage"
 
 #: part/KPrAboutData.h:31 part/KPrAboutData.h:32
 #, kde-format
-#| msgid "current maintainer"
 msgid "Former maintainer"
 msgstr "Người bảo trì trước đây"
 
@@ -192,7 +169,6 @@ msgstr "Laurent Montel"
 
 #: part/KPrAboutData.h:33
 #, kde-format
-#| msgid "original author"
 msgid "Original author"
 msgstr "Tác giả gốc"
 
@@ -341,8 +317,6 @@ msgid "Installation Error"
 msgstr "Lỗi cài đặt"
 
 #: part/KPrPicturesImport.cpp:61
-#, 
-#| msgid "Insert Picture"
 msgctxt "(qtundo-format)"
 msgid "Insert Pictures"
 msgstr "Chèn ảnh"
@@ -382,7 +356,6 @@ msgstr "Bấm đúp để thêm đối tượng"
 
 #: part/KPrPresentationDrawWidget.cpp:88
 #, kde-format
-#| msgid "Color"
 msgid "Pen Color"
 msgstr "Màu bút"
 
@@ -433,13 +406,11 @@ msgstr "Ghi chú diễn giả"
 
 #: part/KPrPresenterViewInterface.cpp:87
 #, kde-format
-#| msgid "Create HTML Slideshow"
 msgid "Current Slide %1 of %2"
 msgstr "Trang hiện tại %1 / %2"
 
 #: part/KPrPresenterViewInterface.cpp:87
 #, kde-format
-#| msgid "Slide Show"
 msgid "End of Slide Show"
 msgstr "Kết thúc trình chiếu"
 
@@ -454,7 +425,6 @@ msgstr "khởi động khi bấm chuột"
 #: part/tools/animationtool/KPrEditAnimationsWidget.cpp:220
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:512
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "start after previous animation"
 msgstr "khởi động sau hiệu ứng động trước"
 
@@ -462,7 +432,6 @@ msgstr "khởi động sau hiệu ứng động trước"
 #: part/tools/animationtool/KPrEditAnimationsWidget.cpp:223
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:515
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "start with previous animation"
 msgstr "khởi động với hiệu ứng động trước"
 
@@ -474,7 +443,6 @@ msgstr "Khởi động sau %1 giây. Thời lượng %2 giây."
 #: part/KPrShapeAnimations.cpp:227
 #: part/tools/animationtool/KPrAnimationToolFactory.cpp:21
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Animation"
 msgstr "Hiệu ứng động"
 
@@ -495,7 +463,6 @@ msgstr "Sao &chép vào đây"
 
 #: part/KPrSlidesSorterDocumentModel.cpp:289
 #, kde-format
-#| msgid "&Cancel"
 msgid "C&ancel"
 msgstr "H&uỷ"
 
@@ -596,13 +563,11 @@ msgstr "Xuất khẩu dạng HTML..."
 
 #: part/KPrView.cpp:263
 #, kde-format
-#| msgid "Insert Picture"
 msgid "Insert Pictures as Slides..."
 msgstr "Chèn ảnh làm trang chiếu..."
 
 #: part/KPrView.cpp:272
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Create Appear Animation"
 msgstr "Tạo hiệu ứng động xuất hiện"
 
@@ -653,7 +618,6 @@ msgstr "Cấu hình trình chiếu..."
 
 #: part/KPrView.cpp:313
 #, kde-format
-#| msgid "Configure KPresenter..."
 msgid "Configure Presenter View..."
 msgstr "Cấu hình Chế độ xem Người trình bày..."
 
@@ -684,13 +648,11 @@ msgstr "Sắp xếp slide"
 
 #: part/KPrViewModeSlidesSorter.cpp:74
 #, kde-format
-#| msgid "Slide Show"
 msgid "Slide Show: "
 msgstr "Trình chiếu: "
 
 #: part/KPrViewModeSlidesSorter.cpp:83
 #, kde-format
-#| msgid "Slideshow"
 msgid "Add a new custom slide show"
 msgstr "Thêm trình chiếu tự chọn mới"
 
@@ -716,13 +678,11 @@ msgstr "Nhân đôi trang trình chiếu"
 
 #: part/KPrViewModeSlidesSorter.cpp:175
 #, kde-format
-#| msgid "Create HTML Slideshow"
 msgid "Start Slideshow"
 msgstr "Khởi động chuỗi trình chiếu"
 
 #: part/KPrViewModeSlidesSorter.cpp:532
 #, kde-format
-#| msgid "Slideshow"
 msgid "Add a new slide"
 msgstr "Thêm trang trình chiếu mới"
 
@@ -753,7 +713,6 @@ msgstr "Dán"
 
 #: part/KPrViewModeSlidesSorter.cpp:638 part/KPrViewModeSlidesSorter.cpp:642
 #, kde-format
-#| msgid "Slide Show"
 msgid "Slide Show %1"
 msgstr "Trình chiếu %1"
 
@@ -766,7 +725,6 @@ msgstr "Tất cả slide"
 #: part/KPrViewModeSlidesSorter.cpp:682 part/ui/KPrHtmlExportDialog.cpp:153
 #: part/ui/KPrHtmlExportDialog.cpp:207
 #, kde-format
-#| msgid "Arrow"
 msgid "Error"
 msgstr "Lỗi"
 
@@ -777,7 +735,6 @@ msgstr "Không thể có hai bản trình chiếu cùng tên."
 
 #: part/pagelayout/KPrPlaceholders.cpp:48
 #: part/pagelayout/KPrPlaceholders.cpp:49
-#, 
 msgctxt "(qtundo-format)"
 msgid "Set Layout"
 msgstr "Đặt Bố Cục"
@@ -790,7 +747,6 @@ msgstr "Xem thử hiệu ứng động tự động"
 #: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:299
 #: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:307
 #, kde-format
-#| msgid "Presentation"
 msgid "Preview animation"
 msgstr "Xem thử hiệu ứng động"
 
@@ -801,13 +757,11 @@ msgstr "Chuyển tiếp trang"
 
 #: part/tools/animationtool/KPrAnimationTool.cpp:217
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Shape Click Actions"
 msgstr "Hành động bấm hình"
 
 #: part/tools/animationtool/KPrAnimationTool.cpp:219
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Shape Animations"
 msgstr "Hiệu ứng động hình dạng"
 
@@ -828,13 +782,11 @@ msgstr "khi bấm chuột"
 
 #: part/tools/animationtool/KPrEditAnimationsWidget.cpp:56
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "after previous animation"
 msgstr "sau hiệu ứng động trước"
 
 #: part/tools/animationtool/KPrEditAnimationsWidget.cpp:57
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "with previous animation"
 msgstr "với hiệu ứng động trước"
 
@@ -851,7 +803,6 @@ msgstr "Thời lượng: "
 #: part/tools/animationtool/KPrEditAnimationsWidget.cpp:71
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:124
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Preview Shape Animation"
 msgstr "Xem thử hiệu ứng động hình dạng"
 
@@ -882,12 +833,10 @@ msgstr "Chuyển tiếp trang:"
 
 #: part/tools/animationtool/KPrPageEffectDocker.cpp:98
 #, kde-format
-#| msgid "Apply Styles"
 msgid "Apply To All Slides"
 msgstr "Áp dụng cho tất cả các trang"
 
 #: part/tools/animationtool/KPrPageEffectDocker.cpp:253
-#, 
 msgctxt "(qtundo-format)"
 msgid "Apply Slide Effect to all Slides"
 msgstr "Áp dụng hiệu ứng cho tất cả trang trình chiếu"
@@ -931,19 +880,16 @@ msgstr "Cuộc gọi phương tiện"
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:81
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:504
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Edit animation"
 msgstr "Sửa hiệu ứng động"
 
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:95
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Add new animation"
 msgstr "Thêm hiệu ứng động mới"
 
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:107
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Remove animation"
 msgstr "Xoá hiệu ứng động"
 
@@ -954,19 +900,16 @@ msgstr "Thứ tự: "
 
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:114
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Move animation up"
 msgstr "Di chuyển hiệu ứng động lên"
 
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:119
 #, kde-format
-#| msgid "Create HTML Presentation"
 msgid "Move animation down"
 msgstr "Di chuyển hiệu ứng động xuống"
 
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:502
 #, kde-format
-#| msgid "Slideshow"
 msgid "Add a new animation"
 msgstr "Thêm hiệu ứng động mới"
 
@@ -1053,8 +996,6 @@ msgid "&Crop"
 msgstr "Xén &cạnh"
 
 #: part/tools/KPrPlaceholderTool.cpp:92
-#, 
-#| msgid "Shape"
 msgctxt "(qtundo-format)"
 msgid "Edit Shape"
 msgstr "Sửa hình"
@@ -1074,7 +1015,6 @@ msgstr "Màn hình trình chiếu:"
 #. i18n: ectx: property (text), widget (QCheckBox, presenterViewCheckBox)
 #: part/ui/KPrConfigurePresenterView.ui:39
 #, kde-format
-#| msgid "Configure KPresenter"
 msgid "Enable presenter view"
 msgstr "Bật khung xem người trình bày"
 
@@ -1090,7 +1030,6 @@ msgstr "Màn hình %1"
 
 #: part/ui/KPrConfigurePresenterViewDialog.cpp:38
 #, kde-format
-#| msgid "Configure KPresenter"
 msgid "Configure Presenter View"
 msgstr "Cấu hình Khung xem Người trình bày"
 
@@ -1110,7 +1049,6 @@ msgstr "Trang chiếu"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: part/ui/KPrConfigureSlideShow.ui:27
 #, kde-format
-#| msgid "Presentation"
 msgid "Presentation Slides:"
 msgstr "Các trang trình diễn:"
 
@@ -1178,7 +1116,6 @@ msgstr "Duyệt"
 #. i18n: ectx: property (text), widget (QLabel, label_author)
 #: part/ui/KPrHtmlExport.ui:243
 #, kde-format
-#| msgid "Author:"
 msgid "Author"
 msgstr "Tác giả"
 
@@ -1236,7 +1173,6 @@ msgstr "Thêm bản mẫu"
 
 #: part/ui/KPrHtmlExportDialog.cpp:325
 #, kde-format
-#| msgid "Save Configuration..."
 msgid "Confirm remove"
 msgstr "Xác nhận xoá"
 
@@ -1246,8 +1182,6 @@ msgid "Are you sure you want to remove \"%1\"?"
 msgstr "Bạn có chắc muốn xoá \"%1\"?"
 
 #: plugins/eventactions/sound/KPrSoundEventActionWidget.cpp:79
-#, 
-#| msgid "Change Rotation"
 msgctxt "(qtundo-format)"
 msgid "Change sound action"
 msgstr "Thay đổi hành động âm thanh"
@@ -1275,7 +1209,6 @@ msgstr "Thanh"
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:42
 #: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:42
 #: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:31
-#, 
 msgid "From Bottom"
 msgstr "Từ dưới lên"
 
@@ -1287,7 +1220,6 @@ msgstr "Từ dưới lên"
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:39
 #: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:39
 #: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:31
-#, 
 msgid "From Left"
 msgstr "Từ trái"
 
@@ -1299,7 +1231,6 @@ msgstr "Từ trái"
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:40
 #: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:40
 #: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:31
-#, 
 msgid "From Right"
 msgstr "Từ phải"
 
@@ -1311,7 +1242,6 @@ msgstr "Từ phải"
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:41
 #: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:41
 #: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:31
-#, 
 msgid "From Top"
 msgstr "Từ trên xuống"
 
@@ -1362,153 +1292,116 @@ msgid "Clock"
 msgstr "Đồng hồ"
 
 #: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:33
-#, 
 msgid "From Twelve Clockwise"
 msgstr "Từ 12 giờ theo chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:34
-#, 
 msgid "From Three Clockwise"
 msgstr "Từ ba giờ theo chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:35
-#, 
 msgid "From Six Clockwise"
 msgstr "Từ 6 giờ theo chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:36
-#, 
 msgid "From Nine Clockwise"
 msgstr "Từ chín giờ theo chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:37
-#, 
 msgid "From Twelve Counterclockwise"
 msgstr "Từ 12 giờ ngược chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:38
-#, 
 msgid "From Three Counterclockwise"
 msgstr "Từ ba giờ ngược chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:39
-#, 
 msgid "From Six Counterclockwise"
 msgstr "Từ 6 giờ ngược chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:40
-#, 
 msgid "From Nine Counterclockwise"
 msgstr "Từ chín giờ ngược chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:17
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Double Fan"
 msgstr "Quạt Đôi"
 
 #: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:31
-#, 
 msgid "Fan Out Vertical"
 msgstr "Quạt mở dọc"
 
 #: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:32
-#, 
 msgid "Fan Out Horizontal"
 msgstr "Quạt ngang ra ngoài"
 
 #: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:33
-#, 
 msgid "Fan In Vertical"
 msgstr "Quạt vào dọc"
 
 #: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:34
-#, 
 msgid "Fan In Horizontal"
 msgstr "Quạt vào ngang"
 
 #: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:35
-#, 
-#| msgid "Vertical Lines"
 msgid "Fan In Vertical Reverse"
 msgstr "Quạt Vào Ngược Dọc"
 
 #: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:36
-#, 
-#| msgid "Horizontal Lines"
 msgid "Fan In Horizontal Reverse"
 msgstr "Quạt Vào Ngang Đảo Ngược"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:16
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Double Sweep"
 msgstr "Quét Kép"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:36
-#, 
 msgid "Parallel Vertical"
 msgstr "Song song dọc"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:37
-#, 
-#| msgid "Horizontal Lines"
 msgid "Parallel Diagonal"
 msgstr "Đường chéo song song"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:38
-#, 
 msgid "Opposite Vertical"
 msgstr "Dọc đối diện"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:39
-#, 
 msgid "Opposite Horizontal"
 msgstr "Ngang đối diện"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:40
-#, 
-#| msgid "Slide Wipe Effect"
 msgid "Parallel Diagonal Top Left"
 msgstr "Chéo Song Song Trên Trái"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:41
-#, 
 msgid "Parallel Diagonal Bottom Left"
 msgstr "Chéo song song từ dưới trái"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:42
-#, 
-#| msgid "Vertical Lines"
 msgid "Parallel Vertical Reverse"
 msgstr "Đảo ngược song song dọc"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:43
-#, 
-#| msgid "Horizontal Lines"
 msgid "Parallel Diagonal Reverse"
 msgstr "Chéo Song Song Ngược"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:44
-#, 
-#| msgid "Vertical Lines"
 msgid "Opposite Vertical Reverse"
 msgstr "Ngược Dọc Đảo Ngược"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:45
-#, 
-#| msgid "Horizontal Lines"
 msgid "Opposite Horizontal Reverse"
 msgstr "Ngang Ngược Đảo Chiều"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:46
-#, 
-#| msgid "Slide Wipe Effect"
 msgid "Parallel Diagonal Top Left Reverse"
 msgstr "Chéo Song Song Trên Trái Ngược"
 
 #: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:47
-#, 
 msgid "Parallel Diagonal Bottom Left Reverse"
 msgstr "Chéo song song từ dưới trái ngược"
 
@@ -1519,233 +1412,187 @@ msgstr "Quạt"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:39
 #: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:37
-#, 
 msgid "Center Right"
 msgstr "Phải giữa"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:40
 #: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:36
-#, 
-#| msgid "Centered"
 msgid "Center Top"
 msgstr "Trên Giữa"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:41
 #: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:39
-#, 
-#| msgid "Centered"
 msgid "Center Left"
 msgstr "Trái Giữa"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:42
 #: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:38
-#, 
 msgid "Center Bottom"
 msgstr "Giữa Dưới"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:43
-#, 
 msgid "Fan Out Top"
 msgstr "Quạt ra từ trên"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:44
-#, 
 msgid "Fan Out Right"
 msgstr "Quạt ra phải"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:45
-#, 
 msgid "Fan Out Bottom"
 msgstr "Quạt ra từ dưới"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:46
-#, 
 msgid "Fan Out Left"
 msgstr "Quạt ra trái"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:47
-#, 
 msgid "Fan In Top"
 msgstr "Quạt Vào Trên"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:48
-#, 
 msgid "Fan In Right"
 msgstr "Quạt vào phải"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:49
-#, 
 msgid "Fan In Bottom"
 msgstr "Quạt vào đáy"
 
 #: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:50
-#, 
 msgid "Fan In Left"
 msgstr "Quạt vào trái"
 
 #: plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:16
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Pin Wheel"
 msgstr "Bánh Xe Quay"
 
 #: plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:30
-#, 
 msgid "Two Blades Vertical Clockwise"
 msgstr "Hai lưỡi dọc theo chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:31
-#, 
 msgid "Two Blades Horizontal Clockwise"
 msgstr "Hai lưỡi ngang theo chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:32
-#, 
 msgid "Four Blades Horizontal Clockwise"
 msgstr "Bốn cánh ngang theo chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:33
-#, 
 msgid "Two Blades Vertical Counterclockwise"
 msgstr "Hai lưỡi dọc ngược chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:34
-#, 
 msgid "Two Blades Horizontal Counterclockwise"
 msgstr "Hai lưỡi ngang ngược chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:35
-#, 
 msgid "Four Blades Horizontal Counterclockwise"
 msgstr "Bốn cánh ngang ngược chiều kim đồng hồ"
 
 #: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:16
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Saloon Door"
 msgstr "Cửa Quán Rượu"
 
 #: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:37
 #: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:45
-#, 
 msgid "To Top"
 msgstr "Lên trên"
 
 #: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:38
 #: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:43
-#, 
 msgid "To Left"
 msgstr "Sang trái"
 
 #: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:39
 #: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:46
-#, 
 msgid "To Bottom"
 msgstr "Xuống dưới"
 
 #: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:40
 #: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:44
-#, 
 msgid "To Right"
 msgstr "Sang phải"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:17
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Single Sweep"
 msgstr "Quét Đơn"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:41
-#, 
 msgid "Clockwise Top"
 msgstr "Theo chiều kim đồng hồ từ trên"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:42
-#, 
 msgid "Clockwise Right"
 msgstr "Theo chiều kim đồng hồ phải"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:43
-#, 
 msgid "Clockwise Bottom"
 msgstr "Theo chiều kim đồng hồ từ dưới"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:44
-#, 
-#| msgid "Slide Wipe Effect"
 msgid "Clockwise Left"
 msgstr "Quét Theo Chiều Kim Đồng Hồ Từ Trái"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:45
-#, 
 msgid "Clockwise Top Left"
 msgstr "Theo chiều kim đồng hồ từ trên trái"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:46
-#, 
 msgid "Counterclockwise Bottom Left"
 msgstr "Ngược chiều kim đồng hồ từ dưới trái"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:47
-#, 
 msgid "Clockwise Bottom Right"
 msgstr "Theo chiều kim đồng hồ từ góc dưới phải"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:48
-#, 
 msgid "Counterclockwise Top Right"
 msgstr "Ngược chiều kim đồng hồ từ trên phải"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:49
-#, 
 msgid "Counterclockwise Top"
 msgstr "Ngược chiều kim đồng hồ từ trên"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:50
-#, 
 msgid "Counterclockwise Right"
 msgstr "Ngược chiều kim đồng hồ từ phải"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:51
-#, 
 msgid "Counterclockwise Bottom"
 msgstr "Ngược chiều kim đồng hồ từ dưới"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:52
-#, 
 msgid "Counterclockwise Left"
 msgstr "Ngược chiều kim đồng hồ trái"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:53
-#, 
 msgid "Counterclockwise Top Left"
 msgstr "Ngược chiều kim đồng hồ từ trên trái"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:54
-#, 
 msgid "Clockwise Bottom Left"
 msgstr "Theo chiều kim đồng hồ từ góc dưới trái"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:55
-#, 
 msgid "Counterclockwise Bottom Right"
 msgstr "Ngược chiều kim đồng hồ từ dưới phải"
 
 #: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:56
-#, 
 msgid "Clockwise Top Right"
 msgstr "Theo chiều kim đồng hồ từ trên phải"
 
 #: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:16
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Windshield"
 msgstr "Kính chắn gió"
 
 #: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:33
 #: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:76
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:72
-#, 
 msgid "Right"
 msgstr "Phải"
 
@@ -1763,7 +1610,6 @@ msgstr "Lên"
 #: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:46
 #: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:61
 #: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:38
-#, 
 msgid "Vertical"
 msgstr "Dọc"
 
@@ -1775,15 +1621,12 @@ msgstr "Dọc"
 #: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:61
 #: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:38
 #: plugins/pageeffects/swapeffect/KPrSwapEffectFactory.cpp:25
-#, 
 msgid "Horizontal"
 msgstr "Ngang"
 
 #: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:37
 #: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:77
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:73
-#, 
-#| msgid "Horizontal Lines"
 msgid "Right Reverse"
 msgstr "Phải đảo ngược"
 
@@ -1791,8 +1634,6 @@ msgstr "Phải đảo ngược"
 #: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:75
 #: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:52
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:71
-#, 
-#| msgid "Vertical Lines"
 msgid "Up Reverse"
 msgstr "Lên ngược"
 
@@ -1802,8 +1643,6 @@ msgstr "Lên ngược"
 #: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:47
 #: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:61
 #: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:38
-#, 
-#| msgid "Vertical Lines"
 msgid "Vertical Reverse"
 msgstr "Đảo ngược dọc"
 
@@ -1813,36 +1652,27 @@ msgstr "Đảo ngược dọc"
 #: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:49
 #: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:61
 #: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:38
-#, 
-#| msgid "Horizontal Lines"
 msgid "Horizontal Reverse"
 msgstr "Ngang Đảo Ngược"
 
 #: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:16
 #, kde-format
-#| msgid "Background color:"
 msgid "Barn Door"
 msgstr "Cửa kho"
 
 #: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:36
-#, 
 msgid "Diagonal Bottom Left"
 msgstr "Chéo Dưới Trái"
 
 #: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:37
-#, 
 msgid "Diagonal Bottom Left Reverse"
 msgstr "Chéo Dưới Trái Ngược"
 
 #: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:38
-#, 
-#| msgid "Slide Wipe Effect"
 msgid "Diagonal Top Left"
 msgstr "Chéo Trên Trái"
 
 #: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:39
-#, 
-#| msgid "Slide Wipe Effect"
 msgid "Diagonal Top Left Reverse"
 msgstr "Chéo Trên Trái Ngược"
 
@@ -1853,19 +1683,14 @@ msgstr "Cửa Chữ V"
 
 #: plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:15
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Barn Zig Zag"
 msgstr "Cửa Kho Zích Zắc"
 
 #: plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:27
-#, 
-#| msgid "Horizontal Lines"
 msgid "Horizontal Reversed"
 msgstr "Ngang Đảo Ngược"
 
 #: plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:27
-#, 
-#| msgid "Vertical Lines"
 msgid "Vertical Reversed"
 msgstr "Thẳng đứng đảo ngược"
 
@@ -1877,28 +1702,24 @@ msgstr "Hộp"
 #: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:32
 #: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:28
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:43
-#, 
 msgid "From Top Left"
 msgstr "Từ trên trái"
 
 #: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:33
 #: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:28
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:44
-#, 
 msgid "From Top Right"
 msgstr "Từ trên phải"
 
 #: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:34
 #: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:28
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:45
-#, 
 msgid "From Bottom Left"
 msgstr "Từ dưới trái"
 
 #: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:35
 #: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:28
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:46
-#, 
 msgid "From Bottom Right"
 msgstr "Từ dưới phải"
 
@@ -1913,22 +1734,18 @@ msgid "Four Box"
 msgstr "Bốn Hộp"
 
 #: plugins/pageeffects/edgewipe/fourboxwipe/FourBoxWipeEffectFactory.cpp:29
-#, 
 msgid "Corners In"
 msgstr "Góc Vào"
 
 #: plugins/pageeffects/edgewipe/fourboxwipe/FourBoxWipeEffectFactory.cpp:29
-#, 
 msgid "Corners In Reverse"
 msgstr "Góc Vào Ngược"
 
 #: plugins/pageeffects/edgewipe/fourboxwipe/FourBoxWipeEffectFactory.cpp:29
-#, 
 msgid "Corners Out"
 msgstr "Góc Ra"
 
 #: plugins/pageeffects/edgewipe/fourboxwipe/FourBoxWipeEffectFactory.cpp:29
-#, 
 msgid "Corners Out Reverse"
 msgstr "Góc Ra Ngược"
 
@@ -1938,14 +1755,10 @@ msgid "Misc Diagonal"
 msgstr "Chéo khác"
 
 #: plugins/pageeffects/edgewipe/miscdiagonalwipe/MiscDiagonalWipeEffectFactory.cpp:28
-#, 
-#| msgid "Background color:"
 msgid "Double Barn Door"
 msgstr "Cửa kép hình chữ V"
 
 #: plugins/pageeffects/edgewipe/miscdiagonalwipe/MiscDiagonalWipeEffectFactory.cpp:29
-#, 
-#| msgid "Slide Wipe Effect"
 msgid "Double Diamond"
 msgstr "Kim cương kép"
 
@@ -1956,7 +1769,6 @@ msgstr "Chữ V"
 
 #: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:15
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Zig Zag"
 msgstr "Zích zắc"
 
@@ -1970,42 +1782,33 @@ msgid "Crossfade"
 msgstr "Mờ dần chéo"
 
 #: plugins/pageeffects/fade/KPrFadeEffectFactory.cpp:28
-#, 
 msgid "Fade over Color"
 msgstr "Phai màu"
 
 #: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:18
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "ArrowHead"
 msgstr "Đầu mũi tên"
 
 #: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:78
 #: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:52
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:74
-#, 
-#| msgid "Done"
 msgid "Down"
 msgstr "Xuống"
 
 #: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:79
 #: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:52
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:75
-#, 
-#| msgid "Vertical Lines"
 msgid "Down Reverse"
 msgstr "Xuống ngược"
 
 #: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:80
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:76
-#, 
 msgid "Left"
 msgstr "Trái"
 
 #: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:81
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:77
-#, 
-#| msgid "Vertical Lines"
 msgid "Left Reverse"
 msgstr "Trái đảo ngược"
 
@@ -2019,8 +1822,6 @@ msgid "Circle"
 msgstr "Hình tròn"
 
 #: plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:47
-#, 
-#| msgid "Vertical Lines"
 msgid "Circle Reverse"
 msgstr "Vòng tròn đảo ngược"
 
@@ -2031,7 +1832,6 @@ msgstr "Mắt"
 
 #: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:23
 #, kde-format
-#| msgid "Presentation"
 msgid "Hexagon"
 msgstr "Lục giác"
 
@@ -2041,24 +1841,18 @@ msgid "Iris"
 msgstr "Mống mắt"
 
 #: plugins/pageeffects/iriswipe/irisWipe/KPrIrisWipeEffectFactory.cpp:45
-#, 
-#| msgid "Horizontal Lines"
 msgid "Diamond"
 msgstr "Kim cương"
 
 #: plugins/pageeffects/iriswipe/irisWipe/KPrIrisWipeEffectFactory.cpp:45
-#, 
-#| msgid "Horizontal Lines"
 msgid "Diamond Reverse"
 msgstr "Kim cương đảo ngược"
 
 #: plugins/pageeffects/iriswipe/irisWipe/KPrIrisWipeEffectFactory.cpp:45
-#, 
 msgid "Rectangular"
 msgstr "Hình chữ nhật"
 
 #: plugins/pageeffects/iriswipe/irisWipe/KPrIrisWipeEffectFactory.cpp:45
-#, 
 msgid "Rectangular Reverse"
 msgstr "Hình chữ nhật đảo ngược"
 
@@ -2068,31 +1862,23 @@ msgid "Misc"
 msgstr "Khác"
 
 #: plugins/pageeffects/iriswipe/miscShapeWipe/KPrMiscShapeWipeEffectFactory.cpp:45
-#, 
 msgid "Heart"
 msgstr "Trái tim"
 
 #: plugins/pageeffects/iriswipe/miscShapeWipe/KPrMiscShapeWipeEffectFactory.cpp:45
-#, 
-#| msgid "Vertical Lines"
 msgid "Heart Reverse"
 msgstr "Tim đảo ngược"
 
 #: plugins/pageeffects/iriswipe/miscShapeWipe/KPrMiscShapeWipeEffectFactory.cpp:45
-#, 
-#| msgid "Vertical Lines"
 msgid "Keyhole"
 msgstr "Lỗ khóa"
 
 #: plugins/pageeffects/iriswipe/miscShapeWipe/KPrMiscShapeWipeEffectFactory.cpp:45
-#, 
-#| msgid "Vertical Lines"
 msgid "Keyhole Reverse"
 msgstr "Lỗ khóa đảo ngược"
 
 #: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:18
 #, kde-format
-#| msgid "Presentation"
 msgid "Pentagon"
 msgstr "Ngũ giác"
 
@@ -2107,231 +1893,174 @@ msgid "Star"
 msgstr "Ngôi sao"
 
 #: plugins/pageeffects/iriswipe/starWipe/KPrStarWipeEffectFactory.cpp:85
-#, 
-#| msgid "Horizontal Lines"
 msgid "Four Point Star"
 msgstr "Ngôi sao bốn cánh"
 
 #: plugins/pageeffects/iriswipe/starWipe/KPrStarWipeEffectFactory.cpp:86
-#, 
-#| msgid "Horizontal Lines"
 msgid "Four Point Star Reverse"
 msgstr "Sao Bốn Cánh Đảo Ngược"
 
 #: plugins/pageeffects/iriswipe/starWipe/KPrStarWipeEffectFactory.cpp:87
-#, 
-#| msgid "Horizontal Lines"
 msgid "Five Point Star"
 msgstr "Ngôi sao năm cánh"
 
 #: plugins/pageeffects/iriswipe/starWipe/KPrStarWipeEffectFactory.cpp:88
-#, 
-#| msgid "Horizontal Lines"
 msgid "Five Point Star Reverse"
 msgstr "Ngôi Sao Năm Cánh Đảo Ngược"
 
 #: plugins/pageeffects/iriswipe/starWipe/KPrStarWipeEffectFactory.cpp:89
-#, 
-#| msgid "Horizontal Lines"
 msgid "Six Point Star"
 msgstr "Sao sáu cánh"
 
 #: plugins/pageeffects/iriswipe/starWipe/KPrStarWipeEffectFactory.cpp:90
-#, 
-#| msgid "Horizontal Lines"
 msgid "Six Point Star Reverse"
 msgstr "Sao Sáu Cánh Đảo Ngược"
 
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:18
 #, kde-format
-#| msgid "Tiled"
 msgid "Triangle"
 msgstr "Tam giác"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:16
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Box Snakes"
 msgstr "Rắn Hộp"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:36
-#, 
 msgid "Two Box Top In"
 msgstr "Hai hộp trên vào"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:37
-#, 
 msgid "Two Box Bottom In"
 msgstr "Hai hộp đáy vào"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:38
-#, 
 msgid "Two Box Left In"
 msgstr "Hai hộp vào trái"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:39
-#, 
 msgid "Two Box Right In"
 msgstr "Hai hộp vào phải"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:40
-#, 
 msgid "Four Box Vertical In"
 msgstr "Bốn hộp dọc vào"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:41
-#, 
 msgid "Four Box Horizontal In"
 msgstr "Bốn hộp ngang vào"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:42
-#, 
 msgid "Two Box Top Out"
 msgstr "Hai hộp trên ra"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:43
-#, 
 msgid "Two Box Bottom Out"
 msgstr "Hai hộp đáy ra"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:44
-#, 
 msgid "Two Box Left Out"
 msgstr "Hai hộp trái ra"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:45
-#, 
 msgid "Two Box Right Out"
 msgstr "Hai hộp ra phải"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:46
-#, 
 msgid "Four Box Vertical Out"
 msgstr "Bốn hộp dọc ra ngoài"
 
 #: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:47
-#, 
 msgid "Four Box Horizontal Out"
 msgstr "Bốn hộp ngang ra ngoài"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:18
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Parallel Snakes"
 msgstr "Rắn Song Song"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:46
-#, 
-#| msgid "Vertical Gradient"
 msgid "Vertical Top Same In"
 msgstr "Từ trên xuống cùng chiều"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:47
-#, 
-#| msgid "Vertical Gradient"
 msgid "Vertical Top Same Out"
 msgstr "Trên xuống đồng thời"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:48
-#, 
-#| msgid "Vertical Gradient"
 msgid "Vertical Bottom Same In"
 msgstr "Dọc Dưới Cùng Vào"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:49
-#, 
-#| msgid "Vertical Gradient"
 msgid "Vertical Bottom Same Out"
 msgstr "Dọc Dưới Cùng Ra"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:50
-#, 
 msgid "Vertical Top Left Opposite In"
 msgstr "Dọc Trên Trái Đối Diện Vào"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:51
-#, 
 msgid "Vertical Top Left Opposite Out"
 msgstr "Dọc Trên Trái Đối Diện Ra"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:52
-#, 
-#| msgid "Vertical Gradient"
 msgid "Vertical Bottom Left Opposite In"
 msgstr "Đối nghịch dưới trái thẳng đứng vào trong"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:53
-#, 
 msgid "Vertical Bottom Left Opposite Out"
 msgstr "Dọc Dưới Trái Ngược Ra"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:54
-#, 
-#| msgid "Horizontal Gradient"
 msgid "Horizontal Left Same In"
 msgstr "Ngang trái cùng vào"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:55
-#, 
-#| msgid "Horizontal Gradient"
 msgid "Horizontal Left Same Out"
 msgstr "Ngang trái cùng ra"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:56
-#, 
-#| msgid "Horizontal Gradient"
 msgid "Horizontal Right Same In"
 msgstr "Ngang phải cùng vào"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:57
-#, 
-#| msgid "Horizontal Gradient"
 msgid "Horizontal Right Same Out"
 msgstr "Ngang Phải Cùng Ra"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:58
-#, 
 msgid "Horizontal Top Left Opposite In"
 msgstr "Ngang Trên Trái Đối Diện Vào"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:59
-#, 
 msgid "Horizontal Top Left Opposite Out"
 msgstr "Ngang Trên Trái Đối Diện Ra"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:60
-#, 
 msgid "Horizontal Top Right Opposite In"
 msgstr "Ngang Trên Phải Đối Diện Vào"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:61
-#, 
 msgid "Horizontal Top Right Opposite Out"
 msgstr "Ngang Trên Phải Đối Diện Ra"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:62
-#, 
 msgid "Diagonal Bottom Left Opposite In"
 msgstr "Chéo dưới trái đối diện vào trong"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:63
-#, 
 msgid "Diagonal Bottom Left Opposite Out"
 msgstr "Chéo dưới trái đối diện ra ngoài"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:64
-#, 
 msgid "Diagonal Top Left Opposite In"
 msgstr "Chéo trên trái đối diện vào"
 
 #: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:65
-#, 
 msgid "Diagonal Top Left Opposite Out"
 msgstr "Chéo trên trái đối ngược ra ngoài"
 
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:23
 #, kde-format
-#| msgid "Shape"
 msgid "Snake"
 msgstr "Rắn"
 
@@ -2341,128 +2070,103 @@ msgid "Spiral"
 msgstr "Xoắn ốc"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:40
-#, 
 msgid "Clockwise Top Left In"
 msgstr "Xoắn ốc vào từ trên trái"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:41
-#, 
 msgid "Clockwise Top Left Out"
 msgstr "Xoắn ốc từ trên trái ra ngoài"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:42
-#, 
 msgid "Clockwise Top Right In"
 msgstr "Xoắn ốc vào từ trên phải"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:43
-#, 
 msgid "Clockwise Top Right Out"
 msgstr "Xoắn ốc ra ngoài từ góc trên phải"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:44
-#, 
 msgid "Clockwise Bottom Left In"
 msgstr "Xoắn ốc vào từ dưới trái"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:45
-#, 
 msgid "Clockwise Bottom Left Out"
 msgstr "Xoắn ốc từ dưới trái theo chiều kim đồng hồ"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:46
-#, 
 msgid "Clockwise Bottom Right In"
 msgstr "Xoắn ốc vào từ dưới phải"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:47
-#, 
 msgid "Clockwise Bottom Right Out"
 msgstr "Xoắn ốc ra ngoài từ góc dưới phải"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:48
-#, 
 msgid "Counterclockwise Top Left In"
 msgstr "Ngược chiều kim đồng hồ từ trên trái vào"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:49
-#, 
 msgid "Counterclockwise Top Left Out"
 msgstr "Ngược chiều kim đồng hồ từ trên trái ra"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:50
-#, 
 msgid "Counterclockwise Top Right In"
 msgstr "Ngược chiều kim đồng hồ từ trên phải vào"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:51
-#, 
 msgid "Counterclockwise Top Right Out"
 msgstr "Ngược chiều kim đồng hồ từ trên phải ra"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:52
-#, 
 msgid "Counterclockwise Bottom Left In"
 msgstr "Xoắn ốc ngược chiều từ dưới trái vào"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:53
-#, 
 msgid "Counterclockwise Bottom Left Out"
 msgstr "Ngược chiều kim đồng hồ từ dưới trái ra"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:54
-#, 
 msgid "Counterclockwise Bottom Right In"
 msgstr "Ngược chiều kim đồng hồ từ dưới phải vào"
 
 #: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:55
-#, 
 msgid "Counterclockwise Bottom Right Out"
 msgstr "Xoắn ốc ngược chiều kim đồng hồ từ dưới phải ra"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:19
 #, kde-format
-#| msgid "Slide Wipe Effect"
 msgid "Waterfall"
 msgstr "Thác nước"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:35
-#, 
 msgid "Top Left Vertical"
 msgstr "Trên Trái Dọc"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:36
-#, 
 msgid "Top Left Horizontal"
 msgstr "Trên Trái Ngang"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:37
-#, 
 msgid "Top Right Vertical"
 msgstr "Trên Phải Dọc"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:38
-#, 
 msgid "Top Right Horizontal"
 msgstr "Trên Phải Ngang"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:39
-#, 
 msgid "Bottom Left Vertical"
 msgstr "Dưới trái dọc"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:40
-#, 
 msgid "Bottom Left Horizontal"
 msgstr "Dưới trái ngang"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:41
-#, 
 msgid "Bottom Right Vertical"
 msgstr "Dưới phải dọc"
 
 #: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:42
-#, 
 msgid "Bottom Right Horizontal"
 msgstr "Dưới phải ngang"
 
@@ -2478,7 +2182,6 @@ msgstr "Xoay Không gian"
 
 #: plugins/pageeffects/swapeffect/KPrSwapEffectFactory.cpp:16
 #, kde-format
-#| msgid "Page effects"
 msgid "Swap effect"
 msgstr "Hiệu ứng hoán đổi"
 

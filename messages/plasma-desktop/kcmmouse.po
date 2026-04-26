@@ -81,8 +81,6 @@ msgstr "Thiết bị trỏ bị ngắt kết nối. Không tìm thấy thiết b
 
 #: ui/bindings.qml:27
 #, kde-format
-#| msgctxt "@action:button"
-#| msgid "Re-bind Additional Mouse Buttons…"
 msgctxt "@action:button"
 msgid "Bindings for Additional Mouse Buttons"
 msgstr "Kết buộc cho các nút chuột bổ sung"
@@ -113,8 +111,6 @@ msgstr "Huỷ"
 
 #: ui/bindings.qml:124
 #, kde-format
-#| msgctxt "@action:button"
-#| msgid "Press a mouse button "
 msgctxt "@action:button"
 msgid "Press a mouse button"
 msgstr "Nhấn nút chuột"

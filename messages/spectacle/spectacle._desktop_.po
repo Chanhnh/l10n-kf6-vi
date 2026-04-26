@@ -7,6 +7,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +30,8 @@ msgstr "Tiện ích thu thập ảnh chụp màn hình"
 #: desktop/org.kde.spectacle.desktop.cmake:154
 msgctxt "Keywords"
 msgid "snapshot;capture;print;screenshot;snipping;snipping tool;snip;"
-msgstr "chụp màn hình;chụp ảnh;in;ảnh chụp màn hình;cắt ảnh;công cụ cắt ảnh;cắt;"
+msgstr ""
+"chụp màn hình;chụp ảnh;in;ảnh chụp màn hình;cắt ảnh;công cụ cắt ảnh;cắt;"
 
 #: desktop/org.kde.spectacle.desktop.cmake:208
 msgctxt "Name"

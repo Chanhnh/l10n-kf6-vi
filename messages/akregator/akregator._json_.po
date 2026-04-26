@@ -14,38 +14,31 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: configuration/akregator_config_advanced.json
-#, 
 msgctxt "Name"
 msgid "Advanced"
 msgstr "Nâng cao"
 
 #: configuration/akregator_config_appearance.json
-#, 
 msgctxt "Name"
 msgid "Appearance"
 msgstr "diện mạo"
 
 #: configuration/akregator_config_archive.json
-#, 
-#| msgid "Name=Archiver"
 msgctxt "Name"
 msgid "Archive"
 msgstr "Kho trữ"
 
 #: configuration/akregator_config_browser.json
-#, 
 msgctxt "Name"
 msgid "Browser"
 msgstr "Trình duyệt"
 
 #: configuration/akregator_config_general.json
-#, 
 msgctxt "Name"
 msgid "General"
 msgstr "Chung"
 
 #: configuration/akregator_config_plugins.json
-#, 
 msgctxt "Name"
 msgid "Plugins"
 msgstr "Plugins"
@@ -56,14 +49,11 @@ msgid "Security"
 msgstr "An ninh"
 
 #: configuration/akregator_config_userfeedback.json
-#, 
-#| msgid "Name=Launch Feedback"
 msgctxt "Name"
 msgid "User Feedback"
 msgstr "Phản hồi của người dùng"
 
 #: kontactplugin/akregatorplugin.json
-#, 
 msgctxt "Name"
 msgid "Feeds"
 msgstr "Nguồn cấp dữ liệu"
@@ -74,13 +64,11 @@ msgid "Advanced Feed Reader Settings"
 msgstr "Thiết lập nâng cao của trình đọc nguồn cấp dữ liệu"
 
 #: configuration/akregator_config_appearance.json
-#, 
 msgctxt "Description"
 msgid "Configure the Feed Reader Appearance"
 msgstr "Cấu hình diện mạo của Trình đọc tin"
 
 #: configuration/akregator_config_archive.json
-#, 
 msgctxt "Description"
 msgid "Configure Feed Archive"
 msgstr "Cấu hình Kho Trữ Nguồn Cấp"
@@ -91,25 +79,21 @@ msgid "Configure Internal Browser Component"
 msgstr "Cấu hình Thành phần Trình duyệt Nội bộ"
 
 #: configuration/akregator_config_general.json
-#, 
 msgctxt "Description"
 msgid "Configure Feeds"
 msgstr "Cấu hình Nguồn cấp dữ liệu"
 
 #: configuration/akregator_config_plugins.json
-#, 
 msgctxt "Description"
 msgid "Configure Plugins"
 msgstr "Cấu hình các plugin"
 
 #: configuration/akregator_config_security.json
-#, 
 msgctxt "Description"
 msgid "Configure Security"
 msgstr "Cấu hình An ninh"
 
 #: kontactplugin/akregatorplugin.json
-#, 
 msgctxt "Description"
 msgid "Akregator Plugin"
 msgstr "Phần cài cắm Akregator"

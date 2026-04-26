@@ -18,41 +18,26 @@ msgstr ""
 "X-Generator: LocFactoryEditor 1.6.4a5\n"
 
 #: src/org.kde.kgrapheditor.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "kgraphviewer"
 msgctxt "Name"
 msgid "KGraphEditor"
 msgstr "Trình chỉnh sửa đồ thị KDE"
 
 #: src/org.kde.kgrapheditor.desktop:54
-#, 
-#| msgctxt "Comment"
-#| msgid "A Graphviz dot graph viewer for KDE"
 msgctxt "Comment"
 msgid "A Graphviz DOT graph editor"
 msgstr "Trình biên tập đồ thị DOT của Graphviz"
 
 #: src/org.kde.kgraphviewer.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "kgraphviewer"
 msgctxt "Name"
 msgid "KGraphViewer"
 msgstr "KGraphViewer"
 
 #: src/org.kde.kgraphviewer.desktop:54
-#, 
-#| msgctxt "Comment"
-#| msgid "A Graphviz dot graph viewer for KDE"
 msgctxt "GenericName"
 msgid "Graphviz DOT graph viewer"
 msgstr "Trình xem đồ thị DOT của Graphviz"
 
 #: src/org.kde.kgraphviewer.desktop:86
-#, 
-#| msgctxt "Comment"
-#| msgid "A Graphviz dot graph viewer for KDE"
 msgctxt "Comment"
 msgid "A Graphviz DOT graph viewer"
 msgstr "Trình xem đồ thị DOT của Graphviz"
@@ -62,8 +47,6 @@ msgstr "Trình xem đồ thị DOT của Graphviz"
 #~ msgstr "kgraphviewerPart"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A Graphviz dot graph viewer for KDE"
 #~ msgctxt "Comment"
 #~ msgid "Graphviz DOT files viewer"
 #~ msgstr "Bộ xem đồ thị chấm GraphViz cho KDE"

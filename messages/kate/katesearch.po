@@ -191,7 +191,6 @@ msgstr "Tìm kiếm"
 #. i18n: ectx: property (text), widget (QPushButton, replaceCheckedBtn)
 #: search.ui:50
 #, kde-format
-#| msgid "Replace Checked"
 msgctxt ""
 "Checked here refers to the items  on the list below that can have a "
 "checkmark or not. It's not about any verification or similar, plainly about "
@@ -570,8 +569,8 @@ msgstr ""
 msgid ""
 "Comma separated list of file types to search in. Example: \"*.cpp,*.h\"\n"
 msgstr ""
-"Danh sách phân cách bởi dấu phẩy các kiểu tệp để tìm ở trong. Ví dụ: \"*.cpp,"
-"*.h\"\n"
+"Danh sách phân cách bởi dấu phẩy các kiểu tệp để tìm ở trong. Ví dụ: "
+"\"*.cpp,*.h\"\n"
 
 #: SearchPlugin.cpp:395
 #, kde-format

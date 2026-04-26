@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +27,12 @@ msgstr "Kolor Lines là một trò chơi đơn giản nhưng rất nghiện ngư
 
 #. (itstool) path: description/p
 #: org.kde.klines.appdata.xml:15
-msgid "The player has to move the colored balls around the game board, gathering them into the lines of the same color by five. Once the line is complete it is removed from the board, therefore freeing precious space. In the same time the new balls keep arriving by three after each move, filling up the game board."
+msgid ""
+"The player has to move the colored balls around the game board, gathering "
+"them into the lines of the same color by five. Once the line is complete it "
+"is removed from the board, therefore freeing precious space. In the same "
+"time the new balls keep arriving by three after each move, filling up the "
+"game board."
 msgstr ""
 "Người chơi phải di chuyển các quả bóng màu xung quanh bàn chơi, tập hợp "
 "chúng thành các hàng gồm năm quả bóng cùng màu. Một khi hàng được hoàn tất, "

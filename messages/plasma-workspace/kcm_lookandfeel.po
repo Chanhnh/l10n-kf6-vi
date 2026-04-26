@@ -119,7 +119,6 @@ msgstr "Xóa vĩnh viễn"
 
 #: ui/main.qml:72
 #, kde-format
-#| msgid "Cancel"
 msgctxt "@action:button"
 msgid "Cancel"
 msgstr "Huỷ"
@@ -141,7 +140,6 @@ msgstr "Xem thử chủ đề"
 
 #: ui/main.qml:125
 #, kde-format
-#| msgid "Preview Theme"
 msgctxt "@action:button"
 msgid "Remove Theme"
 msgstr "Xoá chủ đề"
@@ -191,9 +189,6 @@ msgstr "Bố cục các nút ở thanh tiêu đề"
 
 #: ui/MoreOptions.qml:55 ui/SimpleOptions.qml:64
 #, kde-format
-#| msgid ""
-#| "Applying a Desktop layout replaces your current configuration of "
-#| "desktops, panels, docks, and widgets"
 msgid ""
 "Applying a Desktop layout will delete the current set of desktops, panels, "
 "docks, and widgets, replacing them with what the theme specifies."
@@ -218,13 +213,11 @@ msgstr "Kiểu cách ứng dụng"
 
 #: ui/MoreOptions.qml:71
 #, kde-format
-#| msgid "Window Decorations"
 msgid "Window Decoration Style"
 msgstr "Kiểu cách trang trí cửa sổ"
 
 #: ui/MoreOptions.qml:72
 #, kde-format
-#| msgid "Window Decorations"
 msgid "Window Decoration Size"
 msgstr "Kích thước Trang trí Cửa sổ"
 

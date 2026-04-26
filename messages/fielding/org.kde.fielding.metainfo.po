@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +27,9 @@ msgstr "Cộng đồng KDE, Felipe Kinoshita"
 
 #. (itstool) path: description/p
 #: org.kde.fielding.metainfo.xml:14
-msgid "Fielding makes it easy to test your REST API, it allows you to make requests for the most used HTTP methods."
+msgid ""
+"Fielding makes it easy to test your REST API, it allows you to make requests "
+"for the most used HTTP methods."
 msgstr ""
 "Fielding giúp bạn dễ dàng kiểm thử API REST của mình, nó cho phép bạn thực "
 "hiện các yêu cầu cho các phương thức HTTP phổ biến nhất."

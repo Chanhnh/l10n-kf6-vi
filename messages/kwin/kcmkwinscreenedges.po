@@ -69,7 +69,6 @@ msgstr "%1 - Ứng dụng hiện tại"
 
 #: main.cpp:165 touch.cpp:132
 #, kde-format
-#| msgid "Toggle Overview"
 msgid "Overview"
 msgstr "Tổng quan"
 
@@ -246,9 +245,9 @@ msgid ""
 "screens."
 msgstr ""
 "Tại đây bạn có thể bật hoặc tắt rào chắn góc ảo giữa các màn hình. Rào chắn "
-"ngăn con trỏ di chuyển sang màn hình khác khi đã chạm vào góc màn hình. "
-"Điều này giúp dễ dàng kích hoạt các phần tử giao diện như nút đóng cửa sổ "
-"đã phóng to khi sử dụng nhiều màn hình."
+"ngăn con trỏ di chuyển sang màn hình khác khi đã chạm vào góc màn hình. Điều "
+"này giúp dễ dàng kích hoạt các phần tử giao diện như nút đóng cửa sổ đã "
+"phóng to khi sử dụng nhiều màn hình."
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_CornerBarrier)
 #: main.ui:283
@@ -275,8 +274,8 @@ msgid ""
 msgstr ""
 "Tại đây bạn có thể đặt kích thước rào cản cạnh giữa các màn hình. Rào cản "
 "tạo thêm khoảng cách bạn phải di chuyển con trỏ trước khi nó vượt qua cạnh "
-"sang màn hình khác. Điều này giúp dễ dàng truy cập các phần tử giao diện "
-"như Bảng điều khiển Plasma nằm ở cạnh giữa các màn hình."
+"sang màn hình khác. Điều này giúp dễ dàng truy cập các phần tử giao diện như "
+"Bảng điều khiển Plasma nằm ở cạnh giữa các màn hình."
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_EdgeBarrier)
 #: main.ui:303

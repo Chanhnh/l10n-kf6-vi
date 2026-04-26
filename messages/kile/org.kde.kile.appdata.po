@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,12 +22,15 @@ msgstr "Trình biên tập TeX/LaTeX"
 
 #. (itstool) path: description/p
 #: org.kde.kile.appdata.xml:12
-msgid "Kile is a user-friendly TeX/LaTeX editor by KDE. Kile gives you the ability to use all the functionality of LaTeX in a graphical interface and has interactive preview mechanisms to readily see the results of editing."
+msgid ""
+"Kile is a user-friendly TeX/LaTeX editor by KDE. Kile gives you the ability "
+"to use all the functionality of LaTeX in a graphical interface and has "
+"interactive preview mechanisms to readily see the results of editing."
 msgstr ""
-"Kile là một trình biên tập TeX/LaTeX thân thiện với người dùng của KDE. "
-"Kile cung cấp cho bạn khả năng sử dụng tất cả các chức năng của LaTeX trong "
-"một giao diện đồ họa và có các cơ chế xem thử tương tác để dễ dàng xem kết "
-"quả của việc chỉnh sửa."
+"Kile là một trình biên tập TeX/LaTeX thân thiện với người dùng của KDE. Kile "
+"cung cấp cho bạn khả năng sử dụng tất cả các chức năng của LaTeX trong một "
+"giao diện đồ họa và có các cơ chế xem thử tương tác để dễ dàng xem kết quả "
+"của việc chỉnh sửa."
 
 #. (itstool) path: description/p
 #: org.kde.kile.appdata.xml:15
@@ -47,19 +51,23 @@ msgstr "Tự động hoàn tất các lệnh (La)TeX"
 #: org.kde.kile.appdata.xml:19
 msgid "Templates and wizards make starting new documents very little work"
 msgstr ""
-"Các mẫu và trình hướng dẫn giúp bạn bắt đầu tài liệu mới với rất ít công "
-"việc"
+"Các mẫu và trình hướng dẫn giúp bạn bắt đầu tài liệu mới với rất ít công việc"
 
 #. (itstool) path: ul/li
 #: org.kde.kile.appdata.xml:20
-msgid "Easy insertion of many standard tags and symbols and the option to define (an arbitrary number of) user defined tags"
+msgid ""
+"Easy insertion of many standard tags and symbols and the option to define "
+"(an arbitrary number of) user defined tags"
 msgstr ""
 "Dễ dàng chèn nhiều thẻ và biểu tượng tiêu chuẩn và tùy chọn để định nghĩa "
 "(một số lượng tùy ý) các thẻ do người dùng tự định nghĩa"
 
 #. (itstool) path: ul/li
 #: org.kde.kile.appdata.xml:21
-msgid "Inverse and forward search: click in the DVI viewer and jump to the corresponding LaTeX line in the editor, or jump from the editor to the corresponding page in the viewer"
+msgid ""
+"Inverse and forward search: click in the DVI viewer and jump to the "
+"corresponding LaTeX line in the editor, or jump from the editor to the "
+"corresponding page in the viewer"
 msgstr ""
 "Tìm kiếm ngược và xuôi: bấm vào trình xem DVI và nhảy đến dòng LaTeX tương "
 "ứng trong trình biên tập, hoặc nhảy từ trình biên tập đến trang tương ứng "
@@ -67,7 +75,10 @@ msgstr ""
 
 #. (itstool) path: ul/li
 #: org.kde.kile.appdata.xml:23
-msgid "Finding chapter or sections is very easy, Kile constructs a list of all the chapter etc. in your document. You can use the list to jump to the corresponding section"
+msgid ""
+"Finding chapter or sections is very easy, Kile constructs a list of all the "
+"chapter etc. in your document. You can use the list to jump to the "
+"corresponding section"
 msgstr ""
 "Tìm kiếm chương hoặc các phần rất dễ dàng, Kile xây dựng một danh sách tất "
 "cả các chương v.v. trong tài liệu của bạn. Bạn có thể sử dụng danh sách để "
@@ -87,8 +98,7 @@ msgstr "Dễ dàng chèn trích dẫn và tài liệu tham khảo khi sử dụn
 #: org.kde.kile.appdata.xml:27
 msgid "Flexible and smart build system to compile your LaTeX documents"
 msgstr ""
-"Hệ thống xây dựng linh hoạt và thông minh để biên dịch tài liệu LaTeX của "
-"bạn"
+"Hệ thống xây dựng linh hoạt và thông minh để biên dịch tài liệu LaTeX của bạn"
 
 #. (itstool) path: ul/li
 #: org.kde.kile.appdata.xml:28

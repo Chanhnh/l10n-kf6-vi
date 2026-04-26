@@ -298,7 +298,6 @@ msgstr ""
 
 #: ui/main.qml:274
 #, kde-format
-#| msgid "Minimum pointer speed"
 msgid "Pointer speed:"
 msgstr "Tốc độ con trỏ:"
 
@@ -439,7 +438,6 @@ msgstr "Vỗ bằng hai ngón để bấm phải, vỗ bằng ba ngón để b�
 
 #: ui/main.qml:712
 #, kde-format
-#| msgid "Middle-click (three-finger tap right-click)"
 msgid "Middle-click (three-finger tap to right-click)"
 msgstr "Bấm giữa (vỗ ba ngón để bấm phải)"
 

@@ -66,7 +66,6 @@ msgstr "Đứ&c sang"
 
 #: plugin_babelfish.cpp:88
 #, kde-format
-#| msgid "&French To"
 msgid "&Greek To"
 msgstr "&Tiếng Hy Lạp sang"
 
@@ -92,7 +91,6 @@ msgstr "&Hoà Lan sang"
 
 #: plugin_babelfish.cpp:103
 #, kde-format
-#| msgid "&Russian"
 msgid "&Russian To"
 msgstr "Tiếng &Nga"
 
@@ -204,8 +202,8 @@ msgid ""
 "insecure version of the page."
 msgstr ""
 "Bạn đang xem trang này qua kết nối an toàn.<nl/><nl/>URL của trang sẽ được "
-"gửi đến dịch vụ dịch thuật trực tuyến,<nl/>có thể tìm nạp phiên bản không "
-"an toàn của trang."
+"gửi đến dịch vụ dịch thuật trực tuyến,<nl/>có thể tìm nạp phiên bản không an "
+"toàn của trang."
 
 #: plugin_babelfish.cpp:273
 #, kde-format

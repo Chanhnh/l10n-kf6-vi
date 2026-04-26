@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,9 @@ msgstr "Trò chơi xếp gạch giống Mahjongg"
 
 #. (itstool) path: description/p
 #: org.kde.kshisen.appdata.xml:12
-msgid "KShisen is a solitaire-like game played using the standard set of Mahjong tiles. Unlike Mahjong however, KShisen has only one layer of scrambled tiles."
+msgid ""
+"KShisen is a solitaire-like game played using the standard set of Mahjong "
+"tiles. Unlike Mahjong however, KShisen has only one layer of scrambled tiles."
 msgstr ""
 "KShisen là một trò chơi giống như solitaire được chơi bằng bộ bài Mahjong "
 "tiêu chuẩn. Khác với Mahjong, KShisen chỉ có một lớp bài xáo trộn."

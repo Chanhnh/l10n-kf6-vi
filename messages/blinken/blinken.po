@@ -49,7 +49,6 @@ msgstr "phông chữ"
 
 #: blinken.cpp:223
 #, kde-format
-#| msgid "Start"
 msgctxt "@action:button Start a new game"
 msgid "Start"
 msgstr "Khởi động"
@@ -66,7 +65,6 @@ msgstr "Nhập vào Tên Bạn"
 
 #: blinken.cpp:413
 #, kde-format
-#| msgid "Name:"
 msgctxt "@label:textbox refers to the user's name"
 msgid "Name:"
 msgstr "Tên:"
@@ -78,7 +76,6 @@ msgstr "Khởi động lại trò chơi"
 
 #: blinken.cpp:691
 #, kde-format
-#| msgid "Quit blinKen"
 msgid "Quit Blinken"
 msgstr "Thoát Blinken"
 
@@ -184,7 +181,6 @@ msgstr "?"
 
 #: blinken.cpp:806
 #, kde-format
-#| msgid "Level"
 msgctxt "@label:chooser which level is currently being played"
 msgid "Level"
 msgstr "Cấp độ"
@@ -203,35 +199,30 @@ msgstr "Dùng phông chữ tuỳ chọn cho văn bản trạng thái"
 
 #: highscoredialog.cpp:138
 #, kde-format
-#| msgid "Highscores"
 msgctxt "@title:window the highest scores for each level are shown"
 msgid "Highscores"
 msgstr "Kỉ lục"
 
 #: highscoredialog.cpp:149
 #, kde-format
-#| msgid "Level 1"
 msgctxt "@title:group High scores Level 1 tab title"
 msgid "Level 1"
 msgstr "Trình độ 1"
 
 #: highscoredialog.cpp:150
 #, kde-format
-#| msgid "Level 2"
 msgctxt "@title:group High scores Level 2 tab title"
 msgid "Level 2"
 msgstr "Trình độ 2"
 
 #: highscoredialog.cpp:151
 #, kde-format
-#| msgid "Level ?"
 msgctxt "@title:group High scores Level ? tab tible"
 msgid "Level ?"
 msgstr "Cấp độ ?"
 
 #: main.cpp:28
 #, kde-format
-#| msgid "blinKen"
 msgid "Blinken"
 msgstr "Blinken"
 
@@ -246,8 +237,8 @@ msgid ""
 "© 2005-2007 Albert Astals Cid\n"
 "SPDX-FileCopyrightText: 2005-2007 Danny Allen "
 msgstr ""
-"© 2005-2007 Albert Astals Cid\nSPDX-FileCopyrightText: 2005-2007 Danny "
-"Allen"
+"© 2005-2007 Albert Astals Cid\n"
+"SPDX-FileCopyrightText: 2005-2007 Danny Allen"
 
 #: main.cpp:29
 #, kde-format

@@ -188,177 +188,117 @@ msgstr "Thêm dấu vân tay"
 
 #: src/ui/EnrollFeedback.qml:37
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly press your right index finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón trỏ phải vào cảm biến vân tay."
 
 #: src/ui/EnrollFeedback.qml:39
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly press your right middle finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón giữa tay phải vào cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:41
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly press your right ring finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón áp út phải vào cảm biến vân tay."
 
 #: src/ui/EnrollFeedback.qml:43
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly press your right little finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón út tay phải vào cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:45
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid "Please repeatedly press your right thumb on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón cái phải lên cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:47
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly press your left index finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón trỏ trái lên cảm biến vân tay."
 
 #: src/ui/EnrollFeedback.qml:49
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly press your left middle finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón giữa tay trái lên cảm biến vân tay."
 
 #: src/ui/EnrollFeedback.qml:51
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly press your left ring finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón áp út trái lên cảm biến vân tay."
 
 #: src/ui/EnrollFeedback.qml:53
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly press your left little finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón út trái lên cảm biến vân tay."
 
 #: src/ui/EnrollFeedback.qml:55
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid "Please repeatedly press your left thumb on the fingerprint sensor."
 msgstr "Vui lòng liên tục nhấn ngón cái trái lên cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:59
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly swipe your right index finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón trỏ phải vào cảm biến vân tay."
 
 #: src/ui/EnrollFeedback.qml:61
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly swipe your right middle finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón giữa tay phải vào cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:63
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly swipe your right ring finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón áp út tay phải vào cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:65
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly swipe your right little finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón út tay phải vào cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:67
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid "Please repeatedly swipe your right thumb on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón cái phải vào cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:69
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly swipe your left index finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón trỏ trái vào cảm biến vân tay."
 
 #: src/ui/EnrollFeedback.qml:71
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly swipe your left middle finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón giữa tay trái lên cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:73
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly swipe your left ring finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón áp út trái vào cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:75
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid ""
 "Please repeatedly swipe your left little finger on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón út trái vào cảm biến điểm chỉ."
 
 #: src/ui/EnrollFeedback.qml:77
 #, kde-format
-#| msgctxt ""
-#| "%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
-#| msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgid "Please repeatedly swipe your left thumb on the fingerprint sensor."
 msgstr "Vui lòng liên tục hất ngón cái trái lên cảm biến điểm chỉ."
 
@@ -409,14 +349,12 @@ msgstr "Người dùng"
 
 #: src/ui/main.qml:31
 #, kde-format
-#| msgid "Add New User"
 msgctxt "@action:button As in, 'add new user'"
 msgid "Add New…"
 msgstr "Thêm mới…"
 
 #: src/ui/main.qml:32
 #, kde-format
-#| msgid "Add New User"
 msgctxt "@action:button"
 msgid "Add New User…"
 msgstr "Thêm người dùng mới…"

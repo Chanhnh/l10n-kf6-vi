@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +18,10 @@ msgstr "Discover"
 
 #. (itstool) path: description/p
 #: org.kde.discover.appdata.xml:10
-msgid "Discover helps you find and install applications, games, and tools. You can search or browse by category, and look at screenshots and read reviews to help you pick the perfect app."
+msgid ""
+"Discover helps you find and install applications, games, and tools. You can "
+"search or browse by category, and look at screenshots and read reviews to "
+"help you pick the perfect app."
 msgstr ""
 "Discover giúp bạn tìm và cài đặt các ứng dụng, trò chơi và công cụ. Bạn có "
 "thể tìm kiếm hoặc duyệt theo danh mục, và xem ảnh chụp màn hình và đọc đánh "
@@ -25,7 +29,10 @@ msgstr ""
 
 #. (itstool) path: description/p
 #: org.kde.discover.appdata.xml:11
-msgid "With Discover, you can manage software from multiple sources, including your operating system's software repository, Flatpak repos, the Snap store, or even AppImages from store.kde.org."
+msgid ""
+"With Discover, you can manage software from multiple sources, including your "
+"operating system's software repository, Flatpak repos, the Snap store, or "
+"even AppImages from store.kde.org."
 msgstr ""
 "Với Discover, bạn có thể quản lý phần mềm từ nhiều nguồn khác nhau, bao gồm "
 "kho phần mềm của hệ điều hành, kho Flatpak, cửa hàng Snap hoặc thậm chí là "
@@ -33,7 +40,9 @@ msgstr ""
 
 #. (itstool) path: description/p
 #: org.kde.discover.appdata.xml:12
-msgid "Finally, Discover also allows you to find, install, and manage add-ons for Plasma and all your favorite KDE apps!"
+msgid ""
+"Finally, Discover also allows you to find, install, and manage add-ons for "
+"Plasma and all your favorite KDE apps!"
 msgstr ""
 "Cuối cùng, Discover cũng cho phép bạn tìm, cài đặt và quản lý các phần bổ "
 "sung cho Plasma và tất cả các ứng dụng KDE yêu thích của bạn!"

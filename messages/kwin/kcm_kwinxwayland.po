@@ -19,12 +19,6 @@ msgstr ""
 
 #: ui/main.qml:32
 #, kde-format
-#| msgid ""
-#| "Legacy X11 apps require the ability to read keystrokes typed in other "
-#| "apps for features that are activated using global keyboard shortcuts. "
-#| "This is disabled by default for security reasons. If you need to use such "
-#| "apps, you can choose your preferred balance of security and functionality "
-#| "here."
 msgid ""
 "Some legacy X11 apps require the ability to read keystrokes typed in other "
 "apps for certain features, such as handling global keyboard shortcuts. This "
@@ -35,10 +29,9 @@ msgid ""
 msgstr ""
 "Một số ứng dụng X11 đời cũ cần khả năng đọc phím gõ trong các ứng dụng khác "
 "cho một số tính năng, như xử lý phím tắt toàn cục. Điều này được cho phép "
-"mặc định. Tuy nhiên, các tính năng khác có thể cần khả năng đọc tất cả "
-"phím, và điều này bị tắt mặc định vì lý do an ninh. Nếu bạn cần dùng các "
-"ứng dụng như vậy, bạn có thể chọn sự cân bằng giữa an ninh và chức năng tại "
-"đây."
+"mặc định. Tuy nhiên, các tính năng khác có thể cần khả năng đọc tất cả phím, "
+"và điều này bị tắt mặc định vì lý do an ninh. Nếu bạn cần dùng các ứng dụng "
+"như vậy, bạn có thể chọn sự cân bằng giữa an ninh và chức năng tại đây."
 
 #: ui/main.qml:48
 #, kde-format
@@ -53,13 +46,11 @@ msgstr "Không bao giờ"
 
 #: ui/main.qml:55
 #, kde-format
-#| msgid "Only Meta, Control, Alt, and Shift keys"
 msgid "Only Meta, Control, Alt and Shift keys"
 msgstr "Chỉ phím Meta, Control, Alt và Shift"
 
 #: ui/main.qml:61
 #, kde-format
-#| msgid "All keys, but only while Meta, Ctrl, Alt, or Shift keys are pressed"
 msgid ""
 "As above, plus any key typed while the Control, Alt, or Meta keys are pressed"
 msgstr ""

@@ -28,9 +28,7 @@ msgstr "Nguyễn Hùng Phú,Lê Hoàng Phương,Hoàng Đức Hiếu,Clytie Sidd
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
-"phu.nguyen@kdemail.net,herophuong93@gmail.com,hieu.d.hoang@gmail.com,"
-"clytie@riverland.net.au"
+msgstr "phu.nguyen@kdemail.net,herophuong93@gmail.com,hieu.d.hoang@gmail.com,clytie@riverland.net.au"
 
 #: kcmoduleloader.cpp:49
 #, kde-format
@@ -83,7 +81,6 @@ msgstr "Cấu hình"
 
 #: kpluginwidget.cpp:67
 #, kde-format
-#| msgid "Search..."
 msgid "Search…"
 msgstr "Tìm kiếm..."
 
@@ -106,7 +103,6 @@ msgstr "Thông tin"
 
 #: qml/components/PluginDelegate.qml:104
 #, kde-format
-#| msgid "Configure"
 msgctxt "@info:tooltip"
 msgid "Configure…"
 msgstr "Cấu hình..."
@@ -159,7 +155,6 @@ msgstr "Gửi thư đến %1"
 
 #: qml/components/private/GridViewInternal.qml:77
 #, kde-format
-#| msgid "No plugins found"
 msgid "No items found"
 msgstr "Không tìm thấy mục nào"
 

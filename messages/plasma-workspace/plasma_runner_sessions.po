@@ -32,10 +32,6 @@ msgstr "Đăng xuất, thoát khỏi phiên bàn làm việc hiện tại"
 
 #: sessionrunner.cpp:28
 #, kde-format
-#| msgctxt ""
-#| "KRunner keywords (split by semicolons without whitespace) to shut down "
-#| "the computer"
-#| msgid "shutdown;shut down"
 msgctxt ""
 "KRunner keywords (split by semicolons without whitespace) to shut down the "
 "computer"

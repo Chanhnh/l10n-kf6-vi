@@ -34,8 +34,6 @@ msgstr "Ẩn/hiện phim"
 
 #: ui/Effect.qml:136
 #, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid "Configure..."
 msgctxt "@info:tooltip"
 msgid "Configure…"
 msgstr "Cấu hình…"

@@ -14,14 +14,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.sieveeditor.desktop:2
-#, 
-#| msgid "Name=Editors"
 msgctxt "Name"
 msgid "Sieve Editor"
 msgstr "Trình biên tập Sieve"
 
 #: src/org.kde.sieveeditor.desktop:52
-#, 
 msgctxt "GenericName"
 msgid "Editor for email filter Sieve scripts"
 msgstr "Trình biên tập các tập lệnh lọc thư Sieve"

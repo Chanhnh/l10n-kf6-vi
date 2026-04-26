@@ -14,13 +14,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/kdiamond.notifyrc:4
-#, 
 msgctxt "Comment"
 msgid "KDiamond Game"
 msgstr "Trò chơi KDiamond"
 
 #: src/kdiamond.notifyrc:56
-#, 
 msgctxt "Name"
 msgid "Game"
 msgstr "bàn chơi"
@@ -31,13 +29,11 @@ msgid "Sounds that appear during a game"
 msgstr "Âm thanh xuất hiện trong một bàn chơi"
 
 #: src/kdiamond.notifyrc:169
-#, 
 msgctxt "Name"
 msgid "Diamonds removed"
 msgstr "Đã loại bỏ kim cương"
 
 #: src/kdiamond.notifyrc:223
-#, 
 msgctxt "Comment"
 msgid "Diamonds were removed."
 msgstr "Các viên kim cương đã được loại bỏ."
@@ -53,7 +49,6 @@ msgid "Diamonds are moving."
 msgstr "Kim cương đang di chuyển."
 
 #: src/kdiamond.notifyrc:395
-#, 
 msgctxt "Name"
 msgid "Game over"
 msgstr "Kết thúc trò chơi"
@@ -69,14 +64,11 @@ msgid "KDiamond"
 msgstr "KDiamond"
 
 #: src/org.kde.kdiamond.desktop:62
-#, 
 msgctxt "GenericName"
 msgid "Three-in-a-row game"
 msgstr "Trò chơi ba trong một"
 
 #: src/org.kde.kdiamond.desktop:116
-#, 
-#| msgid "Comment=Logic Game"
 msgctxt "Comment"
 msgid "Logic game"
 msgstr "Trò chơi luận lí"
@@ -92,7 +84,6 @@ msgid "Egyptian style theme."
 msgstr "Chủ đề kiểu cách Ai Cập."
 
 #: themes/diamonds.desktop:3
-#, 
 msgctxt "Name"
 msgid "Diamonds"
 msgstr "Kim cương"

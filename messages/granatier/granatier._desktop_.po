@@ -14,8 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: arenas/clanbomber_Arena.desktop:2
-#, 
-#| msgid "Name=Arena"
 msgctxt "Name"
 msgid "Arena"
 msgstr "Sân vận động"
@@ -48,23 +46,16 @@ msgstr "Sân vận động"
 #: arenas/clanbomber_Snake_Race.desktop:50
 #: arenas/clanbomber_Tiny_Standard.desktop:48
 #: arenas/clanbomber_Whole_Mess.desktop:48
-#, 
-#| msgid "Name=Clanbomber"
 msgctxt "Description"
 msgid "Clanbomber Import"
 msgstr "Nhập khẩu Clanbomber"
 
 #: arenas/clanbomber_Big_Block.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "KBlackBox"
 msgctxt "Name"
 msgid "Big Block"
 msgstr "Khối Lớn"
 
 #: arenas/clanbomber_Big_Standard.desktop:2
-#, 
-#| msgid "Name=Clanbomber"
 msgctxt "Name"
 msgid "Clanbomber Big Standard"
 msgstr "Clanbomber Big Standard"
@@ -95,9 +86,6 @@ msgid "Broken Heart"
 msgstr "Trái Tim Tan Vỡ"
 
 #: arenas/clanbomber_Crammed.desktop:2
-#, 
-#| msgctxt "GenericName"
-#| msgid "Card Game"
 msgctxt "Name"
 msgid "Crammed"
 msgstr "Chật ních"
@@ -133,9 +121,6 @@ msgid "Football"
 msgstr "Bóng đá"
 
 #: arenas/clanbomber_Four_Instance.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Kolor Lines"
 msgctxt "Name"
 msgid "Four Instance"
 msgstr "Bốn hiện thể"
@@ -146,7 +131,6 @@ msgid "Ghostbear"
 msgstr "Ghostbear"
 
 #: arenas/clanbomber_Hard_Work.desktop:2
-#, 
 msgctxt "Name"
 msgid "Hard Work"
 msgstr "Làm việc chăm chỉ"
@@ -172,7 +156,6 @@ msgid "Kitchen"
 msgstr "Bếp"
 
 #: arenas/clanbomber_Meeting.desktop:2
-#, 
 msgctxt "Name"
 msgid "Meeting"
 msgstr "Cuộc họp"
@@ -213,7 +196,6 @@ msgid "Clanbomber Small Standard"
 msgstr "Clanbomber Nhỏ Tiêu chuẩn"
 
 #: arenas/clanbomber_Snake_Race.desktop:2
-#, 
 msgctxt "Name"
 msgid "Snake Race"
 msgstr "Cuộc đua rắn"
@@ -243,10 +225,10 @@ msgid ""
 "third is for love, and the fourth is for luck."
 msgstr ""
 "Lá bốn lá là một biến thể hiếm gặp của lá ba lá thông thường. Theo truyền "
-"thống, những lá như vậy mang lại may mắn cho những người tìm thấy chúng, "
-"đặc biệt là nếu tìm thấy một cách tình cờ. Theo truyền thuyết, mỗi lá biểu "
-"trưng cho một điều: lá thứ nhất là hy vọng, lá thứ hai là niềm tin, lá thứ "
-"ba là tình yêu, và lá thứ tư là may mắn."
+"thống, những lá như vậy mang lại may mắn cho những người tìm thấy chúng, đặc "
+"biệt là nếu tìm thấy một cách tình cờ. Theo truyền thuyết, mỗi lá biểu trưng "
+"cho một điều: lá thứ nhất là hy vọng, lá thứ hai là niềm tin, lá thứ ba là "
+"tình yêu, và lá thứ tư là may mắn."
 
 #: arenas/crazy.desktop:2
 msgctxt "Name"
@@ -254,17 +236,12 @@ msgid "Crazy"
 msgstr "Điên cuồng"
 
 #: arenas/crazy.desktop:52
-#, 
-#| msgid "Name=Arena"
 msgctxt "Description"
 msgid "Crazy Arena"
 msgstr "Sân vận động Điên cuồng"
 
 #: arenas/granatier.desktop:2 src/org.kde.granatier.desktop:3
 #: themes/granatier.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Grandma"
 msgctxt "Name"
 msgid "Granatier"
 msgstr "Granatier"
@@ -295,61 +272,51 @@ msgid "Three of Three Arena"
 msgstr "Sân vận động Thứ ba"
 
 #: players/player1.desktop:2
-#, 
 msgctxt "Name"
 msgid "Player 1"
 msgstr "Người chơi 1"
 
 #: players/player1.desktop:54
-#, 
 msgctxt "Description"
 msgid "This is Player 1"
 msgstr "Đây là Người chơi 1"
 
 #: players/player2.desktop:2
-#, 
 msgctxt "Name"
 msgid "Player 2"
 msgstr "Người chơi 2"
 
 #: players/player2.desktop:54
-#, 
 msgctxt "Description"
 msgid "This is Player 2"
 msgstr "Đây là Người chơi 2"
 
 #: players/player3.desktop:2
-#, 
 msgctxt "Name"
 msgid "Player 3"
 msgstr "Người chơi 3"
 
 #: players/player3.desktop:53
-#, 
 msgctxt "Description"
 msgid "This is Player 3"
 msgstr "Đây là Người chơi 3"
 
 #: players/player4.desktop:2
-#, 
 msgctxt "Name"
 msgid "Player 4"
 msgstr "Người chơi 4"
 
 #: players/player4.desktop:53
-#, 
 msgctxt "Description"
 msgid "This is Player 4"
 msgstr "Đây là Người chơi 4"
 
 #: players/player5.desktop:2
-#, 
 msgctxt "Name"
 msgid "Player 5"
 msgstr "Người chơi 5"
 
 #: players/player5.desktop:53
-#, 
 msgctxt "Description"
 msgid "This is Player 5"
 msgstr "Đây là Người chơi 5"
@@ -360,15 +327,11 @@ msgid "Bomberman clone"
 msgstr "Bản sao Bomberman"
 
 #: themes/clanbomber.desktop:2
-#, 
-#| msgid "Name=Clanbomber"
 msgctxt "Name"
 msgid "Clanbomber"
 msgstr "Clanbomber"
 
 #: themes/clanbomber.desktop:55
-#, 
-#| msgid "Name=Clanbomber"
 msgctxt "Description"
 msgid "Clanbomber Theme"
 msgstr "Chủ đề Clanbomber"
@@ -379,16 +342,11 @@ msgid "Granatier Theme"
 msgstr "Chủ đề Granatier"
 
 #: themes/waterbomb.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Water"
 msgctxt "Name"
 msgid "Water Bomb"
 msgstr "Bom Nước"
 
 #: themes/waterbomb.desktop:51
-#, 
-#| msgid "Name=Clanbomber"
 msgctxt "Description"
 msgid "Water Bomb Theme"
 msgstr "Chủ đề Water Bomb"

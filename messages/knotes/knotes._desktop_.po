@@ -14,8 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: notesagent/akonadi_notes_agent.notifyrc:3
-#, 
-#| msgid "Name=User Agent"
 msgctxt "Comment"
 msgid "Notes Agent"
 msgstr "Đại diện Ghi chú"
@@ -26,8 +24,6 @@ msgid "Received a note"
 msgstr "Đã nhận được một lưu ý"
 
 #: notesagent/notesagent.desktop:2
-#, 
-#| msgid "Name=User Agent"
 msgctxt "Name"
 msgid "Notes Agent"
 msgstr "Đại diện Ghi chú"
@@ -35,7 +31,8 @@ msgstr "Đại diện Ghi chú"
 #: notesagent/notesagent.desktop:46
 msgctxt "Comment"
 msgid "Adds notes received via network and handles note alarm notifications"
-msgstr "Thêm các ghi chú nhận được qua mạng và xử lý các thông báo cảnh báo ghi chú"
+msgstr ""
+"Thêm các ghi chú nhận được qua mạng và xử lý các thông báo cảnh báo ghi chú"
 
 #: src/data/knotes_printing_theme.knsrc:2
 msgctxt "Name"
@@ -53,7 +50,6 @@ msgid "KNotes"
 msgstr "KNotes"
 
 #: src/data/org.kde.knotes.desktop:155
-#, 
 msgctxt "Name"
 msgid "New Note"
 msgstr "Ghi chú mới"
@@ -94,13 +90,11 @@ msgstr "Chủ đề in mặc định của Knotes"
 #~ msgstr "Chương trình "
 
 #, fuzzy
-#~| msgid "Name=Connections"
 #~ msgctxt "Name"
 #~ msgid "Collections"
 #~ msgstr "Name=Các liên kết "
 
 #, fuzzy
-#~| msgid "Name=Editors"
 #~ msgctxt "Name"
 #~ msgid "Editor"
 #~ msgstr "Name=Trình biên tập "
@@ -116,7 +110,6 @@ msgstr "Chủ đề in mặc định của Knotes"
 #~ msgstr "Thiết lập được ưa thích dành cho người dùng "
 
 #, fuzzy
-#~| msgid "Name=Network"
 #~ msgctxt "Name"
 #~ msgid "Network"
 #~ msgstr "Name=Mạng "
@@ -142,8 +135,6 @@ msgstr "Chủ đề in mặc định của Knotes"
 #~ msgstr "Kafka HTMLPart Plugin"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Popup Notes"
 #~ msgctxt "Name"
 #~ msgid "Popup Notes"
 #~ msgstr "Ghi chép Popup"

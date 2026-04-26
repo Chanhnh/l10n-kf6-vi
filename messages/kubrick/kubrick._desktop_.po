@@ -19,15 +19,11 @@ msgid "Kubrick"
 msgstr "Kubrick"
 
 #: src/org.kde.kubrick.desktop:66
-#, 
-#| msgid "Comment=A 3D model of the Rubik's Cube"
 msgctxt "GenericName"
 msgid "3-D Game based on Rubik's Cube"
 msgstr "Trò chơi 3D dựa trên Rubik's Cube"
 
 #: src/org.kde.kubrick.desktop:119
-#, 
-#| msgid "Comment=A 3D model of the Rubik's Cube"
 msgctxt "Comment"
 msgid "A 3-D game based on Rubik's Cube"
 msgstr "Một trò chơi 3D dựa trên Rubik's Cube"

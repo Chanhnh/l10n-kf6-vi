@@ -37,7 +37,6 @@ msgstr "-%1"
 
 #: package/contents/ui/ExpandedRepresentation.qml:535
 #, kde-format
-#| msgid "Shuffle"
 msgctxt "@action:button"
 msgid "Shuffle"
 msgstr "Xáo trộn"

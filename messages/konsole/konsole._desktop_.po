@@ -20,17 +20,11 @@ msgstr ""
 "X-Generator: LocFactoryEditor 1.6.3b1\n"
 
 #: desktop/konsole.notifyrc:4
-#, 
-#| msgctxt "Name"
-#| msgid "Konsole"
 msgctxt "Comment"
 msgid "Konsole"
 msgstr "Konsole"
 
 #: desktop/konsole.notifyrc:97
-#, 
-#| msgctxt "Name"
-#| msgid "Terminal Sessions"
 msgctxt "Name"
 msgid "Bell in Focused Session"
 msgstr "Chuông trong phiên đang tập trung"
@@ -41,9 +35,6 @@ msgid "Bell emitted within a focused session"
 msgstr "Chuông phát ra trong phiên đang được tập trung"
 
 #: desktop/konsole.notifyrc:198
-#, 
-#| msgctxt "Name"
-#| msgid "Terminal Sessions"
 msgctxt "Name"
 msgid "Bell in Non-Focused Session"
 msgstr "Chuông trong phiên không tập trung"
@@ -94,9 +85,6 @@ msgid "Silence detected in a monitored session"
 msgstr "Phát hiện im lặng trong phiên được giám sát"
 
 #: desktop/konsole.notifyrc:844
-#, 
-#| msgctxt "Name"
-#| msgid "Terminal Sessions"
 msgctxt "Name"
 msgid "Process finished in Non-Focused Monitored Session"
 msgstr "Tiến trình kết thúc trong phiên được giám sát không tập trung"
@@ -127,9 +115,6 @@ msgid "A session has exited with non-zero status"
 msgstr "Một phiên đã kết thúc với trạng thái khác không"
 
 #: desktop/konsole.notifyrc:1204
-#, 
-#| msgctxt "Name"
-#| msgid "Terminal Sessions"
 msgctxt "Name"
 msgid "Process Triggered a Notification in a Focused Session"
 msgstr "Tiến trình kích hoạt thông báo trong phiên đang được tập trung"
@@ -137,12 +122,10 @@ msgstr "Tiến trình kích hoạt thông báo trong phiên đang được tập
 #: desktop/konsole.notifyrc:1241
 msgctxt "Comment"
 msgid "Notification emitted by a process in a focused session"
-msgstr "Thông báo được phát ra bởi một tiến trình trong phiên đang được tập trung"
+msgstr ""
+"Thông báo được phát ra bởi một tiến trình trong phiên đang được tập trung"
 
 #: desktop/konsole.notifyrc:1281
-#, 
-#| msgctxt "Name"
-#| msgid "Terminal Sessions"
 msgctxt "Name"
 msgid "Process Triggered a Notification in a Non-Focused Session"
 msgstr "Tiến trình kích hoạt thông báo trong phiên không được tập trung"
@@ -150,20 +133,15 @@ msgstr "Tiến trình kích hoạt thông báo trong phiên không được tậ
 #: desktop/konsole.notifyrc:1318
 msgctxt "Comment"
 msgid "Notification emitted by a process in a non-focused session"
-msgstr "Thông báo được phát ra bởi một tiến trình trong phiên không được tập trung"
+msgstr ""
+"Thông báo được phát ra bởi một tiến trình trong phiên không được tập trung"
 
 #: desktop/konsole.notifyrc:1358
-#, 
-#| msgctxt "Name"
-#| msgid "Terminal Sessions"
 msgctxt "Name"
 msgid "Shell prompt triggered a notification in a non-focused session"
 msgstr "Hệ vỏ kích hoạt thông báo trong phiên không được tập trung"
 
 #: desktop/konsole.notifyrc:1394
-#, 
-#| msgctxt "Name"
-#| msgid "Terminal Sessions"
 msgctxt "Comment"
 msgid "Shell prompt triggered a notification in a non-focused session"
 msgstr "Hệ vỏ kích hoạt thông báo trong phiên không được tập trung"
@@ -185,25 +163,16 @@ msgstr "Mô phỏng thiết bị cuối"
 
 #: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:238
 #: desktop/terminalemulator.desktop:98
-#, 
-#| msgctxt "Name"
-#| msgid "Command Runner"
 msgctxt "Comment"
 msgid "Command line access"
 msgstr "Truy cập dòng lệnh"
 
 #: desktop/konsolerun.desktop:13
-#, 
-#| msgctxt "Name"
-#| msgid "Run Konsole"
 msgctxt "Name"
 msgid "Run In Konsole"
 msgstr "Chạy Trong Konsole"
 
 #: desktop/konsolerun.desktop:69
-#, 
-#| msgctxt "Name"
-#| msgid "Run Konsole"
 msgctxt "Comment"
 msgid "Run within Konsole"
 msgstr "Chạy trong Konsole"
@@ -211,8 +180,8 @@ msgstr "Chạy trong Konsole"
 #: desktop/org.kde.konsole.desktop:13
 msgctxt "Keywords"
 msgid ""
-"terminal;console;script;run;execute;command;command-line;commandline;cli;"
-"bash;sh;shell;zsh;cmd;command prompt"
+"terminal;console;script;run;execute;command;command-"
+"line;commandline;cli;bash;sh;shell;zsh;cmd;command prompt"
 msgstr ""
 "terminal;console;kịch bản;chạy;thực thi;lệnh;dòng "
 "lệnh;cli;bash;sh;shell;zsh;cmd;dấu nhắc lệnh"
@@ -223,25 +192,16 @@ msgid "Konsole"
 msgstr "Konsole"
 
 #: desktop/org.kde.konsole.desktop:150
-#, 
-#| msgctxt "Name"
-#| msgid "Terminal"
 msgctxt "GenericName"
 msgid "Terminal"
 msgstr "Trình dòng lệnh"
 
 #: desktop/org.kde.konsole.desktop:292
-#, 
-#| msgctxt "Name"
-#| msgid "New Window"
 msgctxt "Name"
 msgid "Open a New Window"
 msgstr "Mở cửa sổ mới"
 
 #: desktop/org.kde.konsole.desktop:351
-#, 
-#| msgctxt "Name"
-#| msgid "New Window"
 msgctxt "Name"
 msgid "Open a New Tab"
 msgstr "Mở thẻ mới"

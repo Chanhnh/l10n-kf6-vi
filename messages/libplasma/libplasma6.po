@@ -192,7 +192,6 @@ msgstr "Không tìm thấy thành phần được yêu cầu: %1"
 
 #: plasmaquick/appletquickitem.cpp:544
 #, kde-format
-#| msgid "The root item of %1 must be of type ContaimentItem"
 msgid "The root item of %1 must be of type ContainmentItem"
 msgstr "Phần tử gốc của %1 phải thuộc kiểu ContainmentItem"
 
@@ -213,9 +212,9 @@ msgid ""
 "compatible with Plasma %1. Please contact the widget's author for an updated "
 "version."
 msgstr ""
-"Phụ kiện này được viết cho một phiên bản cũ hơn không rõ của Plasma và "
-"không tương thích với Plasma %1. Vui lòng liên hệ với tác giả của phụ kiện "
-"để có phiên bản cập nhật."
+"Phụ kiện này được viết cho một phiên bản cũ hơn không rõ của Plasma và không "
+"tương thích với Plasma %1. Vui lòng liên hệ với tác giả của phụ kiện để có "
+"phiên bản cập nhật."
 
 #: plasmaquick/appletquickitem.cpp:574 plasmaquick/appletquickitem.cpp:581
 #: plasmaquick/appletquickitem.cpp:587
@@ -229,8 +228,8 @@ msgid ""
 "This Widget was written for Plasma %1 and is not compatible with Plasma %2. "
 "Please contact the widget's author for an updated version."
 msgstr ""
-"Phụ kiện này được viết cho Plasma %1 và không tương thích với Plasma %2. "
-"Vui lòng liên hệ với tác giả của phụ kiện để có phiên bản cập nhật."
+"Phụ kiện này được viết cho Plasma %1 và không tương thích với Plasma %2. Vui "
+"lòng liên hệ với tác giả của phụ kiện để có phiên bản cập nhật."
 
 #: plasmaquick/appletquickitem.cpp:584
 #, kde-format
@@ -238,8 +237,8 @@ msgid ""
 "This Widget was written for Plasma %1 and is not compatible with Plasma %2. "
 "Please update Plasma in order to use the widget."
 msgstr ""
-"Phụ kiện này được viết cho Plasma %1 và không tương thích với Plasma %2. "
-"Vui lòng cập nhật Plasma để sử dụng phụ kiện."
+"Phụ kiện này được viết cho Plasma %1 và không tương thích với Plasma %2. Vui "
+"lòng cập nhật Plasma để sử dụng phụ kiện."
 
 #: plasmaquick/appletquickitem.cpp:593 plasmaquick/appletquickitem.cpp:615
 #, kde-format
@@ -253,13 +252,11 @@ msgstr "Lỗi tải tệp QML: %1 %2"
 
 #: plasmaquick/appletquickitem.cpp:613
 #, kde-format
-#| msgid "Error loading Applet: package inexistent. %1"
 msgid "Error loading Applet: package %1 does not exist."
 msgstr "Lỗi tải tiểu ứng dụng: gói %1 không tồn tại."
 
 #: plasmaquick/configview.cpp:231
 #, kde-format
-#| msgid "%1 Settings"
 msgid "%1 — %2 Settings"
 msgstr "Thiết lập %1 — %2"
 

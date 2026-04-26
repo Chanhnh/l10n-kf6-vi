@@ -38,8 +38,6 @@ msgstr "Cấu hình liên kết tệp"
 #~ "Associations,Mime Types,File Patterns,Files,Pattern"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Text Editor"
 #~ msgctxt "GenericName"
 #~ msgid "File Type Editor"
 #~ msgstr "Bộ soạn văn bản"

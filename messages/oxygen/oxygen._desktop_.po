@@ -21,9 +21,6 @@ msgstr ""
 "X-Generator: Lokalize 1.5\n"
 
 #: color-schemes/./OxygenCold.colors:103
-#, 
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Cold"
 msgstr "Oxygen Lạnh"
@@ -44,9 +41,6 @@ msgid "The default cursor theme in KDE 2 and 3"
 msgstr "Chủ đề con trỏ mặc định trong KDE 2 và 3"
 
 #: cursors/Oxygen_Black/index.theme:2
-#, 
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Black"
 msgstr "Oxygen Đen"
@@ -59,33 +53,21 @@ msgid "Oxygen mouse theme. Oxygenize your desktop!"
 msgstr "Chủ đề chuột Oxygen. Làm cho desktop của bạn trở nên Oxygen!"
 
 #: cursors/Oxygen_Blue/index.theme:2
-#, 
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Blue"
 msgstr "Oxygen Blue"
 
 #: cursors/Oxygen_White/index.theme:2
-#, 
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen White"
 msgstr "Oxygen Trắng"
 
 #: cursors/Oxygen_Yellow/index.theme:2
-#, 
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Yellow"
 msgstr "Oxygen Vàng"
 
 #: cursors/Oxygen_Zion/index.theme:2
-#, 
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Zion"
 msgstr "Oxygen Zion"
@@ -96,8 +78,6 @@ msgid "Widget style for the Plasma desktop"
 msgstr "Kiểu cách phụ kiện cho desktop Plasma"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Oxygen"
 #~ msgctxt "Name"
 #~ msgid "Oxygen Widget Style"
 #~ msgstr "Oxygen"

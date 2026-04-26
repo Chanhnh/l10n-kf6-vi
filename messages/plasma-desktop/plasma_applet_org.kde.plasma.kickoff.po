@@ -352,6 +352,5 @@ msgstr "Hay dùng"
 #~ msgstr "Các mục ưa thích"
 
 #, fuzzy
-#~| msgid "Recently Used"
 #~ msgid "Often Used"
 #~ msgstr "Sử dụng gần đây"

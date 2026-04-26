@@ -20,33 +20,26 @@ msgid "KAlarm"
 msgstr "KAlarm"
 
 #: src/data/kalarm.autostart.desktop:78
-#, 
 msgctxt "Comment"
 msgid "KAlarm autostart at login"
 msgstr "KAlarm tự động khởi động khi đăng nhập"
 
 #: src/data/kalarm.notifyrc:4
-#, 
-#| msgctxt "Name"
-#| msgid "KAlarm"
 msgctxt "Comment"
 msgid "KAlarm"
 msgstr "KAlarm"
 
 #: src/data/kalarm.notifyrc:42
-#, 
 msgctxt "Name"
 msgid "Alarm message"
 msgstr "thông điệp"
 
 #: src/data/kalarm.notifyrc:81
-#, 
 msgctxt "Name"
 msgid "Alarm message with beep"
 msgstr "Thông điệp báo thức với tiếng bíp"
 
 #: src/data/kalarm.notifyrc:121
-#, 
 msgctxt "Name"
 msgid "Spoken alarm message"
 msgstr "Thông điệp báo động bằng lời nói"
@@ -57,7 +50,6 @@ msgid "Alarm error message"
 msgstr "Thông điệp lỗi báo động"
 
 #: src/data/org.kde.kalarm.desktop:77
-#, 
 msgctxt "GenericName"
 msgid "Personal Alarm Scheduler"
 msgstr "Lịch cá nhân"

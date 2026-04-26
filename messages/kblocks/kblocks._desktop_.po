@@ -14,9 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.kblocks.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "KBlackBox"
 msgctxt "Name"
 msgid "KBlocks"
 msgstr "KBlocks"

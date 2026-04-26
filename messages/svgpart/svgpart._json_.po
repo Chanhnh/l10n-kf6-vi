@@ -26,9 +26,6 @@ msgid "Svg Part"
 msgstr "Thành phần SVG"
 
 #: src/svgpart.json.in
-#, 
-#| msgctxt "Comment"
-#| msgid "A KPart to display SVG images"
 msgctxt "Description"
 msgid "A KPart to display SVG images"
 msgstr "Một thành phần KPart để bộ hiển thị ảnh SVG"

@@ -175,7 +175,6 @@ msgstr "Chọn biểu tượng..."
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_KonquerorIntegration)
 #: conf/dlgintegration.ui:17
 #, kde-format
-#| msgid "Use as download manager for Konqueror:"
 msgid "Use as download manager for Konqueror"
 msgstr "Sử dụng làm trình quản lý tải về cho Konqueror"
 
@@ -239,7 +238,6 @@ msgstr "Giới hạn tốc độ tải &về toàn cục:"
 #: ui/groupsettingsdialog.ui:90 ui/groupsettingsdialog.ui:109
 #: ui/transfersettingsdialog.ui:54 ui/transfersettingsdialog.ui:70
 #, kde-format
-#| msgid "%1/s"
 msgid " KiB/s"
 msgstr "KiB/giây"
 
@@ -258,7 +256,6 @@ msgstr "Mỗi mục tải:"
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_ReconnectOnBroken)
 #: conf/dlgnetwork.ui:119
 #, kde-format
-#| msgid "Reconnect on error or broken connection"
 msgid "Reconnect on Broken Connection"
 msgstr "Tái kết nối khi kết nối bị ngắt"
 
@@ -373,8 +370,6 @@ msgstr "Phút"
 
 #: conf/preferencesdialog.cpp:73
 #, kde-format
-#| msgctxt "@action (Refresh very x )seconds"
-#| msgid "seconds"
 msgid "Second(s)"
 msgstr "Giây"
 
@@ -532,7 +527,6 @@ msgstr "Đã gỡ bỏ %1 do báo sai kích thước tệp."
 
 #: core/filemodel.cpp:248
 #, kde-format
-#| msgid "&File"
 msgctxt "file in a filesystem"
 msgid "File"
 msgstr "Tệp"
@@ -606,11 +600,11 @@ msgstr "Xoá nhóm"
 #: core/kget.cpp:248
 #, kde-format
 msgid ""
-"<p>The following transfer has been added to the download list:</p><p style="
-"\"font-size: small;\">%1</p>"
-msgstr ""
-"<p>Truyền tải sau đây đã được thêm vào danh sách tải về:</p><p "
+"<p>The following transfer has been added to the download list:</p><p "
 "style=\"font-size: small;\">%1</p>"
+msgstr ""
+"<p>Truyền tải sau đây đã được thêm vào danh sách tải về:</p><p style=\"font-"
+"size: small;\">%1</p>"
 
 #: core/kget.cpp:250 core/kget.cpp:343
 #, kde-format
@@ -701,13 +695,12 @@ msgstr ""
 
 #: core/kget.cpp:992 core/urlchecker.cpp:368
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid ""
 "Malformed URL, protocol missing:\n"
 "%1"
-msgstr "URL dạng sai, thiếu giao thức:\n%1"
+msgstr ""
+"URL dạng sai, thiếu giao thức:\n"
+"%1"
 
 #: core/kget.cpp:1003 core/urlchecker.cpp:424
 #, kde-format
@@ -718,12 +711,14 @@ msgid ""
 "\n"
 "Download it again?"
 msgstr ""
-"Bạn đã hoàn thành một lần tải về từ vị trí này:\n\n%1\n\nBạn có muốn tải về "
-"lại không?"
+"Bạn đã hoàn thành một lần tải về từ vị trí này:\n"
+"\n"
+"%1\n"
+"\n"
+"Bạn có muốn tải về lại không?"
 
 #: core/kget.cpp:1004 core/urlchecker.cpp:639
 #, kde-format
-#| msgid "Download URL again?"
 msgid "Download it again?"
 msgstr "Tải về lại không?"
 
@@ -733,7 +728,6 @@ msgstr "Tải về lại không?"
 #: transfer-plugins/metalink/metalinkxml.cpp:113
 #: transfer-plugins/multisegmentkio/transfermultisegkio.cpp:264
 #, kde-format
-#| msgid "Download URL again?"
 msgctxt "@action:button"
 msgid "Download Again"
 msgstr "Tải về lại"
@@ -753,12 +747,14 @@ msgid ""
 "\n"
 "Delete it and download again?"
 msgstr ""
-"Bạn đang có một tải về đang diễn ra từ vị trí:\n\n%1\n\nXóa nó và tải về "
-"lại?"
+"Bạn đang có một tải về đang diễn ra từ vị trí:\n"
+"\n"
+"%1\n"
+"\n"
+"Xóa nó và tải về lại?"
 
 #: core/kget.cpp:1017 core/urlchecker.cpp:636
 #, kde-format
-#| msgid "Download URL again?"
 msgid "Delete it and download again?"
 msgstr "Xóa nó và tải về lại?"
 
@@ -773,14 +769,13 @@ msgid ""
 "You have already downloaded that file from another location.\n"
 "\n"
 "Download and delete the previous one?"
-msgstr "Bạn đã tải về tệp đó từ một vị trí khác.\n\nTải về và xóa tệp trước đó?"
+msgstr ""
+"Bạn đã tải về tệp đó từ một vị trí khác.\n"
+"\n"
+"Tải về và xóa tệp trước đó?"
 
 #: core/kget.cpp:1072 core/urlchecker.cpp:648
 #, kde-format
-#| msgid ""
-#| "URL already saved:\n"
-#| "%1\n"
-#| "Download again?"
 msgid "File already downloaded. Download anyway?"
 msgstr "Tệp đã được tải về. Tải về lại?"
 
@@ -793,9 +788,6 @@ msgstr "Bạn đang tải về cùng một tệp"
 #: core/urlchecker.cpp:733 transfer-plugins/metalink/abstractmetalink.cpp:477
 #: transfer-plugins/metalink/metalink.cpp:663
 #, kde-format
-#| msgid ""
-#| "The file %1 already exists.\n"
-#| "Overwrite?"
 msgid "File already exists"
 msgstr "Tệp đã tồn tại"
 
@@ -811,9 +803,6 @@ msgstr "Không có kết nối internet, đang dừng các chuyển giao."
 
 #: core/kget.cpp:1194
 #, kde-format
-#| msgid ""
-#| "<p>KLibLoader could not load the plugin:<br/><i>%1</i></p><p>Error "
-#| "message:<br/><i>%2</i></p>"
 msgid "Plugin loader could not load the plugin %1: %2."
 msgstr "Bộ nạp phần cài cắm không thể tải phần cài cắm %1: %2."
 
@@ -844,11 +833,11 @@ msgstr ""
 msgid ""
 "<p>The following file has finished downloading:</p><p style=\"font-size: "
 "small;\">%1</p>"
-msgstr "<p>Tệp sau đây đã tải xuống xong:</p><p style=\"font-size: small;\">%1</p>"
+msgstr ""
+"<p>Tệp sau đây đã tải xuống xong:</p><p style=\"font-size: small;\">%1</p>"
 
 #: core/kget.cpp:1324
 #, kde-format
-#| msgid "Default Download Folders"
 msgid "Download completed"
 msgstr "Tải về hoàn tất"
 
@@ -858,12 +847,11 @@ msgid ""
 "<p>The following transfer has been started:</p><p style=\"font-size: small;"
 "\">%1</p>"
 msgstr ""
-"<p>Quá trình truyền sau đây đã được bắt đầu:</p><p style=\"font-size: "
-"small;\">%1</p>"
+"<p>Quá trình truyền sau đây đã được bắt đầu:</p><p style=\"font-size: small;"
+"\">%1</p>"
 
 #: core/kget.cpp:1330
 #, kde-format
-#| msgid "Downloads"
 msgid "Download started"
 msgstr "Tải về đã bắt đầu"
 
@@ -875,12 +863,10 @@ msgid ""
 "\">%2</p>"
 msgstr ""
 "<p>Đã xảy ra lỗi trong quá trình truyền tải sau:</p><p style=\"font-size: "
-"small;\">%1</p><p>Thông điệp lỗi là:</p><p style=\"font-size: "
-"small;\">%2</p>"
+"small;\">%1</p><p>Thông điệp lỗi là:</p><p style=\"font-size: small;\">%2</p>"
 
 #: core/kget.cpp:1343
 #, kde-format
-#| msgid "Transfers:"
 msgctxt "@action:button"
 msgid "Resolve"
 msgstr "Phân giải"
@@ -897,7 +883,6 @@ msgstr "Máy tính sẽ tắt ngay bây giờ: tất cả mục tải đã hoàn
 
 #: core/kget.cpp:1402
 #, kde-format
-#| msgid "Auto shutdown"
 msgctxt "Shutting down computer"
 msgid "Shutdown"
 msgstr "Tắt máy"
@@ -920,7 +905,6 @@ msgstr "Máy tính sẽ ngưng ngay bây giờ: tất cả mục tải đã hoà
 
 #: core/kget.cpp:1416
 #, kde-format
-#| msgid "Speed"
 msgctxt "Suspending computer"
 msgid "Suspending"
 msgstr "Đang tạm dừng"
@@ -938,7 +922,6 @@ msgstr "<p>Tất cả các quá trình truyền tải đã hoàn tất.</p>"
 
 #: core/kget.cpp:1433
 #, kde-format
-#| msgid "Default Download Folders"
 msgid "Downloads completed"
 msgstr "Tải về hoàn tất"
 
@@ -956,7 +939,6 @@ msgstr[0] "Kget đang tải %1 tệp"
 
 #: core/kgetkjobadapter.cpp:48
 #, kde-format
-#| msgid "KGet Transfer List"
 msgid "KGet Transfer"
 msgstr "Truyền KGet"
 
@@ -972,7 +954,6 @@ msgstr "Thiếu khoá để xác minh chữ kí, bạn có muốn tải không?"
 
 #: core/signature.cpp:232
 #, kde-format
-#| msgid "Downloads"
 msgctxt "@action:button"
 msgid "Download"
 msgstr "Tải về"
@@ -997,14 +978,10 @@ msgid "Signature not verified"
 msgstr "Chữ kí chưa được xác minh"
 
 #: core/transfer.cpp:28
-#, 
-#| msgid "Downloads"
 msgid "Downloading...."
 msgstr "Đang tải xuống..."
 
 #: core/transfer.cpp:29
-#, 
-#| msgid "Delayed"
 msgctxt "transfer state: delayed"
 msgid "Delayed"
 msgstr "Bị trễ"
@@ -1013,7 +990,6 @@ msgstr "Bị trễ"
 #: transfer-plugins/bittorrent/bttransfer.cpp:313
 #: transfer-plugins/mmsthreads/mmstransfer.cpp:85
 #, kde-format
-#| msgid "Stopped"
 msgctxt "transfer state: stopped"
 msgid "Stopped"
 msgstr "Đã dừng"
@@ -1026,14 +1002,12 @@ msgstr "Huỷ bỏ"
 #: core/transfer.cpp:32 transfer-plugins/bittorrent/bttransfer.cpp:234
 #: transfer-plugins/bittorrent/bttransfer.cpp:311
 #, kde-format
-#| msgid "Finished"
 msgctxt "transfer state: finished"
 msgid "Finished"
 msgstr "Đã hoàn thành"
 
 #: core/transfer.cpp:34 transfer-plugins/bittorrent/bttransfer.cpp:184
 #, kde-format
-#| msgid "Open Destination"
 msgctxt "changing the destination of the file"
 msgid "Changing destination"
 msgstr "Đang thay đổi đích"
@@ -1128,7 +1102,6 @@ msgstr "Thời gian chờ"
 
 #: core/urlchecker.cpp:51
 #, kde-format
-#| msgid "Open Destination"
 msgid "Question"
 msgstr "Câu hỏi"
 
@@ -1154,19 +1127,16 @@ msgstr "Thư mục tải về không thể ghi."
 
 #: core/urlchecker.cpp:312 core/urlchecker.cpp:352
 #, kde-format
-#| msgid "Open Destination"
 msgid "No download destination specified."
 msgstr "Không có đích tải về được chỉ định."
 
 #: core/urlchecker.cpp:314
 #, kde-format
-#| msgid "Open Destination"
 msgid "Invalid download destination specified."
 msgstr "Đích tải về không hợp lệ."
 
 #: core/urlchecker.cpp:316
 #, kde-format
-#| msgid "Open Destination"
 msgid "Download destination is not writeable."
 msgstr "Đích tải về không thể ghi."
 
@@ -1180,25 +1150,16 @@ msgstr "Không có URL được chỉ định."
 #: transfer-plugins/bittorrent/advanceddetails/trackerview.cpp:91
 #: transfer-plugins/bittorrent/bttransfer.cpp:275
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid "Malformed URL."
 msgstr "URL dạng sai."
 
 #: core/urlchecker.cpp:328
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid "Malformed URL, protocol missing."
 msgstr "URL dạng sai, thiếu giao thức."
 
 #: core/urlchecker.cpp:330
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid "Malformed URL, host missing."
 msgstr "URL dạng sai, thiếu máy tiếp đãi."
 
@@ -1207,46 +1168,48 @@ msgstr "URL dạng sai, thiếu máy tiếp đãi."
 msgid ""
 "Invalid download directory specified:\n"
 "%1"
-msgstr "Thư mục tải về không hợp lệ:\n%1"
+msgstr ""
+"Thư mục tải về không hợp lệ:\n"
+"%1"
 
 #: core/urlchecker.cpp:344
 #, kde-format
 msgid ""
 "Download directory is not writeable:\n"
 "%1"
-msgstr "Thư mục tải về không thể ghi:\n%1"
+msgstr ""
+"Thư mục tải về không thể ghi:\n"
+"%1"
 
 #: core/urlchecker.cpp:354
 #, kde-format
-#| msgid "Open Destination"
 msgid ""
 "Invalid download destination specified:\n"
 "%1"
-msgstr "Đích tải về không hợp lệ:\n%1"
+msgstr ""
+"Đích tải về không hợp lệ:\n"
+"%1"
 
 #: core/urlchecker.cpp:356
 #, kde-format
-#| msgid "Open Destination"
 msgid ""
 "Download destination is not writeable:\n"
 "%1"
-msgstr "Đích tải về không thể ghi:\n%1"
+msgstr ""
+"Đích tải về không thể ghi:\n"
+"%1"
 
 #: core/urlchecker.cpp:370
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid ""
 "Malformed URL, host missing:\n"
 "%1"
-msgstr "URL dạng sai, thiếu máy tiếp đãi:\n%1"
+msgstr ""
+"URL dạng sai, thiếu máy tiếp đãi:\n"
+"%1"
 
 #: core/urlchecker.cpp:386 core/urlchecker.cpp:398
 #, kde-format
-#| msgid ""
-#| "The file %1 already exists.\n"
-#| "Overwrite?"
 msgid "File already exists. Overwrite it?"
 msgstr "Tệp đã tồn tại. Ghi đè nó?"
 
@@ -1255,107 +1218,99 @@ msgstr "Tệp đã tồn tại. Ghi đè nó?"
 msgid ""
 "You have already downloaded that file from another location.\n"
 "Download and delete the previous one?"
-msgstr "Bạn đã tải về tệp đó từ một vị trí khác.\nTải về và xóa tệp trước đó?"
+msgstr ""
+"Bạn đã tải về tệp đó từ một vị trí khác.\n"
+"Tải về và xóa tệp trước đó?"
 
 #: core/urlchecker.cpp:390 core/urlchecker.cpp:416
 #, kde-format
 msgid ""
 "You are already downloading that file from another location.\n"
 "Download and delete the previous one?"
-msgstr "Bạn đang tải tệp đó từ một vị trí khác.\nTải về và xóa tệp trước đó?"
+msgstr ""
+"Bạn đang tải tệp đó từ một vị trí khác.\n"
+"Tải về và xóa tệp trước đó?"
 
 #: core/urlchecker.cpp:400
 #, kde-format
 msgid ""
 "You have already completed a download from that location. Download it again?"
 msgstr ""
-"Bạn đã hoàn thành một lần tải về từ vị trí đó. Bạn có muốn tải về lại "
-"không?"
+"Bạn đã hoàn thành một lần tải về từ vị trí đó. Bạn có muốn tải về lại không?"
 
 #: core/urlchecker.cpp:402
 #, kde-format
 msgid ""
 "You have a download in progress from that location.\n"
 "Delete it and download again?"
-msgstr "Bạn đang có một tải về đang diễn ra từ vị trí đó.\nXóa nó và tải về lại?"
+msgstr ""
+"Bạn đang có một tải về đang diễn ra từ vị trí đó.\n"
+"Xóa nó và tải về lại?"
 
 #: core/urlchecker.cpp:412
 #, kde-format
-#| msgid ""
-#| "The file %1 already exists.\n"
-#| "Overwrite?"
 msgid ""
 "File already exists:\n"
 "%1\n"
 "Overwrite it?"
-msgstr "Tệp đã tồn tại:\n%1\nGhi đè nó?"
+msgstr ""
+"Tệp đã tồn tại:\n"
+"%1\n"
+"Ghi đè nó?"
 
 #: core/urlchecker.cpp:456
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid "Malformed URLs."
 msgstr "URL dạng sai."
 
 #: core/urlchecker.cpp:458
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid "Malformed URLs, protocol missing."
 msgstr "URL dạng sai, thiếu giao thức."
 
 #: core/urlchecker.cpp:460
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid "Malformed URLs, host missing."
 msgstr "URL dạng sai, thiếu máy tiếp đãi."
 
 #: core/urlchecker.cpp:470
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid ""
 "Malformed URLs:\n"
 "%1"
-msgstr "URL dạng sai:\n%1"
+msgstr ""
+"URL dạng sai:\n"
+"%1"
 
 #: core/urlchecker.cpp:472
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid ""
 "Malformed URLs, protocol missing:\n"
 "%1"
-msgstr "URL dạng sai, thiếu giao thức:\n%1"
+msgstr ""
+"URL dạng sai, thiếu giao thức:\n"
+"%1"
 
 #: core/urlchecker.cpp:474
 #, kde-format
-#| msgid ""
-#| "Malformed URL:\n"
-#| "%1"
 msgid ""
 "Malformed URLs, host missing:\n"
 "%1"
-msgstr "URL dạng sai, thiếu máy chủ:\n%1"
+msgstr ""
+"URL dạng sai, thiếu máy chủ:\n"
+"%1"
 
 #: core/urlchecker.cpp:476
 #, kde-format
 msgid ""
 "Destinations are not writable:\n"
 "%1"
-msgstr "Đích không thể ghi:\n%1"
+msgstr ""
+"Đích không thể ghi:\n"
+"%1"
 
 #: core/urlchecker.cpp:500
 #, kde-format
-#| msgid ""
-#| "The file %1 already exists.\n"
-#| "Overwrite?"
 msgid "Files exist already. Overwrite them?"
 msgstr "Tệp đã tồn tại. Ghi đè chúng?"
 
@@ -1372,8 +1327,8 @@ msgid ""
 "You have downloads in progress to these destinations.\n"
 "Delete them and download again?"
 msgstr ""
-"Bạn đang có các tải về đang diễn ra đến những điểm đến này.\nXóa chúng và "
-"tải về lại?"
+"Bạn đang có các tải về đang diễn ra đến những điểm đến này.\n"
+"Xóa chúng và tải về lại?"
 
 #: core/urlchecker.cpp:512
 #, kde-format
@@ -1390,8 +1345,8 @@ msgid ""
 "You have downloads in progress from these locations.\n"
 "Delete them and download again?"
 msgstr ""
-"Bạn đang có các tải về đang diễn ra từ những vị trí này.\nXóa chúng và tải "
-"về lại?"
+"Bạn đang có các tải về đang diễn ra từ những vị trí này.\n"
+"Xóa chúng và tải về lại?"
 
 #: core/urlchecker.cpp:523
 #, kde-format
@@ -1399,7 +1354,10 @@ msgid ""
 "Files exist already:\n"
 "%1\n"
 "Overwrite them?"
-msgstr "Các tệp đã tồn tại:\n%1\nGhi đè chúng?"
+msgstr ""
+"Các tệp đã tồn tại:\n"
+"%1\n"
+"Ghi đè chúng?"
 
 #: core/urlchecker.cpp:525
 #, kde-format
@@ -1410,8 +1368,11 @@ msgid ""
 "\n"
 " Download them again?"
 msgstr ""
-"Bạn đã hoàn thành các tải về tại những điểm đến đó:\n\n%1\n\nBạn có muốn "
-"tải về chúng lại không?"
+"Bạn đã hoàn thành các tải về tại những điểm đến đó:\n"
+"\n"
+"%1\n"
+"\n"
+"Bạn có muốn tải về chúng lại không?"
 
 #: core/urlchecker.cpp:527
 #, kde-format
@@ -1422,8 +1383,11 @@ msgid ""
 "\n"
 "Delete them and download again?"
 msgstr ""
-"Bạn đang có các tải về đang diễn ra đến những điểm đến sau: \n\n%1\n\nXóa "
-"chúng và tải về lại?"
+"Bạn đang có các tải về đang diễn ra đến những điểm đến sau: \n"
+"\n"
+"%1\n"
+"\n"
+"Xóa chúng và tải về lại?"
 
 #: core/urlchecker.cpp:535
 #, kde-format
@@ -1434,8 +1398,11 @@ msgid ""
 "\n"
 "Download them again?"
 msgstr ""
-"Bạn đã hoàn thành các tải xuống từ những vị trí này:\n\n%1\n\nTải xuống "
-"chúng một lần nữa?"
+"Bạn đã hoàn thành các tải xuống từ những vị trí này:\n"
+"\n"
+"%1\n"
+"\n"
+"Tải xuống chúng một lần nữa?"
 
 #: core/urlchecker.cpp:537
 #, kde-format
@@ -1446,12 +1413,14 @@ msgid ""
 "\n"
 "Delete them and download again?"
 msgstr ""
-"Bạn đang có các tải về đang diễn ra từ những vị trí này:\n\n%1\n\nXóa chúng "
-"và tải về lại?"
+"Bạn đang có các tải về đang diễn ra từ những vị trí này:\n"
+"\n"
+"%1\n"
+"\n"
+"Xóa chúng và tải về lại?"
 
 #: core/verificationmodel.cpp:148
 #, kde-format
-#| msgid "File"
 msgctxt "the type of the hash, e.g. MD5"
 msgid "Type"
 msgstr "Kiểu"
@@ -1470,25 +1439,21 @@ msgstr "Đã xác minh"
 
 #: main.cpp:100
 #, kde-format
-#| msgid "An advanced download manager for KDE"
 msgid "An advanced download manager by KDE"
 msgstr "Trình quản lí tải về cao cấp của KDE"
 
 #: main.cpp:102
 #, kde-format
-#| msgid ""
-#| "(C) 2005 - 2007, The KGet developers\n"
-#| "(C) 2001 - 2002, Patrick Charbonnier\n"
-#| "(C) 2002, Carsten Pfeiffer\n"
-#| "(C) 1998 - 2000, Matej Koss"
 msgid ""
 "(C) 2005 - 2014, The KGet developers\n"
 "(C) 2001 - 2002, Patrick Charbonnier\n"
 "(C) 2002, Carsten Pfeiffer\n"
 "(C) 1998 - 2000, Matej Koss"
 msgstr ""
-"(C) 2005 - 2014, Các nhà phát triển KGet\n(C) 2001 - 2002, Patrick "
-"Charbonnier\n(C) 2002, Carsten Pfeiffer\n(C) 1998 - 2000, Matej Koss"
+"(C) 2005 - 2014, Các nhà phát triển KGet\n"
+"(C) 2001 - 2002, Patrick Charbonnier\n"
+"(C) 2002, Carsten Pfeiffer\n"
+"(C) 1998 - 2000, Matej Koss"
 
 #: main.cpp:106
 #, kde-format
@@ -1502,7 +1467,6 @@ msgstr "Lukas Appelhans"
 
 #: main.cpp:108
 #, kde-format
-#| msgid "Multithreaded Plugin Author"
 msgid "Maintainer, Core Developer, Torrent Plugin Author"
 msgstr "Người bảo trì, Nhà phát triển lõi, Tác giả phần cài cắm Torrent"
 
@@ -1528,7 +1492,6 @@ msgstr "Manolo Valdes"
 
 #: main.cpp:111
 #, kde-format
-#| msgid "Multithreaded Plugin Author"
 msgid "Core Developer, Multithreaded Plugin Author"
 msgstr "Lập trình viên lõi, Tác giả phần cài cắm đa mạch"
 
@@ -1544,7 +1507,6 @@ msgstr "Javier Goday"
 
 #: main.cpp:113
 #, kde-format
-#| msgid "Core Developer"
 msgid "Developer"
 msgstr "nhà phát triển"
 
@@ -1570,13 +1532,11 @@ msgstr "Tác giả phần cài cắm Mms"
 
 #: main.cpp:116
 #, kde-format
-#| msgid "Patrick  Charbonnier"
 msgid "Patrick Charbonnier"
 msgstr "Patrick Charbonnier"
 
 #: main.cpp:116 main.cpp:117 main.cpp:118
 #, kde-format
-#| msgid "Core Developer"
 msgid "Former Developer"
 msgstr "Nhà phát triển cũ"
 
@@ -1597,7 +1557,6 @@ msgstr "Joris Guisson"
 
 #: main.cpp:119
 #, kde-format
-#| msgid "Former KGet Developer"
 msgid "BTCore (KTorrent) Developer"
 msgstr "Nhà phát triển BTCore (KTorrent)"
 
@@ -1613,7 +1572,6 @@ msgstr "Thiết kế giao diện mạng"
 
 #: main.cpp:122
 #, kde-format
-#| msgid "Group name:"
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Tên của bạn"
@@ -1631,13 +1589,11 @@ msgstr "Hiện cửa sổ thả xuống khi chạy KGet"
 
 #: main.cpp:130
 #, kde-format
-#| msgid "Start KGet with drop target"
 msgid "Start KGet with hidden main window"
 msgstr "Khởi động KGet với cửa sổ chính ẩn"
 
 #: main.cpp:131
 #, kde-format
-#| msgid "Start KGet with drop target"
 msgid "Start KGet without drop target animation"
 msgstr "Khởi động KGet mà không có hiệu ứng động thả xuống"
 
@@ -1693,14 +1649,12 @@ msgstr "Giảm ưu tiên"
 
 #: mainwindow.cpp:202
 #, kde-format
-#| msgid "Delete Group"
 msgctxt "@action"
 msgid "Delete Group"
 msgstr "Xóa nhóm"
 
 #: mainwindow.cpp:208
 #, kde-format
-#| msgid "Delete Group"
 msgctxt "@action"
 msgid "Rename Group..."
 msgstr "Đổi tên nhóm..."
@@ -1751,7 +1705,6 @@ msgstr "Bỏ các mục đã chọn và xoá các tệp"
 
 #: mainwindow.cpp:264
 #, kde-format
-#| msgid "Default Download Folders"
 msgctxt "redownload selected transfer item"
 msgid "Redownload Selected"
 msgstr "Tải lại mục đã chọn"
@@ -1778,7 +1731,6 @@ msgstr "Ngừng mục đã chọn"
 
 #: mainwindow.cpp:294
 #, kde-format
-#| msgid "Start"
 msgid "Start"
 msgstr "Khởi động"
 
@@ -1814,7 +1766,6 @@ msgstr "&Lịch sử tải"
 
 #: mainwindow.cpp:334
 #, kde-format
-#| msgid "&Settings"
 msgid "&Group Settings"
 msgstr "Thiết lập Nhó&m"
 
@@ -1865,7 +1816,6 @@ msgstr "Không bật"
 
 #: mainwindow.cpp:498
 #, kde-format
-#| msgid "Open File"
 msgctxt "@title:window"
 msgid "Open File"
 msgstr "Mở tệp"
@@ -1897,7 +1847,6 @@ msgstr "Xác nhận Thoát"
 
 #: mainwindow.cpp:592
 #, kde-format
-#| msgid "Export Transfers"
 msgctxt "@title:window"
 msgid "Export Transfers"
 msgstr "Xuất khẩu Chuyển giao"
@@ -1909,7 +1858,6 @@ msgstr "Danh sách truyền KGet"
 
 #: mainwindow.cpp:594
 #, kde-format
-#| msgid "Open File"
 msgid "Text File"
 msgstr "Tệp văn bản"
 
@@ -1954,39 +1902,33 @@ msgstr ""
 
 #: mainwindow.cpp:1188 ui/droptarget.cpp:215
 #, kde-format
-#| msgid "KGet Transfer List"
 msgid "The dropped file is a KGet Transfer List"
 msgstr "Tệp đã thả là Danh sách truyền KGet"
 
 #: mainwindow.cpp:1190 ui/droptarget.cpp:217
 #, kde-format
-#| msgid "&Downloads"
 msgid "&Download"
 msgstr "&Tải về"
 
 #: mainwindow.cpp:1191 ui/droptarget.cpp:218
 #, kde-format
-#| msgid "KGet Transfer List"
 msgid "&Load transfer list"
 msgstr "Tải danh &sách truyền"
 
 #: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:53
 #: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:57
 #, kde-format
-#| msgid "Details for: %1"
 msgid "Advanced Details for %1"
 msgstr "Chi tiết nâng cao cho %1"
 
 #: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:65
 #: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:226
 #, kde-format
-#| msgid "&File"
 msgid "Files"
 msgstr "Tệp"
 
 #: transfer-plugins/bittorrent/advanceddetails/btadvanceddetailswidget.cpp:73
 #, kde-format
-#| msgid "Transfers:"
 msgid "Trackers"
 msgstr "Máy chủ theo dõi"
 
@@ -2018,7 +1960,6 @@ msgstr "Tốc độ tải về"
 
 #: transfer-plugins/bittorrent/advanceddetails/chunkdownloadmodel.cpp:233
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of the chunk"
 msgstr "Số khối"
 
@@ -2067,7 +2008,6 @@ msgstr "Đang tải xuống:"
 #: transfer-plugins/bittorrent/advanceddetails/chunkdownloadview.ui:95
 #: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:172
 #, kde-format
-#| msgid "Downloads"
 msgid "Downloaded:"
 msgstr "Đã tải về:"
 
@@ -2093,44 +2033,37 @@ msgstr "Cỡ:"
 
 #: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:69
 #, kde-format
-#| msgid "&Open..."
 msgctxt "Open file"
 msgid "Open"
 msgstr "Mở"
 
 #: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:71
 #, kde-format
-#| msgid "Downloads"
 msgid "Download first"
 msgstr "Tải về trước"
 
 #: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:72
 #, kde-format
-#| msgid "Default Download Folders"
 msgid "Download normally"
 msgstr "Tải về bình thường"
 
 #: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:73
 #, kde-format
-#| msgid "Downloads"
 msgid "Download last"
 msgstr "Tải về cuối cùng"
 
 #: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:75
 #, kde-format
-#| msgid "New Download"
 msgid "Do Not Download"
 msgstr "Không tải về"
 
 #: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:76
 #, kde-format
-#| msgid "Delete Selected"
 msgid "Delete File(s)"
 msgstr "Xóa tệp"
 
 #: transfer-plugins/bittorrent/advanceddetails/fileview.cpp:78
 #, kde-format
-#| msgid "Open File"
 msgid "Move File"
 msgstr "Di chuyển tệp"
 
@@ -2194,7 +2127,6 @@ msgstr "Cuối cùng"
 
 #: transfer-plugins/bittorrent/advanceddetails/iwfilelistmodel.cpp:91
 #, kde-format
-#| msgid "Form"
 msgctxt "Download Normal (not as first or last)"
 msgid "Normal"
 msgstr "Bình thường"
@@ -2236,7 +2168,6 @@ msgstr "%1 %"
 
 #: transfer-plugins/bittorrent/advanceddetails/iwfiletreemodel.cpp:93
 #, kde-format
-#| msgid "Form"
 msgctxt "Download normally(not as first or last)"
 msgid "Normal"
 msgstr "Bình thường"
@@ -2322,7 +2253,6 @@ msgstr "Tốc độ tải lên"
 
 #: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:332
 #, kde-format
-#| msgid "Docked"
 msgid "Choked"
 msgstr "Bị chặn"
 
@@ -2343,7 +2273,6 @@ msgstr "DHT"
 
 #: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:340
 #, kde-format
-#| msgid "Source:"
 msgid "Score"
 msgstr "Điểm"
 
@@ -2360,7 +2289,6 @@ msgstr "Yêu cầu"
 #: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:346
 #: transfer-plugins/bittorrent/advanceddetails/webseedsmodel.cpp:124
 #, kde-format
-#| msgid "Downloads"
 msgid "Downloaded"
 msgstr "Tải về"
 
@@ -2376,7 +2304,6 @@ msgstr "Quan tâm"
 
 #: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:352
 #, kde-format
-#| msgid "Integration"
 msgid "Interesting"
 msgstr "Thú vị"
 
@@ -2431,13 +2358,14 @@ msgstr "Liệu người ngang hàng có bật DHT hay không"
 msgid ""
 "The score of the peer. KTorrent uses this to determine who to upload to."
 msgstr ""
-"Điểm của người ngang hàng. KTorrent sử dụng điều này để xác định ai được "
-"tải lên."
+"Điểm của người ngang hàng. KTorrent sử dụng điều này để xác định ai được tải "
+"lên."
 
 #: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:377
 #, kde-format
 msgid "Only peers which have an upload slot will get data from us"
-msgstr "Chỉ những người đồng cấp có khe tải lên mới nhận được dữ liệu từ chúng ta"
+msgstr ""
+"Chỉ những người đồng cấp có khe tải lên mới nhận được dữ liệu từ chúng ta"
 
 #: transfer-plugins/bittorrent/advanceddetails/peerviewmodel.cpp:379
 #, kde-format
@@ -2467,7 +2395,6 @@ msgstr "Chúng ta có quan tâm đến tải về từ người ngang hàng này
 #: transfer-plugins/bittorrent/advanceddetails/torrentfilelistmodel.cpp:71
 #: transfer-plugins/bittorrent/advanceddetails/torrentfiletreemodel.cpp:348
 #, kde-format
-#| msgid "&File"
 msgid "File"
 msgstr "Tệp"
 
@@ -2493,19 +2420,16 @@ msgstr "Trạng thái"
 
 #: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:138
 #, kde-format
-#| msgid "Speed"
 msgid "Seeders"
 msgstr "Người chia sẻ"
 
 #: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:140
 #, kde-format
-#| msgid "Speed"
 msgid "Leechers"
 msgstr "Người tải về"
 
 #: transfer-plugins/bittorrent/advanceddetails/trackermodel.cpp:142
 #, kde-format
-#| msgid "Downloads"
 msgid "Times Downloaded"
 msgstr "Lần tải về"
 
@@ -2546,7 +2470,6 @@ msgstr "Thay đổi Tracker"
 #. i18n: ectx: property (text), widget (QPushButton, m_scrape)
 #: transfer-plugins/bittorrent/advanceddetails/trackerview.ui:42
 #, kde-format
-#| msgid "Transfers:"
 msgid "Update Trackers"
 msgstr "Cập nhật Tracker"
 
@@ -2572,7 +2495,8 @@ msgstr "Tốc độ"
 #: transfer-plugins/bittorrent/advanceddetails/webseedstab.cpp:94
 #, kde-format
 msgid "Cannot add the webseed %1, it is already part of the list of webseeds."
-msgstr "Không thể thêm webseed %1, nó đã là một phần của danh sách các webseed."
+msgstr ""
+"Không thể thêm webseed %1, nó đã là một phần của danh sách các webseed."
 
 #: transfer-plugins/bittorrent/advanceddetails/webseedstab.cpp:109
 #, kde-format
@@ -2583,8 +2507,8 @@ msgstr "Không thể gỡ bỏ webseed %1, nó là một phần của torrent."
 #: transfer-plugins/bittorrent/advanceddetails/webseedstab.ui:21
 #, kde-format
 msgid ""
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+"css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
 "size:8pt; font-weight:400; font-style:normal;\">\n"
@@ -2599,18 +2523,20 @@ msgid ""
 "weight:600;\">Note: </span>Only http webseeds are supported.</p></body></"
 "html>"
 msgstr ""
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body "
-"style=\" font-family:'Bitstream Vera Sans'; font-size:8pt; font-weight:400; "
-"font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-"text-indent:0px;\">Webseed để thêm vào torrent.</p>\n<p "
-"style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-"text-indent:0px;\"></p>\n<p style=\" margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-"text-indent:0px;\"><span style=\" font-weight:600;\">Lưu ý: </span>Chỉ hỗ "
-"trợ webseed http.</p></body></html>"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+"css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:8pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Webseed để thêm vào "
+"torrent.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"></"
+"p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">Lưu ý: </span>Chỉ hỗ trợ webseed http.</p></body></html>"
 
 #. i18n: ectx: property (text), widget (QPushButton, m_add)
 #: transfer-plugins/bittorrent/advanceddetails/webseedstab.ui:28
@@ -2627,14 +2553,12 @@ msgstr "Gỡ bỏ webseed"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:30
 #, kde-format
-#| msgid "Status"
 msgid "Stats"
 msgstr "Thống kê"
 
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:49
 #, kde-format
-#| msgid "Speed"
 msgid "Seeders:"
 msgstr "Người chia sẻ:"
 
@@ -2655,14 +2579,12 @@ msgstr "Người chia sẻ:"
 #: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:207
 #: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:221
 #, kde-format
-#| msgid "<icon>"
 msgid "<n>"
 msgstr "<n>"
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:77
 #, kde-format
-#| msgid "Downloads"
 msgid "Download speed:"
 msgstr "Tốc độ tải về:"
 
@@ -2675,7 +2597,6 @@ msgstr "Người tải xuống:"
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:133
 #, kde-format
-#| msgid "Speed"
 msgid "Upload speed:"
 msgstr "Tốc độ tải lên:"
 
@@ -2696,7 +2617,6 @@ msgstr "Tất cả:"
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #: transfer-plugins/bittorrent/btdetailswidgetfrm.ui:249
 #, kde-format
-#| msgid "Source:"
 msgctxt "source-file"
 msgid "Source:"
 msgstr "Nguồn:"
@@ -2762,14 +2682,12 @@ msgstr "Thư mục"
 #. i18n: ectx: property (text), widget (QLabel, torrentFolderLabel)
 #: transfer-plugins/bittorrent/btsettingswidget.ui:117
 #, kde-format
-#| msgid "Default Folder"
 msgid "Default torrent folder:"
 msgstr "Thư mục torrent mặc định:"
 
 #. i18n: ectx: property (text), widget (QLabel, tempFolderLabel)
 #: transfer-plugins/bittorrent/btsettingswidget.ui:134
 #, kde-format
-#| msgid "Default Folder"
 msgid "Default temporary folder:"
 msgstr "Thư mục tạm mặc định:"
 
@@ -2787,14 +2705,12 @@ msgstr "Chọn một Tệp Torrent Mới"
 
 #: transfer-plugins/bittorrent/bttransfer.cpp:158
 #, kde-format
-#| msgid "Downloads"
 msgid "Downloading Torrent File...."
 msgstr "Đang tải về tệp Torrent..."
 
 #: transfer-plugins/bittorrent/bttransfer.cpp:198
 #: transfer-plugins/bittorrent/bttransfer.cpp:295
 #, kde-format
-#| msgid "Downloads"
 msgctxt "transfer state: downloading"
 msgid "Downloading...."
 msgstr "Đang tải xuống..."
@@ -2811,7 +2727,6 @@ msgstr "Tệp torrent không tồn tại"
 
 #: transfer-plugins/bittorrent/bttransfer.cpp:415
 #, kde-format
-#| msgid "Downloads"
 msgid "Analyzing torrent...."
 msgstr "Đang phân tích torrent..."
 
@@ -2822,7 +2737,6 @@ msgstr "Không thể khởi tạo cổng..."
 
 #: transfer-plugins/bittorrent/bttransfer.cpp:501
 #, kde-format
-#| msgid "Speed"
 msgctxt "Transfer status: seeding"
 msgid "Seeding...."
 msgstr "Đang chia sẻ..."
@@ -2834,13 +2748,11 @@ msgstr "Không thể khởi tạo libktorrent. Hỗ trợ torrent có thể khô
 
 #: transfer-plugins/bittorrent/bttransferfactory.cpp:75
 #, kde-format
-#| msgid "Advanced Options"
 msgid "&Advanced Details"
 msgstr "Thông t&in chi tiết"
 
 #: transfer-plugins/bittorrent/bttransferfactory.cpp:81
 #, kde-format
-#| msgid "&File"
 msgid "&Scan Files"
 msgstr "&Quét Tệp"
 
@@ -2858,28 +2770,24 @@ msgstr "Đang quét dữ liệu của torrent:"
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: transfer-plugins/bittorrent/scandlg.ui:31
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of chunks found:"
 msgstr "Số chunk đã tìm thấy:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
 #: transfer-plugins/bittorrent/scandlg.ui:41
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of chunks failed:"
 msgstr "Số lượng chunk bị lỗi:"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: transfer-plugins/bittorrent/scandlg.ui:51
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of chunks not downloaded:"
 msgstr "Số chunk chưa tải về:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: transfer-plugins/bittorrent/scandlg.ui:58
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of chunks downloaded:"
 msgstr "Số lượng chunk đã tải xuống:"
 
@@ -2898,19 +2806,16 @@ msgstr "0"
 #. i18n: ectx: property (text), widget (QPushButton, cancel)
 #: transfer-plugins/bittorrent/scandlg.ui:187
 #, kde-format
-#| msgid "Change"
 msgid "Cancel"
 msgstr "Huỷ"
 
 #: transfer-plugins/checksumsearch/checksumsearch.cpp:31
 #, kde-format
-#| msgid "Appearance"
 msgid "Append"
 msgstr "Thêm"
 
 #: transfer-plugins/checksumsearch/checksumsearch.cpp:31
 #, kde-format
-#| msgid "Open File"
 msgid "Replace file"
 msgstr "Thay thế tệp"
 
@@ -2928,7 +2833,6 @@ msgstr "Thay đổi chuỗi:"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: transfer-plugins/checksumsearch/checksumsearchadddlg.ui:33
 #, kde-format
-#| msgid "Folder:"
 msgid "Mode:"
 msgstr "Chế độ:"
 
@@ -3059,14 +2963,12 @@ msgstr "Bỏ qua"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: transfer-plugins/metalink/dlgmetalink.ui:22
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of simultaneous file downloads:"
 msgstr "Số lượng tải về tệp đồng thời:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: transfer-plugins/metalink/dlgmetalink.ui:39
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of mirrors per file:"
 msgstr "Số lượng mirror mỗi tệp:"
 
@@ -3076,7 +2978,6 @@ msgstr "Số lượng mirror mỗi tệp:"
 #: transfer-plugins/mmsthreads/dlgmms.ui:22
 #: transfer-plugins/multisegmentkio/dlgmultisegkio.ui:22
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of connections per URL:"
 msgstr "Số kết nối mỗi URL:"
 
@@ -3088,14 +2989,12 @@ msgstr "Chọn các tệp bạn muốn tải xuống."
 
 #: transfer-plugins/metalink/fileselectiondlg.cpp:35
 #, kde-format
-#| msgid "&Settings"
 msgid "File Selection"
 msgstr "Chọn tệp"
 
 #: transfer-plugins/metalink/metalink.cpp:76
 #: transfer-plugins/metalink/metalinkxml.cpp:72
 #, kde-format
-#| msgid "Downloads"
 msgid "Downloading Metalink File...."
 msgstr "Đang tải Tệp Metalink..."
 
@@ -3104,12 +3003,12 @@ msgstr "Đang tải Tệp Metalink..."
 #, kde-format
 msgid ""
 "A newer version of this Metalink might exist, do you want to download it?"
-msgstr "Có thể có phiên bản mới hơn của Metalink này, bạn có muốn tải về nó không?"
+msgstr ""
+"Có thể có phiên bản mới hơn của Metalink này, bạn có muốn tải về nó không?"
 
 #: transfer-plugins/metalink/metalink.cpp:116
 #: transfer-plugins/metalink/metalinkxml.cpp:112
 #, kde-format
-#| msgid "Default Download Folders"
 msgid "Redownload Metalink"
 msgstr "Tải lại Metalink"
 
@@ -3178,7 +3077,6 @@ msgstr "Đang chạy..."
 
 #: transfer-plugins/mmsthreads/mmstransfer.cpp:116
 #, kde-format
-#| msgid "Finished"
 msgctxt "Transfer State:Finished"
 msgid "Finished"
 msgstr "Đã hoàn thành"
@@ -3193,7 +3091,9 @@ msgstr "Tải về không thành công, không thể truy cập URL này."
 msgid ""
 "This URL does not allow multiple connections,\n"
 "the download will take longer."
-msgstr "URL này không cho phép nhiều kết nối,\ntải về sẽ mất nhiều thời gian hơn."
+msgstr ""
+"URL này không cho phép nhiều kết nối,\n"
+"tải về sẽ mất nhiều thời gian hơn."
 
 #. i18n: ectx: property (text), widget (QCheckBox, enginesCheckBox)
 #: transfer-plugins/multisegmentkio/dlgmultisegkio.ui:44
@@ -3209,27 +3109,23 @@ msgstr "Tìm thông tin xác minh"
 
 #: transfer-plugins/multisegmentkio/segment.cpp:287
 #, kde-format
-#| msgid "Unable to save to: %1"
 msgid "Failed to write to the file."
 msgstr "Không thể ghi vào tệp."
 
 #: ui/contextmenu.cpp:115
 #, kde-format
-#| msgid "Delete Group"
 msgid "Delete Group"
 msgid_plural "Delete Groups"
 msgstr[0] "Xóa Nhóm"
 
 #: ui/contextmenu.cpp:119
 #, kde-format
-#| msgid "Delete Group"
 msgid "Rename Group..."
 msgid_plural "Rename Groups..."
 msgstr[0] "Đổi tên nhóm..."
 
 #: ui/droptarget.cpp:88
 #, kde-format
-#| msgid "Sticky"
 msgctxt "fix position for droptarget"
 msgid "Sticky"
 msgstr "Dính"
@@ -3246,7 +3142,6 @@ msgstr "Ẩn cửa sổ chính"
 
 #: ui/droptarget.cpp:343
 #, kde-format
-#| msgid "Show drop target"
 msgid "Drop Target"
 msgstr "Đích thả"
 
@@ -3282,21 +3177,18 @@ msgstr "Sẵn sàng"
 
 #: ui/groupsettingsdialog.cpp:19
 #, kde-format
-#| msgid "Details for: %1"
 msgid "Group Settings for %1"
 msgstr "Thiết lập nhóm cho %1"
 
 #. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget)
 #: ui/groupsettingsdialog.ui:32
 #, kde-format
-#| msgid "&Settings"
 msgid "Group Settings"
 msgstr "Thiết lập Nhóm"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/groupsettingsdialog.ui:44
 #, kde-format
-#| msgid "Default Folder"
 msgid "Defau&lt folder:"
 msgstr "T&hư mục mặc định:"
 
@@ -3309,7 +3201,6 @@ msgstr "Chuyển tất cả các truyền tải dùng biểu thức chính quy v
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: ui/groupsettingsdialog.ui:64
 #, kde-format
-#| msgid "Regular &expression:"
 msgid "Re&gular expression:"
 msgstr "Biểu t&hức chính quy:"
 
@@ -3328,7 +3219,6 @@ msgstr "*phim*"
 #: ui/transfersettingsdialog.ui:51 ui/transfersettingsdialog.ui:67
 #: ui/transfersettingsdialog.ui:83
 #, kde-format
-#| msgid "Not Deleted"
 msgctxt "No value has been set"
 msgid "Not set"
 msgstr "Chưa đặt"
@@ -3336,7 +3226,6 @@ msgstr "Chưa đặt"
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: ui/groupsettingsdialog.ui:119
 #, kde-format
-#| msgid "Maximum &download speed:"
 msgid "Ma&ximum download speed:"
 msgstr "Tốc độ tải về tối đ&a:"
 
@@ -3348,13 +3237,11 @@ msgstr "Tốc độ tải &lên tối đa:"
 
 #: ui/history/transferhistory.cpp:51
 #, kde-format
-#| msgid "KGet Transfer List"
 msgid "Transfer History"
 msgstr "Lịch sử truyền"
 
 #: ui/history/transferhistory.cpp:72
 #, kde-format
-#| msgid "Open File"
 msgid "&Open File"
 msgstr "Mở tệ&p"
 
@@ -3372,7 +3259,6 @@ msgstr "Đang chạy"
 
 #: ui/history/transferhistory.cpp:216
 #, kde-format
-#| msgid "Stopped"
 msgctxt "The transfer is stopped"
 msgid "Stopped"
 msgstr "Đã dừng"
@@ -3385,20 +3271,17 @@ msgstr "Đã huỷ bỏ"
 
 #: ui/history/transferhistory.cpp:220
 #, kde-format
-#| msgid "Finished"
 msgctxt "The transfer is finished"
 msgid "Finished"
 msgstr "Đã hoàn thành"
 
 #: ui/history/transferhistory.cpp:247
 #, kde-format
-#| msgid "Source:"
 msgid "Source File"
 msgstr "Tệp nguồn"
 
 #: ui/history/transferhistory.cpp:247
 #, kde-format
-#| msgid "Open Destination"
 msgid "Destination"
 msgstr "Đích"
 
@@ -3409,7 +3292,6 @@ msgstr "Thời gian"
 
 #: ui/history/transferhistory.cpp:247
 #, kde-format
-#| msgid "&File"
 msgid "File Size"
 msgstr "Kích thước tệp"
 
@@ -3463,7 +3345,6 @@ msgstr "Rất lâu trước đây"
 
 #: ui/history/transferhistory.cpp:281
 #, kde-format
-#| msgid "Finished"
 msgctxt "the transfer has been finished"
 msgid "Finished"
 msgstr "Đã hoàn thành"
@@ -3477,7 +3358,6 @@ msgstr "Làm trống lịch sử"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/history/transferhistory.ui:47
 #, kde-format
-#| msgid "Folder:"
 msgid "View Modes:"
 msgstr "Chế độ xem:"
 
@@ -3490,7 +3370,6 @@ msgstr "Chọn phạm vi:"
 #. i18n: ectx: property (text), item, widget (KComboBox, rangeType)
 #: ui/history/transferhistory.ui:85
 #, kde-format
-#| msgid "Start"
 msgid "Date"
 msgstr "Ngày"
 
@@ -3503,14 +3382,12 @@ msgstr "Máy"
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, searchBar)
 #: ui/history/transferhistory.ui:106
 #, kde-format
-#| msgid "KGet Transfer List"
 msgid "Filter history"
 msgstr "Lọc lịch sử"
 
 #. i18n: ectx: property (text), widget (KLineEdit, searchBar)
 #: ui/history/transferhistory.ui:120
 #, kde-format
-#| msgid "Delete Selected"
 msgctxt "delete selected transfer"
 msgid "Delete Selected"
 msgstr "Xóa mục đã chọn"
@@ -3518,7 +3395,6 @@ msgstr "Xóa mục đã chọn"
 #. i18n: ectx: property (text), widget (KLineEdit, searchBar)
 #: ui/history/transferhistory.ui:125
 #, kde-format
-#| msgid "Downloads"
 msgid "Download"
 msgstr "Tải về"
 
@@ -3549,20 +3425,17 @@ msgstr "Hơn 100MiB"
 
 #: ui/history/transferhistoryitemdelegate.cpp:41
 #, kde-format
-#| msgid "Download URL again?"
 msgid "Download again"
 msgstr "Tải về lại"
 
 #: ui/history/transferhistoryitemdelegate.cpp:46
 #, kde-format
-#| msgid "Delete Selected"
 msgctxt "Delete selected history-item"
 msgid "Delete selected"
 msgstr "Xóa mục đã chọn"
 
 #: ui/history/transferhistoryitemdelegate.cpp:51
 #, kde-format
-#| msgid "Open File"
 msgid "Open file"
 msgstr "Mở tệp"
 
@@ -3599,7 +3472,6 @@ msgstr "Thanh công cụ chính"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/linkview/importlinkdialog.ui:34
 #, kde-format
-#| msgid "&File with links to import:"
 msgid "File with &links to import:"
 msgstr "Tệp chứa &liên kết để nhập:"
 
@@ -3636,7 +3508,6 @@ msgstr "Lọc tệp ở đây...."
 #. i18n: ectx: property (text), widget (QPushButton, selectAll)
 #: ui/linkview/importlinkdialog.ui:192 ui/linkview/kget_linkview.cpp:321
 #, kde-format
-#| msgid "Stop All"
 msgid "&Select All"
 msgstr "Bôi đe&n tất cả"
 
@@ -3716,7 +3587,6 @@ msgstr "Tên"
 
 #: ui/linkview/kget_linkview.cpp:118
 #, kde-format
-#| msgid "&Downloads"
 msgctxt "Download the items which have been selected"
 msgid "&Download"
 msgstr "Tải &về"
@@ -3728,7 +3598,6 @@ msgstr "Đầu tải"
 
 #: ui/linkview/kget_linkview.cpp:157
 #, kde-format
-#| msgid "Name"
 msgid "File Name"
 msgstr "Tên tệp"
 
@@ -3739,7 +3608,6 @@ msgstr "Mô tả"
 
 #: ui/linkview/kget_linkview.cpp:159
 #, kde-format
-#| msgid "File"
 msgctxt "list header: type of file"
 msgid "File Type"
 msgstr "Kiểu Tệp"
@@ -3756,13 +3624,11 @@ msgstr "Liên kết trong: %1 - KGet"
 
 #: ui/linkview/kget_linkview.cpp:321
 #, kde-format
-#| msgid "Stop All"
 msgid "&Select All Filtered"
 msgstr "Bôi đen tất cả đã &lọc"
 
 #: ui/linkview/kget_linkview.cpp:322
 #, kde-format
-#| msgid "Stop All"
 msgid "D&eselect All Filtered"
 msgstr "Bỏ &chọn tất cả các mục đã lọc"
 
@@ -3780,14 +3646,12 @@ msgstr "Danh tính"
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: ui/metalinkcreator/commondata.ui:32
 #, kde-format
-#| msgid "Open Destination"
 msgid "Description:"
 msgstr "Mô tả:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: ui/metalinkcreator/commondata.ui:46
 #, kde-format
-#| msgid "Extension:"
 msgid "Version:"
 msgstr "Phiên bản:"
 
@@ -3855,14 +3719,12 @@ msgstr "nhà xuất bản"
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, pub_name)
 #: ui/metalinkcreator/commondata.ui:160
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Name of the publisher"
 msgstr "Tên của nhà xuất bản"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, pub_url)
 #: ui/metalinkcreator/commondata.ui:180
 #, kde-format
-#| msgid "Number of retries:"
 msgid "URL to the publisher"
 msgstr "URL của nhà xuất bản"
 
@@ -3894,7 +3756,6 @@ msgstr "Tạo các đặc số từng phần"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/metalinkcreator/dragdlg.ui:40
 #, kde-format
-#| msgid "Enter URL:"
 msgid "General URL:"
 msgstr "URL chung:"
 
@@ -3953,13 +3814,11 @@ msgstr "Nhập thông tin mà tất cả các tệp đã chọn chia sẻ."
 
 #: ui/metalinkcreator/filedlg.cpp:122
 #, kde-format
-#| msgid "&Settings"
 msgid "File Properties"
 msgstr "Thuộc tính tệp"
 
 #: ui/metalinkcreator/filedlg.cpp:134
 #, kde-format
-#| msgid "Enter Group Name"
 msgid "Enter a filename."
 msgstr "Nhập tên tệp."
 
@@ -3970,7 +3829,6 @@ msgstr "Tên tệp đã tồn tại, hãy chọn một tên khác."
 
 #: ui/metalinkcreator/filedlg.cpp:140
 #, kde-format
-#| msgid "Enter Group Name"
 msgid "Enter at least one URL."
 msgstr "Nhập ít nhất một URL."
 
@@ -3983,7 +3841,6 @@ msgstr "Bắt buộc"
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: ui/metalinkcreator/filedlg.ui:54
 #, kde-format
-#| msgid "Name"
 msgid "Filename:"
 msgstr "Tên tệp:"
 
@@ -4121,8 +3978,7 @@ msgid ""
 msgstr ""
 "Trợ tá này cho phép bạn tạo metalinks từ đầu hoặc dựa trên các metalinks "
 "hiện có. Nhiều trường là tuỳ chọn hoặc được khuyến nghị, vì vậy hãy nhập "
-"chúng nếu muốn. Yêu cầu tối thiểu là vị trí lưu, ít nhất một tệp và một "
-"URL."
+"chúng nếu muốn. Yêu cầu tối thiểu là vị trí lưu, ít nhất một tệp và một URL."
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/metalinkcreator/introduction.ui:48
@@ -4149,7 +4005,6 @@ msgstr "Tạo một Metalink"
 
 #: ui/metalinkcreator/metalinkcreator.cpp:101
 #, kde-format
-#| msgid "Enter Group Name"
 msgid "Add at least one file."
 msgstr "Thêm ít nhất một tệp."
 
@@ -4165,25 +4020,21 @@ msgstr "Thông tin tuỳ chọn chung cho metalink."
 
 #: ui/metalinkcreator/metalinkcreator.cpp:145
 #, kde-format
-#| msgid "Unable to save to: %1"
 msgid "Unable to load: %1"
 msgstr "Không thể tải: %1"
 
 #: ui/metalinkcreator/metalinkcreator.cpp:171
 #, kde-format
-#| msgid "Open File"
 msgid "Metalink Version 4.0 file"
 msgstr "Tệp Metalink phiên bản 4.0"
 
 #: ui/metalinkcreator/metalinkcreator.cpp:171
 #, kde-format
-#| msgid "Open File"
 msgid "Metalink Version 3.0 file"
 msgstr "Tệp Metalink phiên bản 3.0"
 
 #: ui/metalinkcreator/metalinkcreator.cpp:172
 #, kde-format
-#| msgid "Open File"
 msgid "Metalink file (*.metalink *.meta4)"
 msgstr "Tệp Metalink (*.metalink *.meta4)"
 
@@ -4194,7 +4045,6 @@ msgstr "Xác định vị trí lưu."
 
 #: ui/metalinkcreator/metalinkcreator.cpp:225
 #, kde-format
-#| msgid "&File"
 msgctxt "file as in file on hard drive"
 msgid "Files"
 msgstr "Tệp"
@@ -4202,21 +4052,18 @@ msgstr "Tệp"
 #. i18n: ectx: property (text), widget (QLabel, labelMirror)
 #: ui/mirror/mirroradddlg.ui:19
 #, kde-format
-#| msgid "Error"
 msgid "Mirror:"
 msgstr "Gương:"
 
 #. i18n: ectx: property (text), widget (QLabel, labelConnections)
 #: ui/mirror/mirroradddlg.ui:26
 #, kde-format
-#| msgid "Number of retries:"
 msgid "Number of connections:"
 msgstr "Số lượng kết nối:"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, url)
 #: ui/mirror/mirroradddlg.ui:33
 #, kde-format
-#| msgid "Enter URL:"
 msgid "Enter a URL"
 msgstr "Nhập URL"
 
@@ -4247,7 +4094,6 @@ msgstr "Vị trí:"
 
 #: ui/mirror/mirrormodel.cpp:290
 #, kde-format
-#| msgid "Error"
 msgctxt "Mirror as in server, in url"
 msgid "Mirror"
 msgstr "Gương"
@@ -4260,7 +4106,6 @@ msgstr "Ưu tiên"
 
 #: ui/mirror/mirrormodel.cpp:298
 #, kde-format
-#| msgid "Number of retries:"
 msgctxt "Number of parallel connections to the mirror"
 msgid "Connections"
 msgstr "Kết nối"
@@ -4289,7 +4134,6 @@ msgstr "Nút nhấn"
 
 #: ui/newtransferdialog.cpp:315
 #, kde-format
-#| msgid "Default Folder"
 msgid "Select at least one source url."
 msgstr "Hãy chọn ít nhất một URL nguồn."
 
@@ -4301,7 +4145,6 @@ msgstr "Các tệp đã tồn tại trong thư mục hiện tại đã được 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: ui/newtransferwidget.ui:30
 #, kde-format
-#| msgid "Open Destination"
 msgid "Destination:"
 msgstr "Đích:"
 
@@ -4313,19 +4156,16 @@ msgstr "Nhóm tải:"
 
 #: ui/renamefile.cpp:33
 #, kde-format
-#| msgid "Delete Group"
 msgid "Rename File"
 msgstr "Đổi tên tệp"
 
 #: ui/renamefile.cpp:39
 #, kde-format
-#| msgid "Delete Group"
 msgid "Rename %1 to:"
 msgstr "Đổi tên %1 thành:"
 
 #: ui/renamefile.cpp:42
 #, kde-format
-#| msgid "Delete Group"
 msgid "&Rename"
 msgstr "Đổ&i tên"
 
@@ -4343,7 +4183,6 @@ msgstr "Lựa chọn này không được hỗ trợ cho việc chuyển giao hi
 
 #: ui/signaturedlg.cpp:97
 #, kde-format
-#| msgid "Source:"
 msgid "Load Signature File"
 msgstr "Tải Tệp Chữ Ký"
 
@@ -4455,7 +4294,6 @@ msgstr "Xác minh"
 
 #: ui/signaturedlg.cpp:290
 #, kde-format
-#| msgid "&File"
 msgctxt "pgp signature is not verified"
 msgid "Failed"
 msgstr "Thất bại"
@@ -4536,14 +4374,12 @@ msgstr "Bình luận:"
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: ui/signaturedlg.ui:197
 #, kde-format
-#| msgid "Open Destination"
 msgid "Creation:"
 msgstr "Tạo:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: ui/signaturedlg.ui:214
 #, kde-format
-#| msgid "Open Destination"
 msgid "Expiration:"
 msgstr "Hết hạn:"
 
@@ -4566,14 +4402,12 @@ msgstr "Tốc độ trung bình: %1/s"
 
 #: ui/transferdetails.cpp:77
 #, kde-format
-#| msgid " of "
 msgid "%1 of %2"
 msgstr "%1 trên %2"
 
 #. i18n: ectx: property (text), widget (QLabel, sourceLabel)
 #: ui/transferdetailsfrm.ui:51
 #, kde-format
-#| msgid "Source:"
 msgctxt "@label transfer source"
 msgid "Source:"
 msgstr "Nguồn:"
@@ -4592,7 +4426,6 @@ msgstr "Thời gian chờ:"
 
 #: ui/transfersettingsdialog.cpp:33
 #, kde-format
-#| msgid "Details for: %1"
 msgid "Transfer Settings for %1"
 msgstr "Thiết lập Truyền cho %1"
 
@@ -4604,7 +4437,6 @@ msgstr "Thay đổi đích đến không hoạt động, đích đến vẫn kh�
 
 #: ui/transfersettingsdialog.cpp:164
 #, kde-format
-#| msgid "Open Destination"
 msgid "Destination unmodified"
 msgstr "Đích không thay đổi"
 
@@ -4617,7 +4449,6 @@ msgstr "Thiết lập tải"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/transfersettingsdialog.ui:35
 #, kde-format
-#| msgid "Open Destination"
 msgid "Download des&tination:"
 msgstr "Đích &tải về:"
 
@@ -4630,14 +4461,12 @@ msgstr "Giới hạn tải &lên:"
 #. i18n: ectx: property (text), widget (QLabel, labelDownload)
 #: ui/transfersettingsdialog.ui:100
 #, kde-format
-#| msgid "&Download limit:"
 msgid "Download &limit:"
 msgstr "&Giới hạn tải về:"
 
 #. i18n: ectx: property (text), widget (QLabel, labelShareRatio)
 #: ui/transfersettingsdialog.ui:110
 #, kde-format
-#| msgid "Maximum &share ratio:"
 msgid "Ma&ximum share ratio:"
 msgstr "Tỉ lệ &chia sẻ tối đa:"
 
@@ -4650,7 +4479,6 @@ msgstr "Chỉnh sửa các mirror được sử dụng để tải xuống."
 #. i18n: ectx: property (text), widget (QPushButton, mirrors)
 #: ui/transfersettingsdialog.ui:142
 #, kde-format
-#| msgid "Error"
 msgctxt "The available mirrors (servers) for downloading"
 msgid "Mirrors"
 msgstr "Gương"
@@ -4669,7 +4497,6 @@ msgstr "Chọn cột"
 
 #: ui/transfersview.cpp:312
 #, kde-format
-#| msgid "Transfer details:"
 msgid "Transfer Details"
 msgstr "Chi tiết truyền"
 
@@ -4681,7 +4508,6 @@ msgstr "%1%"
 
 #: ui/tray.cpp:48
 #, kde-format
-#| msgid "Downloads number:"
 msgid "Download Manager"
 msgstr "Trình quản lý tải về"
 
@@ -4750,60 +4576,49 @@ msgid "Close"
 msgstr "Đóng"
 
 #, fuzzy
-#~| msgid "Open File"
 #~ msgid "Metalink Version 4.0 file (*.meta4)"
 #~ msgstr "Mở tệp"
 
 #, fuzzy
-#~| msgid "Open File"
 #~ msgid "Metalink Version 3.0 file (*.metalink)"
 #~ msgstr "Mở tệp"
 
 #, fuzzy
-#~| msgid "Finished"
 #~ msgctxt "Transfer State: Finished"
 #~ msgid "Finished"
 #~ msgstr "Xong"
 
 #, fuzzy
-#~| msgid "Confirm Quit"
 #~ msgctxt "Configure script"
 #~ msgid "Configure script"
 #~ msgstr "Xác nhận Thoát"
 
 #, fuzzy
-#~| msgid "Edit Groups..."
 #~ msgid "Edit...."
 #~ msgstr "Sửa nhóm..."
 
 #, fuzzy
-#~| msgid "Confirm Quit"
 #~ msgid "Configure...."
 #~ msgstr "Xác nhận Thoát"
 
 #, fuzzy
-#~| msgid "Edit Groups"
 #~ msgid "Edit Script"
 #~ msgstr "Sửa nhóm"
 
 #, fuzzy
-#~| msgid "&Settings"
 #~ msgid "File Settings"
 #~ msgstr "Thiết &lập"
 
 #, fuzzy
-#~| msgid "Delete Group"
 #~ msgid "Username:"
 #~ msgstr "Xoá nhóm"
 
 #, fuzzy
-#~| msgid "Unable to save to: %1"
 #~ msgctxt "@info"
 #~ msgid "Unable to start WebInterface: %1"
 #~ msgstr "Không thể lưu vào : %1"
 
 #, fuzzy
-#~| msgid "%1/s"
 #~ msgctxt "@item speed of transfer per seconds"
 #~ msgid "%1/s"
 #~ msgstr "%1/giây"
@@ -4813,19 +4628,16 @@ msgstr "Đóng"
 #~ msgstr "Giao diện mạng KGet"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgctxt "@label"
 #~ msgid "File name"
 #~ msgstr "Tên"
 
 #, fuzzy
-#~| msgid "Finished"
 #~ msgctxt "@label Progress of transfer"
 #~ msgid "Finished"
 #~ msgstr "Xong"
 
 #, fuzzy
-#~| msgid "Speed"
 #~ msgctxt "@label Speed of transfer"
 #~ msgid "Speed"
 #~ msgstr "Tốc độ"
@@ -4835,13 +4647,11 @@ msgstr "Đóng"
 #~ msgstr "Trạng thái"
 
 #, fuzzy
-#~| msgid "Start"
 #~ msgctxt "@action:button start a transfer"
 #~ msgid "Start"
 #~ msgstr "Chạy"
 
 #, fuzzy
-#~| msgid "Stop"
 #~ msgctxt "@action:button"
 #~ msgid "Stop"
 #~ msgstr "Ngừng"
@@ -4851,13 +4661,11 @@ msgstr "Đóng"
 #~ msgstr "Gỡ bỏ"
 
 #, fuzzy
-#~| msgid "Source:"
 #~ msgctxt "@label Download from"
 #~ msgid "Source:"
 #~ msgstr "Nguồn:"
 
 #, fuzzy
-#~| msgid "Saving to:"
 #~ msgctxt "@label Save download to"
 #~ msgid "Saving to:"
 #~ msgstr "Lưu vào :"
@@ -4867,31 +4675,26 @@ msgstr "Đóng"
 #~ msgstr "Giao diện mạng"
 
 #, fuzzy
-#~| msgid "&Settings"
 #~ msgctxt "@action"
 #~ msgid "Settings"
 #~ msgstr "Thiết &lập"
 
 #, fuzzy
-#~| msgid "Enter URL:"
 #~ msgctxt "@action"
 #~ msgid "Enter URL: "
 #~ msgstr "Nhập URL:"
 
 #, fuzzy
-#~| msgid "Default Download Folders"
 #~ msgctxt "@action Refresh download list every x (seconds)"
 #~ msgid "Refresh download list every"
 #~ msgstr "Thư mục tải về mặc định"
 
 #, fuzzy
-#~| msgid "&Settings"
 #~ msgctxt "@action:button"
 #~ msgid "Save Settings"
 #~ msgstr "Thiết &lập"
 
 #, fuzzy
-#~| msgid "Downloads"
 #~ msgctxt "@title"
 #~ msgid "Downloads"
 #~ msgstr "Tải về"

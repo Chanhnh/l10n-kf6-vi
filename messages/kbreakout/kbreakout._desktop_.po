@@ -19,13 +19,11 @@ msgid "KBreakOut"
 msgstr "KBreakOut"
 
 #: src/org.kde.kbreakout.desktop:63
-#, 
 msgctxt "GenericName"
 msgid "Breakout-like Game"
 msgstr "Trò chơi kiểu Breakout"
 
 #: src/org.kde.kbreakout.desktop:118
-#, 
 msgctxt "Comment"
 msgid "Classic arcade game"
 msgstr "Trò chơi cổ điển"
@@ -41,8 +39,6 @@ msgid "Breakout before the aliens do."
 msgstr "Phá vỡ trước khi người ngoài hành tinh làm điều đó."
 
 #: themes/crystal.desktop:2
-#, 
-#| msgid "Name=Crystal"
 msgctxt "Name"
 msgid "Crystal clear"
 msgstr "Pha lê trong suốt"
@@ -73,7 +69,6 @@ msgid "Ice chilled theme"
 msgstr "Chủ đề lạnh băng"
 
 #: themes/simple.desktop:2
-#, 
 msgctxt "Name"
 msgid "Simple"
 msgstr "Đơn giản"

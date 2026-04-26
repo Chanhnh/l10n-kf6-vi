@@ -257,8 +257,6 @@ msgid "Input Here"
 msgstr "Nhập vào đây"
 
 #: contents/configuration/PanelConfiguration.qml:97
-#, 
-#| msgid "Apply Settings"
 msgid "Panel Settings"
 msgstr "Thiết lập bảng"
 
@@ -303,14 +301,10 @@ msgid "Bottom"
 msgstr "Dưới"
 
 #: contents/configuration/PanelConfiguration.qml:174
-#, 
-#| msgid "More Options…"
 msgid "Set Position…"
 msgstr "Đặt vị trí…"
 
 #: contents/configuration/PanelConfiguration.qml:201
-#, 
-#| msgid "Panel Alignment"
 msgid "Alignment"
 msgstr "Căn lề"
 
@@ -319,8 +313,6 @@ msgid "Center"
 msgstr "Giữa"
 
 #: contents/configuration/PanelConfiguration.qml:290
-#, 
-#| msgid "Right"
 msgid "Height"
 msgstr "Chiều cao"
 
@@ -329,14 +321,10 @@ msgid "Width"
 msgstr "Chiều rộng"
 
 #: contents/configuration/PanelConfiguration.qml:310
-#, 
-#| msgid "Panel height:"
 msgid "Fill height"
 msgstr "Chiều cao tối đa"
 
 #: contents/configuration/PanelConfiguration.qml:310
-#, 
-#| msgid "Panel width:"
 msgid "Fill width"
 msgstr "Lấp đầy chiều rộng"
 
@@ -349,20 +337,14 @@ msgid "Custom"
 msgstr "Tùy biến"
 
 #: contents/configuration/PanelConfiguration.qml:338
-#, 
-#| msgid "Visibility"
 msgid "Visibility"
 msgstr "Khả kiến"
 
 #: contents/configuration/PanelConfiguration.qml:351
-#, 
-#| msgid "Always Visible"
 msgid "Always visible"
 msgstr "Luôn hiển thị"
 
 #: contents/configuration/PanelConfiguration.qml:352
-#, 
-#| msgid "Auto Hide"
 msgid "Auto hide"
 msgstr "Tự động ẩn"
 
@@ -371,14 +353,10 @@ msgid "Dodge windows"
 msgstr "Né tránh cửa sổ"
 
 #: contents/configuration/PanelConfiguration.qml:354
-#, 
-#| msgid "Windows Go Below"
 msgid "Windows Go Below"
 msgstr "Cửa sổ nằm dưới"
 
 #: contents/configuration/PanelConfiguration.qml:397
-#, 
-#| msgid "Opacity"
 msgid "Opacity"
 msgstr "Độ mờ đục"
 
@@ -387,20 +365,14 @@ msgid "Adaptive"
 msgstr "Thích ứng"
 
 #: contents/configuration/PanelConfiguration.qml:412
-#, 
-#| msgid "Opaque"
 msgid "Opaque"
 msgstr "Đục"
 
 #: contents/configuration/PanelConfiguration.qml:413
-#, 
-#| msgid "Translucent"
 msgid "Translucent"
 msgstr "Trong mờ"
 
 #: contents/configuration/PanelConfiguration.qml:436
-#, 
-#| msgid "Floating Panel"
 msgid "Floating"
 msgstr "Nổi"
 
@@ -415,20 +387,14 @@ msgid "Fix it"
 msgstr "Sửa chữa"
 
 #: contents/configuration/PanelConfiguration.qml:564
-#, 
-#| msgid "Panel width:"
 msgid "Panel Width:"
 msgstr "Độ rộng bảng:"
 
 #: contents/configuration/PanelConfiguration.qml:565
-#, 
-#| msgid "Panel width:"
 msgid "Panel Height:"
 msgstr "Chiều cao bảng:"
 
 #: contents/configuration/PanelConfiguration.qml:588
-#, 
-#| msgid "Shortcut"
 msgid "Focus shortcut:"
 msgstr "Phím tắt nhắm:"
 
@@ -437,8 +403,6 @@ msgid "Press this keyboard shortcut to move focus to the Panel"
 msgstr "Nhấn phím tắt này để chuyển nhắm đến bảng"
 
 #: contents/configuration/PanelConfiguration.qml:633
-#, 
-#| msgid "Remove Panel"
 msgctxt "@action:button Delete the panel"
 msgid "Delete Panel"
 msgstr "Xoá bảng"
@@ -486,8 +450,6 @@ msgstr ""
 "Bấm đúp để đặt lại."
 
 #: contents/configuration/ShellContainmentConfiguration.qml:19
-#, 
-#| msgid "Panels and Desktops Management"
 msgid "Panel and Desktop Management"
 msgstr "Quản lý bảng và bàn làm việc"
 
@@ -511,8 +473,6 @@ msgid "Move to Screen %1"
 msgstr "Chuyển đến màn hình %1"
 
 #: contents/configuration/shellcontainmentconfiguration/Delegate.qml:194
-#, 
-#| msgid "Remove Panel"
 msgid "Remove Desktop"
 msgstr "Xoá bàn làm việc"
 
@@ -619,8 +579,6 @@ msgid "Hibernate"
 msgstr "Ngủ đông"
 
 #: contents/lockscreen/LockScreenUi.qml:297
-#, 
-#| msgid "Switch"
 msgid "Switch User"
 msgstr "Chuyển người dùng"
 
@@ -630,8 +588,6 @@ msgid "Virtual Keyboard"
 msgstr "Bàn phím ảo"
 
 #: contents/lockscreen/LockScreenUi.qml:382
-#, 
-#| msgid "Switch"
 msgctxt "Button to change keyboard layout"
 msgid "Switch layout"
 msgstr "Chuyển bố cục"
@@ -683,8 +639,6 @@ msgid "Global Themes"
 msgstr "Chủ đề toàn cục"
 
 #: contents/views/DesktopEditMode.qml:120
-#, 
-#| msgid "Open configuration page"
 msgid "Display Configuration"
 msgstr "Cấu hình bộ hiển thị"
 
@@ -702,7 +656,6 @@ msgid "Panel Focus Indicator"
 msgstr "Chỉ báo nhắm bảng"
 
 #, fuzzy
-#~| msgid "Right"
 #~ msgid "Height:"
 #~ msgstr "Phải"
 
@@ -710,19 +663,16 @@ msgstr "Chỉ báo nhắm bảng"
 #~ msgstr "Rất tiếc! Có lỗi khi tải %1."
 
 #, fuzzy
-#~| msgid "Maximize Panel"
 #~ msgctxt "@action:button Make the panel as big as it can be"
 #~ msgid "Maximize"
 #~ msgstr "Phóng to bảng"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@action:button Delete the panel"
 #~ msgid "Delete"
 #~ msgstr "Xoá"
 
 #, fuzzy
-#~| msgid "Floating Panel"
 #~ msgid "Floating:"
 #~ msgstr "Bảng trôi"
 
@@ -735,12 +685,10 @@ msgstr "Chỉ báo nhắm bảng"
 #~ msgstr "Dùng các phím mũi tên để di chuyển bảng"
 
 #, fuzzy
-#~| msgid "Windows Go Below"
 #~ msgid "Windows Above"
 #~ msgstr "Cửa sổ đi xuống dưới"
 
 #, fuzzy
-#~| msgid "Windows Can Cover"
 #~ msgid "Windows In Front"
 #~ msgstr "Cửa sổ có thể che"
 

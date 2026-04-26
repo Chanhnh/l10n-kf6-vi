@@ -36,7 +36,6 @@ msgid "Archive Mail started"
 msgstr "Bắt đầu lưu trữ thư"
 
 #: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:223
-#, 
 msgctxt "Name"
 msgid "Directory does not exist"
 msgstr "Thư mục không tồn tại"
@@ -66,24 +65,21 @@ msgctxt "Comment"
 msgid ""
 "Followup Reminder Agent allows to remind you when an email was not answered."
 msgstr ""
-"Đại diện Nhắc nhở Theo dõi cho phép bạn nhắc nhở khi một email chưa được "
-"trả lời."
+"Đại diện Nhắc nhở Theo dõi cho phép bạn nhắc nhở khi một email chưa được trả "
+"lời."
 
 #: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:3
-#, 
 msgctxt "Comment"
 msgid "Mail Filter Agent"
 msgstr "Đại diện Lọc Thư"
 
 #: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:56
 #: agents/mailfilteragent/mailfilteragent.desktop:2
-#, 
 msgctxt "Name"
 msgid "Mail Filter Agent"
 msgstr "Đại diện Lọc Thư"
 
 #: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:111
-#, 
 msgctxt "Name"
 msgid "Mail filter log enabled"
 msgstr "Nhật kí lọc thư được bật"
@@ -100,40 +96,32 @@ msgstr "Phần mở rộng để lọc email"
 
 #: agents/mailmergeagent/akonadi_mailmerge_agent.notifyrc:3
 #: agents/mailmergeagent/mailmergeagent.desktop:38
-#, 
 msgctxt "Comment"
 msgid "Mail Merge Agent"
 msgstr "Đại diện Trộn Thư"
 
 #: agents/mailmergeagent/mailmergeagent.desktop:2
-#, 
 msgctxt "Name"
 msgid "Mail Merge Agent"
 msgstr "Đại diện Trộn Thư"
 
 #: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:3
 #: agents/sendlateragent/sendlateragent.desktop:52
-#, 
 msgctxt "Comment"
 msgid "Send Later Agent"
 msgstr "Đại diện Gửi Sau"
 
 #: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:55
-#, 
-#| msgctxt "GenericName"
-#| msgid "Mail Client"
 msgctxt "Name"
 msgid "Mail is sent"
 msgstr "Thư đã được gửi"
 
 #: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:108
-#, 
 msgctxt "Name"
 msgid "Send mail failed"
 msgstr "Gửi thư không thành công"
 
 #: agents/sendlateragent/sendlateragent.desktop:2
-#, 
 msgctxt "Name"
 msgid "Send Later Agent"
 msgstr "Đại diện Gửi Sau"
@@ -149,7 +137,6 @@ msgid "Unified Mailbox Agent"
 msgstr "Đại diện Hộp thư Thống nhất"
 
 #: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:2
-#, 
 msgctxt "Name"
 msgid "KMail Refresh Settings"
 msgstr "Cập nhật Thiết lập KMail"
@@ -160,13 +147,11 @@ msgid "KMail refresh settings"
 msgstr "Cập nhật thiết lập KMail"
 
 #: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:86
-#, 
 msgctxt "Comment"
 msgid "Refresh KMail settings"
 msgstr "Cập nhật thiết lập KMail"
 
 #: ktnef/src/org.kde.ktnef.desktop:2
-#, 
 msgctxt "Name"
 msgid "KTnef"
 msgstr "KTnef"
@@ -177,37 +162,31 @@ msgid "TNEF File Viewer (proprietary format used by outlook)"
 msgstr "Trình xem tệp TNEF (định dạng độc quyền được sử dụng bởi Outlook)"
 
 #: ktnef/src/org.kde.ktnef.desktop:117
-#, 
 msgctxt "Comment"
 msgid "A viewer/extractor for TNEF files"
 msgstr "Trình xem/trích xuất tệp TNEF"
 
 #: src/data/kmail2.notifyrc:4
-#, 
 msgctxt "Comment"
 msgid "KMail"
 msgstr "KMail"
 
 #: src/data/kmail2.notifyrc:77
-#, 
 msgctxt "Name"
 msgid "Akonadi server sent a warning"
 msgstr "Máy chủ Akonadi đã gửi cảnh báo"
 
 #: src/data/kmail2.notifyrc:130
-#, 
 msgctxt "Comment"
 msgid "Akonadi server sent a warning"
 msgstr "Máy chủ Akonadi đã gửi cảnh báo"
 
 #: src/data/kmail2.notifyrc:186
-#, 
 msgctxt "Name"
 msgid "Akonadi server sent an error"
 msgstr "Máy chủ Akonadi đã gửi lỗi"
 
 #: src/data/kmail2.notifyrc:239
-#, 
 msgctxt "Comment"
 msgid "Akonadi server sent an error"
 msgstr "Máy chủ Akonadi đã gửi lỗi"
@@ -223,7 +202,6 @@ msgid "A resource change its state to broken"
 msgstr "Một tài nguyên đã thay đổi trạng thái thành bị hỏng"
 
 #: src/data/kmail2.notifyrc:404
-#, 
 msgctxt "Name"
 msgid "Impossible to send email"
 msgstr "Không thể gửi thư điện tử"
@@ -251,12 +229,10 @@ msgstr "Thư đã được thêm vào hàng đợi gửi sau"
 #: src/data/kmail2.notifyrc:628
 msgctxt "Comment"
 msgid "A delayed email delivery is configured and can be canceled"
-msgstr "Một lần gửi thư điện tử bị trì hoãn đã được cấu hình và có thể được huỷ"
+msgstr ""
+"Một lần gửi thư điện tử bị trì hoãn đã được cấu hình và có thể được huỷ"
 
 #: src/data/kmail_view.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "KMail"
 msgctxt "Name"
 msgid "KMail view"
 msgstr "Khung xem KMail"
@@ -277,13 +253,11 @@ msgid "Send, receive and manage your mail with KMail"
 msgstr "Gửi, nhận và quản lý email của bạn với KMail"
 
 #: src/data/org.kde.kmail2.desktop:211
-#, 
 msgctxt "Name"
 msgid "New Message..."
 msgstr "Tin nhắn mới..."
 
 #: src/data/org.kde.kmail2.desktop:256
-#, 
 msgctxt "Name"
 msgid "Check Mail"
 msgstr "Kiểm tra thư"

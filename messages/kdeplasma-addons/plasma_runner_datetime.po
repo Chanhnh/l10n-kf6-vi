@@ -82,8 +82,8 @@ msgid ""
 "or time is given, it will be the current date and time."
 msgstr ""
 "Chuyển đổi thời gian từ múi giờ thứ nhất sang múi giờ thứ hai. Nếu chỉ có "
-"một múi giờ được cung cấp, múi giờ còn lại sẽ là múi giờ hệ thống. Nếu "
-"không có ngày hoặc giờ được cung cấp, sẽ sử dụng ngày và giờ hiện tại."
+"một múi giờ được cung cấp, múi giờ còn lại sẽ là múi giờ hệ thống. Nếu không "
+"có ngày hoặc giờ được cung cấp, sẽ sử dụng ngày và giờ hiện tại."
 
 #: datetimerunner.cpp:58
 #, kde-format
@@ -92,10 +92,6 @@ msgstr "Ngày hôm nay là %1"
 
 #: datetimerunner.cpp:74
 #, kde-format
-#| msgctxt ""
-#| "date difference between time zones, e.g. in Stockholm it's 1 calendar day "
-#| "later than in Brasilia"
-#| msgid "%1 later"
 msgctxt ""
 "time difference between time zones, e.g. in Stockholm it's 1 calendar day "
 "later than in Brasilia"
@@ -151,10 +147,6 @@ msgstr "%1 sau"
 
 #: datetimerunner.cpp:130 datetimerunner.cpp:225
 #, kde-format
-#| msgctxt ""
-#| "date difference between time zones, e.g. in Brasilia it's 1 calendar day "
-#| "earlier than in Stockholm"
-#| msgid "%1 earlier"
 msgctxt ""
 "time difference between time zones, e.g. in Brasilia it's 4 hours earlier "
 "than in Stockholm"

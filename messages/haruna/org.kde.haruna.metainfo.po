@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -64,7 +65,8 @@ msgstr "các phím tắt và nút chuột có thể cấu hình"
 #. (itstool) path: ul/li
 #: org.kde.haruna.metainfo.xml:28
 msgid "quick jump to next chapter by middle click on progress bar"
-msgstr "bấm chuột giữa trên thanh tiến trình để nhảy nhanh đến chương tiếp theo"
+msgstr ""
+"bấm chuột giữa trên thanh tiến trình để nhảy nhanh đến chương tiếp theo"
 
 #. (itstool) path: screenshot/caption
 #: org.kde.haruna.metainfo.xml:322

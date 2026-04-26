@@ -19,9 +19,6 @@ msgid "KTuberling"
 msgstr "KTuberling"
 
 #: org.kde.ktuberling.desktop:34
-#, 
-#| msgctxt "GenericName"
-#| msgid "Game for Children"
 msgctxt "GenericName"
 msgid "Picture Game for Children"
 msgstr "Trò chơi ảnh cho trẻ em"
@@ -37,8 +34,6 @@ msgid "Butterflies"
 msgstr "Bướm"
 
 #: pics/christmas.desktop:2
-#, 
-#| msgid "Name=Crystal"
 msgctxt "Name"
 msgid "Christmas"
 msgstr "Giáng sinh"
@@ -64,9 +59,6 @@ msgid "Pizzeria"
 msgstr "Pizzeria"
 
 #: pics/potato-game.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Potato Guy"
 msgctxt "Name"
 msgid "Potato Guy 2"
 msgstr "Potato Guy 2"
@@ -82,8 +74,6 @@ msgid "Robot workshop"
 msgstr "Xưởng robot"
 
 #: pics/train_valley.desktop:2
-#, 
-#| msgid "Name=Triangle"
 msgctxt "Name"
 msgid "Train Valley"
 msgstr "Train Valley"

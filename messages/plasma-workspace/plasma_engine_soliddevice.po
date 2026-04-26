@@ -523,26 +523,18 @@ msgid "Bluetooth Battery"
 msgstr "Pin Bluetooth"
 
 #: soliddeviceengine.cpp:391
-#, 
-#| msgid "Camera Battery"
 msgid "Tablet Battery"
 msgstr "Pin máy tính bảng"
 
 #: soliddeviceengine.cpp:391
-#, 
-#| msgid "Phone Battery"
 msgid "Headphone Battery"
 msgstr "Pin tai nghe"
 
 #: soliddeviceengine.cpp:392
-#, 
-#| msgid "Mouse Battery"
 msgid "Headset Battery"
 msgstr "Pin tai nghe"
 
 #: soliddeviceengine.cpp:392
-#, 
-#| msgid "Mouse Battery"
 msgid "Touchpad Battery"
 msgstr "Pin bàn cảm ứng"
 

@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,9 @@ msgstr "KDiamond là một trò chơi ba-trong-một của KDE"
 
 #. (itstool) path: description/p
 #: org.kde.kdiamond.appdata.xml:12
-msgid "KDiamond is a single player puzzle game. The object of the game is to build lines of three similar diamonds."
+msgid ""
+"KDiamond is a single player puzzle game. The object of the game is to build "
+"lines of three similar diamonds."
 msgstr ""
 "KDiamond là một trò chơi xếp hình dành cho một người chơi. Mục đích của trò "
 "chơi là xây dựng các hàng gồm ba viên kim cương giống nhau."

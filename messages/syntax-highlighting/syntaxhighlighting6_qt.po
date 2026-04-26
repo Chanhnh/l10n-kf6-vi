@@ -28,23 +28,14 @@ msgctxt "Language|"
 msgid "ABAP"
 msgstr "ABAP"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ABC"
 msgctxt "Language|"
 msgid "ABC"
 msgstr "ABC"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ActionScript 2.0"
 msgctxt "Language|"
 msgid "ActionScript 2.0"
 msgstr "ActionScript 2.0"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Ada"
 msgctxt "Language|"
 msgid "Ada"
 msgstr "Ada"
@@ -53,9 +44,6 @@ msgctxt "Language|"
 msgid "Agda"
 msgstr "Agda"
 
-#, 
-#| msgctxt "Language"
-#| msgid "AHDL"
 msgctxt "Language|"
 msgid "AHDL"
 msgstr "AHDL"
@@ -64,9 +52,6 @@ msgctxt "Language|"
 msgid "AutoHotKey"
 msgstr "AutoHotKey"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Alerts"
 msgctxt "Language|"
 msgid "Alerts"
 msgstr "Cảnh báo"
@@ -79,16 +64,10 @@ msgctxt "Language|"
 msgid "ANS-Forth94"
 msgstr "ANS-Forth94"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ANSI C89"
 msgctxt "Language|"
 msgid "ANSI C89"
 msgstr "ANSI C89"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Ansys"
 msgctxt "Language|"
 msgid "Ansys"
 msgstr "Ansys"
@@ -97,9 +76,6 @@ msgctxt "Language|"
 msgid "ANTLR"
 msgstr "ANTLR"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Apache Configuration"
 msgstr "Cấu hình Apache"
@@ -112,16 +88,10 @@ msgctxt "Language|"
 msgid "AsciiDoc"
 msgstr "AsciiDoc"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Asm6502"
 msgctxt "Language|"
 msgid "Asm6502"
 msgstr "Asm6502"
 
-#, 
-#| msgctxt "Language"
-#| msgid "AVR Assembler"
 msgctxt "Language|"
 msgid "AVR Assembler"
 msgstr "AVR Assembler"
@@ -134,37 +104,22 @@ msgctxt "Language|"
 msgid "Motorola 68k (VASM/Devpac)"
 msgstr "Motorola 68k (VASM/Devpac)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ASN.1"
 msgctxt "Language|"
 msgid "ASN.1"
 msgstr "ASN.1"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ASP"
 msgctxt "Language|"
 msgid "ASP"
 msgstr "ASP"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ASP"
 msgctxt "Language|"
 msgid "ATS"
 msgstr "ATS"
 
-#, 
-#| msgctxt "Language"
-#| msgid "AWK"
 msgctxt "Language|"
 msgid "AWK"
 msgstr "AWK"
 
-#, 
-#| msgctxt "Language"
-#| msgid "BibTeX"
 msgctxt "Language|"
 msgid "BibTeX"
 msgstr "BibTeX"
@@ -193,9 +148,6 @@ msgctxt "Language|"
 msgid "CartoCSS MSS"
 msgstr "CartoCSS MSS"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "CashScript"
 msgstr "CashScript"
@@ -204,23 +156,14 @@ msgctxt "Language|"
 msgid "CleanCSS"
 msgstr "CleanCSS"
 
-#, 
-#| msgctxt "Language"
-#| msgid "CGiS"
 msgctxt "Language|"
 msgid "CGiS"
 msgstr "CGiS"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Cg"
 msgctxt "Language|"
 msgid "Cg"
 msgstr "Cg"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ChangeLog"
 msgctxt "Language|"
 msgid "ChangeLog"
 msgstr "Nhật ký thay đổi"
@@ -229,16 +172,10 @@ msgctxt "Language|"
 msgid "Common Intermediate Language (CIL)"
 msgstr "Ngôn ngữ Trung gian Chung (CIL)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Cisco"
 msgctxt "Language|"
 msgid "Cisco"
 msgstr "Cisco"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Clipper"
 msgctxt "Language|"
 msgid "Clipper"
 msgstr "Clipper"
@@ -255,36 +192,22 @@ msgctxt "Language|"
 msgid "COBOL"
 msgstr "COBOL"
 
-#, 
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "CoffeeScript"
 msgstr "CoffeeScript"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ColdFusion"
 msgctxt "Language|"
 msgid "ColdFusion"
 msgstr "ColdFusion"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Common Lisp"
 msgctxt "Language|"
 msgid "Common Lisp"
 msgstr "Common Lisp"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Component-Pascal"
 msgctxt "Language|"
 msgid "Component-Pascal"
 msgstr "Component-Pascal"
 
-#, 
-#| msgctxt "Language"
-#| msgid "CMake"
 msgctxt "Language|"
 msgid "Crack"
 msgstr "Nứt"
@@ -293,9 +216,6 @@ msgctxt "Language|"
 msgid "Crystal"
 msgstr "Pha lê"
 
-#, 
-#| msgctxt "Language"
-#| msgid "CSS"
 msgctxt "Language|"
 msgid "CSS"
 msgstr "CSS"
@@ -312,29 +232,18 @@ msgctxt "Language|"
 msgid "CSV (whitespace)"
 msgstr "CSV (khoảng trắng)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "CSS"
 msgctxt "Language|"
 msgid "CSV"
 msgstr "CSV"
 
-#, 
-#| msgctxt "Language"
-#| msgid "C#"
 msgctxt "Language|"
 msgid "C#"
 msgstr "C#"
 
-#, 
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "CubeScript"
 msgstr "CubeScript"
 
-#, 
-#| msgctxt "Language"
-#| msgid "CUE Sheet"
 msgctxt "Language|"
 msgid "CUE Sheet"
 msgstr "Bảng CUE"
@@ -343,9 +252,6 @@ msgctxt "Language|"
 msgid "Curry"
 msgstr "Cà ri"
 
-#, 
-#| msgctxt "Language"
-#| msgid "C"
 msgctxt "Language|"
 msgid "C"
 msgstr "C"
@@ -354,37 +260,22 @@ msgctxt "Language|"
 msgid "Dart"
 msgstr "Dart"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Debian Changelog"
 msgctxt "Language|"
 msgid "Debian Changelog"
 msgstr "Debian Changelog"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Debian Control"
 msgctxt "Language|"
 msgid "Debian Control"
 msgstr "Điều khiển Debian"
 
-#, 
-#| msgctxt "Language"
-#| msgid ".desktop"
 msgctxt "Language|"
 msgid ".desktop"
 msgstr ".desktop"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Diff"
 msgctxt "Language|"
 msgid "Diff"
 msgstr "phần chênh"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Django HTML Template"
 msgctxt "Language|"
 msgid "Django HTML Template"
 msgstr "Bản mẫu HTML Django"
@@ -397,16 +288,10 @@ msgctxt "Language|"
 msgid "dot"
 msgstr "dấu chấm"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Makefile"
 msgctxt "Language|"
 msgid "Doxyfile"
 msgstr "Doxyfile"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Doxygen"
 msgctxt "Language|"
 msgid "Doxygen"
 msgstr "Doxygen"
@@ -415,16 +300,10 @@ msgctxt "Language|"
 msgid "DTD"
 msgstr "DTD"
 
-#, 
-#| msgctxt "Language"
-#| msgid "D"
 msgctxt "Language|"
 msgid "D"
 msgstr "D"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Eiffel"
 msgctxt "Language|"
 msgid "Eiffel"
 msgstr "Eiffel"
@@ -437,9 +316,6 @@ msgctxt "Language|"
 msgid "Elvish"
 msgstr "Tiếng Elvish"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Email"
 msgctxt "Language|"
 msgid "Email"
 msgstr "thư điện tử"
@@ -448,23 +324,14 @@ msgctxt "Language|"
 msgid "Erlang"
 msgstr "Erlang"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Euphoria"
 msgctxt "Language|"
 msgid "Euphoria"
 msgstr "Euphoria"
 
-#, 
-#| msgctxt "Language"
-#| msgid "E Language"
 msgctxt "Language|"
 msgid "E Language"
 msgstr "Ngôn ngữ E"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Intel x86 (NASM)"
 msgctxt "Language|"
 msgid "Intel x86 (FASM)"
 msgstr "Intel x86 (FASM)"
@@ -473,23 +340,14 @@ msgctxt "Language|"
 msgid "FASTQ"
 msgstr "FASTQ"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ferite"
 msgctxt "Language|"
 msgid "ferite"
 msgstr "ferite"
 
-#, 
-#| msgctxt "Language"
-#| msgid "4GL"
 msgctxt "Language|"
 msgid "4GL"
 msgstr "4GL"
 
-#, 
-#| msgctxt "Language"
-#| msgid "4GL-PER"
 msgctxt "Language|"
 msgid "4GL-PER"
 msgstr "4GL-PER"
@@ -506,8 +364,6 @@ msgctxt "Language|"
 msgid "Fluent"
 msgstr "Thông thạo"
 
-#, 
-#| msgid "&File mask:"
 msgctxt "Language|"
 msgid "Fortran (Fixed Format)"
 msgstr "Fortran (Định dạng cố định)"
@@ -516,9 +372,6 @@ msgctxt "Language|"
 msgid "Fortran (Free Format)"
 msgstr "Fortran (Định dạng tự do)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "FreeBASIC"
 msgctxt "Language|"
 msgid "FreeBASIC"
 msgstr "FreeBASIC"
@@ -535,9 +388,6 @@ msgctxt "Language|"
 msgid "FTL"
 msgstr "FTL"
 
-#, 
-#| msgctxt "Language"
-#| msgid "GAP"
 msgctxt "Language|"
 msgid "GAP"
 msgstr "GAP"
@@ -546,8 +396,6 @@ msgctxt "Language|"
 msgid "G-Code"
 msgstr "G-Code"
 
-#, 
-#| msgid "Backspace"
 msgctxt "Language|"
 msgid "GDB Backtrace"
 msgstr "Vết ngăn xếp GDB"
@@ -556,23 +404,14 @@ msgctxt "Language|"
 msgid "GDB Init"
 msgstr "Khởi động GDB"
 
-#, 
-#| msgctxt "Language"
-#| msgid "GDL"
 msgctxt "Language|"
 msgid "GDB"
 msgstr "GDB"
 
-#, 
-#| msgctxt "Language"
-#| msgid "GDL"
 msgctxt "Language|"
 msgid "GDL"
 msgstr "GDL"
 
-#, 
-#| msgctxt "Language"
-#| msgid "GNU Gettext"
 msgctxt "Language|"
 msgid "GNU Gettext"
 msgstr "GNU Gettext"
@@ -581,8 +420,6 @@ msgctxt "Language|"
 msgid "Cucumber Gherkin feature"
 msgstr "Tính năng Cucumber Gherkin"
 
-#, 
-#| msgid "&Ignore"
 msgctxt "Language|"
 msgid "Git Ignore"
 msgstr "Bỏ qua Git"
@@ -603,16 +440,10 @@ msgctxt "Language|"
 msgid "GlossTex"
 msgstr "GlossTex"
 
-#, 
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "GLSL"
 msgstr "GLSL"
 
-#, 
-#| msgctxt "Language"
-#| msgid "GNU Assembler"
 msgctxt "Language|"
 msgid "GNU Assembler"
 msgstr "GNU Assembler"
@@ -621,8 +452,6 @@ msgctxt "Language|"
 msgid "Gnuplot"
 msgstr "Gnuplot"
 
-#, 
-#| msgid "Go"
 msgctxt "Language|"
 msgid "Go"
 msgstr "Đi"
@@ -655,9 +484,6 @@ msgctxt "Language|"
 msgid "Hare"
 msgstr "Thỏ"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Haskell"
 msgctxt "Language|"
 msgid "Haskell"
 msgstr "Haskell"
@@ -666,9 +492,6 @@ msgctxt "Language|"
 msgid "Haxe"
 msgstr "Haxe"
 
-#, 
-#| msgctxt "Language"
-#| msgid "HTML"
 msgctxt "Language|"
 msgid "HTML"
 msgstr "HTML"
@@ -685,16 +508,10 @@ msgctxt "Language|"
 msgid "Hunspell Dictionary File"
 msgstr "Tệp từ điển Hunspell"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Quake Script"
 msgctxt "Language|"
 msgid "Quake Script"
 msgstr "Kịch bản Quake"
 
-#, 
-#| msgctxt "Language"
-#| msgid "IDL"
 msgctxt "Language|"
 msgid "IDL"
 msgstr "IDL"
@@ -703,29 +520,18 @@ msgctxt "Language|"
 msgid "Idris"
 msgstr "Idris"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ILERPG"
 msgctxt "Language|"
 msgid "ILERPG"
 msgstr "ILERPG"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Inform"
 msgctxt "Language|"
 msgid "Inform"
 msgstr "Thông báo"
 
-#, 
-#| msgctxt "Language"
-#| msgid "INI Files"
 msgctxt "Language|"
 msgid "INI Files"
 msgstr "Tệp INI"
 
-#, 
-#| msgid "Setup"
 msgctxt "Language|"
 msgid "InnoSetup"
 msgstr "Cài đặt"
@@ -738,30 +544,18 @@ msgctxt "Language|"
 msgid "Jam"
 msgstr "Mứt"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Javadoc"
 msgctxt "Language|"
 msgid "Javadoc"
 msgstr "Javadoc"
 
-#, 
-#| msgctxt "Language"
-#| msgid "JavaScript"
 msgctxt "Language|"
 msgid "JavaScript React (JSX)"
 msgstr "JavaScript React (JSX)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "JavaScript"
 msgctxt "Language|"
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Java"
 msgctxt "Language|"
 msgid "Java"
 msgstr "Java"
@@ -782,9 +576,6 @@ msgctxt "Language|"
 msgid "JSON"
 msgstr "JSON"
 
-#, 
-#| msgctxt "Language"
-#| msgid "JSP"
 msgctxt "Language|"
 msgid "JSP"
 msgstr "JSP"
@@ -797,15 +588,10 @@ msgctxt "Language|"
 msgid "J"
 msgstr "J"
 
-#, 
-#| msgctxt "Language"
-#| msgid "KBasic"
 msgctxt "Language|"
 msgid "KBasic"
 msgstr "KBasic"
 
-#, 
-#| msgid "Configure"
 msgctxt "Language|"
 msgid "Kconfig"
 msgstr "Cấu hình"
@@ -826,23 +612,14 @@ msgctxt "Language|"
 msgid "k"
 msgstr "k"
 
-#, 
-#| msgctxt "Language"
-#| msgid "LaTeX"
 msgctxt "Language|"
 msgid "LaTeX"
 msgstr "LaTeX"
 
-#, 
-#| msgctxt "Language"
-#| msgid "LDIF"
 msgctxt "Language|"
 msgid "LDIF"
 msgstr "LDIF"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Quake Script"
 msgctxt "Language|"
 msgid "GNU Linker Script"
 msgstr "Kịch bản Liên kết GNU"
@@ -851,30 +628,18 @@ msgctxt "Language|"
 msgid "LESSCSS"
 msgstr "LESSCSS"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Lex/Flex"
 msgctxt "Language|"
 msgid "Lex/Flex"
 msgstr "Lex/Flex"
 
-#, 
-#| msgctxt "Language"
-#| msgid "LilyPond"
 msgctxt "Language|"
 msgid "LilyPond"
 msgstr "LilyPond"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Literate Haskell"
 msgctxt "Language|"
 msgid "Literate Curry"
 msgstr "Literate Curry"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Literate Haskell"
 msgctxt "Language|"
 msgid "Literate Haskell"
 msgstr "Literate Haskell"
@@ -895,37 +660,22 @@ msgctxt "Language|"
 msgid "Log File (simplified)"
 msgstr "Nhật kí (đơn giản)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Logtalk"
 msgctxt "Language|"
 msgid "Logtalk"
 msgstr "Logtalk"
 
-#, 
-#| msgctxt "Language"
-#| msgid "LPC"
 msgctxt "Language|"
 msgid "LPC"
 msgstr "LPC"
 
-#, 
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "LSL"
 msgstr "LSL"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Lua"
 msgctxt "Language|"
 msgid "Lua"
 msgstr "Lua"
 
-#, 
-#| msgctxt "Language"
-#| msgid "M3U"
 msgctxt "Language|"
 msgid "M3U"
 msgstr "M3U"
@@ -934,9 +684,6 @@ msgctxt "Language|"
 msgid "GNU M4"
 msgstr "GNU M4"
 
-#, 
-#| msgctxt "Language"
-#| msgid "MAB-DB"
 msgctxt "Language|"
 msgid "MAB-DB"
 msgstr "MAB-DB"
@@ -945,9 +692,6 @@ msgctxt "Language|"
 msgid "Magma"
 msgstr "Magma"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Makefile"
 msgctxt "Language|"
 msgid "Makefile"
 msgstr "Makefile"
@@ -956,9 +700,6 @@ msgctxt "Language|"
 msgid "Mako"
 msgstr "Mako"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Troff Mandoc"
 msgctxt "Language|"
 msgid "Troff Mandoc"
 msgstr "Troff Mandoc"
@@ -971,9 +712,6 @@ msgctxt "Language|"
 msgid "Markdown"
 msgstr "Markdown"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Mason"
 msgctxt "Language|"
 msgid "Mason"
 msgstr "Mason"
@@ -982,9 +720,6 @@ msgctxt "Language|"
 msgid "Mathematica"
 msgstr "Mathematica"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Matlab"
 msgctxt "Language|"
 msgid "Matlab"
 msgstr "Matlab"
@@ -993,16 +728,10 @@ msgctxt "Language|"
 msgid "Maxima"
 msgstr "Maxima"
 
-#, 
-#| msgctxt "Language"
-#| msgid "MediaWiki"
 msgctxt "Language|"
 msgid "MediaWiki"
 msgstr "MediaWiki"
 
-#, 
-#| msgctxt "Language"
-#| msgid "SML"
 msgctxt "Language|"
 msgid "MEL"
 msgstr "MEL"
@@ -1027,23 +756,14 @@ msgctxt "Language|"
 msgid "MIB"
 msgstr "MIB"
 
-#, 
-#| msgctxt "Language"
-#| msgid "MIPS Assembler"
 msgctxt "Language|"
 msgid "MIPS Assembler"
 msgstr "Bộ lắp ráp MIPS"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Modula-2"
 msgctxt "Language|"
 msgid "Modelica"
 msgstr "Modelica"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Modula-2"
 msgctxt "Language|"
 msgid "Modelines"
 msgstr "Modelines"
@@ -1060,30 +780,18 @@ msgctxt "Language|"
 msgid "Modula-2 (R10 only)"
 msgstr "Modula-2 (chỉ R10)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Modula-2"
 msgctxt "Language|"
 msgid "Modula-2"
 msgstr "Modula-2"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Modula-2"
 msgctxt "Language|"
 msgid "Modula-3"
 msgstr "Modula-3"
 
-#, 
-#| msgctxt "Language"
-#| msgid "MonoBasic"
 msgctxt "Language|"
 msgid "MonoBasic"
 msgstr "MonoBasic"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Music Publisher"
 msgctxt "Language|"
 msgid "Music Publisher"
 msgstr "Nhà xuất bản nhạc"
@@ -1096,16 +804,10 @@ msgctxt "Language|"
 msgid "Nagios"
 msgstr "Nagios"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Intel x86 (NASM)"
 msgctxt "Language|"
 msgid "Intel x86 (NASM)"
 msgstr "Intel x86 (NASM)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Nemerle"
 msgctxt "Language|"
 msgid "Nemerle"
 msgstr "Nemerle"
@@ -1114,9 +816,6 @@ msgctxt "Language|"
 msgid "nesC"
 msgstr "nesC"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "Language|"
 msgid "nginx Configuration"
 msgstr "Cấu hình nginx"
@@ -1125,44 +824,26 @@ msgctxt "Language|"
 msgid "noweb"
 msgstr "noweb"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Objective-C++"
 msgctxt "Language|"
 msgid "Objective-C++"
 msgstr "Objective-C++"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Objective-C"
 msgctxt "Language|"
 msgid "Objective-C"
 msgstr "Objective-C"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Objective Caml"
 msgctxt "Language|"
 msgid "Objective Caml Ocamllex"
 msgstr "Objective Caml Ocamllex"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Objective Caml"
 msgctxt "Language|"
 msgid "Objective Caml"
 msgstr "Objective Caml"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Objective Caml"
 msgctxt "Language|"
 msgid "Objective Caml Ocamlyacc"
 msgstr "Objective Caml Ocamlyacc"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Octave"
 msgctxt "Language|"
 msgid "Octave"
 msgstr "Octave"
@@ -1175,9 +856,6 @@ msgctxt "Language|"
 msgid "OORS"
 msgstr "OORS"
 
-#, 
-#| msgctxt "Language"
-#| msgid "OPAL"
 msgctxt "Language|"
 msgid "OPAL"
 msgstr "OPAL"
@@ -1190,9 +868,6 @@ msgctxt "Language|"
 msgid "OpenSCAD"
 msgstr "OpenSCAD"
 
-#, 
-#| msgctxt "Language"
-#| msgid "PostScript"
 msgctxt "Language|"
 msgid "opsi-script"
 msgstr "opsi-script"
@@ -1209,30 +884,18 @@ msgctxt "Language|"
 msgid "Pango"
 msgstr "Pango"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Pascal"
 msgctxt "Language|"
 msgid "Pascal"
 msgstr "Pascal"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Perl"
 msgctxt "Language|"
 msgid "Perl"
 msgstr "Perl"
 
-#, 
-#| msgctxt "Language"
-#| msgid "PHP/PHP"
 msgctxt "Language|"
 msgid "PHP/PHP"
 msgstr "PHP/PHP"
 
-#, 
-#| msgctxt "Language"
-#| msgid "PicAsm"
 msgctxt "Language|"
 msgid "PicAsm"
 msgstr "PicAsm"
@@ -1241,9 +904,6 @@ msgctxt "Language|"
 msgid "Pig"
 msgstr "Lợn"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Pike"
 msgctxt "Language|"
 msgid "Pike"
 msgstr "Pike"
@@ -1256,16 +916,10 @@ msgctxt "Language|"
 msgid "PLY"
 msgstr "PLY"
 
-#, 
-#| msgctxt "Language"
-#| msgid "PostScript"
 msgctxt "Language|"
 msgid "PostScript"
 msgstr "PostScript"
 
-#, 
-#| msgctxt "Language"
-#| msgid "POV-Ray"
 msgctxt "Language|"
 msgid "POV-Ray"
 msgstr "POV-Ray"
@@ -1274,9 +928,6 @@ msgctxt "Language|"
 msgid "Praat"
 msgstr "Praat"
 
-#, 
-#| msgctxt "Language"
-#| msgid "progress"
 msgctxt "Language|"
 msgid "progress"
 msgstr "tiến độ"
@@ -1285,8 +936,6 @@ msgctxt "Language|"
 msgid "Protobuf"
 msgstr "Protobuf"
 
-#, 
-#| msgid "Plugins"
 msgctxt "Language|"
 msgid "Pug"
 msgstr "Pug"
@@ -1295,50 +944,30 @@ msgctxt "Language|"
 msgid "Puppet"
 msgstr "Puppet"
 
-#, 
-#| msgctxt "Language"
-#| msgid "PureBasic"
 msgctxt "Language|"
 msgid "PureBasic"
 msgstr "PureBasic"
 
-#, 
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "PureScript"
 msgstr "PureScript"
 
-#, 
-#| msgctxt "Language"
-#| msgid "PureBasic"
 msgctxt "Language|"
 msgid "Pure"
 msgstr "Pure"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Python"
 msgctxt "Language|"
 msgid "Python"
 msgstr "Python"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "Language|"
 msgid "QDoc Configuration"
 msgstr "Cấu hình QDoc"
 
-#, 
-#| msgctxt "Language"
-#| msgid "CMake"
 msgctxt "Language|"
 msgid "QMake"
 msgstr "QMake"
 
-#, 
-#| msgctxt "Language"
-#| msgid "SML"
 msgctxt "Language|"
 msgid "QML"
 msgstr "QML"
@@ -1355,15 +984,10 @@ msgctxt "Language|"
 msgid "Raku"
 msgstr "Raku"
 
-#, 
-#| msgctxt "Language"
-#| msgid "RapidQ"
 msgctxt "Language|"
 msgid "RapidQ"
 msgstr "RapidQ"
 
-#, 
-#| msgid "&Indentation"
 msgctxt "Language|"
 msgid "R documentation"
 msgstr "Tài liệu R"
@@ -1376,14 +1000,10 @@ msgctxt "Language|"
 msgid "RenPy"
 msgstr "RenPy"
 
-#, 
-#| msgid "Template"
 msgctxt "Language|"
 msgid "Replicode"
 msgstr "Replicode"
 
-#, 
-#| msgid "Selected"
 msgctxt "Language|"
 msgid "reStructuredText"
 msgstr "reStructuredText"
@@ -1392,9 +1012,6 @@ msgctxt "Language|"
 msgid "RETRO"
 msgstr "RETRO"
 
-#, 
-#| msgctxt "Language"
-#| msgid "REXX"
 msgctxt "Language|"
 msgid "REXX"
 msgstr "REXX"
@@ -1403,9 +1020,6 @@ msgctxt "Language|"
 msgid "Ruby/Rails/RHTML"
 msgstr "Ruby/Rails/RHTML"
 
-#, 
-#| msgctxt "Language"
-#| msgid "RenderMan RIB"
 msgctxt "Language|"
 msgid "RenderMan RIB"
 msgstr "RenderMan RIB"
@@ -1418,36 +1032,22 @@ msgctxt "Language|"
 msgid "Robot"
 msgstr "Robot"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Roff"
 msgctxt "Language|"
 msgid "Roff"
 msgstr "Roff"
 
-#, 
-#| msgctxt "Language"
-#| msgid "RPM Spec"
 msgctxt "Language|"
 msgid "RPM Spec"
 msgstr "Thông số kỹ thuật RPM"
 
-#, 
-#| msgctxt "Language"
-#| msgid "RSI IDL"
 msgctxt "Language|"
 msgid "RSI IDL"
 msgstr "RSI IDL"
 
-#, 
-#| msgid "&File mask:"
 msgctxt "Language|"
 msgid "Rich Text Format"
 msgstr "Định dạng văn bản có định dạng"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Ruby"
 msgctxt "Language|"
 msgid "Ruby"
 msgstr "Ruby"
@@ -1456,9 +1056,6 @@ msgctxt "Language|"
 msgid "Rust"
 msgstr "Rỉ sét"
 
-#, 
-#| msgctxt "Language"
-#| msgid "R Script"
 msgctxt "Language|"
 msgid "R Script"
 msgstr "Kịch bản R"
@@ -1467,30 +1064,18 @@ msgctxt "Language|"
 msgid "SASS"
 msgstr "SASS"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Sather"
 msgctxt "Language|"
 msgid "Sather"
 msgstr "Sather"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Stata"
 msgctxt "Language|"
 msgid "Scala"
 msgstr "Scala"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Scheme"
 msgctxt "Language|"
 msgid "Scheme"
 msgstr "quy hoạch"
 
-#, 
-#| msgctxt "Language"
-#| msgid "scilab"
 msgctxt "Language|"
 msgid "scilab"
 msgstr "scilab"
@@ -1515,16 +1100,10 @@ msgctxt "Language|"
 msgid "SELinux Policy"
 msgstr "Chính sách SELinux"
 
-#, 
-#| msgctxt "Language"
-#| msgid "SGML"
 msgctxt "Language|"
 msgid "SGML"
 msgstr "SGML"
 
-#, 
-#| msgctxt "Language"
-#| msgid "SiSU"
 msgctxt "Language|"
 msgid "SiSU"
 msgstr "SiSU"
@@ -1533,9 +1112,6 @@ msgctxt "Language|"
 msgid "Smali"
 msgstr "Smali"
 
-#, 
-#| msgctxt "Language"
-#| msgid "SML"
 msgctxt "Language|"
 msgid "SML"
 msgstr "SML"
@@ -1548,16 +1124,10 @@ msgctxt "Language|"
 msgid "Solidity"
 msgstr "Solidity"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Spice"
 msgctxt "Language|"
 msgid "Spice"
 msgstr "Gia vị"
 
-#, 
-#| msgctxt "Language"
-#| msgid "SQL (MySQL)"
 msgctxt "Language|"
 msgid "SQL (MySQL)"
 msgstr "SQL (MySQL)"
@@ -1566,16 +1136,10 @@ msgctxt "Language|"
 msgid "SQL (Oracle)"
 msgstr "SQL (Oracle)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "SQL (PostgreSQL)"
 msgctxt "Language|"
 msgid "SQL (PostgreSQL)"
 msgstr "SQL (PostgreSQL)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "SQL"
 msgctxt "Language|"
 msgid "SQL"
 msgstr "SQL"
@@ -1584,16 +1148,10 @@ msgctxt "Language|"
 msgid "Stan"
 msgstr "Stan"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Stata"
 msgctxt "Language|"
 msgid "Stata"
 msgstr "Stata"
 
-#, 
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "STL"
 msgstr "STL"
@@ -1602,9 +1160,6 @@ msgctxt "Language|"
 msgid "SubRip Subtitles"
 msgstr "Phụ đề SubRip"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Verilog"
 msgctxt "Language|"
 msgid "SystemC"
 msgstr "SystemC"
@@ -1613,9 +1168,6 @@ msgctxt "Language|"
 msgid "systemd unit"
 msgstr "đơn vị systemd"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Verilog"
 msgctxt "Language|"
 msgid "SystemVerilog"
 msgstr "SystemVerilog"
@@ -1628,9 +1180,6 @@ msgctxt "Language|"
 msgid "TaskJuggler"
 msgstr "TaskJuggler"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Tcl/Tk"
 msgctxt "Language|"
 msgid "Tcl/Tk"
 msgstr "Tcl/Tk"
@@ -1647,8 +1196,6 @@ msgctxt "Language|"
 msgid "Texinfo"
 msgstr "Texinfo"
 
-#, 
-#| msgid "Template Background"
 msgctxt "Language|"
 msgid "Textile"
 msgstr "Văn bản"
@@ -1657,9 +1204,6 @@ msgctxt "Language|"
 msgid "TextProto"
 msgstr "TextProto"
 
-#, 
-#| msgctxt "Language"
-#| msgid "TI Basic"
 msgctxt "Language|"
 msgid "TI Basic"
 msgstr "TI Basic"
@@ -1668,37 +1212,22 @@ msgctxt "Language|"
 msgid "Tiger"
 msgstr "Hổ"
 
-#, 
-#| msgctxt "Language"
-#| msgid "ASP"
 msgctxt "Language|"
 msgid "TSV"
 msgstr "TSV"
 
-#, 
-#| msgctxt "Language"
-#| msgid "txt2tags"
 msgctxt "Language|"
 msgid "txt2tags"
 msgstr "txt2tags"
 
-#, 
-#| msgctxt "Language"
-#| msgid "JavaScript"
 msgctxt "Language|"
 msgid "TypeScript React (TSX)"
 msgstr "TypeScript React (TSX)"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "TypeScript"
 msgstr "TypeScript"
 
-#, 
-#| msgctxt "Language"
-#| msgid "UnrealScript"
 msgctxt "Language|"
 msgid "UnrealScript"
 msgstr "UnrealScript"
@@ -1711,23 +1240,14 @@ msgctxt "Language|"
 msgid "Valgrind Suppression"
 msgstr "Valgrind Suppression"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish module spec file"
 msgstr "Tệp thông số kỹ thuật khối Varnish"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish Test Case language"
 msgstr "Trường hợp kiểm thử ngôn ngữ"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish Configuration Language"
 msgstr "Ngôn ngữ Cấu hình Varnish"
@@ -1736,9 +1256,6 @@ msgctxt "Language|"
 msgid "vCard, vCalendar, iCalendar"
 msgstr "vCard, vCalendar, iCalendar"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Velocity"
 msgctxt "Language|"
 msgid "Velocity"
 msgstr "Vận tốc"
@@ -1747,16 +1264,10 @@ msgctxt "Language|"
 msgid "Vera"
 msgstr "Vera"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Verilog"
 msgctxt "Language|"
 msgid "Verilog"
 msgstr "Verilog"
 
-#, 
-#| msgctxt "Language"
-#| msgid "VHDL"
 msgctxt "Language|"
 msgid "VHDL"
 msgstr "VHDL"
@@ -1765,9 +1276,6 @@ msgctxt "Language|"
 msgid "Viper"
 msgstr "Viper"
 
-#, 
-#| msgctxt "Language"
-#| msgid "VRML"
 msgctxt "Language|"
 msgid "VRML"
 msgstr "VRML"
@@ -1788,9 +1296,6 @@ msgctxt "Language|"
 msgid "Wayland Trace"
 msgstr "Dấu vết Wayland"
 
-#, 
-#| msgctxt "Language"
-#| msgid "WINE Config"
 msgctxt "Language|"
 msgid "WINE Config"
 msgstr "Cấu hình WINE"
@@ -1799,65 +1304,38 @@ msgctxt "Language|"
 msgid "Wesnoth Markup Language"
 msgstr "Ngôn ngữ đánh dấu Wesnoth"
 
-#, 
-#| msgctxt "Language"
-#| msgid "xHarbour"
 msgctxt "Language|"
 msgid "xHarbour"
 msgstr "xHarbour"
 
-#, 
-#| msgctxt "Language"
-#| msgid "XML (Debug)"
 msgctxt "Language|"
 msgid "XML (Debug)"
 msgstr "XML (Debug)"
 
-#, 
-#| msgctxt "Language"
-#| msgid "XML"
 msgctxt "Language|"
 msgid "XML"
 msgstr "XML"
 
-#, 
-#| msgctxt "Language"
-#| msgid "PostScript"
 msgctxt "Language|"
 msgid "Xonotic Script"
 msgstr "Kịch bản Xonotic"
 
-#, 
-#| msgctxt "Language"
-#| msgid "x.org Configuration"
 msgctxt "Language|"
 msgid "x.org Configuration"
 msgstr "Cấu hình x.org"
 
-#, 
-#| msgctxt "Language"
-#| msgid "xslt"
 msgctxt "Language|"
 msgid "xslt"
 msgstr "xslt"
 
-#, 
-#| msgctxt "Language"
-#| msgid "XUL"
 msgctxt "Language|"
 msgid "XUL"
 msgstr "XUL"
 
-#, 
-#| msgctxt "Language"
-#| msgid "yacas"
 msgctxt "Language|"
 msgid "yacas"
 msgstr "yacas"
 
-#, 
-#| msgctxt "Language"
-#| msgid "Yacc/Bison"
 msgctxt "Language|"
 msgid "Yacc/Bison"
 msgstr "Yacc/Bison"
@@ -1878,8 +1356,6 @@ msgctxt "Language|"
 msgid "Zig"
 msgstr "Zig"
 
-#, 
-#| msgid "unknown"
 msgctxt "Language|"
 msgid "Zonnon"
 msgstr "Zonnon"
@@ -1888,71 +1364,42 @@ msgctxt "Language|"
 msgid "Zsh"
 msgstr "Zsh"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language Section|"
 msgid "Scripts"
 msgstr "Văn lệnh"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Sources"
 msgctxt "Language Section|"
 msgid "Sources"
 msgstr "Nguồn"
 
-#, 
-#| msgid "Other"
 msgctxt "Language Section|"
 msgid "Other"
 msgstr "Khác"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Hardware"
 msgctxt "Language Section|"
 msgid "Hardware"
 msgstr "Phần cứng"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Scientific"
 msgctxt "Language Section|"
 msgid "Scientific"
 msgstr "Khoa học"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "Language Section|"
 msgid "Configuration"
 msgstr "Cấu hình"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Markup"
 msgctxt "Language Section|"
 msgid "Markup"
 msgstr "đánh dấu"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Assembler"
 msgctxt "Language Section|"
 msgid "Assembler"
 msgstr "Hợp ngữ"
 
-#, 
-#| msgctxt "Language Section"
-#| msgid "Database"
 msgctxt "Language Section|"
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
 
-#, 
-#| msgctxt "Language"
-#| msgid "D"
 msgctxt "Language Section|"
 msgid "3D"
 msgstr "3D"
@@ -2025,9 +1472,6 @@ msgctxt "Theme|"
 msgid "Homunculus"
 msgstr "Homunculus"
 
-#, 
-#| msgctxt "Language"
-#| msgid "MonoBasic"
 msgctxt "Theme|"
 msgid "Monokai"
 msgstr "Monokai"
@@ -2040,8 +1484,6 @@ msgctxt "Theme|"
 msgid "Oblivion"
 msgstr "Vô Ý Thức"
 
-#, 
-#| msgid "String"
 msgctxt "Theme|"
 msgid "Printing"
 msgstr "In"
@@ -2087,9 +1529,6 @@ msgstr ""
 "KSyntaxHighlighting."
 
 #: cli/ksyntaxhighlighter.cpp:68
-#, 
-#| msgctxt "Language Section"
-#| msgid "Sources"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "source"
 msgstr "nguồn"
@@ -2100,8 +1539,8 @@ msgid ""
 "The source file to highlight. If absent, read the file from stdin and the --"
 "syntax option must be used."
 msgstr ""
-"Tệp nguồn để làm nổi bật. Nếu không có, hãy đọc tệp từ stdin và tùy chọn "
-"--syntax phải được sử dụng."
+"Tệp nguồn để làm nổi bật. Nếu không có, hãy đọc tệp từ stdin và tùy chọn --"
+"syntax phải được sử dụng."
 
 #: cli/ksyntaxhighlighter.cpp:72
 msgctxt "SyntaxHighlightingCLI|"
@@ -2143,16 +1582,11 @@ msgid "syntax"
 msgstr "cú pháp"
 
 #: cli/ksyntaxhighlighter.cpp:92
-#, 
-#| msgid "Kate Syntax Highlighting Parser"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "Color theme to use for highlighting."
 msgstr "Chủ đề màu sắc để sử dụng cho việc tô sáng."
 
 #: cli/ksyntaxhighlighter.cpp:93
-#, 
-#| msgctxt "Language"
-#| msgid "Scheme"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "theme"
 msgstr "chủ đề"
@@ -2167,9 +1601,6 @@ msgstr ""
 "ansi256Colors."
 
 #: cli/ksyntaxhighlighter.cpp:99
-#, 
-#| msgctxt "Language"
-#| msgid "Inform"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "format"
 msgstr "định dạng"
@@ -2181,9 +1612,9 @@ msgid ""
 "or ansi256Colors. Possible values are format, region, context, stackSize and "
 "all."
 msgstr ""
-"Thêm thông tin để gỡ lỗi tệp cú pháp. Chỉ hoạt động với "
-"--output-format=ansi hoặc ansi256Colors. Các giá trị có thể là format, "
-"region, context, stackSize và all."
+"Thêm thông tin để gỡ lỗi tệp cú pháp. Chỉ hoạt động với --output-format=ansi "
+"hoặc ansi256Colors. Các giá trị có thể là format, region, context, stackSize "
+"và all."
 
 #: cli/ksyntaxhighlighter.cpp:107
 msgctxt "SyntaxHighlightingCLI|"
@@ -2209,19 +1640,15 @@ msgid ""
 "Set HTML page's title\n"
 "(default: the filename or \"KSyntaxHighlighter\" if reading from stdin)."
 msgstr ""
-"Đặt tiêu đề trang HTML\n(mặc định: tên tệp hoặc \"KSyntaxHighlighter\" nếu "
-"đọc từ stdin)."
+"Đặt tiêu đề trang HTML\n"
+"(mặc định: tên tệp hoặc \"KSyntaxHighlighter\" nếu đọc từ stdin)."
 
 #: cli/ksyntaxhighlighter.cpp:121
-#, 
-#| msgid "Untitled"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "title"
 msgstr "tiêu đề"
 
 #: lib/definition_p.h:104
-#, 
-#| msgid "None"
 msgctxt "Language|"
 msgid "None"
 msgstr "Không có"
@@ -2244,22 +1671,16 @@ msgid "Updating syntax definition for '%1' to version %2…"
 msgstr "Đang cập nhật định nghĩa cú pháp cho '%1' lên phiên bản %2..."
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Bash"
 #~ msgctxt "Language|"
 #~ msgid "Bash"
 #~ msgstr "Bash"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Makefile"
 #~ msgctxt "Language|"
 #~ msgid "Dockerfile"
 #~ msgstr "Makefile"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Doxygen"
 #~ msgctxt "Language|"
 #~ msgid "DoxygenLua"
 #~ msgstr "Doxygen"

@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,11 +22,14 @@ msgstr "Trình khách IRC"
 
 #. (itstool) path: description/p
 #: org.kde.konversation.appdata.xml:13
-msgid "Konversation is a user-friendly Internet Relay Chat (IRC) client by KDE. It provides easy access to standard IRC networks such as Libera, where the KDE IRC channels can be found."
+msgid ""
+"Konversation is a user-friendly Internet Relay Chat (IRC) client by KDE. It "
+"provides easy access to standard IRC networks such as Libera, where the KDE "
+"IRC channels can be found."
 msgstr ""
 "Konversation là một trình khách Internet Relay Chat (IRC) thân thiện với "
-"người dùng của KDE. Nó cung cấp truy cập dễ dàng đến các mạng IRC tiêu "
-"chuẩn như Libera, nơi các kênh IRC của KDE có thể được tìm thấy."
+"người dùng của KDE. Nó cung cấp truy cập dễ dàng đến các mạng IRC tiêu chuẩn "
+"như Libera, nơi các kênh IRC của KDE có thể được tìm thấy."
 
 #. (itstool) path: description/p
 #: org.kde.konversation.appdata.xml:18

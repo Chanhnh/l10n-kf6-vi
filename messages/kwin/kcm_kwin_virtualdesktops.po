@@ -57,9 +57,6 @@ msgstr "Hàng:"
 
 #: ui/main.qml:54
 #, kde-format
-#| msgctxt "A numbered name for virtual desktops"
-#| msgid "Desktop %1"
-#| msgid_plural "Desktop %1"
 msgctxt "@action:button"
 msgid "Add Desktop"
 msgstr "Thêm bàn làm việc"

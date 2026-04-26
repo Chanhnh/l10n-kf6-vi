@@ -45,7 +45,6 @@ msgstr "Từ chối kết nối"
 
 #: invitationsrfbclient.cpp:69
 #, kde-format
-#| msgid "Accepted uninvited connection from %1"
 msgid "Accepted connection from %1"
 msgstr "Đã chấp nhận kết nối từ %1"
 
@@ -74,7 +73,6 @@ msgstr "Dùng cổng mặc định cho VNC (5900)"
 #. i18n: ectx: label, entry (port), group (TCP)
 #: krfb.kcfg:19
 #, kde-format
-#| msgid "This is the port on wich krfb will listen."
 msgid "This is the port on which krfb will listen."
 msgstr "Đây là cổng mà krfb sẽ lắng nghe."
 
@@ -133,14 +131,6 @@ msgstr "Cung cấp một Màn hình Ảo có thể được truy cập từ xa"
 
 #: main-virtualmonitor.cpp:84 main.cpp:98
 #, kde-format
-#| msgid ""
-#| "(c) 2007, Alessandro Praduroux\n"
-#| "(c) 2001-2003, Tim Jansen\n"
-#| "(c) 2001, Johannes E. Schindelin\n"
-#| "(c) 2000, heXoNet Support GmbH, D-66424 Homburg\n"
-#| "(c) 2000-2001, Const Kaplinsky\n"
-#| "(c) 2000, Tridia Corporation\n"
-#| "(c) 1999, AT&T Laboratories Cambridge\n"
 msgid ""
 "(c) 2009-2010, Collabora Ltd.\n"
 "(c) 2007, Alessandro Praduroux\n"
@@ -150,9 +140,13 @@ msgid ""
 "(c) 2000, Tridia Corporation\n"
 "(c) 1999, AT&T Laboratories Boston\n"
 msgstr ""
-"© 2009-2010, Collabora Ltd.\n© 2007, Alessandro Praduroux\n© 2001-2003, "
-"&Tim Jansen\n© 2001, Johannes E. Schindelin\n© 2000-2001, Const "
-"Kaplinsky\n© 2000, Tridia Corporation\n© 1999, ATT Laboratories Boston\n"
+"© 2009-2010, Collabora Ltd.\n"
+"© 2007, Alessandro Praduroux\n"
+"© 2001-2003, &Tim Jansen\n"
+"© 2001, Johannes E. Schindelin\n"
+"© 2000-2001, Const Kaplinsky\n"
+"© 2000, Tridia Corporation\n"
+"© 1999, ATT Laboratories Boston\n"
 
 #: main-virtualmonitor.cpp:91
 #, kde-format
@@ -216,7 +210,6 @@ msgstr "Bộ mã hoá ZLib"
 
 #: main-virtualmonitor.cpp:101 main.cpp:119
 #, kde-format
-#| msgid "AT&T Laboratories Cambridge"
 msgid "AT&T Laboratories Boston"
 msgstr "A&TT Laboratories Boston"
 
@@ -247,13 +240,11 @@ msgstr "tên"
 
 #: main-virtualmonitor.cpp:112
 #, kde-format
-#| msgid "Password for uninvited connections."
 msgid "Password for the client to connect to it"
 msgstr "Mật khẩu để trình khách kết nối với nó"
 
 #: main-virtualmonitor.cpp:112
 #, kde-format
-#| msgid "<b>Password:</b>"
 msgid "password"
 msgstr "mật khẩu"
 
@@ -298,7 +289,6 @@ msgstr "Chia sẻ màn hình"
 
 #: main.cpp:96
 #, kde-format
-#| msgid "VNC-compatible server to share KDE desktops"
 msgid "VNC-compatible server to share desktops"
 msgstr "Máy chủ tương hợp với VNC để chia sẻ màn hình"
 
@@ -323,8 +313,8 @@ msgid ""
 "Desktop Sharing is not running under an X11 Server or Wayland.\n"
 "Other display servers are currently not supported."
 msgstr ""
-"Chia sẻ màn hình không chạy dưới máy chủ X11 hoặc Wayland.\nCác máy chủ "
-"hiển thị khác hiện không được hỗ trợ."
+"Chia sẻ màn hình không chạy dưới máy chủ X11 hoặc Wayland.\n"
+"Các máy chủ hiển thị khác hiện không được hỗ trợ."
 
 #: mainwindow.cpp:52
 #, kde-format
@@ -351,22 +341,11 @@ msgstr ""
 #: mainwindow.cpp:223 mainwindow.cpp:230 ui/mainwidget.ui:83
 #: ui/mainwidget.ui:86 ui/mainwidget.ui:114
 #, kde-format
-#| msgid "Desktop Sharing"
 msgid "KDE Desktop Sharing"
 msgstr "Chia sẻ màn hình KDE"
 
 #: mainwindow.cpp:224
 #, kde-format
-#| msgid ""
-#| "This field contains the address of your computer and the display number, "
-#| "separated by a colon.\n"
-#| "The address is just a hint - you can use any address that can reach your "
-#| "computer. \n"
-#| "Desktop Sharing tries to guess your address from your network "
-#| "configuration, but does\n"
-#| "not always succeed in doing so. If your computer is behind a firewall it "
-#| "may have a\n"
-#| "different address or be unreachable for other computers."
 msgid ""
 "This field contains the address of your computer and the port number, "
 "separated by a colon.\n"
@@ -380,12 +359,17 @@ msgid ""
 "If your computer is behind a firewall it may have a different address or be "
 "unreachable for other computers."
 msgstr ""
-"Trường này chứa địa chỉ của máy tính bạn và số cổng, được định giới bằng "
-"dấu hai chấm.\n\nĐịa chỉ chỉ là gợi ý - bạn có thể sử dụng bất kỳ địa chỉ "
-"nào có thể truy cập được vào máy tính của bạn.\n\nTính năng Chia sẻ Màn "
-"hình cố gắng đoán địa chỉ của bạn từ cấu hình mạng, nhưng không phải lúc "
-"nào cũng thành công.\n\nNếu máy tính của bạn ở sau tường lửa, nó có thể có "
-"địa chỉ khác hoặc không thể truy cập được từ các máy tính khác."
+"Trường này chứa địa chỉ của máy tính bạn và số cổng, được định giới bằng dấu "
+"hai chấm.\n"
+"\n"
+"Địa chỉ chỉ là gợi ý - bạn có thể sử dụng bất kỳ địa chỉ nào có thể truy cập "
+"được vào máy tính của bạn.\n"
+"\n"
+"Tính năng Chia sẻ Màn hình cố gắng đoán địa chỉ của bạn từ cấu hình mạng, "
+"nhưng không phải lúc nào cũng thành công.\n"
+"\n"
+"Nếu máy tính của bạn ở sau tường lửa, nó có thể có địa chỉ khác hoặc không "
+"thể truy cập được từ các máy tính khác."
 
 #: mainwindow.cpp:231
 #, kde-format
@@ -398,9 +382,11 @@ msgid ""
 "confirmation."
 msgstr ""
 "Bất kỳ người dùng từ xa nào với mật khẩu chia sẻ màn hình máy tính thông "
-"thường sẽ phải được xác thực.\n\nNếu truy cập không người giám sát được "
-"bật, và người dùng từ xa cung cấp mật khẩu chế độ không người giám sát, "
-"quyền truy cập chia sẻ màn hình sẽ được cấp mà không cần xác nhận rõ ràng."
+"thường sẽ phải được xác thực.\n"
+"\n"
+"Nếu truy cập không người giám sát được bật, và người dùng từ xa cung cấp mật "
+"khẩu chế độ không người giám sát, quyền truy cập chia sẻ màn hình sẽ được "
+"cấp mà không cần xác nhận rõ ràng."
 
 #: mainwindow.cpp:249
 #, kde-format
@@ -426,13 +412,11 @@ msgstr ""
 
 #: rfbservermanager.cpp:237
 #, kde-format
-#| msgid "The remote user has closed the connection."
 msgid "The remote user %1 is now connected."
 msgstr "Người dùng từ xa %1 đã kết nối."
 
 #: rfbservermanager.cpp:251
 #, kde-format
-#| msgid "The remote user has closed the connection."
 msgid "The remote user %1 disconnected."
 msgstr "Người dùng từ xa %1 đã ngắt kết nối."
 
@@ -458,7 +442,6 @@ msgstr "Chia sẻ màn hình - đã kết nối với %1"
 
 #: trayicon.cpp:120
 #, kde-format
-#| msgid "Desktop Sharing - disconnected"
 msgid "Desktop Sharing - connected"
 msgstr "Chia sẻ màn hình - đã kết nối"
 
@@ -485,9 +468,9 @@ msgid ""
 msgstr ""
 "<html><head/><body><p>Khi sử dụng x11, nên ưu tiên phần cài cắm <span "
 "style=\" font-weight:600;\">xcb</span> vì nó hiệu quả hơn.<br/>Phần cài cắm "
-"<span style=\" font-weight:600;\">qt</span> là một lựa chọn dự phòng an "
-"toàn nếu vì lý do nào đó các phần cài cắm khác không hoạt động. Tuy nhiên, "
-"nó cũng rất chậm.</p></body></html>"
+"<span style=\" font-weight:600;\">qt</span> là một lựa chọn dự phòng an toàn "
+"nếu vì lý do nào đó các phần cài cắm khác không hoạt động. Tuy nhiên, nó "
+"cũng rất chậm.</p></body></html>"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_allowDesktopControl)
 #: ui/configsecurity.ui:17
@@ -510,7 +493,6 @@ msgstr "Dùng cổng mặc định"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/configtcp.ui:50
 #, kde-format
-#| msgid "Listening Port:"
 msgid "Listening port:"
 msgstr "Cổng lắng nghe:"
 
@@ -575,21 +557,18 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, enableSharingCheckBox)
 #: ui/mainwidget.ui:145
 #, kde-format
-#| msgid "Manage Invitations - Desktop Sharing"
 msgid "Starts/Stops Remote Desktop Sharing"
 msgstr "Bắt đầu/Dừng Chia sẻ Màn hình từ xa"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableSharingCheckBox)
 #: ui/mainwidget.ui:148
 #, kde-format
-#| msgid "Desktop Sharing"
 msgid "&Enable Desktop Sharing"
 msgstr "Bật C&hia sẻ Màn hình"
 
 #. i18n: ectx: property (title), widget (QGroupBox, detailsGroupBox)
 #: ui/mainwidget.ui:170
 #, kde-format
-#| msgid "Connection side image"
 msgid "Connection Details"
 msgstr "Chi tiết kết nối"
 
@@ -631,14 +610,12 @@ msgstr "127.0.0.1 : 5900"
 #. i18n: ectx: property (text), widget (QLabel, passwordLabel)
 #: ui/mainwidget.ui:269
 #, kde-format
-#| msgid "<b>Password:</b>"
 msgid "&Password"
 msgstr "Mật khẩ&u"
 
 #. i18n: ectx: property (whatsThis), widget (QToolButton, passwordEditButton)
 #: ui/mainwidget.ui:290
 #, kde-format
-#| msgid "Desktop Sharing Error"
 msgid "Edit/Save Desktop Sharing Password"
 msgstr "Chỉnh sửa/Lưu mật khẩu chia sẻ desktop"
 

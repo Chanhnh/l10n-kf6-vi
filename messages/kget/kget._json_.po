@@ -19,9 +19,6 @@ msgstr ""
 "X-Generator: LocFactoryEditor 1.6.4a6\n"
 
 #: transfer-plugins/bittorrent/kget_bittorrentfactory.json
-#, 
-#| msgctxt "Name"
-#| msgid "Bit Torrent Info"
 msgctxt "Name"
 msgid "Bittorrent"
 msgstr "BitTorrent"
@@ -42,25 +39,16 @@ msgid "Metalink"
 msgstr "Metalink"
 
 #: transfer-plugins/mirrorsearch/kget_mirrorsearchfactory.json
-#, 
-#| msgctxt "Name"
-#| msgid "MetaLink TransferFactory"
 msgctxt "Name"
 msgid "Mirror Search"
 msgstr "Tìm kiếm gương"
 
 #: transfer-plugins/mmsthreads/kget_mmsfactory.json
-#, 
-#| msgctxt "Name"
-#| msgid "SMS"
 msgctxt "Name"
 msgid "MMS"
 msgstr "MMS"
 
 #: transfer-plugins/multisegmentkio/kget_multisegkiofactory.json
-#, 
-#| msgctxt "Name"
-#| msgid "Multi Segments KIO TransferFactory"
 msgctxt "Name"
 msgid "Multi Segment KIO"
 msgstr "Multi Segment KIO"
@@ -76,9 +64,6 @@ msgid "Tries to find checksums for a specified URL"
 msgstr "Cố gắng tìm giá trị tổng kiểm cho một URL được chỉ định"
 
 #: transfer-plugins/kio/kget_kiofactory.json
-#, 
-#| msgctxt "Comment"
-#| msgid "Transfer plugin for KGet"
 msgctxt "Description"
 msgid "Classic file downloader plugin"
 msgstr "Phần cài cắm truyền tải tệp cổ điển"
@@ -94,17 +79,11 @@ msgid "Allows KGet to search through mirror search engines for files"
 msgstr "Cho phép KGet tìm kiếm các tệp thông qua các công cụ tìm kiếm mirror"
 
 #: transfer-plugins/mmsthreads/kget_mmsfactory.json
-#, 
-#| msgctxt "Comment"
-#| msgid "Transfer plugin for KGet"
 msgctxt "Description"
 msgid "MMS-Transfer plugin for KGet"
 msgstr "Phần cài cắm truyền MMS cho KGet"
 
 #: transfer-plugins/multisegmentkio/kget_multisegkiofactory.json
-#, 
-#| msgctxt "Comment"
-#| msgid "Transfer plugin for KGet"
 msgctxt "Description"
 msgid "Multithreaded file download plugin"
 msgstr "Phần cài cắm tải về tệp đa luồng"
@@ -137,8 +116,6 @@ msgid "Ernesto Rodriguez Ortiz"
 msgstr "Ernesto Rodriguez Ortiz"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Kopete Plugin"
 #~ msgctxt "Name"
 #~ msgid "KGet Plugin"
 #~ msgstr "Phần bổ sung Kopete"
@@ -160,85 +137,61 @@ msgstr "Ernesto Rodriguez Ortiz"
 #~ msgstr "Trình quản lí việc tải tệp"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Download Manager"
 #~ msgctxt "Comment"
 #~ msgid "KGet Download Manager"
 #~ msgstr "Trình quản lí việc tải tệp"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Download Manager"
 #~ msgctxt "Name"
 #~ msgid "Download Started"
 #~ msgstr "Trình quản lí việc tải tệp"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Download Manager"
 #~ msgctxt "Comment"
 #~ msgid "Downloading started"
 #~ msgstr "Trình quản lí việc tải tệp"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Download with KGet"
 #~ msgctxt "Name"
 #~ msgid "Download Finished"
 #~ msgstr "Tải với KGet"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Download with KGet"
 #~ msgctxt "Comment"
 #~ msgid "Downloading finished"
 #~ msgstr "Tải với KGet"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Download with KGet"
 #~ msgctxt "Name"
 #~ msgid "All Downloads Finished"
 #~ msgstr "Tải với KGet"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "MetaLink TransferFactory"
 #~ msgctxt "Name"
 #~ msgid "Content Fetch"
 #~ msgstr "MetaLink TransferFactory"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Download with KGet"
 #~ msgctxt "Comment"
 #~ msgid "Download links with KGet"
 #~ msgstr "Tải với KGet"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Download Manager"
 #~ msgctxt "Name"
 #~ msgid "Download Manager"
 #~ msgstr "Trình quản lí việc tải tệp"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "MetaLink TransferFactory"
 #~ msgctxt "Name"
 #~ msgid "Content Fetcher"
 #~ msgstr "MetaLink TransferFactory"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "MetaLink TransferFactory"
 #~ msgctxt "Name"
 #~ msgid "MirrorSearch"
 #~ msgstr "MetaLink TransferFactory"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Multi Segments KIO TransferFactory"
 #~ msgctxt "Name"
 #~ msgid "MultiSegmentKIO"
 #~ msgstr "Multi Segments KIO TransferFactory"

@@ -66,8 +66,6 @@ msgstr "Ngủ"
 
 #: contents/logout/Logout.qml:201
 #, kde-format
-#| msgctxt "Suspend to RAM"
-#| msgid "Sleep"
 msgctxt "Suspend to RAM"
 msgid "Sleep Now"
 msgstr "Ngủ ngay"
@@ -79,7 +77,6 @@ msgstr "Ngủ đông"
 
 #: contents/logout/Logout.qml:211
 #, kde-format
-#| msgid "Hibernate"
 msgid "Hibernate Now"
 msgstr "Ngủ đông ngay"
 
@@ -102,7 +99,6 @@ msgstr "Khởi động lại"
 
 #: contents/logout/Logout.qml:226 contents/logout/Logout.qml:239
 #, kde-format
-#| msgid "Restart"
 msgid "Restart Now"
 msgstr "Khởi động lại ngay"
 
@@ -113,7 +109,6 @@ msgstr "Tắt"
 
 #: contents/logout/Logout.qml:252
 #, kde-format
-#| msgid "Shut Down"
 msgid "Shut Down Now"
 msgstr "Tắt ngay"
 
@@ -124,7 +119,6 @@ msgstr "Đăng xuất"
 
 #: contents/logout/Logout.qml:263
 #, kde-format
-#| msgid "Log Out"
 msgid "Log Out Now"
 msgstr "Đăng xuất ngay"
 

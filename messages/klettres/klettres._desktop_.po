@@ -17,7 +17,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.klettres.desktop:7
-#, 
 msgctxt "Comment"
 msgid "a KDE program to learn the alphabet"
 msgstr "một chương trình KDE để học bảng chữ cái"
@@ -28,9 +27,6 @@ msgid "KLettres"
 msgstr "Chữ cái K"
 
 #: src/org.kde.klettres.desktop:138
-#, 
-#| msgctxt "GenericName"
-#| msgid "Learn Alphabet"
 msgctxt "GenericName"
 msgid "Learn The Alphabet"
 msgstr "Học Bảng chữ cái"

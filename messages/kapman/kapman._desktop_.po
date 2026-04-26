@@ -39,8 +39,8 @@ msgid ""
 "Getting bored with Kapman? More than 100,000 points over level 20? Next "
 "step: the invisible maze!"
 msgstr ""
-"Chán với Kapman rồi? Hơn 100.000 điểm qua cấp 20? Bước tiếp theo: mê cung "
-"vô hình!"
+"Chán với Kapman rồi? Hơn 100.000 điểm qua cấp 20? Bước tiếp theo: mê cung vô "
+"hình!"
 
 #: themes/matches.desktop:2
 msgctxt "Name"
@@ -53,14 +53,11 @@ msgid "A matches drawn maze"
 msgstr "Một mê cung được vẽ bằng diêm"
 
 #: themes/mountain.desktop:2
-#, 
-#| msgid "Name=Adventure"
 msgctxt "Name"
 msgid "Mountain Adventure"
 msgstr "Cuộc phiêu lưu núi"
 
 #: themes/mountain.desktop:54
-#, 
 msgctxt "Description"
 msgid "Default"
 msgstr "Mặc định"

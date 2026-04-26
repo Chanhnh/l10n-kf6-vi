@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,11 @@ msgstr "Hoàn tất một câu đố số với các số từ một đến chí
 
 #. (itstool) path: description/p
 #: org.kde.ksudoku.appdata.xml:17
-msgid "KSudoku is a free version of the popular logic game Sudoku developed by the KDE community. The game is to fill a nine by nine grid with the numbers from one to nine filling the rows, columns and three by three squares without repeating a value on them."
+msgid ""
+"KSudoku is a free version of the popular logic game Sudoku developed by the "
+"KDE community. The game is to fill a nine by nine grid with the numbers from "
+"one to nine filling the rows, columns and three by three squares without "
+"repeating a value on them."
 msgstr ""
 "KSudoku là phiên bản miễn phí của trò chơi logic phổ biến Sudoku được phát "
 "triển bởi cộng đồng KDE. Mục đích của trò chơi là điền vào một lưới 9x9 với "

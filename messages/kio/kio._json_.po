@@ -46,8 +46,6 @@ msgstr "Đường dẫn ban đầu;Ngày xoá"
 #~ msgstr "Lưu bánh quy mạng"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Cookie Jar"
 #~ msgctxt "Name"
 #~ msgid "Cookies"
 #~ msgstr "Hũ bánh quy"

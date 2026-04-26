@@ -29,9 +29,7 @@ msgstr ""
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
-"phu.nguyen@kdemail.net,dinhdangkhoi.fs@gmail.com,herophuong93@gmail.com,"
-"teppi82@gmail.com,Vu.Hung@techviet.com"
+msgstr "phu.nguyen@kdemail.net,dinhdangkhoi.fs@gmail.com,herophuong93@gmail.com,teppi82@gmail.com,Vu.Hung@techviet.com"
 
 #: kate/main.cpp:93
 #, kde-format
@@ -45,7 +43,6 @@ msgstr "Kate - Trình biên tập văn bản nâng cao"
 
 #: kate/main.cpp:97 kwrite/main.cpp:50
 #, kde-format
-#| msgid "(c) 2000-2022 The Kate Authors"
 msgid "(c) 2000-2024 The Kate Authors"
 msgstr "(c) 2000-2024 Các tác giả Kate"
 
@@ -251,7 +248,6 @@ msgstr "&Công cụ"
 #: lib/data/kateui.rc:125 lib/diagnostics/diagnosticview.cpp:290
 #: lib/diagnostics/ui.rc:8
 #, kde-format
-#| msgid "Diagnostics"
 msgid "Diagnostics View"
 msgstr "Khung xem Chẩn đoán"
 
@@ -311,7 +307,6 @@ msgstr ""
 
 #: lib/diagnostics/diagnosticview.cpp:340
 #, kde-format
-#| msgid "Diagnostics"
 msgctxt "@action:inmenu Diagnostics View actions menu"
 msgid "Diagnostics View"
 msgstr "Khung xem Chẩn đoán"
@@ -323,19 +318,16 @@ msgstr "Sửa nhanh"
 
 #: lib/diagnostics/diagnosticview.cpp:351
 #, kde-format
-#| msgid "Next tab"
 msgid "Next Item"
 msgstr "Mục tiếp"
 
 #: lib/diagnostics/diagnosticview.cpp:357
 #, kde-format
-#| msgid "Previous tab"
 msgid "Previous Item"
 msgstr "Mục trước"
 
 #: lib/diagnostics/diagnosticview.cpp:365
 #, kde-format
-#| msgid "Diagnostics"
 msgid "Clear Diagnostics Filter"
 msgstr "Làm trống Bộ lọc Chẩn đoán"
 
@@ -346,13 +338,11 @@ msgstr "Chẩn đoán"
 
 #: lib/diagnostics/diagnosticview.cpp:466
 #, kde-format
-#| msgid "Error"
 msgid "Errors"
 msgstr "Lỗi"
 
 #: lib/diagnostics/diagnosticview.cpp:482
 #, kde-format
-#| msgid "Warning"
 msgid "Warnings"
 msgstr "Cảnh báo"
 
@@ -1032,7 +1022,8 @@ msgstr "Xuất dấu thời gian kèm ngày"
 #, kde-format
 msgid ""
 "When enabled, the output line timestamp headers will be prefixed with date."
-msgstr "Khi bật, tiêu đề mốc thời gian của dòng đầu ra sẽ được thêm ngày vào trước."
+msgstr ""
+"Khi bật, tiêu đề mốc thời gian của dòng đầu ra sẽ được thêm ngày vào trước."
 
 #: lib/kateconfigdialog.cpp:174
 #, kde-format
@@ -1061,7 +1052,6 @@ msgstr "Hiện chữ cho các nút ở thanh bên trái và phải"
 
 #: lib/kateconfigdialog.cpp:190
 #, kde-format
-#| msgid "Icon size for left and right sidebar buttons"
 msgid "Icon size for left and right sidebar buttons:"
 msgstr "Cỡ biểu tượng cho nút thanh bên trái và phải:"
 
@@ -1221,7 +1211,6 @@ msgstr "Hiện kí hiệu hiện tại trong thanh điều hướng"
 
 #: lib/kateconfigdialog.cpp:339
 #, kde-format
-#| msgid "Diagnostics"
 msgid "Diagnostics limit:"
 msgstr "Giới hạn chẩn đoán:"
 
@@ -1434,8 +1423,6 @@ msgstr "Nhắm vào thẻ sau."
 
 #: lib/katemainwindow.cpp:293
 #, kde-format
-#| msgctxt "@action:button"
-#| msgid "Switch to Instance"
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
 msgstr "Chuyển sang thẻ %1"
@@ -1586,7 +1573,6 @@ msgstr "Đóng tất cả các tài liệu đang mở."
 
 #: lib/katemainwindow.cpp:461
 #, kde-format
-#| msgid "Reload all open documents."
 msgid "&Reopen latest closed document(s)."
 msgstr "Mở lại (các) tài liệu đã đóng gần đâ&y nhất."
 
@@ -1710,13 +1696,11 @@ msgstr ""
 
 #: lib/katemainwindow.cpp:612
 #, kde-format
-#| msgid "Close all documents"
 msgid "Close all documents?"
 msgstr "Đóng tất cả tài liệu?"
 
 #: lib/katemainwindow.cpp:613
 #, kde-format
-#| msgid "Clos&e All"
 msgid "Close All"
 msgstr "Đóng tất cả"
 
@@ -1731,13 +1715,11 @@ msgstr ""
 
 #: lib/katemainwindow.cpp:628
 #, kde-format
-#| msgid "Close all documents beside current one"
 msgid "Close all documents beside current one?"
 msgstr "Đóng tất cả tài liệu trừ tài liệu hiện tại?"
 
 #: lib/katemainwindow.cpp:629
 #, kde-format
-#| msgid "Close Other"
 msgid "Close Others"
 msgstr "Đóng khác"
 
@@ -1946,10 +1928,6 @@ msgstr "&Xem phần chênh"
 
 #: lib/katemwmodonhddialog.cpp:108
 #, kde-format
-#| msgid ""
-#| "Calculates the difference between the editor contents and the disk file "
-#| "for the selected document, and shows the difference with the default "
-#| "application. Requires diff(1)."
 msgid ""
 "Calculates the difference between the editor contents and the disk file for "
 "the selected document."
@@ -1993,9 +1971,6 @@ msgstr ""
 
 #: lib/katemwmodonhddialog.cpp:311
 #, kde-format
-#| msgid ""
-#| "The diff command failed. Please make sure that diff(1) is installed and "
-#| "in your PATH."
 msgid ""
 "The diff command failed. Please make sure that git is installed and in your "
 "PATH."
@@ -2110,14 +2085,12 @@ msgstr ""
 
 #: lib/kateurlbar.cpp:909
 #, kde-format
-#| msgid "Copy Location"
 msgctxt "@menu:action"
 msgid "Copy Location"
 msgstr "Sao chép địa điểm"
 
 #: lib/kateurlbar.cpp:914
 #, kde-format
-#| msgid "Filename"
 msgctxt "@menu:action"
 msgid "Copy Filename"
 msgstr "Sao chép tên tệp"
@@ -2337,7 +2310,6 @@ msgstr "Bật/Tắt Đồng bộ Cuộn"
 
 #: lib/kateviewmanager.cpp:296
 #, kde-format
-#| msgid "Toggles the orientation of the current split view"
 msgid "Toggle scroll synchronization for the current view"
 msgstr "Bật/tắt đồng bộ cuộn cho khung xem hiện tại"
 
@@ -2833,7 +2805,6 @@ msgstr "Không có phiên nào đã lưu"
 
 #: lib/welcomeview/welcomeview.cpp:246
 #, kde-format
-#| msgid "Open File..."
 msgid "Open Selected Files..."
 msgstr "Mở các tệp đã chọn..."
 
@@ -2922,7 +2893,6 @@ msgstr "Quản lí phiên..."
 #. i18n: ectx: property (text), widget (QCheckBox, checkBoxShowForNewWindow)
 #: lib/welcomeview/welcomeview.ui:442
 #, kde-format
-#| msgid "Show welcome view for new windows"
 msgid "Show welcome page for new window"
 msgstr "Hiện trang chào mừng cho cửa sổ mới"
 
@@ -3059,7 +3029,6 @@ msgstr "Hiện trang chào mừng cho cửa sổ mới"
 #~ msgstr "&Cảnh báo về những tệp bị sửa bởi các tiến trình ngoài"
 
 #, fuzzy
-#~| msgid "Application '%1' not found!"
 #~ msgid "Application '%1' not found."
 #~ msgstr "Không tìm thấy ứng dụng '%1'!"
 
@@ -3068,12 +3037,10 @@ msgstr "Hiện trang chào mừng cho cửa sổ mới"
 #~ msgstr "Không tìm thấy ứng dụng!"
 
 #, fuzzy
-#~| msgid "Sho&w Path"
 #~ msgid "Filter By Path"
 #~ msgstr "&Hiện đường dẫn"
 
 #, fuzzy
-#~| msgid "Open Session"
 #~ msgid "Quick Open Search"
 #~ msgstr "Mở phiên chạy"
 
@@ -3102,7 +3069,6 @@ msgstr "Hiện trang chào mừng cho cửa sổ mới"
 #~ msgstr "Tuỳ chọn thành phần soạn thảo"
 
 #, fuzzy
-#~| msgid "Behavior on Application Startup"
 #~ msgid "Behaviour on Application Startup"
 #~ msgstr "Cư xử khi khởi chạy"
 

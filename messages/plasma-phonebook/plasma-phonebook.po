@@ -150,7 +150,6 @@ msgstr "Xoá liên hệ"
 
 #: src/qml/DetailPage.qml:69
 #, kde-format
-#| msgid "Delete contact"
 msgid "Remove Contact"
 msgstr "Xoá liên hệ"
 

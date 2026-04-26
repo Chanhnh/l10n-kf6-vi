@@ -545,8 +545,6 @@ msgstr "Mục lịch sử trước"
 
 #: klipper.cpp:155
 #, kde-format
-#| msgctxt "@action:inmenu"
-#| msgid "Show Items at Mouse Position"
 msgctxt "@action:inmenu"
 msgid "Show Clipboard Items at Mouse Position"
 msgstr "Hiện các mục bảng nháp tại vị trí chuột"
@@ -828,8 +826,6 @@ msgstr ""
 
 #: klipperpopup.cpp:107
 #, kde-format
-#| msgctxt "%1 is application display name"
-#| msgid "%1 - Clipboard Items"
 msgid "Clipboard Items"
 msgstr "Các mục bảng nháp"
 

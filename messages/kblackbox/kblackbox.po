@@ -79,14 +79,12 @@ msgstr ""
 
 #: kbbmainwindow.cpp:84
 #, kde-format
-#| msgid "KDE Blackbox Game"
 msgctxt "@action"
 msgid "New Sandbox Game"
 msgstr "Trò chơi Bàn chơi mới"
 
 #: kbbmainwindow.cpp:85
 #, kde-format
-#| msgid "KDE Blackbox Game"
 msgctxt "@info:tooltip"
 msgid "Start a new sandbox game"
 msgstr "Khởi động một bàn chơi mới"
@@ -100,13 +98,12 @@ msgid ""
 "start a real game!</p></qt>"
 msgstr ""
 "<qt><p>Trong một <b>bàn chơi sandbox</b>, giải pháp được hiển thị ngay từ "
-"đầu bàn chơi. Điều này hữu ích để hiểu các nguyên tắc của bàn "
-"chơi.</p><p>Tuy nhiên: sau một thời gian, nó không thực sự thú vị và bạn "
-"nên thử khởi động một bàn chơi thực sự!</p></qt>"
+"đầu bàn chơi. Điều này hữu ích để hiểu các nguyên tắc của bàn chơi.</"
+"p><p>Tuy nhiên: sau một thời gian, nó không thực sự thú vị và bạn nên thử "
+"khởi động một bàn chơi thực sự!</p></qt>"
 
 #: kbbmainwindow.cpp:92
 #, kde-format
-#| msgid "&Done"
 msgctxt ""
 "@action the last action of a game to check the result, when the user is done"
 msgid "Done!"
@@ -124,10 +121,10 @@ msgid ""
 msgstr ""
 "<qt><ul><li>Đầu tiên, bạn phải đặt tất cả các quả bóng vào hộp đen. Để đoán "
 "vị trí chính xác của các quả bóng và xem chúng tương tác với tia laser như "
-"thế nào, bạn nên sử dụng các tia laser được đặt xung quanh hộp "
-"đen.</li><li><b>Khi bạn nghĩ mình đã hoàn thành</b>, bạn nên bấm vào "
-"đây.</li></ul><p>Lưu ý rằng chỉ có thể bấm vào đây nếu bạn đã đặt đúng số "
-"lượng quả bóng.</p></qt>"
+"thế nào, bạn nên sử dụng các tia laser được đặt xung quanh hộp đen.</"
+"li><li><b>Khi bạn nghĩ mình đã hoàn thành</b>, bạn nên bấm vào đây.</li></"
+"ul><p>Lưu ý rằng chỉ có thể bấm vào đây nếu bạn đã đặt đúng số lượng quả "
+"bóng.</p></qt>"
 
 #: kbbmainwindow.cpp:97
 #, kde-format
@@ -235,10 +232,10 @@ msgid ""
 "the game before you reached the last step.\n"
 "Please first finish the tutorial."
 msgstr ""
-"Nhấp vào \"Xong!\" là cách bình thường để kiểm tra vị trí của các quả bóng "
-"ở cuối trò chơi. Tuy nhiên, trong hướng dẫn sử dụng, không thể kết thúc trò "
-"chơi trước khi đạt đến bước cuối cùng.\nVui lòng hoàn thành hướng dẫn "
-"trước."
+"Nhấp vào \"Xong!\" là cách bình thường để kiểm tra vị trí của các quả bóng ở "
+"cuối trò chơi. Tuy nhiên, trong hướng dẫn sử dụng, không thể kết thúc trò "
+"chơi trước khi đạt đến bước cuối cùng.\n"
+"Vui lòng hoàn thành hướng dẫn trước."
 
 #: kbbmainwindow.cpp:329
 #, kde-format
@@ -268,7 +265,8 @@ msgctxt ""
 "The text may not be too wide. So please use some HTML-BR-tags to have "
 "something more or less as wide as in english. Thanks!"
 msgid "Your final score is: %1.<br />I guess you need more practice."
-msgstr "Điểm chung cuộc của bạn là: %1.<br />Tôi nghĩ bạn cần luyện tập thêm nữa."
+msgstr ""
+"Điểm chung cuộc của bạn là: %1.<br />Tôi nghĩ bạn cần luyện tập thêm nữa."
 
 #: kbbmainwindow.cpp:369
 #, kde-format
@@ -315,9 +313,10 @@ msgid ""
 "correctly.\n"
 "So, do you really want to give up this game?"
 msgstr ""
-"Bạn đã đặt tất cả các quả bóng. Tuyệt vời!\nBây giờ bạn nên bấm vào "
-"\"Xong!\" để kết thúc trò chơi và kiểm tra xem bạn đã đoán đúng hay "
-"chưa.\nVậy, bạn có thực sự muốn bỏ cuộc trò chơi này không?"
+"Bạn đã đặt tất cả các quả bóng. Tuyệt vời!\n"
+"Bây giờ bạn nên bấm vào \"Xong!\" để kết thúc trò chơi và kiểm tra xem bạn "
+"đã đoán đúng hay chưa.\n"
+"Vậy, bạn có thực sự muốn bỏ cuộc trò chơi này không?"
 
 #: kbbmainwindow.cpp:430 kbbmainwindow.cpp:432
 #, kde-format
@@ -351,8 +350,7 @@ msgid ""
 "Note: In the sandbox mode,<br />the solution is already displayed.<br />Have "
 "fun!"
 msgstr ""
-"Lưu ý: Trong chế độ sandbox,<br />giải pháp đã được hiển thị.<br />Vui "
-"chơi!"
+"Lưu ý: Trong chế độ sandbox,<br />giải pháp đã được hiển thị.<br />Vui chơi!"
 
 #: kbbmainwindow.cpp:481
 #, kde-format
@@ -377,9 +375,9 @@ msgstr ""
 "<qt><p>Đây là <b>điểm số của bạn</b>. Bạn nên cố gắng đạt được điểm số thấp "
 "nhất có thể.</p><p>Điểm số tăng lên:<ul><li>theo thời gian: <b>1 điểm</b> "
 "mỗi giây.</li><li>khi sử dụng tia laser:<ul><li><b>3 điểm</b> nếu tia laser "
-"chạm vào bóng hoặc thoát ra tại điểm vào,</li><li><b>9 điểm</b> nếu nó "
-"thoát ra tại một điểm vào khác.</li></ul></li></ul></p><p>Điểm số của bạn "
-"sẽ được đặt thành <b>999</b> vào cuối bàn chơi nếu bạn mắc lỗi.</p></qt>"
+"chạm vào bóng hoặc thoát ra tại điểm vào,</li><li><b>9 điểm</b> nếu nó thoát "
+"ra tại một điểm vào khác.</li></ul></li></ul></p><p>Điểm số của bạn sẽ được "
+"đặt thành <b>999</b> vào cuối bàn chơi nếu bạn mắc lỗi.</p></qt>"
 
 #: kbbscalablegraphicwidget.cpp:104
 #, kde-format
@@ -446,10 +444,10 @@ msgid ""
 "It has 3 balls <b>hidden</b> inside it and 24 laser probes around it.<br /"
 "><br />The goal is to <b>find the positions of the balls.</b>"
 msgstr ""
-"Hướng dẫn này sẽ dạy bạn cách chơi KBlackBox, sử dụng một ví dụ đơn "
-"giản.<br /><br />Chúng ta đang chơi với một hộp đen vuông có 6 cột và 6 "
-"hàng. Nó có 3 quả bóng được <b>giấu</b> bên trong và 24 đầu dò laser xung "
-"quanh.<br /><br />Mục tiêu là <b>tìm ra vị trí của các quả bóng.</b>"
+"Hướng dẫn này sẽ dạy bạn cách chơi KBlackBox, sử dụng một ví dụ đơn giản."
+"<br /><br />Chúng ta đang chơi với một hộp đen vuông có 6 cột và 6 hàng. Nó "
+"có 3 quả bóng được <b>giấu</b> bên trong và 24 đầu dò laser xung quanh.<br /"
+"><br />Mục tiêu là <b>tìm ra vị trí của các quả bóng.</b>"
 
 #: kbbtutorial.cpp:151
 #, kde-format
@@ -469,10 +467,10 @@ msgid ""
 "they do, where they come out.<br /><br />The laser beams interact with the "
 "balls in various ways."
 msgstr ""
-"Các quả bóng không hiển thị, nhưng chúng ta có thể bắn các tia laser vào "
-"hộp ở các điểm vào khác nhau và quan sát xem các tia laser có rời khỏi hộp "
-"hay không, và nếu có, chúng sẽ xuất hiện ở đâu.<br /><br />Các tia laser "
-"tương tác với các quả bóng theo nhiều cách khác nhau."
+"Các quả bóng không hiển thị, nhưng chúng ta có thể bắn các tia laser vào hộp "
+"ở các điểm vào khác nhau và quan sát xem các tia laser có rời khỏi hộp hay "
+"không, và nếu có, chúng sẽ xuất hiện ở đâu.<br /><br />Các tia laser tương "
+"tác với các quả bóng theo nhiều cách khác nhau."
 
 #: kbbtutorial.cpp:156
 #, kde-format
@@ -518,9 +516,9 @@ msgid ""
 "hit is not certain: There are many other possibilities."
 msgstr ""
 "Một va chạm trực tiếp vào quả bóng được gọi là \"<b>đánh trúng</b>\". Tia "
-"đánh trúng quả bóng sẽ <b>không</b> thoát ra khỏi hộp đen.<br /><br />Ví "
-"dụ: Tia có thể đã đánh trúng quả bóng ở vị trí được hiển thị, nhưng vị trí "
-"chính xác của cú đánh không chắc chắn: Có nhiều khả năng khác."
+"đánh trúng quả bóng sẽ <b>không</b> thoát ra khỏi hộp đen.<br /><br />Ví dụ: "
+"Tia có thể đã đánh trúng quả bóng ở vị trí được hiển thị, nhưng vị trí chính "
+"xác của cú đánh không chắc chắn: Có nhiều khả năng khác."
 
 #: kbbtutorial.cpp:169
 #, kde-format
@@ -567,9 +565,9 @@ msgid ""
 ">A laser beam entering and exiting at the positions \"2\" might have been "
 "deflected by this configuration of 3 balls."
 msgstr ""
-"Như bạn có thể thấy, các tương tác trong hộp đen có thể khá phức tạp!<br "
-"/>Một tia laser vào và ra ở các vị trí \"2\" có thể đã bị lệch hướng bởi "
-"cấu hình này của 3 quả bóng."
+"Như bạn có thể thấy, các tương tác trong hộp đen có thể khá phức tạp!<br /"
+">Một tia laser vào và ra ở các vị trí \"2\" có thể đã bị lệch hướng bởi cấu "
+"hình này của 3 quả bóng."
 
 #: kbbtutorial.cpp:182
 #, kde-format
@@ -590,8 +588,8 @@ msgid ""
 "reflection."
 msgstr ""
 "Nếu tia laser rời khỏi hộp đen <b>tại điểm vào</b>, nó đã bị phản xạ ngược "
-"lại bên trong hộp đen.<br /><br />Ví dụ: Chúng tôi đã đặt 2 quả bóng cho "
-"bạn trong một cấu hình sẽ dẫn đến sự phản xạ như vậy."
+"lại bên trong hộp đen.<br /><br />Ví dụ: Chúng tôi đã đặt 2 quả bóng cho bạn "
+"trong một cấu hình sẽ dẫn đến sự phản xạ như vậy."
 
 #: kbbtutorial.cpp:190
 #, kde-format
@@ -612,8 +610,8 @@ msgid ""
 "reflection."
 msgstr ""
 "Nếu một quả bóng <b>ở cạnh của hộp</b> (không có quả bóng nào khác ở gần), "
-"một tia nhắm vào hộp đen ngay bên cạnh nó sẽ gây ra phản xạ ngược.<br /><br "
-"/>Ví dụ: Cấu hình được hiển thị có thể gây ra phản xạ ngược."
+"một tia nhắm vào hộp đen ngay bên cạnh nó sẽ gây ra phản xạ ngược.<br /><br /"
+">Ví dụ: Cấu hình được hiển thị có thể gây ra phản xạ ngược."
 
 #: kbbtutorial.cpp:197
 #, kde-format
@@ -659,12 +657,12 @@ msgid ""
 "ball to mark it as \"unsure\". (See also keyboard shortcuts.)<br /><br /"
 ">Example: We marked one position as sure, the other one as unsure."
 msgstr ""
-"Khi bạn đã xác định được vị trí của một quả bóng, vui lòng sử dụng nút "
-"chuột trái để đánh dấu nó. Để xoá dấu hiệu của một quả bóng, hãy sử dụng "
-"lại nút chuột trái. Mẹo cuối cùng: Nếu bạn không chắc chắn về một vị trí, "
-"bạn có thể sử dụng chuột phải trên một quả bóng để đánh dấu nó là \"không "
-"chắc chắn\". (Xem thêm các phím tắt bàn phím.)<br /><br />Ví dụ: Chúng tôi "
-"đã đánh dấu một vị trí là chắc chắn, vị trí kia là không chắc chắn."
+"Khi bạn đã xác định được vị trí của một quả bóng, vui lòng sử dụng nút chuột "
+"trái để đánh dấu nó. Để xoá dấu hiệu của một quả bóng, hãy sử dụng lại nút "
+"chuột trái. Mẹo cuối cùng: Nếu bạn không chắc chắn về một vị trí, bạn có thể "
+"sử dụng chuột phải trên một quả bóng để đánh dấu nó là \"không chắc chắn\". "
+"(Xem thêm các phím tắt bàn phím.)<br /><br />Ví dụ: Chúng tôi đã đánh dấu "
+"một vị trí là chắc chắn, vị trí kia là không chắc chắn."
 
 #: kbbtutorial.cpp:220
 #, kde-format
@@ -680,16 +678,17 @@ msgid ""
 "positions of the 3 balls with certainty. Of course, you can use some more "
 "shots if needed."
 msgstr ""
-"<b>Xin chúc mừng!</b> Bạn đã biết <b>tất cả các quy tắc</b> của "
-"KBlackBox.<br /><br /><b>Bạn có thể bắt đầu chơi.</b> Hãy thử hoàn thành "
-"bàn chơi hướng dẫn này bằng chính mình!<br /><br />Mẹo: Chúng tôi đã gửi đủ "
-"tia để suy luận vị trí chính xác của 3 quả bóng. Tất nhiên, bạn có thể sử "
-"dụng thêm một số lần bắn nếu cần."
+"<b>Xin chúc mừng!</b> Bạn đã biết <b>tất cả các quy tắc</b> của KBlackBox."
+"<br /><br /><b>Bạn có thể bắt đầu chơi.</b> Hãy thử hoàn thành bàn chơi "
+"hướng dẫn này bằng chính mình!<br /><br />Mẹo: Chúng tôi đã gửi đủ tia để "
+"suy luận vị trí chính xác của 3 quả bóng. Tất nhiên, bạn có thể sử dụng thêm "
+"một số lần bắn nếu cần."
 
 #: kbbtutorial.cpp:220
 #, kde-format
 msgid "Finish placing the balls and click on \"Done!\" when you are done!"
-msgstr "Hoàn thành việc đặt các quả bóng và bấm vào \"Xong!\" khi bạn đã hoàn tất!"
+msgstr ""
+"Hoàn thành việc đặt các quả bóng và bấm vào \"Xong!\" khi bạn đã hoàn tất!"
 
 #. i18n: ectx: label, entry (theme), group (KBlackBox Setup)
 #: kblackbox.kcfg:9
@@ -734,7 +733,9 @@ msgstr "Tìm các quả bóng ẩn trong hộp đen bằng cách bắn tia laser
 msgid ""
 "(c) 2007, Nicolas Roffet\n"
 "(c) 1999-2000, Robert Cimrman"
-msgstr "(c) 2007, Nicolas Roffet\n(c) 1999-2000, Robert Cimrman"
+msgstr ""
+"(c) 2007, Nicolas Roffet\n"
+"(c) 1999-2000, Robert Cimrman"
 
 #: main.cpp:35
 #, kde-format

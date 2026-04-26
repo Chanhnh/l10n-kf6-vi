@@ -74,11 +74,6 @@ msgstr "Ivan Cukic"
 #~ msgstr "Phần cài cắm KRunner để liệt kê và chuyển Hoạt động"
 
 #, fuzzy
-#~| msgctxt "Description"
-#~| msgid ""
-#~| "Collects events from applications that use GtkFileChooser and "
-#~| "GtkRecentManager as specified by https://www.freedesktop.org/wiki/"
-#~| "Specifications/desktop-bookmark-spec/"
 #~ msgctxt "Description"
 #~ msgid ""
 #~ "Collects events from applications that use KRecentDocument, "

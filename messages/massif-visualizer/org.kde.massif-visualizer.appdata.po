@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,11 @@ msgstr "Một trình trực quan hóa dữ liệu Massif của Valgrind"
 
 #. (itstool) path: description/p
 #: org.kde.massif-visualizer.appdata.xml:15
-msgid "Massif Visualizer is a tool that - who'd guess that - visualizes massif data. You run your application in Valgrind with --tool=massif and then open the generated massif.out.%pid in the visualizer. Gzip or Bzip2 compressed massif files can also be opened transparently."
+msgid ""
+"Massif Visualizer is a tool that - who'd guess that - visualizes massif "
+"data. You run your application in Valgrind with --tool=massif and then open "
+"the generated massif.out.%pid in the visualizer. Gzip or Bzip2 compressed "
+"massif files can also be opened transparently."
 msgstr ""
 "Massif Visualizer là một công cụ để - ai mà ngờ được - hiển thị dữ liệu "
 "massif. Bạn chạy ứng dụng của mình trong Valgrind với --tool=massif và sau "
@@ -40,7 +45,9 @@ msgstr "Biểu đồ tương tác về mức tiêu thụ bộ nhớ theo thời 
 
 #. (itstool) path: ul/li
 #: org.kde.massif-visualizer.appdata.xml:24
-msgid "Detailed snapshot analysis with callgraph visualization (requires KGraphViewer)."
+msgid ""
+"Detailed snapshot analysis with callgraph visualization (requires "
+"KGraphViewer)."
 msgstr ""
 "Phân tích ảnh chụp chi tiết với trực quan hóa đồ thị gọi (yêu cầu "
 "KGraphViewer)."
@@ -57,7 +64,9 @@ msgstr "Biểu đồ tương tác về mức tiêu thụ bộ nhớ theo thời 
 
 #. (itstool) path: screenshot/caption
 #: org.kde.massif-visualizer.appdata.xml:38
-msgid "Detailed snapshot analysis with callgraph visualization (requires KGraphViewer)"
+msgid ""
+"Detailed snapshot analysis with callgraph visualization (requires "
+"KGraphViewer)"
 msgstr ""
 "Phân tích ảnh chụp chi tiết với trực quan hóa đồ thị gọi (yêu cầu "
 "KGraphViewer)"

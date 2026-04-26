@@ -19,7 +19,6 @@ msgstr ""
 
 #: plasmasearch/kcm.h:70
 #, kde-format
-#| msgid "Available Plugins"
 msgid "Favorite Plugins"
 msgstr "Phần cài cắm ưa thích"
 
@@ -40,9 +39,6 @@ msgstr "Lấy phần cài cắm mới…"
 
 #: plasmasearch/ui/main.qml:44
 #, kde-format
-#| msgid ""
-#| "Enable or disable plugins (used in KRunner, Application Launcher, and the "
-#| "Overview effect)"
 msgid ""
 "Enable or disable plugins (used in KRunner, Application Launcher, and the "
 "Overview effect). Mark plugins as favorites and arrange them in order you "
@@ -100,8 +96,6 @@ msgstr "Cài đặt phần cài cắm KRunner thất bại"
 
 #: plugininstaller/main.cpp:48
 #, kde-format
-#| msgctxt "@info:shell"
-#| msgid "Command to execute: install or uninstall."
 msgctxt "@info:shell"
 msgid "Command to execute: install or uninstall"
 msgstr "Lệnh thực thi: cài đặt hoặc gỡ cài đặt"

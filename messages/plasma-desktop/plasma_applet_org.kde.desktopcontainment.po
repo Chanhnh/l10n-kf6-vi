@@ -77,7 +77,6 @@ msgstr "Hiện tệp ẩn:"
 
 #: package/contents/ui/ConfigFilter.qml:130
 #, kde-format
-#| msgid "File type"
 msgid "File Type"
 msgstr "Kiểu tệp"
 
@@ -415,7 +414,6 @@ msgstr ""
 
 #: package/contents/ui/main.qml:401
 #, kde-format
-#| msgid "Configure Desktop and Wallpaper…"
 msgid "Desktop and Wallpaper"
 msgstr "Bàn làm việc và phông nền"
 

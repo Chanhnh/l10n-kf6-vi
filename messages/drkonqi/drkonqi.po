@@ -45,9 +45,9 @@ msgid ""
 "when you have installed the proper debug symbol packages and you want to "
 "obtain a better backtrace."
 msgstr ""
-"Dùng nút này để tải lại thông tin về sự cố (backtrace). Việc này có ích "
-"khi bạn đã cài đặt các gói kí hiệu gỡ lỗi thích hợp và bạn muốn có "
-"backtrace tốt hơn."
+"Dùng nút này để tải lại thông tin về sự cố (backtrace). Việc này có ích khi "
+"bạn đã cài đặt các gói kí hiệu gỡ lỗi thích hợp và bạn muốn có backtrace tốt "
+"hơn."
 
 #: backtracewidget.cpp:67
 #, kde-format
@@ -85,8 +85,8 @@ msgid ""
 "Use this button to save the crash information (backtrace) to a file. This is "
 "useful if you want to take a look at it or to report the bug later."
 msgstr ""
-"Dùng nút này để lưu thông tin về sự cố (backtrace) vào một tệp. Việc này "
-"có ích nếu sau này bạn muốn xem lại hoặc báo lỗi."
+"Dùng nút này để lưu thông tin về sự cố (backtrace) vào một tệp. Việc này có "
+"ích nếu sau này bạn muốn xem lại hoặc báo lỗi."
 
 #: backtracewidget.cpp:115
 #, kde-format
@@ -97,8 +97,8 @@ msgid ""
 "they might actually contain a wealth of useful information.<br />Backtraces "
 "are commonly used during interactive and post-mortem debugging.</p>"
 msgstr ""
-"<h2>\"Backtrace\" là gì?</h2><p>Một Backtrace về cơ bản mô tả những gì "
-"đã diễn ra bên trong ứng dụng khi nó gặp sự cố, để các nhà phát triển có thể "
+"<h2>\"Backtrace\" là gì?</h2><p>Một Backtrace về cơ bản mô tả những gì đã "
+"diễn ra bên trong ứng dụng khi nó gặp sự cố, để các nhà phát triển có thể "
 "tìm ra xem vấn đề xuất phát từ đâu. Chúng có thể trông vô nghĩa với bạn, "
 "nhưng có khả năng chúng thực sự chứa một lượng lớn thông tin có ích.<br /"
 ">Backtrace thường được dùng khi gỡ lỗi tương tác và sau sự cố.</p>"
@@ -140,8 +140,8 @@ msgid ""
 "debugger and click <interface>Reload</interface>."
 msgstr ""
 "Một tiến trình gỡ lỗi khác đã được gắn vào ứng dụng gặp sự cố. Vì vậy, trình "
-"gỡ lỗi DrKonqi không thể tìm nạp được backtrace. Vui lòng đóng trình gỡ "
-"lỗi khác đó và bấm <interface>Tải lại</interface>."
+"gỡ lỗi DrKonqi không thể tìm nạp được backtrace. Vui lòng đóng trình gỡ lỗi "
+"khác đó và bấm <interface>Tải lại</interface>."
 
 #: backtracewidget.cpp:241 qml/RatingItem.qml:43
 #, kde-format
@@ -204,8 +204,8 @@ msgid ""
 "button."
 msgstr ""
 "Vui lòng đọc <link url='%1'>Cách tạo báo cáo sự cố hữu ích</link> để biết "
-"cách lấy backtrace có ích; cài đặt các gói cần thiết (<link "
-"url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải lại</interface>."
+"cách lấy backtrace có ích; cài đặt các gói cần thiết (<link url='%2'>danh "
+"sách các tệp</link>) và bấm nút <interface>Tải lại</interface>."
 
 #: backtracewidget.cpp:301
 #, kde-format
@@ -405,8 +405,6 @@ msgstr "Không tạo được tệp để lưu báo cáo."
 
 #: drkonqi.cpp:156
 #, kde-format
-#| msgctxt "@action:button"
-#| msgid "Save Report to File"
 msgctxt "@title:window"
 msgid "Save Report"
 msgstr "Lưu báo"
@@ -561,14 +559,11 @@ msgstr "Gỡ lỗi trong %1"
 
 #: main.cpp:151
 #, kde-format
-#| msgid "The KDE Crash Handler"
 msgid "Crash Handler"
 msgstr "Trình xử lí sự cố"
 
 #: main.cpp:153
 #, kde-format
-#| msgid ""
-#| "The KDE Crash Handler gives the user feedback if a program has crashed."
 msgid "Crash Handler gives the user feedback if a program has crashed."
 msgstr "Trình xử lý sự cố phản hồi với người dùng khi một ứng dụng gặp sự cố."
 
@@ -791,9 +786,6 @@ msgid "Developer Information"
 msgstr "Thông tin nhà phát triển"
 
 #: qml/DeveloperPage.qml:33
-#, 
-#| msgctxt "@info/plain report to url/mail address"
-#| msgid "Report to %1"
 msgctxt "@action Report the bug on this domain"
 msgid "Report on %1"
 msgstr "Báo cáo trên %1"
@@ -859,16 +851,6 @@ msgstr ""
 "tương tác và tử hậu.</para>"
 
 #: qml/DeveloperPage.qml:199
-#, 
-#| msgctxt "@info/rich"
-#| msgid ""
-#| "You can click the <interface>Install Debug Symbols</interface> button in "
-#| "order to automatically install the missing debugging information "
-#| "packages. If this method\n"
-#| "does not work: please read <link url='%1'>How to create useful crash "
-#| "reports</link> to learn how to get a useful\n"
-#| "backtrace; install the needed packages (<link url='%2'> list of files</"
-#| "link>) and click the <interface>Reload</interface> button."
 msgctxt "@info/rich"
 msgid ""
 "You can click the <interface>Install Debug Symbols</interface> button in "
@@ -883,17 +865,9 @@ msgstr ""
 "động cài đặt các gói thông tin gỡ lỗi còn thiếu. Nếu cách này không hoạt "
 "động: vui lòng đọc <link url='%1'>Cách tạo báo cáo sự cố hữu ích</link> để "
 "biết cách lấy một vết ngăn xếp có ích; cài đặt các gói cần thiết (<link "
-"url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải "
-"lại</interface>."
+"url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải lại</interface>."
 
 #: qml/DeveloperPage.qml:207
-#, 
-#| msgctxt "@info/rich"
-#| msgid ""
-#| "Please read <link url='%1'>How to create useful crash reports</link> to "
-#| "learn how to get a useful backtrace; install the needed packages (<link "
-#| "url='%2'>list of files</link>) and click the <interface>Reload</"
-#| "interface> button."
 msgctxt "@info/rich"
 msgid ""
 "Please read <link url='%1'>How to create useful crash reports</link> to "
@@ -902,9 +876,9 @@ msgid ""
 "interface> button."
 msgstr ""
 "Vui lòng đọc <link url='%1'>Cách tạo báo cáo sự cố hữu ích</link> để biết "
-"cách lấy một vết ngăn xếp có ích; cài đặt các gói cần thiết\n(<link "
-"url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải "
-"lại</interface>."
+"cách lấy một vết ngăn xếp có ích; cài đặt các gói cần thiết\n"
+"(<link url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải lại</"
+"interface>."
 
 #: qml/DeveloperPage.qml:219
 msgctxt "@info/rich"
@@ -929,9 +903,9 @@ msgid ""
 "automatically when using a metered internet connection."
 msgstr ""
 "Các báo cáo sự cố có thể có giá trị lớn hơn nếu các tài nguyên gỡ lỗi bổ "
-"sung được tải về từ nhà phân phối của bạn trước tiên.\nĐiều này gây ra các "
-"tải về có kích thước không rõ khi xảy ra sự cố. Điều này sẽ được bỏ qua tự "
-"động khi sử dụng kết nối internet có giới hạn."
+"sung được tải về từ nhà phân phối của bạn trước tiên.\n"
+"Điều này gây ra các tải về có kích thước không rõ khi xảy ra sự cố. Điều này "
+"sẽ được bỏ qua tự động khi sử dụng kết nối internet có giới hạn."
 
 #: qml/LoginPage.qml:14
 msgctxt "@title"
@@ -990,16 +964,6 @@ msgstr ""
 "điện tử và mật khẩu đã cho."
 
 #: qml/main.qml:32
-#, 
-#| msgctxt "@info"
-#| msgid ""
-#| "<para>As the Crash Handler itself has failed, the\n"
-#| "automatic reporting process is disabled to reduce the\n"
-#| "risks of failing again.<nl /><nl />\n"
-#| "Please, <link url='%1'>manually report</link> this error\n"
-#| "to the KDE bug tracking system. Do not forget to include\n"
-#| "the backtrace from the <interface>Developer Information</interface>\n"
-#| "tab.</para>"
 msgctxt "@info"
 msgid ""
 "<para>As the Crash Handler itself has failed, the\n"
@@ -1010,21 +974,14 @@ msgid ""
 "the backtrace from the <interface>Developer Information</interface>\n"
 "page.</para>"
 msgstr ""
-"<para>Vì bản thân trình xử lí sự cố đã bị hỏng, tiến\ntrình báo cáo tự động "
-"đã bị tắt để giảm nguy cơ hỏng\nmột lần nữa.<nl /><nl />\nVui lòng <link "
-"url='%1'>báo cáo thủ công</link> lỗi này\nđến hệ thống theo dõi lỗi của "
-"KDE. Đừng quên kèm theo\nvết ngăn xếp từ trang <interface>Thông tin nhà "
-"phát triển</interface>.</para>"
+"<para>Vì bản thân trình xử lí sự cố đã bị hỏng, tiến\n"
+"trình báo cáo tự động đã bị tắt để giảm nguy cơ hỏng\n"
+"một lần nữa.<nl /><nl />\n"
+"Vui lòng <link url='%1'>báo cáo thủ công</link> lỗi này\n"
+"đến hệ thống theo dõi lỗi của KDE. Đừng quên kèm theo\n"
+"vết ngăn xếp từ trang <interface>Thông tin nhà phát triển</interface>.</para>"
 
 #: qml/main.qml:44
-#, 
-#| msgctxt "@info"
-#| msgid ""
-#| "<para>The reporting assistant is disabled because the crash handler "
-#| "dialog was started in safe mode.<nl />\n"
-#| "You can manually report this bug to <link>%1</link> (including the "
-#| "backtrace from the <interface>Developer Information</interface> tab.)</"
-#| "para>"
 msgctxt "@info"
 msgid ""
 "<para>The reporting assistant is disabled because the crash handler dialog "
@@ -1032,10 +989,10 @@ msgid ""
 "You can manually report this bug to <link>%1</link> (including the backtrace "
 "from the <interface>Developer Information</interface> page.)</para>"
 msgstr ""
-"<para>Trợ tá báo cáo đã bị tắt vì hộp thoại trình xử lí sự cố được khởi "
-"động trong chế độ an toàn.<nl />\nBạn có thể báo cáo thủ công lỗi này đến "
-"<link>%1</link> (kèm theo vết ngăn xếp từ trang <interface>Thông tin nhà "
-"phát triển</interface>.)</para>"
+"<para>Trợ tá báo cáo đã bị tắt vì hộp thoại trình xử lí sự cố được khởi động "
+"trong chế độ an toàn.<nl />\n"
+"Bạn có thể báo cáo thủ công lỗi này đến <link>%1</link> (kèm theo vết ngăn "
+"xếp từ trang <interface>Thông tin nhà phát triển</interface>.)</para>"
 
 #: qml/main.qml:51
 msgctxt "@info"
@@ -1066,9 +1023,6 @@ msgstr ""
 "thử lại hoặc đóng cửa sổ."
 
 #: qml/main.qml:89
-#, 
-#| msgctxt "@action"
-#| msgid "Retry"
 msgctxt "@action retry gathering crash data"
 msgid "Retry"
 msgstr "Thử lại"
@@ -1079,9 +1033,6 @@ msgid "Send Automatic Report"
 msgstr "Gửi Báo Tự Động"
 
 #: qml/MainPage.qml:69
-#, 
-#| msgctxt "@action"
-#| msgid "Developer Information"
 msgctxt "@action"
 msgid "See Developer Information"
 msgstr "Xem Thông tin Nhà phát triển"
@@ -1242,9 +1193,6 @@ msgid "Crash Report Sent"
 msgstr "Đã gửi báo cáo sự cố"
 
 #: qml/SentPage.qml:19 qml/SentryPage.qml:17
-#, 
-#| msgctxt "Notification action button, keep short"
-#| msgid "Restart App"
 msgctxt "@action %1 is an application name e.g. kwrite"
 msgid "Restart %1"
 msgstr "Khởi động lại %1"
@@ -1261,17 +1209,11 @@ msgstr ""
 "Cảm ơn bạn đã tham gia đóng góp cho KDE. Giờ bạn có thể đóng cửa sổ này."
 
 #: qml/SentryPage.qml:32
-#, 
-#| msgctxt "@info"
-#| msgid "Waiting for data…"
 msgctxt "@label"
 msgid "Collecting crash data…"
 msgstr "Đang thu thập dữ liệu sự cố..."
 
 #: qml/SentryPage.qml:53
-#, 
-#| msgctxt "@title"
-#| msgid "Crash Report Sent"
 msgctxt "@label"
 msgid "Crash Report Sent"
 msgstr "Đã gửi báo cáo sự cố"
@@ -1283,9 +1225,6 @@ msgid "In the future:"
 msgstr "Trong tương lai:"
 
 #: qml/SentryPage.qml:64
-#, 
-#| msgctxt "@info bug resolution"
-#| msgid "Not a valid report/crash"
 msgctxt "@label"
 msgid "Automatically report crashes"
 msgstr "Tự động báo cáo sự cố"
@@ -1298,12 +1237,10 @@ msgid ""
 "You will not receive any more crash notifications."
 msgstr ""
 "Luôn tự động gửi báo cáo sự cố đến hệ thống theo dõi sự cố của KDE. Không "
-"cần nhập thủ công.\nBạn sẽ không nhận được thông báo sự cố nữa."
+"cần nhập thủ công.\n"
+"Bạn sẽ không nhận được thông báo sự cố nữa."
 
 #: qml/SentryPage.qml:89
-#, 
-#| msgctxt "@info"
-#| msgid "Information about the crash:"
 msgctxt "@label placeholder text in TextArea"
 msgid "Tell us more about the crash…"
 msgstr "Hãy cho chúng tôi biết thêm về sự cố..."
@@ -1398,8 +1335,6 @@ msgstr "Vui lòng báo lỗi này để giúp cải thiện phần mềm."
 
 #: statusnotifier.cpp:33
 #, kde-format
-#| msgctxt "Notification text"
-#| msgid "The application closed unexpectedly."
 msgctxt "Notification text"
 msgid ""
 "The application closed unexpectedly. A report is being automatically "
@@ -1435,8 +1370,6 @@ msgstr "Ẩn"
 
 #: statusnotifier.cpp:120
 #, kde-format
-#| msgctxt "@title"
-#| msgid "Details"
 msgctxt "@action:button, keep short"
 msgid "Add Details"
 msgstr "Thêm chi tiết"
@@ -1584,8 +1517,8 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgctxt "@info"
 #~ msgid ""
 #~ "Your crash has already been reported as <link url=\"%1\">Bug %1</link>, "
-#~ "which is a <emphasis strong='true'>duplicate</emphasis> of <link url="
-#~ "\"%2\">Bug %2</link>"
+#~ "which is a <emphasis strong='true'>duplicate</emphasis> of <link "
+#~ "url=\"%2\">Bug %2</link>"
 #~ msgstr ""
 #~ "Sự cố bạn gặp đã được báo cáo bằng <link url=\"%1\">lỗi %1</link>, "
 #~ "<emphasis strong='true'>trùng lặp</emphasis> với <link url=\"%2\">lỗi %2</"
@@ -1616,8 +1549,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Kèm thông tin bổ sung"
 
 #, fuzzy
-#~| msgctxt "@info"
-#~| msgid "Trying to contact bugs.kde.org..."
 #~ msgctxt "@action"
 #~ msgid "Report on bugs.kde.org"
 #~ msgstr "Đang liên hệ bugs.kde.org..."
@@ -1700,12 +1631,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Trợ tá hướng dẫn báo cáo lỗi"
 
 #, fuzzy
-#~| msgctxt "@info/rich"
-#~| msgid ""
-#~| "This assistant will guide you through the crash reporting process for "
-#~| "the KDE Bug Reports Database Site. All the information you enter on the "
-#~| "bug report must be in English, if possible, as KDE is formed "
-#~| "internationally."
 #~ msgctxt "@info/rich"
 #~ msgid ""
 #~ "This assistant will guide you through the crash reporting process for the "
@@ -1862,10 +1787,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "một danh khoản tại: <link>%1</link>"
 
 #, fuzzy
-#~| msgctxt "@info/rich"
-#~| msgid ""
-#~| "Then, enter your username and password and press the Login button. You "
-#~| "can use this login to directly access the KDE bug tracking system later."
 #~ msgctxt "@info/rich"
 #~ msgid ""
 #~ "Then, enter your e-mail address and password and press the Login button. "
@@ -1893,13 +1814,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Danh sách các báo cáo có khả năng trùng"
 
 #, fuzzy
-#~| msgctxt "@info/rich"
-#~| msgid ""
-#~| "This page will search the bug report database for similar crashes which "
-#~| "are possible duplicates of your bug. If there are similar bug reports "
-#~| "found, you can double click on them to see details. Then, read the "
-#~| "current bug report information so you can check to see if they are "
-#~| "similar. "
 #~ msgctxt "@info/rich"
 #~ msgid ""
 #~ "This page will search the bug report system for similar crashes which are "
@@ -1977,8 +1891,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "nguồn."
 
 #, fuzzy
-#~| msgctxt "@info/rich"
-#~| msgid "<note>You should write in English.</note>"
 #~ msgctxt "@info/rich"
 #~ msgid ""
 #~ "<note>You should <strong>write those information in English</strong>.</"
@@ -1998,12 +1910,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "cáo sau."
 
 #, fuzzy
-#~| msgctxt "@info/rich"
-#~| msgid ""
-#~| "If the process fails, you can click <interface>Retry</interface> to try "
-#~| "sending the bug report again. If the report cannot be sent because the "
-#~| "bug tracking database has a problem, you can save it to a file to "
-#~| "manually report later."
 #~ msgctxt "@info/rich"
 #~ msgid ""
 #~ "If the process fails, you can click <interface>Retry</interface> to try "
@@ -2021,11 +1927,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Cám ơn bạn vì đã tham gia đóng góp cho KDE nhé!"
 
 #, fuzzy
-#~| msgctxt "@info examples about information the user can provide"
-#~| msgid ""
-#~| "Widgets you have in your desktop and panels (both official and "
-#~| "unofficial), desktop settings (wallpaper plugin, themes), activities, "
-#~| "and dashboard configuration."
 #~ msgctxt "@info examples about information the user can provide"
 #~ msgid ""
 #~ "Widgets you have in your desktop and panels (both official and "
@@ -2083,8 +1984,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "Kiểu phương tiện (phần mở rộng và định dạng) bạn đang xem hoặc nghe."
 
 #, fuzzy
-#~| msgctxt "@action:button"
-#~| msgid "Sho&w Contents of the Report"
 #~ msgctxt "@action:button"
 #~ msgid "&Show Contents of the Report"
 #~ msgstr "Hiệ&n nội dung báo cáo"
@@ -2206,8 +2105,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Tiếp tục"
 
 #, fuzzy
-#~| msgid ""
-#~| "You are going to mark your crash as related to bug <numid>%1</numid>"
 #~ msgid "You are going to mark your crash as related to bug %1"
 #~ msgstr ""
 #~ "Bạn đang định đánh dấu lỗi của bạn có liên quan đến lỗi <numid>%1</numid>"
@@ -2233,17 +2130,11 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Dùng nút này để thử tải lại báo cáo lỗi."
 
 #, fuzzy
-#~| msgctxt "@info:status"
-#~| msgid "Loading information about bug <numid>%1</numid> from %2...."
 #~ msgctxt "@info:status"
 #~ msgid "Loading information about bug %1 from %2...."
 #~ msgstr "Đang tải thông tin về lỗi <numid>%1</numid> từ %2...."
 
 #, fuzzy
-#~| msgctxt "@info/plain"
-#~| msgid ""
-#~| "Backtrace of the crash I experienced:\n"
-#~| "\n"
 #~ msgctxt "@info"
 #~ msgid ""
 #~ "Backtrace of the crash I experienced:\n"
@@ -2317,11 +2208,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Không, hãy để tôi đọc thông báo mình chọn"
 
 #, fuzzy
-#~| msgctxt "@info"
-#~| msgid ""
-#~| "The report you selected (bug <numid>%1</numid>) is already marked as "
-#~| "duplicate of bug <numid>%2</numid>. Do you want to read that report "
-#~| "instead? (recommended)"
 #~ msgctxt "@info"
 #~ msgid ""
 #~ "The report you selected (bug %1) is already marked as duplicate of bug "
@@ -2386,8 +2272,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "<h2>Bình luận thêm</h2>%1"
 
 #, fuzzy
-#~| msgctxt "@info:status"
-#~| msgid "Showing bug <numid>%1</numid>"
 #~ msgctxt "@info:status"
 #~ msgid "Showing bug %1"
 #~ msgstr "Đang hiển thị lỗi <numid>%1</numid>"
@@ -2413,8 +2297,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Kết quả chi tiết lỗi đã phân tích"
 
 #, fuzzy
-#~| msgctxt "@title"
-#~| msgid "Login into the KDE Bugtracking System"
 #~ msgid "the KDE Bug Tracking System"
 #~ msgstr "Đăng nhập vào hệ thống theo dõi lỗi KDE"
 
@@ -2464,8 +2346,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Ví dụ: %1"
 
 #, fuzzy
-#~| msgctxt "@info:status"
-#~| msgid "Error when trying to login: <message>%1.</message>"
 #~ msgctxt "@info:status"
 #~ msgid "Error when trying to login: <message>%1</message>"
 #~ msgstr "Lỗi khi đang cố gắng đăng nhập: <message>%1.</message>"
@@ -2475,22 +2355,16 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Đã đăng nhập vào hệ thống theo dõi lỗi KDE (%1) bằng: %2."
 
 #, fuzzy
-#~| msgctxt "@info:status '1' is a url, '2' the username"
-#~| msgid "Performing login at %1 as %2..."
 #~ msgctxt "@info:status '1' is a url, '2' the e-mail address"
 #~ msgid "Performing login at %1 as %2..."
 #~ msgstr "Đang thực hiện đăng nhập tại %1 bằng %2..."
 
 #, fuzzy
-#~| msgctxt "@info:status/rich"
-#~| msgid "<b>Error: Invalid username or password</b>"
 #~ msgctxt "@info:status"
 #~ msgid "<b>Error: Invalid e-mail address or password</b>"
 #~ msgstr "<b>Lỗi: tên người dùng hay mật khẩu không hợp lệ</b>"
 
 #, fuzzy
-#~| msgctxt "@action:button"
-#~| msgid "Retry..."
 #~ msgctxt "@action/button retry button in error widget"
 #~ msgid "Retry"
 #~ msgstr "Thử lại..."
@@ -2586,8 +2460,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Lỗi khi đang gửi báo cáo: <message>%1.</message>"
 
 #, fuzzy
-#~| msgctxt "@info/plain report to url/mail address"
-#~| msgid "Report to %1"
 #~ msgctxt "@info report to KDE bugtracker address"
 #~ msgid "Report to %1"
 #~ msgstr "Báo cáo cho %1"
@@ -2597,10 +2469,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Tìm thêm báo cáo lỗi"
 
 #, fuzzy
-#~| msgctxt "@info:tooltip"
-#~| msgid ""
-#~| "Use this button to search for more similar bug reports on an earlier "
-#~| "date."
 #~ msgctxt "@info:tooltip"
 #~ msgid "Use this button to search for more similar bug reports"
 #~ msgstr ""
@@ -2674,57 +2542,41 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Đã dừng tìm kiếm."
 
 #, fuzzy
-#~| msgctxt "@info:status"
-#~| msgid "Search stopped. Showing results from %1 to %2"
 #~ msgctxt "@info:status"
 #~ msgid "Search stopped. Showing results."
 #~ msgstr "Đã dừng tìm kiếm. Đang hiển thị kết quả từ %1 đến %2"
 
 #, fuzzy
-#~| msgctxt "@info/plain bug status"
-#~| msgid "[Open]"
 #~ msgctxt "@info bug status"
 #~ msgid "[Open]"
 #~ msgstr "[Mở]"
 
 #, fuzzy
-#~| msgctxt "@info/plain bug resolution"
-#~| msgid "[Fixed]"
 #~ msgctxt "@info bug resolution"
 #~ msgid "[Fixed]"
 #~ msgstr "[Đã sửa]"
 
 #, fuzzy
-#~| msgctxt "@info/plain bug resolution"
-#~| msgid "[Non-reproducible]"
 #~ msgctxt "@info bug resolution"
 #~ msgid "[Non-reproducible]"
 #~ msgstr "[Không tái hiện được]"
 
 #, fuzzy
-#~| msgctxt "@info/plain bug resolution"
-#~| msgid "[Invalid]"
 #~ msgctxt "@info bug resolution"
 #~ msgid "[Invalid]"
 #~ msgstr "[Không hợp lệ]"
 
 #, fuzzy
-#~| msgctxt "@info/plain bug resolution"
-#~| msgid "[External problem]"
 #~ msgctxt "@info bug resolution"
 #~ msgid "[External problem]"
 #~ msgstr "[Vấn đề ở bên ngoài]"
 
 #, fuzzy
-#~| msgctxt "@info/plain bug status"
-#~| msgid "[Incomplete]"
 #~ msgctxt "@info bug status"
 #~ msgid "[Incomplete]"
 #~ msgstr "[Chưa hoàn thiện]"
 
 #, fuzzy
-#~| msgctxt "@info:status"
-#~| msgid "Showing results from %1 to %2"
 #~ msgctxt "@info:status"
 #~ msgid "Showing results."
 #~ msgstr "Đang hiện kết quả từ %1 tới %2"
@@ -2754,14 +2606,10 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ ">Vui lòng đợi một lát và thử lại."
 
 #, fuzzy
-#~| msgctxt "@label"
-#~| msgid ""
-#~| "The report is going to be <strong>attached</strong> to bug <numid>%1</"
-#~| "numid>. <a href=\"#\">Cancel</a>"
 #~ msgctxt "@label"
 #~ msgid ""
-#~ "The report is going to be <strong>attached</strong> to bug %1. <a href=\"#"
-#~ "\">Cancel</a>"
+#~ "The report is going to be <strong>attached</strong> to bug %1. <a "
+#~ "href=\"#\">Cancel</a>"
 #~ msgstr ""
 #~ "Báo cáo sẽ được <strong>đính kèm</strong> vào lỗi <numid>%1</numid>. <a "
 #~ "href=\"#\">Huỷ bỏ</a>"
@@ -2821,11 +2669,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "thường nào trong ứng dụng hay toàn bộ màn hình làm việc"
 
 #, fuzzy
-#~| msgctxt "@info:tooltip"
-#~| msgid ""
-#~| "Check this option if you can provide application specific details or "
-#~| "settings that may be related to the crash. You can check the examples "
-#~| "(if available.)"
 #~ msgctxt "@info:tooltip"
 #~ msgid ""
 #~ "Check this option if you can provide application specific details or "
@@ -2836,11 +2679,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "sẵn có)."
 
 #, fuzzy
-#~| msgctxt "@info:whatsthis"
-#~| msgid ""
-#~| "Check this option if you can provide application specific details or "
-#~| "settings that may be related to the crash. You can check the examples "
-#~| "(if available.)"
 #~ msgctxt "@info:whatsthis"
 #~ msgid ""
 #~ "Check this option if you can provide application specific details or "
@@ -2883,12 +2721,10 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "<strong>Bạn có muốn tiếp tục với tiến trình báo cáo lỗi?</strong>"
 
 #, fuzzy
-#~| msgid "No, do not file a new bug report, and cancel the assistant"
 #~ msgid "No, do not file &a new bug report, and cancel the assistant"
 #~ msgstr "Không, đừng tải lên một báo cáo lỗi mới và thoát trợ tá"
 
 #, fuzzy
-#~| msgid "Proceed with reporting the bug"
 #~ msgid "Proceed with reporting &the bug"
 #~ msgstr "Tiếp tục báo cáo lỗi"
 
@@ -2898,12 +2734,10 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "<strong>Bạn có chắc báo cáo này khớp với tình huống lỗi của bạn?</strong>"
 
 #, fuzzy
-#~| msgid "Not really sure: mark as a possible duplicate"
 #~ msgid "Not &really sure: mark as a possible duplicate"
 #~ msgstr "Không chắc: đánh dấu là có thể trùng"
 
 #, fuzzy
-#~| msgid "Completely sure: attach my information to this report"
 #~ msgid "Completely sure: attach my &information to this report"
 #~ msgstr "Hoàn toàn chắc: đính kèm thông tin của tôi vào báo cáo này"
 
@@ -2920,14 +2754,10 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "<strong>Thông tin về lỗi:</strong>(<a href=\"#\">trợ giúp và ví dụ</a>)"
 
 #, fuzzy
-#~| msgctxt "@label:textbox bugzilla account password"
-#~| msgid "Password:"
 #~ msgid "Password input"
 #~ msgstr "Mật khẩu:"
 
 #, fuzzy
-#~| msgctxt "@label:textbox bugzilla account username"
-#~| msgid "Username:"
 #~ msgid "Username input"
 #~ msgstr "Tên người dùng:"
 
@@ -2940,8 +2770,6 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ msgstr "Khởi động lại ứng dụng khi nhấn nút Kết thúc"
 
 #, fuzzy
-#~| msgctxt "@action:button"
-#~| msgid "Report Bug"
 #~ msgctxt "@action:button"
 #~ msgid "Report &Bug"
 #~ msgstr "Báo cáo lỗi"

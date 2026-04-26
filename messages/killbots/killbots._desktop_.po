@@ -14,7 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: rulesets/classic.desktop:2 themes/classic.desktop:2
-#, 
 msgctxt "Name"
 msgid "Classic"
 msgstr "Cổ điển"
@@ -28,12 +27,11 @@ msgid ""
 "p><p>Due to its larger width, it is recommended that you use a theme with "
 "narrower tiles to better fit your screen.</p></qt>"
 msgstr ""
-"<qt><p>Các quy tắc được sử dụng trong phiên bản gốc của <tt>robots</tt> "
-"trên dòng lệnh BSD.</p><p>Không có gì đặc biệt, chỉ có các yếu tố cơ bản "
-"của bàn chơi: không có robot nhanh, không có dịch chuyển an toàn, không ấn "
-"đống rác, và một lưới bàn chơi khổng lồ.</p><p>Do chiều rộng lớn hơn, bạn "
-"nên sử dụng một chủ đề có ô nhỏ hơn để phù hợp hơn với màn hình của "
-"bạn.</p></qt>"
+"<qt><p>Các quy tắc được sử dụng trong phiên bản gốc của <tt>robots</tt> trên "
+"dòng lệnh BSD.</p><p>Không có gì đặc biệt, chỉ có các yếu tố cơ bản của bàn "
+"chơi: không có robot nhanh, không có dịch chuyển an toàn, không ấn đống rác, "
+"và một lưới bàn chơi khổng lồ.</p><p>Do chiều rộng lớn hơn, bạn nên sử dụng "
+"một chủ đề có ô nhỏ hơn để phù hợp hơn với màn hình của bạn.</p></qt>"
 
 #: rulesets/daleks.desktop:2
 msgctxt "Name"
@@ -65,8 +63,7 @@ msgid ""
 "safe teleports, fast enemies and pushable junkheaps.</p></qt>"
 msgstr ""
 "<qt><p>Kiểu bàn chơi Killbots mặc định.</p><p>Bao gồm lưới kích thước trung "
-"bình, dịch chuyển an toàn, kẻ thù nhanh và đống rác có thể đẩy "
-"được.</p></qt>"
+"bình, dịch chuyển an toàn, kẻ thù nhanh và đống rác có thể đẩy được.</p></qt>"
 
 #: rulesets/easy.desktop:2
 msgctxt "Name"
@@ -81,13 +78,10 @@ msgid ""
 "an increasing energy cap.</p></qt>"
 msgstr ""
 "<qt><p>Một phiên bản dễ hơn của kiểu trò chơi \"Killbots\".</p><p>Bao gồm "
-"một lưới bàn chơi lớn hơn được điền sẵn với đống rác, một kho năng lượng "
-"ban đầu và giới hạn năng lượng tăng dần.</p></qt>"
+"một lưới bàn chơi lớn hơn được điền sẵn với đống rác, một kho năng lượng ban "
+"đầu và giới hạn năng lượng tăng dần.</p></qt>"
 
 #: rulesets/energycrisis.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Starrise"
 msgctxt "Name"
 msgid "Energy Crisis"
 msgstr "Khủng hoảng năng lượng"
@@ -99,9 +93,9 @@ msgid ""
 "you survive and how many points can you collect before your energy and luck "
 "run out?"
 msgstr ""
-"Người chơi bắt đầu với 30 năng lượng và không thể kiếm thêm. Bạn có thể "
-"sống sót trong bao nhiêu vòng và thu thập được bao nhiêu điểm trước khi "
-"năng lượng và may mắn của bạn cạn kiệt?"
+"Người chơi bắt đầu với 30 năng lượng và không thể kiếm thêm. Bạn có thể sống "
+"sót trong bao nhiêu vòng và thu thập được bao nhiêu điểm trước khi năng "
+"lượng và may mắn của bạn cạn kiệt?"
 
 #: src/org.kde.killbots.desktop:56
 msgctxt "GenericName"
@@ -119,8 +113,6 @@ msgid "A theme for those who miss the console version"
 msgstr "Một chủ đề dành cho những ai nhớ phiên bản bàn điều khiển"
 
 #: themes/mountainadventure.desktop:2
-#, 
-#| msgid "Name=Adventure"
 msgctxt "Name"
 msgid "Mountain Adventure"
 msgstr "Phiêu lưu núi"
@@ -128,10 +120,10 @@ msgstr "Phiêu lưu núi"
 #: themes/mountainadventure.desktop:51
 msgctxt "Description"
 msgid "Indiana Gnomes battles ghosts and bats on a misty mountainside."
-msgstr "Indiana Gnomes chiến đấu với những con ma và dơi trên một sườn núi mờ ảo."
+msgstr ""
+"Indiana Gnomes chiến đấu với những con ma và dơi trên một sườn núi mờ ảo."
 
 #: themes/mummymadness.desktop:2
-#, 
 msgctxt "Name"
 msgid "Mummy Madness"
 msgstr "Mummy Madness"

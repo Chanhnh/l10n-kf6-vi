@@ -3855,8 +3855,6 @@ msgstr "Tuyết trôi thấp"
 
 #: noaa_i18n.dat:164
 #, kde-format
-#| msgctxt "weather forecast"
-#| msgid "Mostly Clear"
 msgctxt "weather condition"
 msgid "Mostly Clear"
 msgstr "Phần lớn quang đãng"
@@ -4901,32 +4899,24 @@ msgstr "Hầu hết là trong"
 
 #: noaa_i18n.dat:358
 #, kde-format
-#| msgctxt "weather forecast"
-#| msgid "Showers or thunderstorms"
 msgctxt "weahter forecast"
 msgid "Showers And Thunderstorms"
 msgstr "Mưa rào và dông"
 
 #: noaa_i18n.dat:359
 #, kde-format
-#| msgctxt "weather forecast"
-#| msgid "Slight Chance Thunderstorms"
 msgctxt "weather forecast"
 msgid "Slight Chance Showers And Thunderstorms"
 msgstr "Ít khả năng mưa rào và dông"
 
 #: noaa_i18n.dat:360
 #, kde-format
-#| msgctxt "weather forecast"
-#| msgid "Chance of showers or thunderstorms"
 msgctxt "weather forecast"
 msgid "Chance Showers And Thunderstorms"
 msgstr "Có thể mưa rào và dông"
 
 #: noaa_i18n.dat:361
 #, kde-format
-#| msgctxt "weather forecast"
-#| msgid "Thunderstorms Likely"
 msgctxt "weather forecast"
 msgid "Showers And Thunderstorms Likely"
 msgstr "Có thể mưa rào và dông"

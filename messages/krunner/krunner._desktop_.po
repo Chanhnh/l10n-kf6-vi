@@ -15,9 +15,6 @@ msgstr ""
 "X-Generator: Lokalize 20.12.2\n"
 
 #: templates/runner6python/runnerpy.kdevtemplate:2
-#, 
-#| msgctxt "Name"
-#| msgid "Python KRunner Plugin"
 msgctxt "Name"
 msgid "Python KRunner Plugin (Qt6)"
 msgstr "Phần cài cắm KRunner Python (Qt6)"

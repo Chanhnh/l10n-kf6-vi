@@ -67,13 +67,11 @@ msgstr "Lệnh để thực thi"
 
 #: kstart.cpp:92
 #, kde-format
-#| msgid "Alternative to <command>: desktop file to start."
 msgid "Alternative to <command>: desktop file name to start, e.g. org.kde.kate"
 msgstr "Thay thế cho <command>: tên tệp desktop để khởi động, vd. org.kde.kate"
 
 #: kstart.cpp:95
 #, kde-format
-#| msgid "Optional URL to pass <desktopfile>, when using --service"
 msgid "Optional URL to pass to the application when using --application"
 msgstr "URL tuỳ chọn để truyền cho ứng dụng khi dùng --application"
 

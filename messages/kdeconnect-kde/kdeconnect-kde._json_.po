@@ -7,6 +7,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -210,8 +211,7 @@ msgstr "Đồng bộ hóa Danh bạ từ Thiết bị Được Kết nối đế
 msgctxt "Description"
 msgid "Find your lost phone by making it play an alarm sound"
 msgstr ""
-"Tìm điện thoại bị mất của bạn bằng cách làm cho nó phát một âm thanh báo "
-"động"
+"Tìm điện thoại bị mất của bạn bằng cách làm cho nó phát một âm thanh báo động"
 
 #: plugins/findthisdevice/kdeconnect_findthisdevice.json
 msgctxt "Description"

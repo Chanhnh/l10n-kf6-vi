@@ -14,29 +14,21 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: contactprintthemeeditor/org.kde.contactprintthemeeditor.desktop:2
-#, 
-#| msgid "Comment=X Resource Editor"
 msgctxt "Name"
 msgid "Contact Print Theme Editor"
 msgstr "Trình Biên Tập Chủ Đề In Liên Hệ"
 
 #: contactprintthemeeditor/org.kde.contactprintthemeeditor.desktop:45
-#, 
-#| msgid "Comment=X Resource Editor"
 msgctxt "GenericName"
 msgid "Contact Print Theme Editor"
 msgstr "Trình Biên Tập Chủ Đề In Liên Hệ"
 
 #: contactthemeeditor/org.kde.contactthemeeditor.desktop:2
-#, 
-#| msgid "Comment=X Resource Editor"
 msgctxt "Name"
 msgid "Contact Theme Editor"
 msgstr "Trình Biên Tập Chủ Đề Liên Hệ"
 
 #: contactthemeeditor/org.kde.contactthemeeditor.desktop:50
-#, 
-#| msgid "Comment=X Resource Editor"
 msgctxt "GenericName"
 msgid "Contact Theme Editor"
 msgstr "Trình Biên Tập Chủ Đề Liên Hệ"

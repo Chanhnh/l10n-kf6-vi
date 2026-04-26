@@ -21,10 +21,10 @@ msgstr "Phần cài cắm Lịch Do Thái"
 #: plugins/hebrew/hebrew.desktop:52
 msgctxt "Comment"
 msgid "Shows all dates in KOrganizer also in the Jewish calendar system."
-msgstr "Hiển thị tất cả các ngày trong KOrganizer cũng trong hệ thống lịch Do Thái."
+msgstr ""
+"Hiển thị tất cả các ngày trong KOrganizer cũng trong hệ thống lịch Do Thái."
 
 #: src/data/korganizer.knsrc:2
-#, 
 msgctxt "Name"
 msgid "KOrganizer Calendar"
 msgstr "Lịch KOrganizer"
@@ -40,29 +40,21 @@ msgid "KOrganizer"
 msgstr "KOrganizer"
 
 #: src/korganizer-import.desktop:151 src/org.kde.korganizer.desktop:152
-#, 
 msgctxt "GenericName"
 msgid "Personal Organizer"
 msgstr "Trình quản lý cá nhân"
 
 #: src/korganizer-view.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "KOrganizer"
 msgctxt "Name"
 msgid "KOrganizer View"
 msgstr "Khung xem KOrganizer"
 
 #: src/korganizer-view.desktop:39
-#, 
-#| msgid "Name=Display in specified window"
 msgctxt "Comment"
 msgid "Display incidence specified by URL"
 msgstr "Hiển thị sự kiện được chỉ định bởi URL"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KOrganizer Part"
 #~ msgctxt "Name"
 #~ msgid "KOrganizer Part Interface"
 #~ msgstr "KOrganizer Part"

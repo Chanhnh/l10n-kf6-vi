@@ -75,9 +75,6 @@ msgid "Git Blame"
 msgstr "Git Blame"
 
 #: addons/katebuild-plugin/katebuildplugin.json
-#, 
-#| msgctxt "Name"
-#| msgid "Build Plugin"
 msgctxt "Name"
 msgid "Build & Run"
 msgstr "Xây & Chạy"

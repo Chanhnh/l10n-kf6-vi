@@ -14,7 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: data/themes/default.desktop:2
-#, 
 msgctxt "Name"
 msgid "Default"
 msgstr "Mặc định"
@@ -25,8 +24,6 @@ msgid "Kigo Default theme for KDE 4"
 msgstr "Chủ đề mặc định của Kigo cho KDE 4"
 
 #: data/themes/plain.desktop:2
-#, 
-#| msgid "Name=Plain"
 msgctxt "Name"
 msgid "Plain"
 msgstr "Đơn giản"
@@ -42,9 +39,6 @@ msgid "Kigo"
 msgstr "Kigo"
 
 #: src/gui/org.kde.kigo.desktop:65
-#, 
-#| msgctxt "GenericName"
-#| msgid "Board Game"
 msgctxt "GenericName"
 msgid "Go Board Game"
 msgstr "Trò chơi cờ vây"

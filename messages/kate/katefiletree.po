@@ -282,7 +282,6 @@ msgstr "Hiện thanh &công cụ"
 
 #: katefiletreeconfigpage.cpp:96
 #, kde-format
-#| msgid "Show Close Button"
 msgid "Show Close Button On Hovering"
 msgstr "Hiện nút đóng khi di chuột"
 
@@ -437,8 +436,6 @@ msgstr "Đ&i"
 #~ msgstr "phu.nguyen@kdemail.net"
 
 #, fuzzy
-#~| msgctxt "@action:inmenu"
-#~| msgid "Close Other"
 #~ msgid "Close Widget"
 #~ msgstr "Đóng các tài liệu khác"
 

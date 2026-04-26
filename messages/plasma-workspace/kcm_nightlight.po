@@ -56,7 +56,6 @@ msgstr "Phóng to"
 
 #: ui/LocationsFixedView.qml:129
 #, kde-format
-#| msgid "Zoom in"
 msgid "Zoom out"
 msgstr "Thu nhỏ"
 
@@ -64,13 +63,13 @@ msgstr "Thu nhỏ"
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Modified from <link url='https://commons.wikimedia.org/wiki/File:"
-"World_location_map_(equirectangular_180).svg'>World location map</link> by "
-"TUBS / Wikimedia Commons / <link url='https://creativecommons.org/licenses/"
-"by-sa/3.0'>CC BY-SA 3.0</link>"
+"Modified from <link url='https://commons.wikimedia.org/wiki/"
+"File:World_location_map_(equirectangular_180).svg'>World location map</link> "
+"by TUBS / Wikimedia Commons / <link url='https://creativecommons.org/"
+"licenses/by-sa/3.0'>CC BY-SA 3.0</link>"
 msgstr ""
-"Chỉnh sửa từ <link url='https://commons.wikimedia.org/wiki/File:"
-"World_location_map_(equirectangular_180).svg'>Bản đồ địa điểm thế giới</"
+"Chỉnh sửa từ <link url='https://commons.wikimedia.org/wiki/"
+"File:World_location_map_(equirectangular_180).svg'>Bản đồ địa điểm thế giới</"
 "link> của TUBS / Wikimedia Commons / <link url='https://creativecommons.org/"
 "licenses/by-sa/3.0'>CC BY-SA 3.0</link>"
 
@@ -99,14 +98,11 @@ msgstr "%1K"
 
 #: ui/main.qml:163
 #, kde-format
-#| msgid "Day color temperature:"
 msgid "Day light temperature:"
 msgstr "Nhiệt độ ánh sáng ban ngày:"
 
 #: ui/main.qml:213 ui/main.qml:277
 #, kde-format
-#| msgctxt "No blue light filter activated"
-#| msgid "Cool (no filter)"
 msgctxt "Night colour blue-ish; no blue light filter activated"
 msgid "Cool (no filter)"
 msgstr "Lạnh (không lọc)"
@@ -119,7 +115,6 @@ msgstr "Ấm"
 
 #: ui/main.qml:227
 #, kde-format
-#| msgid "Night color temperature:"
 msgid "Night light temperature:"
 msgstr "Nhiệt độ ánh sáng đêm:"
 
@@ -150,13 +145,11 @@ msgstr "Thời điểm tự chọn"
 
 #: ui/main.qml:303
 #, kde-format
-#| msgid "Always on night color"
 msgid "Always on night light"
 msgstr "Luôn bật ánh sáng đêm"
 
 #: ui/main.qml:320
 #, kde-format
-#| msgid "Detect Location"
 msgctxt "@label The coordinates for the current location"
 msgid "Current location:"
 msgstr "Vị trí hiện tại:"
@@ -171,22 +164,20 @@ msgstr "Vĩ độ: %1°   Kinh độ: %2°"
 msgctxt "@info"
 msgid ""
 "The device's location will be periodically updated using GPS (if available), "
-"or by sending network information to <link url='https://location.services."
-"mozilla.com'>Mozilla Location Service</link>."
+"or by sending network information to <link url='https://"
+"location.services.mozilla.com'>Mozilla Location Service</link>."
 msgstr ""
 "Vị trí của thiết bị sẽ được cập nhật định kì bằng GPS (nếu có), hoặc bằng "
-"cách gửi thông tin mạng đến <link url=\"https://location.services.mozilla.com"
-"\">Dịch vụ Vị trí Mozilla</link>."
+"cách gửi thông tin mạng đến <link url=\"https://"
+"location.services.mozilla.com\">Dịch vụ Vị trí Mozilla</link>."
 
 #: ui/main.qml:365
 #, kde-format
-#| msgid "Begin night color at:"
 msgid "Begin night light at:"
 msgstr "Bắt đầu ánh sáng đêm vào:"
 
 #: ui/main.qml:381
 #, kde-format
-#| msgid "Begin day color at:"
 msgid "Begin day light at:"
 msgstr "Bắt đầu ánh sáng ban ngày vào:"
 
@@ -231,8 +222,6 @@ msgstr ":"
 
 #: ui/TimeField.qml:56
 #, kde-format
-#| msgid "%1 minute"
-#| msgid_plural "%1 minutes"
 msgctxt "@info:tooltip Part of a control for setting a time"
 msgid "minute"
 msgstr "phút"
@@ -267,12 +256,12 @@ msgstr "phút"
 
 #~ msgid ""
 #~ "The device's location will be detected using GPS (if available), or by "
-#~ "sending network information to <a href=\"https://location.services."
-#~ "mozilla.com\">Mozilla Location Service</a>."
+#~ "sending network information to <a href=\"https://"
+#~ "location.services.mozilla.com\">Mozilla Location Service</a>."
 #~ msgstr ""
 #~ "Vị trí của thiết bị sẽ được xác định bằng GPS (nếu có), hoặc bằng cách "
-#~ "gửi thông tin mạng đến <a href=\"https://location.services.mozilla.com"
-#~ "\">Dịch vụ Vị trí Mozilla</a>."
+#~ "gửi thông tin mạng đến <a href=\"https://"
+#~ "location.services.mozilla.com\">Dịch vụ Vị trí Mozilla</a>."
 
 #~ msgid "Night Color begins at %1"
 #~ msgstr "Màu buổi tối bắt đầu lúc %1"

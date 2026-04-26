@@ -41,7 +41,6 @@ msgstr "Trung tâm trợ giúp"
 
 #: application.cpp:105
 #, kde-format
-#| msgid "(c) 1999-2020, The KHelpCenter developers"
 msgid "(c) 1999-2023, The KHelpCenter developers"
 msgstr "(c) 1999-2023, Các nhà phát triển KHelpCenter"
 
@@ -456,7 +455,6 @@ msgstr "không rõ"
 
 #: view.cpp:300
 #, kde-format
-#| msgid "Start Page"
 msgid "Save Page"
 msgstr "Lưu trang"
 
@@ -490,5 +488,5 @@ msgstr "Lưu trang"
 #~ "<b>Tab</b>/<b>Shift+Tab</b> to jump, and <b>Enter</b> to follow.</p>"
 #~ msgstr ""
 #~ "<p>Đọc tài liệu của chủ đề ở trong cửa sổ này.<br /><br />Nhấn <b>Cách</"
-#~ "b>/<b>Shift+Cách</b> để cuộn, <b>%1</b> để tìm kiếm, <b>Tab</b>/<b>Shift"
-#~ "+Tab</b> để di chuyển nhắm, và <b>Enter</b> để đi theo nhắm.</p>"
+#~ "b>/<b>Shift+Cách</b> để cuộn, <b>%1</b> để tìm kiếm, <b>Tab</b>/"
+#~ "<b>Shift+Tab</b> để di chuyển nhắm, và <b>Enter</b> để đi theo nhắm.</p>"

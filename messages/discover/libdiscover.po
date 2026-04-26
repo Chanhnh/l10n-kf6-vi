@@ -18,8 +18,6 @@ msgstr ""
 "X-Generator: Lokalize 1.4\n"
 
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Games"
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Tên của bạn"
@@ -31,15 +29,11 @@ msgstr "Emails của bạn"
 
 #: libdiscover/appstream/AppStreamUtils.cpp:103
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Proprietary"
 msgid "Proprietary"
 msgstr "Độc quyền"
 
 #: libdiscover/appstream/AppStreamUtils.cpp:105
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Publishing"
 msgid "Public Domain"
 msgstr "Miền công cộng"
 
@@ -51,8 +45,6 @@ msgstr "Miền công cộng"
 #: libdiscover/UpdateModel/UpdateModel.cpp:122
 #: libdiscover/UpdateModel/UpdateModel.cpp:342
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgid "Unknown"
 msgstr "không rõ"
 
@@ -94,8 +86,6 @@ msgstr "Nội dung mạnh mẽ"
 
 #: libdiscover/appstream/OdrsReviewsBackend.cpp:171
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgid "Technical error message: %1"
 msgstr "Thông báo lỗi kỹ thuật: %1"
 
@@ -167,7 +157,6 @@ msgstr "nộm 4"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:5
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:5
 #, kde-format
-#| msgid "Applications"
 msgctxt "Category"
 msgid "All Applications"
 msgstr "Tất cả Ứng dụng"
@@ -245,8 +234,6 @@ msgstr "Giáo dục"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:130
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:129
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Science & Engineering"
 msgctxt "Category"
 msgid "Science and Engineering"
 msgstr "Khoa học và Kỹ thuật"
@@ -275,8 +262,6 @@ msgstr "Hoá học"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:164
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:163
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Computer Science & Robotics"
 msgctxt "Category"
 msgid "Computer Science and Robotics"
 msgstr "Khoa học máy tính và Robot"
@@ -340,8 +325,6 @@ msgstr "Hành động"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:250
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:249
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Games"
 msgctxt "Category"
 msgid "Board Games"
 msgstr "Trò chơi cờ bàn"
@@ -349,8 +332,6 @@ msgstr "Trò chơi cờ bàn"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:259
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:258
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Games"
 msgctxt "Category"
 msgid "Card Games"
 msgstr "Trò chơi bài"
@@ -393,7 +374,6 @@ msgstr "Thể thao"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:313
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:312
 #, kde-format
-#| msgid "Applications"
 msgctxt "Category"
 msgid "Action"
 msgstr "Hành động"
@@ -401,8 +381,6 @@ msgstr "Hành động"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:322
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:321
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Simulation"
 msgctxt "Category"
 msgid "Emulators"
 msgstr "Trình mô phỏng"
@@ -431,8 +409,6 @@ msgstr "Vẽ"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:362
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:362
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Painting & Editing"
 msgctxt "Category"
 msgid "Painting and Editing"
 msgstr "Vẽ và Chỉnh sửa"
@@ -454,8 +430,6 @@ msgstr "Xuất bản"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:393
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:393
 #, kde-format
-#| msgctxt "Category"
-#| msgid "Scanning & OCR"
 msgctxt "Category"
 msgid "Scanning and OCR"
 msgstr "Quét và OCR"
@@ -547,8 +521,6 @@ msgstr "Văn phòng"
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:542
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:542
 #, kde-format
-#| msgctxt "Category"
-#| msgid "System & Settings"
 msgctxt "Category"
 msgid "System Settings"
 msgstr "Thiết lập hệ thống"
@@ -572,11 +544,6 @@ msgstr "Đường dẫn AppStream không hợp lệ '%1'"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1993
 #, kde-format
-#| msgctxt "@label"
-#| msgid ""
-#| "Failed to download %1\n"
-#| "%2\n"
-#| "\n"
 msgid "Failed to add source '%1': %2"
 msgstr "Không thể thêm nguồn '%1': %2"
 
@@ -587,11 +554,6 @@ msgstr "Không có nguồn Flatpak nào."
 
 #: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:2118
 #, kde-format
-#| msgctxt "@label"
-#| msgid ""
-#| "Failed to download %1\n"
-#| "%2\n"
-#| "\n"
 msgid "Failed to load \"%1\" source"
 msgstr "Không thể tải nguồn \"%1\""
 
@@ -614,8 +576,6 @@ msgstr "Đang lấy thông tin kích thước"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:456
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgctxt "@label app size"
 msgid "Unknown"
 msgstr "không rõ"
@@ -624,11 +584,6 @@ msgstr "không rõ"
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:489
 #: libdiscover/backends/PackageKitBackend/PackageKitSourcesBackend.cpp:70
 #, kde-format
-#| msgctxt "@label"
-#| msgid ""
-#| "Failed to download %1\n"
-#| "%2\n"
-#| "\n"
 msgid "Failed to start '%1': %2"
 msgstr "Không thể khởi động '%1': %2"
 
@@ -644,8 +599,6 @@ msgstr "Trang chủ"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:746
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Downloading"
 msgid "Downloads"
 msgstr "Tải về"
 
@@ -666,8 +619,6 @@ msgstr "Có thể truy cập internet"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:833
 #, kde-format
-#| msgctxt "@item:inlistbox Filters updates in the history view"
-#| msgid "Updates"
 msgid "Sound system access"
 msgstr "Truy cập hệ thống âm thanh"
 
@@ -777,8 +728,8 @@ msgstr "Truy cập thiết bị"
 #, kde-format
 msgid "Can communicate with and control built-in or connected hardware devices"
 msgstr ""
-"Có thể giao tiếp và điều khiển các thiết bị phần cứng được tích hợp hoặc "
-"kết nối"
+"Có thể giao tiếp và điều khiển các thiết bị phần cứng được tích hợp hoặc kết "
+"nối"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:889
 #, kde-format
@@ -819,8 +770,8 @@ msgid ""
 "Can read, write, and create files in the following locations in your home "
 "folder without asking permission first: %1"
 msgstr ""
-"Có thể đọc, ghi và tạo tệp tin trong các địa điểm sau trong thư mục home "
-"của bạn mà không cần xin quyền trước: %1"
+"Có thể đọc, ghi và tạo tệp tin trong các địa điểm sau trong thư mục home của "
+"bạn mà không cần xin quyền trước: %1"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:955
 #, kde-format
@@ -869,8 +820,8 @@ msgid ""
 "Can read and write system files in the following locations without asking "
 "permission first: %1"
 msgstr ""
-"Có thể đọc và ghi tệp hệ thống trong các địa điểm sau mà không cần xin "
-"quyền trước: %1"
+"Có thể đọc và ghi tệp hệ thống trong các địa điểm sau mà không cần xin quyền "
+"trước: %1"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:971
 #, kde-format
@@ -887,8 +838,8 @@ msgid ""
 "Can access system files in the following locations without asking permission "
 "first: %1"
 msgstr ""
-"Có thể truy cập các tệp hệ thống tại các địa điểm sau mà không cần xin "
-"quyền trước: %1"
+"Có thể truy cập các tệp hệ thống tại các địa điểm sau mà không cần xin quyền "
+"trước: %1"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:984
 #, kde-format
@@ -924,8 +875,8 @@ msgid ""
 "Changes to the priority of Flatpak sources must be applied before they will "
 "take effect."
 msgstr ""
-"Các thay đổi về độ ưu tiên của các nguồn Flatpak phải được áp dụng trước "
-"khi chúng có hiệu lực."
+"Các thay đổi về độ ưu tiên của các nguồn Flatpak phải được áp dụng trước khi "
+"chúng có hiệu lực."
 
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:100
 #, kde-format
@@ -941,8 +892,6 @@ msgstr "Không thể thêm nguồn %1"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:288
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Removing"
 msgid "Removing '%1'"
 msgstr "Đang gỡ bỏ '%1'"
 
@@ -952,8 +901,7 @@ msgid ""
 "To remove this repository, the following applications must be uninstalled:"
 "<ul><li>%1</li></ul>"
 msgstr ""
-"Để xoá kho lưu trữ này, các ứng dụng sau phải được gỡ "
-"bỏ:<ul><li>%1</li></ul>"
+"Để xoá kho lưu trữ này, các ứng dụng sau phải được gỡ bỏ:<ul><li>%1</li></ul>"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:306
 #, kde-format
@@ -992,12 +940,11 @@ msgid ""
 "An internal error occurred. Please file a report at https://bugs.kde.org/"
 "enter_bug.cgi?product=Discover"
 msgstr ""
-"Đã xảy ra lỗi nội bộ. Vui lòng tệp báo cáo tại "
-"https://bugs.kde.org/enter_bug.cgi?product=Discover"
+"Đã xảy ra lỗi nội bộ. Vui lòng tệp báo cáo tại https://bugs.kde.org/"
+"enter_bug.cgi?product=Discover"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakTransactionThread.cpp:414
 #, kde-format
-#| msgid "Available updates"
 msgctxt "@title"
 msgid "Replacement Available"
 msgstr "Có bản thay thế"
@@ -1084,7 +1031,6 @@ msgstr "Cấu hình quyền hạn..."
 #: libdiscover/backends/FwupdBackend/FwupdBackend.cpp:471
 #: libdiscover/backends/FwupdBackend/FwupdResource.cpp:116
 #, kde-format
-#| msgid "Applications"
 msgid "Firmware Updates"
 msgstr "Cập nhật phần sụn"
 
@@ -1093,7 +1039,9 @@ msgstr "Cập nhật phần sụn"
 msgid ""
 "The remote %1 require that you accept their license:\n"
 " %2"
-msgstr "Máy chủ từ xa %1 yêu cầu bạn chấp nhận giấy phép của họ:\n %2"
+msgstr ""
+"Máy chủ từ xa %1 yêu cầu bạn chấp nhận giấy phép của họ:\n"
+" %2"
 
 #: libdiscover/backends/FwupdBackend/FwupdSourcesBackend.cpp:41
 #, kde-format
@@ -1110,7 +1058,9 @@ msgstr "Không thể bật remote %1: %2"
 msgid ""
 "Unsupported question:\n"
 "%1"
-msgstr "Câu hỏi không được hỗ trợ:\n%1"
+msgstr ""
+"Câu hỏi không được hỗ trợ:\n"
+"%1"
 
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:172
 #, kde-format
@@ -1119,7 +1069,6 @@ msgstr "Hậu phương %1 mất quá nhiều thời gian để khởi tạo"
 
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:231
 #, kde-format
-#| msgid "Applications"
 msgid "Applications"
 msgstr "Ứng dụng"
 
@@ -1130,7 +1079,6 @@ msgstr "Phần bổ sung Plasma"
 
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:277
 #, kde-format
-#| msgid "Applications"
 msgid "Application Addons"
 msgstr "Phần bổ sung ứng dụng"
 
@@ -1145,8 +1093,8 @@ msgid ""
 "Too many requests sent to the server for backend %1. Please try again in a "
 "few minutes."
 msgstr ""
-"Đã gửi quá nhiều yêu cầu đến máy chủ cho hậu phương %1. Vui lòng thử lại "
-"sau vài phút."
+"Đã gửi quá nhiều yêu cầu đến máy chủ cho hậu phương %1. Vui lòng thử lại sau "
+"vài phút."
 
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:375
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:381
@@ -1165,7 +1113,8 @@ msgid ""
 msgstr ""
 "Không thể hoàn tất việc cập nhật %1. Bạn có thể thử thực hiện hành động này "
 "thông qua hộp thoại Get Hot New Stuff, cho phép kiểm soát chặt chẽ hơn. Lỗi "
-"được báo cáo là:\n%2"
+"được báo cáo là:\n"
+"%2"
 
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:415
 #, kde-format
@@ -1176,8 +1125,7 @@ msgstr "Không thể tìm nạp ảnh chụp màn hình cho mục %1 trong hậu
 #, kde-format
 msgid "Unhandled error in %1 backend. Contact your distributor."
 msgstr ""
-"Lỗi không được xử lý trong backend %1. Hãy liên hệ với nhà phân phối của "
-"bạn."
+"Lỗi không được xử lý trong backend %1. Hãy liên hệ với nhà phân phối của bạn."
 
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:424
 #, kde-format
@@ -1243,8 +1191,8 @@ msgid ""
 "Your operating system ended support on %1. Consider upgrading to a supported "
 "version."
 msgstr ""
-"Hệ điều hành của bạn đã ngừng hỗ trợ vào %1. Hãy cân nhắc nâng cấp lên "
-"phiên bản được hỗ trợ."
+"Hệ điều hành của bạn đã ngừng hỗ trợ vào %1. Hãy cân nhắc nâng cấp lên phiên "
+"bản được hỗ trợ."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:935
 #, kde-format
@@ -1260,14 +1208,12 @@ msgid ""
 "To be able to upgrade to this new version, first apply all available "
 "updates, and then restart the system."
 msgstr ""
-"<b>%1 hiện đã có sẵn.</b>\nĐể có thể nâng cấp lên phiên bản mới này, trước "
-"tiên hãy áp dụng tất cả các bản cập nhật hiện có, sau đó khởi động lại hệ "
-"thống."
+"<b>%1 hiện đã có sẵn.</b>\n"
+"Để có thể nâng cấp lên phiên bản mới này, trước tiên hãy áp dụng tất cả các "
+"bản cập nhật hiện có, sau đó khởi động lại hệ thống."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:1030
 #, kde-format
-#| msgctxt "@info:status Package state"
-#| msgid "Upgradeable"
 msgctxt "@action: button"
 msgid "Upgrade Now"
 msgstr "Nâng cấp ngay"
@@ -1275,7 +1221,6 @@ msgstr "Nâng cấp ngay"
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:1053
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeBackend.cpp:413
 #, kde-format
-#| msgid "Available updates"
 msgctxt "@info:status %1 is a new major version of the user's distro"
 msgid "%1 is now available."
 msgstr "%1 hiện đã có sẵn."
@@ -1310,8 +1255,6 @@ msgstr "Lỗi nội bộ"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:27
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgid "Internal error: %1"
 msgstr "Lỗi nội bộ: %1"
 
@@ -1322,50 +1265,36 @@ msgstr "Lỗi GPG"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:33
 #, kde-format
-#| msgctxt "@info:status Package state"
-#| msgid "Not Installed"
 msgid "PackageID invalid"
 msgstr "Mã định danh gói không hợp lệ"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:35
 #, kde-format
-#| msgctxt "@info:status Package state"
-#| msgid "Not Installed"
 msgid "Package not installed"
 msgstr "Chưa cài đặt gói"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:37
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Package not found"
 msgstr "Không tìm thấy gói"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:39
 #, kde-format
-#| msgctxt "@info:status Package state"
-#| msgid "Not Installed"
 msgid "Package is already installed"
 msgstr "Gói đã được cài đặt"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:41
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Save Download List As"
 msgid "Package download failed"
 msgstr "Tải gói phần mềm thất bại"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:43
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Package group not found"
 msgstr "Không tìm thấy nhóm gói"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:45
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Package group list invalid"
 msgstr "Danh sách nhóm gói không hợp lệ"
 
@@ -1386,8 +1315,6 @@ msgstr "Tạo luồng không thành công"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:53
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Initialization error"
 msgid "Transaction failure"
 msgstr "Lỗi giao dịch"
 
@@ -1418,8 +1345,6 @@ msgstr "Trình nền PackageKit đã bị sập"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:65
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Initialization error"
 msgid "Initialization failure"
 msgstr "Lỗi khởi tạo"
 
@@ -1455,8 +1380,6 @@ msgstr "Không thể ghi cấu hình kho"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:79
 #, kde-format
-#| msgctxt "@label Shows which package failed"
-#| msgid "Package: %1"
 msgid "Local install failed"
 msgstr "Cài đặt cục bộ thất bại"
 
@@ -1477,8 +1400,6 @@ msgstr "Không thể cài đặt gói nguồn"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:87
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Initialization error"
 msgid "Repo configuration error"
 msgstr "Lỗi cấu hình kho"
 
@@ -1489,15 +1410,11 @@ msgstr "Không có thỏa thuận cấp phép"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:91
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "File conflicts found"
 msgstr "Tìm thấy xung đột tệp"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:93
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Package conflict found"
 msgstr "Đã tìm thấy xung đột gói"
 
@@ -1513,29 +1430,21 @@ msgstr "Tệp gói không hợp lệ"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:99
 #, kde-format
-#| msgctxt "@label Shows which package failed"
-#| msgid "Package: %1"
 msgid "Package install blocked"
 msgstr "Cài đặt gói bị chặn"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:101
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Corrupt package found"
 msgstr "Gói bị hỏng"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:103
 #, kde-format
-#| msgctxt "@info:status Package state"
-#| msgid "Not Installed"
 msgid "All packages already installed"
 msgstr "Tất cả các gói đã được cài đặt"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:105
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "File not found"
 msgstr "Không tìm thấy tệp"
 
@@ -1546,7 +1455,6 @@ msgstr "Không còn nguồn phản chiếu nào khác"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:109
 #, kde-format
-#| msgid "Distribution upgrades"
 msgid "No distro upgrade data"
 msgstr "Không có dữ liệu nâng cấp bản phân phối"
 
@@ -1562,8 +1470,6 @@ msgstr "Không còn dung lượng trên thiết bị"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:115
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Media Change Required"
 msgid "A media change is required"
 msgstr "Yêu cầu thay đổi phương tiện"
 
@@ -1574,8 +1480,6 @@ msgstr "Bạn không có quyền để thực thi thao tác này"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:119
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Update not found"
 msgstr "Không tìm thấy bản cập nhật"
 
@@ -1611,29 +1515,21 @@ msgstr "Đã phát hiện tải về bị hạn chế"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:133
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Package failed to configure"
 msgstr "Gói không thể cấu hình"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:135
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Package failed to build"
 msgstr "Gói không thể xây"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:137
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Package failed to install"
 msgstr "Gói không thể cài đặt"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:139
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "Package failed to remove"
 msgstr "Không thể xoá gói"
 
@@ -1676,15 +1572,11 @@ msgstr "Giao dịch chưa hoàn thành"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:155
 #, kde-format
-#| msgctxt "@info:status Package locked at a certain version"
-#| msgid "Locked"
 msgid "Lock required"
 msgstr "Cần khoá"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:160
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgid "Unknown error %1."
 msgstr "Lỗi không rõ %1."
 
@@ -1703,7 +1595,8 @@ msgstr "Một thay đổi bởi '%1' gợi ý rằng phiên của bạn cần đ
 msgid ""
 "'%1' was updated for security reasons, a restart of the session is "
 "recommended."
-msgstr "\"%1\" đã được cập nhật vì lý do an ninh, khuyến nghị khởi động lại phiên."
+msgstr ""
+"\"%1\" đã được cập nhật vì lý do an ninh, khuyến nghị khởi động lại phiên."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:175
 #, kde-format
@@ -1711,13 +1604,13 @@ msgid ""
 "'%1' was updated for security reasons, a restart of the system is "
 "recommended."
 msgstr ""
-"\"%1\" đã được cập nhật vì lý do an ninh, khuyến nghị khởi động lại hệ "
-"thống."
+"\"%1\" đã được cập nhật vì lý do an ninh, khuyến nghị khởi động lại hệ thống."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:180
 #, kde-format
 msgid "A change by '%1' suggests your system to be restarted."
-msgstr "Một thay đổi bởi '%1' gợi ý rằng hệ thống của bạn cần được khởi động lại."
+msgstr ""
+"Một thay đổi bởi '%1' gợi ý rằng hệ thống của bạn cần được khởi động lại."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:188
 #, kde-format
@@ -1746,8 +1639,6 @@ msgstr "Vì lý do bảo mật, hệ thống sẽ phải được khởi động
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:208
 #, kde-format
-#| msgctxt "@info:status Progress text when waiting"
-#| msgid "Waiting"
 msgid "Waiting…"
 msgstr "Đang đợi..."
 
@@ -1763,37 +1654,26 @@ msgstr "Thiết lập..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:214
 #, kde-format
-#| msgctxt ""
-#| "@item:inlistbox Human-readable name for the Debian package section \"text"
-#| "\""
-#| msgid "Word Processing"
 msgid "Processing…"
 msgstr "Đang xử lý..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:216
 #, kde-format
-#| msgctxt "@info:status Requested action"
-#| msgid "Remove"
 msgid "Remove…"
 msgstr "Gỡ bỏ..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:218
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Downloading"
 msgid "Downloading…"
 msgstr "Đang tải..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:220
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Installing"
 msgid "Installing…"
 msgstr "Đang cài đặt..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:222
 #, kde-format
-#| msgid "Applications"
 msgid "Updating…"
 msgstr "Đang cập nhật..."
 
@@ -1819,10 +1699,6 @@ msgstr "Kiểm thử đang thực hiện..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:233
 #, kde-format
-#| msgctxt ""
-#| "@item:inlistbox Human-readable name for the Debian package section \"comm"
-#| "\""
-#| msgid "Communication"
 msgid "Committing…"
 msgstr "Đang thực hiện..."
 
@@ -1844,8 +1720,6 @@ msgstr "Đang chờ khóa..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Authentication error"
 msgid "Waiting for authorization…"
 msgstr "Đang chờ xác thực..."
 
@@ -1856,8 +1730,6 @@ msgstr "Đang sao chép tệp..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:250
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgid "Unknown Status"
 msgstr "Không rõ"
 
@@ -1906,7 +1778,8 @@ msgstr "Giao dịch hiện đang dọn dẹp..."
 msgid ""
 "The transaction is currently resolving the dependencies of the packages it "
 "will install…"
-msgstr "Giao dịch hiện đang giải quyết các phụ thuộc của các gói sẽ được cài đặt..."
+msgstr ""
+"Giao dịch hiện đang giải quyết các phụ thuộc của các gói sẽ được cài đặt..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:277
 #, kde-format
@@ -1941,8 +1814,6 @@ msgstr "Giao dịch hiện đang chờ khóa..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:290
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Authentication error"
 msgid "Waiting for the user to authorize the transaction…"
 msgstr "Đang chờ người dùng uỷ quyền giao dịch..."
 
@@ -1958,8 +1829,6 @@ msgstr "Hiện đang làm mới bộ nhớ cache của kho..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:302
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgid "Unknown status %1."
 msgstr "Trạng thái không rõ %1."
 
@@ -1971,8 +1840,6 @@ msgstr "Ổn định"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:315
 #, kde-format
-#| msgctxt "@info:status describes a past-tense action"
-#| msgid "Installed"
 msgctxt "update state"
 msgid "Unstable"
 msgstr "Không ổn định"
@@ -1986,15 +1853,11 @@ msgstr "Đang kiểm tra"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:328
 #: libdiscover/resources/AbstractResource.cpp:97
 #, kde-format
-#| msgctxt "@info:status describes a past-tense action"
-#| msgid "Installed"
 msgid "Installed"
 msgstr "Đã cài"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:330
 #, kde-format
-#| msgctxt "@info:status describes a past-tense action"
-#| msgid "Installed"
 msgid "Not Installed"
 msgstr "Chưa cài đặt"
 
@@ -2035,28 +1898,21 @@ msgstr "Bị chặn"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:346
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Downloading"
 msgid "Downloading"
 msgstr "Tải về"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:348
 #, kde-format
-#| msgid "Applications"
 msgid "Updating"
 msgstr "Đang cập nhật"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:350
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Installing"
 msgid "Installing"
 msgstr "Đang cài"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:352
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Removing"
 msgid "Removing"
 msgstr "Đang gỡ bỏ"
 
@@ -2072,28 +1928,21 @@ msgstr "Đang lỗi thời"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:358
 #, kde-format
-#| msgctxt "@info:status describes a past-tense action"
-#| msgid "Installed"
 msgid "Collection Installed"
 msgstr "Bộ sưu tập đã được cài đặt"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:360
 #, kde-format
-#| msgid "Available updates"
 msgid "Collection Available"
 msgstr "Bộ sưu tập hiện có"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:364
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Installing"
 msgid "Reinstalling"
 msgstr "Đang cài lại"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:366
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Downloading"
 msgid "Downgrading"
 msgstr "Đang hạ cấp"
 
@@ -2119,7 +1968,6 @@ msgstr "Đáng tin cậy"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:376
 #, kde-format
-#| msgid "Available updates"
 msgid "Unavailable"
 msgstr "Không khả dụng"
 
@@ -2130,15 +1978,11 @@ msgstr "Nghiêm trọng"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:382
 #, kde-format
-#| msgctxt "@info:status describes a past-tense action"
-#| msgid "Installed"
 msgid "Install"
 msgstr "Cài đặt"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:384
 #, kde-format
-#| msgctxt "@info:status Requested action"
-#| msgid "Remove"
 msgid "Remove"
 msgstr "Xoá"
 
@@ -2149,54 +1993,41 @@ msgstr "Lỗi thời"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:388
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Downloading"
 msgid "Downgrade"
 msgstr "Hạ cấp"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:127
 #, kde-format
-#| msgid "Applications"
 msgid "Failed Offline Update"
 msgstr "Cập nhật ngoại tuyến thất bại"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:128
 #, kde-format
-#| msgctxt "@label"
-#| msgid ""
-#| "Failed to download %1\n"
-#| "%2\n"
-#| "\n"
 msgid ""
 "Failed to update %1 package\n"
 "%2"
 msgid_plural ""
 "Failed to update %1 packages\n"
 "%2"
-msgstr[0] "Không thể cập nhật %1 gói\n%2"
+msgstr[0] ""
+"Không thể cập nhật %1 gói\n"
+"%2"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:131
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:185
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Open File"
 msgctxt "@action:button"
 msgid "Open Discover"
 msgstr "Mở Discover"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:136
 #, kde-format
-#| msgctxt ""
-#| "@item:inlistbox Human-readable name for the Debian package section \"base"
-#| "\""
-#| msgid "Base System"
 msgctxt "@action:button"
 msgid "Repair System"
 msgstr "Sửa chữa hệ thống"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:141
 #, kde-format
-#| msgid "Applications"
 msgid "Repairing failed offline update"
 msgstr "Sửa chữa cập nhật ngoại tuyến không thành công"
 
@@ -2218,25 +2049,17 @@ msgstr "Đã sửa chữa thành công"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:181
 #, kde-format
-#| msgid "Applications"
 msgid "Offline Updates"
 msgstr "Cập nhật ngoại tuyến"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:182
 #, kde-format
-#| msgctxt "@label"
-#| msgid ""
-#| "Failed to download %1\n"
-#| "%2\n"
-#| "\n"
 msgid "Successfully updated %1 package"
 msgid_plural "Successfully updated %1 packages"
 msgstr[0] "Đã cập nhật thành công %1 gói"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:194
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgid "Unknown Source"
 msgstr "Không rõ"
 
@@ -2296,15 +2119,11 @@ msgstr "%1 %2"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:97
 #, kde-format
-#| msgctxt "@item:inlistbox Filters updates in the history view"
-#| msgid "Updates"
 msgid "System upgrade"
 msgstr "Nâng cấp hệ thống"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:188
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgid "1 package will be upgraded"
 msgid_plural "%1 packages will be upgraded"
 msgstr[0] "%1 gói sẽ được nâng cấp"
@@ -2312,7 +2131,8 @@ msgstr[0] "%1 gói sẽ được nâng cấp"
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:197
 #, kde-format
 msgid "<h3>%1</h3>Upgrade to new version %2<br/>No release notes provided"
-msgstr "<h3>%1</h3>Nâng cấp lên phiên bản mới %2<br/>Không có ghi chú phát hành"
+msgstr ""
+"<h3>%1</h3>Nâng cấp lên phiên bản mới %2<br/>Không có ghi chú phát hành"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:199
 #, kde-format
@@ -2320,8 +2140,8 @@ msgid ""
 "<h3>%1</h3>Upgrade to new version %2<br/>Release notes:<blockquote>%3</"
 "blockquote>"
 msgstr ""
-"<h3>%1</h3>Nâng cấp lên phiên bản mới %2<br/>Ghi chú phát "
-"hành:<blockquote>%3</blockquote>"
+"<h3>%1</h3>Nâng cấp lên phiên bản mới %2<br/>Ghi chú phát hành:"
+"<blockquote>%3</blockquote>"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:226
 #, kde-format
@@ -2338,8 +2158,7 @@ msgstr "Tương lai"
 msgctxt "@info:status %1 is a formatted disk space string e.g. '240 MiB'"
 msgid "Not enough space to perform the update; only %1 of space are available."
 msgstr ""
-"Không đủ không gian để thực hiện bản cập nhật; chỉ có %1 không gian khả "
-"dụng."
+"Không đủ không gian để thực hiện bản cập nhật; chỉ có %1 không gian khả dụng."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:591
 #, kde-format
@@ -2365,8 +2184,8 @@ msgid ""
 "The following packages will be removed by the update:<ul><li>%1</li></ul><br/"
 ">in order to install:<ul><li>%2</li></ul>"
 msgstr ""
-"Các gói sau sẽ bị gỡ bỏ bởi bản cập nhật:<ul><li>%1</li></ul><br/>để cài "
-"đặt:<ul><li>%2</li></ul>"
+"Các gói sau sẽ bị gỡ bỏ bởi bản cập nhật:<ul><li>%1</li></ul><br/>để cài đặt:"
+"<ul><li>%2</li></ul>"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:725
 #, kde-kuit-format
@@ -2380,7 +2199,9 @@ msgstr "%1:<nl/><nl/>%2"
 msgid ""
 "Media Change of type '%1' is requested.\n"
 "%2"
-msgstr "Yêu cầu thay đổi phương tiện của kiểu '%1'.\n%2"
+msgstr ""
+"Yêu cầu thay đổi phương tiện của kiểu '%1'.\n"
+"%2"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:766
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:304
@@ -2395,8 +2216,8 @@ msgid ""
 "The package %1 and its vendor %2 require that you accept their license:\n"
 " %3"
 msgstr ""
-"Gói %1 và nhà cung cấp %2 của nó yêu cầu bạn chấp nhận giấy phép của họ:\n "
-"%3"
+"Gói %1 và nhà cung cấp %2 của nó yêu cầu bạn chấp nhận giấy phép của họ:\n"
+" %3"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:884
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:344
@@ -2416,8 +2237,13 @@ msgid ""
 "Fingerprint: %4\n"
 "Timestamp: %4\n"
 msgstr ""
-"Bạn có tin tưởng vào khóa sau không?\n\nURL: %1\nNgười dùng: %2\nKhóa: "
-"%3\nVân tay: %4\nThời gian: %4\n"
+"Bạn có tin tưởng vào khóa sau không?\n"
+"\n"
+"URL: %1\n"
+"Người dùng: %2\n"
+"Khóa: %3\n"
+"Vân tay: %4\n"
+"Thời gian: %4\n"
 
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:201
 #, kde-format
@@ -2439,15 +2265,15 @@ msgstr "Xác nhận gỡ bỏ gói"
 
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:215
 #, kde-format
-#| msgid "This action requires a change to another package:"
-#| msgid_plural "This action requires changes to other packages:"
 msgid ""
 "This action will also remove the following package:\n"
 "%2"
 msgid_plural ""
 "This action will also remove the following packages:\n"
 "%2"
-msgstr[0] "Hành động này cũng sẽ xoá bỏ các gói sau:\n%2"
+msgstr[0] ""
+"Hành động này cũng sẽ xoá bỏ các gói sau:\n"
+"%2"
 
 #: libdiscover/backends/PackageKitBackend/qml/DependenciesButton.qml:32
 #, kde-format
@@ -2471,10 +2297,6 @@ msgstr "Có thể truy cập mọi thứ trên hệ thống"
 
 #: libdiscover/backends/RpmOstreeBackend/rpm-ostree-backend-categories.xml:4
 #, kde-format
-#| msgctxt ""
-#| "@item:inlistbox Human-readable name for the Debian package section \"base"
-#| "\""
-#| msgid "Base System"
 msgctxt "Category"
 msgid "Operating System"
 msgstr "Hệ điều hành"
@@ -2490,8 +2312,7 @@ msgstr ""
 #, kde-format
 msgid "rpm-ostree: No booted deployment found. Please file a bug."
 msgstr ""
-"rpm-ostree: Không tìm thấy bản triển khai đã khởi động. Vui lòng báo cáo "
-"lỗi."
+"rpm-ostree: Không tìm thấy bản triển khai đã khởi động. Vui lòng báo cáo lỗi."
 
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeBackend.cpp:411
 #, kde-format
@@ -2503,8 +2324,7 @@ msgstr "Bắt đầu nâng cấp..."
 #, kde-format
 msgid "You have pending updates for the current version. Proceeding anyway."
 msgstr ""
-"Bạn có các bản cập nhật đang chờ xử lý cho phiên bản hiện tại. Vẫn tiếp "
-"tục."
+"Bạn có các bản cập nhật đang chờ xử lý cho phiên bản hiện tại. Vẫn tiếp tục."
 
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeBackend.cpp:552
 #, kde-format
@@ -2582,7 +2402,8 @@ msgstr "ostree remotes"
 #, kde-format
 msgid ""
 "rpm-ostree-backend: Error: No DBus interface provided. Please file a bug."
-msgstr "rpm-ostree-backend: Lỗi: Không có giao diện DBus. Vui lòng báo cáo lỗi."
+msgstr ""
+"rpm-ostree-backend: Lỗi: Không có giao diện DBus. Vui lòng báo cáo lỗi."
 
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:58
 #, kde-format
@@ -2615,14 +2436,15 @@ msgstr ""
 msgid ""
 "rpm-ostree transaction failed with:\n"
 "%1"
-msgstr "giao dịch rpm-ostree đã thất bại với:\n%1"
+msgstr ""
+"giao dịch rpm-ostree đã thất bại với:\n"
+"%1"
 
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:242
 #, kde-format
 msgid "rpm-ostree-backend: Error: Unknown resource format. Please file a bug."
 msgstr ""
-"rpm-ostree-backend: Lỗi: Định dạng tài nguyên không rõ. Vui lòng tệp một "
-"lỗi."
+"rpm-ostree-backend: Lỗi: Định dạng tài nguyên không rõ. Vui lòng tệp một lỗi."
 
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:364
 #, kde-format
@@ -2634,8 +2456,6 @@ msgstr ""
 
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:393
 #, kde-format
-#| msgctxt "@action Checks the Internet for updates"
-#| msgid "Check for Updates"
 msgid "Checking for a system update"
 msgstr "Đang kiểm tra cập nhật hệ thống"
 
@@ -2650,7 +2470,8 @@ msgstr ""
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:399
 #, kde-format
 msgid "Updating the system. Please be patient as progress is not reported."
-msgstr "Đang cập nhật hệ thống. Vui lòng kiên nhẫn vì không có báo cáo tiến độ."
+msgstr ""
+"Đang cập nhật hệ thống. Vui lòng kiên nhẫn vì không có báo cáo tiến độ."
 
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:402
 #, kde-format
@@ -2668,8 +2489,6 @@ msgstr "Thao tác đang diễn ra (bắt đầu bên ngoài Discover)"
 
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:411
 #, kde-format
-#| msgctxt "@info license"
-#| msgid "Unknown"
 msgid "Unknown transaction type"
 msgstr "Kiểu giao dịch không rõ"
 
@@ -2733,21 +2552,16 @@ msgstr ""
 
 #: libdiscover/resources/AbstractResource.cpp:93
 #, kde-format
-#| msgctxt "@info:status Package state"
-#| msgid "Broken"
 msgid "Broken"
 msgstr "Hỏng"
 
 #: libdiscover/resources/AbstractResource.cpp:95
 #, kde-format
-#| msgid "Available updates"
 msgid "Available"
 msgstr "Hiện có"
 
 #: libdiscover/resources/AbstractResource.cpp:99
 #, kde-format
-#| msgctxt "@info:status Package state"
-#| msgid "Upgradeable"
 msgid "Upgradeable"
 msgstr "Có thể nâng cấp"
 
@@ -2758,8 +2572,6 @@ msgstr "Khởi chạy"
 
 #: libdiscover/resources/AbstractResource.cpp:254
 #, kde-format
-#| msgctxt "@title:window"
-#| msgid "Packages Could Not be Found"
 msgctxt ""
 "@info 'Refresh' is used as a noun here, and %1 is an app's version number"
 msgid "Refresh of version %1"
@@ -2789,7 +2601,6 @@ msgstr "%1+"
 
 #: libdiscover/resources/ResourcesUpdatesModel.cpp:111
 #, kde-format
-#| msgid "Applications"
 msgid "Updates"
 msgstr "Cập nhật"
 
@@ -2801,16 +2612,12 @@ msgstr "%1/giây"
 
 #: libdiscover/Transaction/TransactionModel.cpp:76
 #, kde-format
-#| msgctxt "@info:status Progress text when waiting"
-#| msgid "Waiting"
 msgctxt "@info:status"
 msgid "Starting"
 msgstr "Đang bắt đầu"
 
 #: libdiscover/Transaction/TransactionModel.cpp:78
 #, kde-format
-#| msgctxt "@info:status Progress text when waiting"
-#| msgid "Waiting"
 msgctxt "@info:status"
 msgid "Waiting"
 msgstr "Đang chờ"
@@ -2841,8 +2648,6 @@ msgstr "Đang thay đổi phần mở rộng"
 
 #: libdiscover/Transaction/TransactionModel.cpp:92
 #, kde-format
-#| msgctxt "@info:status Progress text when done"
-#| msgid "Done"
 msgctxt "@info:status"
 msgid "Done"
 msgstr "Xong"
@@ -2861,22 +2666,18 @@ msgstr "Đã hủy"
 
 #: libdiscover/UpdateModel/UpdateModel.cpp:136
 #, kde-format
-#| msgid "Applications"
 msgctxt "@item:inlistbox"
 msgid "Applications"
 msgstr "Ứng dụng"
 
 #: libdiscover/UpdateModel/UpdateModel.cpp:137
 #, kde-format
-#| msgid "Applications"
 msgctxt "@item:inlistbox"
 msgid "Application Support"
 msgstr "Hỗ trợ ứng dụng"
 
 #: libdiscover/UpdateModel/UpdateModel.cpp:138
 #, kde-format
-#| msgctxt "@item:inlistbox Filters updates in the history view"
-#| msgid "Updates"
 msgctxt "@item:inlistbox"
 msgid "System Software"
 msgstr "Phần mềm hệ thống"
@@ -2888,22 +2689,14 @@ msgid "Addons"
 msgstr "Phần bổ sung"
 
 #, fuzzy
-#~| msgctxt "@info:status"
-#~| msgid "Downloading"
 #~ msgid "Downloading system update"
 #~ msgstr "Đang tải"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "@item:inlistbox Human-readable name for the Debian package section \"base"
-#~| "\""
-#~| msgid "Base System"
 #~ msgid "Updating the system"
 #~ msgstr "Hệ thống cơ sở"
 
 #, fuzzy
-#~| msgctxt "@info license"
-#~| msgid "Unknown"
 #~ msgid "Unknown size"
 #~ msgstr "Không rõ"
 
@@ -2916,31 +2709,22 @@ msgstr "Phần bổ sung"
 #~ msgstr "%1 trên đĩa"
 
 #, fuzzy
-#~| msgctxt "@title:window"
-#~| msgid "Packages Could Not be Found"
 #~ msgid "Packages to remove"
 #~ msgstr "Không thể tìm thấy gói"
 
 #, fuzzy
-#~| msgid "Applications"
 #~ msgctxt "Category"
 #~ msgid "Applications"
 #~ msgstr "Ứng dụng"
 
 #, fuzzy
-#~| msgctxt "@info:status Progress text when waiting"
-#~| msgid "Waiting"
 #~ msgid "Waiting..."
 #~ msgstr "Đang đợi"
 
 #, fuzzy
-#~| msgctxt "@info:status"
-#~| msgid "Downloading"
 #~ msgid "Downloading..."
 #~ msgstr "Đang tải"
 
 #, fuzzy
-#~| msgctxt "@info:status"
-#~| msgid "Installing"
 #~ msgid "Installing..."
 #~ msgstr "Đang cài"

@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +27,9 @@ msgstr "Cộng đồng KDE, Felipe Kinoshita"
 
 #. (itstool) path: description/p
 #: org.kde.francis.metainfo.xml:14
-msgid "Francis uses the well-known pomodoro technique to help you get more productive."
+msgid ""
+"Francis uses the well-known pomodoro technique to help you get more "
+"productive."
 msgstr ""
 "Francis sử dụng kỹ thuật pomodoro nổi tiếng để giúp bạn trở nên năng suất "
 "hơn."

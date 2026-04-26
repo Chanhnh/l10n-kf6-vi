@@ -14,17 +14,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: agents/maildispatcher/akonadi_maildispatcher_agent.notifyrc:3
-#, 
-#| msgctxt "GenericName"
-#| msgid "Mail Client"
 msgctxt "Comment"
 msgid "KDE e-mail client"
 msgstr "Trình khách thư điện tử KDE"
 
 #: agents/maildispatcher/akonadi_maildispatcher_agent.notifyrc:58
-#, 
-#| msgctxt "Name"
-#| msgid "KMail"
 msgctxt "Name"
 msgid "KDE Mail"
 msgstr "Thư KDE"
@@ -40,14 +34,11 @@ msgid "E-mail sending failed"
 msgstr "Gửi email thất bại"
 
 #: agents/maildispatcher/maildispatcheragent.desktop:2
-#, 
 msgctxt "Name"
 msgid "Mail Dispatcher Agent"
 msgstr "Đại diện Phân phối Thư"
 
 #: agents/maildispatcher/maildispatcheragent.desktop:55
-#, 
-#| msgid "GenericName=Email message"
 msgctxt "Comment"
 msgid "Dispatches email messages"
 msgstr "Phân phối thư điện tử"
@@ -58,25 +49,21 @@ msgid "Migration Agent"
 msgstr "Đại diện Di chuyển"
 
 #: agents/newmailnotifier/akonadi_newmailnotifier_agent.notifyrc:3
-#, 
 msgctxt "Comment"
 msgid "New email notify"
 msgstr "Thông báo thư mới"
 
 #: agents/newmailnotifier/akonadi_newmailnotifier_agent.notifyrc:53
-#, 
 msgctxt "Name"
 msgid "New email notify"
 msgstr "Thông báo thư mới"
 
 #: agents/newmailnotifier/akonadi_newmailnotifier_agent.notifyrc:106
-#, 
 msgctxt "Name"
 msgid "New email arrived"
 msgstr "Có thư mới đến"
 
 #: agents/newmailnotifier/newmailnotifieragent.desktop:2
-#, 
 msgctxt "Name"
 msgid "New Email Notifier"
 msgstr "Thông báo thư mới"
@@ -89,32 +76,27 @@ msgstr "Thông báo về email mới nhận"
 #: defaultsetup/defaultaddressbook.desktop:4
 #: resources/contacts/contactsresource.desktop:2
 #: resources/contacts/org.kde.akonadi_contacts_resource.desktop:3
-#, 
 msgctxt "Name"
 msgid "Personal Contacts"
 msgstr "Danh bạ cá nhân"
 
 #: defaultsetup/defaultcalendar.desktop:4
-#, 
 msgctxt "Name"
 msgid "Personal Calendar"
 msgstr "Lịch cá nhân"
 
 #: defaultsetup/defaultnotebook.desktop:4
 #: resources/ical/notes/notesresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "Notes"
 msgstr "ghi chú"
 
 #: resources/akonotes/akonotesresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "AkoNotes"
 msgstr "AkoNotes"
 
 #: resources/akonotes/akonotesresource.desktop:53
-#, 
 msgctxt "Comment"
 msgid "Loads a notes hierarchy from a local maildir folder"
 msgstr "Tải một cấu trúc ghi chú từ một thư mục maildir cục bộ"
@@ -139,7 +121,6 @@ msgid "The address book with personal contacts"
 msgstr "Sổ địa chỉ với các liên hệ cá nhân"
 
 #: resources/dav/resource/davgroupwareresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "DAV groupware resource"
 msgstr "Tài nguyên nhóm DAV"
@@ -150,7 +131,6 @@ msgid "Resource to manage DAV calendars and address books (CalDAV, CardDAV)"
 msgstr "Tài nguyên để quản lý lịch và sổ địa chỉ DAV (CalDAV, CardDAV)"
 
 #: resources/dav/resource/org.kde.akonadi_davgroupware_resource.desktop:3
-#, 
 msgctxt "Name"
 msgid "DAV Groupware"
 msgstr "DAV Groupware"
@@ -166,7 +146,6 @@ msgid "Davical"
 msgstr "Davical"
 
 #: resources/dav/services/egroupware.desktop:2
-#, 
 msgctxt "Name"
 msgid "eGroupware"
 msgstr "eGroupware"
@@ -182,7 +161,6 @@ msgid "Nextcloud"
 msgstr "Nextcloud"
 
 #: resources/dav/services/opengroupware.desktop:2
-#, 
 msgctxt "Name"
 msgid "OpenGroupware"
 msgstr "OpenGroupware"
@@ -213,7 +191,6 @@ msgid "ScalableOGo"
 msgstr "ScalableOGo"
 
 #: resources/dav/services/yahoo.desktop:2
-#, 
 msgctxt "Name"
 msgid "Yahoo!"
 msgstr "Yahoo!"
@@ -229,7 +206,6 @@ msgid "Zimbra"
 msgstr "Zimbra"
 
 #: resources/etesync/etesyncresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "EteSync Groupware Resource"
 msgstr "Tài nguyên Nhóm phần mềm EteSync"
@@ -284,7 +260,6 @@ msgstr ""
 #: resources/google-groupware/akonadi_google_resource.notifyrc:3
 #: resources/google-groupware/googleresource.desktop:2
 #: resources/google-groupware/org.kde.akonadi_google_resource.desktop:3
-#, 
 msgctxt "Name"
 msgid "Google Groupware"
 msgstr "Google Groupware"
@@ -306,7 +281,6 @@ msgid "Google Groupware has been logged off and needs to be reauthenticated"
 msgstr "Google Groupware đã đăng xuất và cần được xác thực lại"
 
 #: resources/icaldir/icaldirresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "iCal Calendar Folder"
 msgstr "Thư mục Lịch iCal"
@@ -317,11 +291,10 @@ msgid ""
 "Provides access to calendar items, each stored in a single file, in a given "
 "directory"
 msgstr ""
-"Cung cấp quyền truy cập vào các mục lịch, mỗi mục được lưu trữ trong một "
-"tệp riêng, trong một thư mục nhất định"
+"Cung cấp quyền truy cập vào các mục lịch, mỗi mục được lưu trữ trong một tệp "
+"riêng, trong một thư mục nhất định"
 
 #: resources/ical/icalresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "iCal Calendar File"
 msgstr "Tệp Lịch iCal"
@@ -338,7 +311,6 @@ msgstr "Tải dữ liệu từ một tệp ghi chú"
 
 #: resources/imap/akonadi_imap_resource.notifyrc:6
 #: resources/imap/imapresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "IMAP E-Mail Server"
 msgstr "Máy chủ thư điện tử IMAP"
@@ -365,7 +337,6 @@ msgid "Emails"
 msgstr "Emails"
 
 #: resources/kolab/kolabresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "Kolab Groupware Server"
 msgstr "Máy chủ Groupware Kolab"
@@ -379,13 +350,11 @@ msgstr ""
 "Kolab."
 
 #: resources/kolab/org.kde.akonadi_kolab_resource.desktop:3
-#, 
 msgctxt "Name"
 msgid "Kolab Groupware"
 msgstr "Nhóm phần mềm Kolab"
 
 #: resources/maildir/maildirresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "Maildir"
 msgstr "Maildir"
@@ -401,28 +370,22 @@ msgid "Mbox"
 msgstr "Mbox"
 
 #: resources/mbox/mboxresource.desktop:55
-#, 
 msgctxt "Comment"
 msgid "Loads data from a local mbox file"
 msgstr "Tải dữ liệu từ một tệp mbox cục bộ"
 
 #: resources/mixedmaildir/mixedmaildirresource.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "KMail"
 msgctxt "Name"
 msgid "KMail Mail Folder"
 msgstr "Thư mục thư KMail"
 
 #: resources/mixedmaildir/mixedmaildirresource.desktop:51
-#, 
 msgctxt "Comment"
 msgid "Loads data from a local KMail mail folder"
 msgstr "Tải dữ liệu từ thư mục mail KMail cục bộ"
 
 #: resources/openxchange/openxchangeresource.desktop:2
 #: resources/openxchange/org.kde.akonadi_openxchange_resource.desktop:3
-#, 
 msgctxt "Name"
 msgid "Open-Xchange Groupware Server"
 msgstr "Máy chủ Nhóm phần mềm Open-Xchange"
@@ -437,8 +400,6 @@ msgstr ""
 "nhóm Open-Xchange."
 
 #: resources/pop3/akonadi_pop3_resource.notifyrc:3
-#, 
-#| msgid "Name=psbook"
 msgctxt "Comment"
 msgid "POP3 Resource"
 msgstr "Tài nguyên POP3"
@@ -454,7 +415,6 @@ msgid "There was an error while checking for new mail"
 msgstr "Đã xảy ra lỗi khi kiểm tra thư mới"
 
 #: resources/pop3/pop3resource.desktop:2
-#, 
 msgctxt "Name"
 msgid "POP3 E-Mail Server"
 msgstr "Máy chủ E-Mail POP3"
@@ -466,27 +426,22 @@ msgstr "Kết nối với máy chủ thư điện tử POP3"
 
 #: resources/vcarddir/org.kde.akonadi_vcarddir_resource.desktop:3
 #: resources/vcarddir/vcarddirresource.desktop:2
-#, 
-#| msgid "Name=Home Directory"
 msgctxt "Name"
 msgid "vCard Directory"
 msgstr "Thư mục vCard"
 
 #: resources/vcarddir/vcarddirresource.desktop:49
-#, 
 msgctxt "Comment"
 msgid "Loads data from a directory with vCards"
 msgstr "Tải dữ liệu từ một thư mục chứa các vCard"
 
 #: resources/vcard/org.kde.akonadi_vcard_resource.desktop:3
 #: resources/vcard/vcardresource.desktop:2
-#, 
 msgctxt "Name"
 msgid "vCard File"
 msgstr "Tệp vCard"
 
 #: resources/vcard/vcardresource.desktop:50
-#, 
 msgctxt "Comment"
 msgid "Loads data from a vCard file"
 msgstr "Tải dữ liệu từ một tệp vCard"
@@ -542,7 +497,6 @@ msgstr "Tải dữ liệu từ một tệp vCard"
 #~ msgstr "Thư mục "
 
 #, fuzzy
-#~| msgid "Name=psbook"
 #~ msgctxt "Name"
 #~ msgid "Facebook Events"
 #~ msgstr "Name=psbook"
@@ -563,7 +517,6 @@ msgstr "Tải dữ liệu từ một tệp vCard"
 #~ msgstr "Cấu hình các thiết lập cache ở đây ."
 
 #, fuzzy
-#~| msgid "Name=Home Directory"
 #~ msgctxt "Name"
 #~ msgid "KAlarm Directory"
 #~ msgstr "Name=Thư mục home"

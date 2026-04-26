@@ -204,8 +204,6 @@ msgstr "%{AUTHOR}"
 #~ msgstr "Kiểm thử chủ đề"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Plasma Theme"
 #~ msgctxt "Description"
 #~ msgid "Test Theme"
 #~ msgstr "Chủ đề của Plasma"

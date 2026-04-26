@@ -43,7 +43,6 @@ msgstr "Tô sáng thanh công cụ"
 
 #: oxygenanimationconfigwidget.cpp:38
 #, kde-format
-#| msgid "Custom mouseover highlight color:"
 msgid "Configure toolbars' mouseover highlight animation"
 msgstr "Cấu hình hiệu ứng động tô sáng khi di chuột lên thanh công cụ"
 
@@ -54,7 +53,6 @@ msgstr "Tô sáng thanh trình đơn"
 
 #: oxygenanimationconfigwidget.cpp:43
 #, kde-format
-#| msgid "Custom mouseover highlight color:"
 msgid "Configure menu bars' mouseover highlight animation"
 msgstr "Cấu hình hiệu ứng động tô sáng khi di chuột qua trình đơn"
 
@@ -65,7 +63,6 @@ msgstr "Tô sáng trình đơn"
 
 #: oxygenanimationconfigwidget.cpp:46
 #, kde-format
-#| msgid "Custom mouseover highlight color:"
 msgid "Configure menus' mouseover highlight animation"
 msgstr "Cấu hình hiệu ứng động tô sáng khi di chuột qua menu"
 
@@ -118,7 +115,8 @@ msgstr "Chuyển đổi hộp kết hợp"
 #, kde-format
 msgid ""
 "Configure fading transition when a combo box's selected choice is changed"
-msgstr "Cấu hình chuyển tiếp phai màu khi lựa chọn trong hộp combo được thay đổi"
+msgstr ""
+"Cấu hình chuyển tiếp phai màu khi lựa chọn trong hộp combo được thay đổi"
 
 #: oxygenanimationconfigwidget.cpp:76
 #, kde-format
@@ -207,7 +205,6 @@ msgstr "Kéo cửa sổ từ tất cả các vùng trống"
 #. i18n: ectx: property (text), widget (QLabel, _mnemonicsLabel)
 #: ui/oxygenstyleconfig.ui:70
 #, kde-format
-#| msgid "Draw toolbar item separators"
 msgid "Keyboard accelerators visibility:"
 msgstr "Hiển thị phím tắt bàn phím:"
 
@@ -385,16 +382,13 @@ msgid "Use selec&tion color (subtle)"
 msgstr "Sử dụng màu phần bôi đen (&tinh tế)"
 
 #, fuzzy
-#~| msgid "Draw toolbar item separators"
 #~ msgid "Always Hide Keyboard Accelerators"
 #~ msgstr "Vẽ bộ phân cách các mục thanh công cụ"
 
 #, fuzzy
-#~| msgid "Draw toolbar item separators"
 #~ msgid "Show Keyboard Accelerators When Needed"
 #~ msgstr "Vẽ bộ phân cách các mục thanh công cụ"
 
 #, fuzzy
-#~| msgid "Draw toolbar item separators"
 #~ msgid "Always Show Keyboard Accelerators"
 #~ msgstr "Vẽ bộ phân cách các mục thanh công cụ"

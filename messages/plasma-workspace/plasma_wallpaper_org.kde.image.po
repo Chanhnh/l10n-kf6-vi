@@ -29,14 +29,12 @@ msgstr "phu.nguyen@kdemail.net"
 
 #: imagepackage/contents/ui/AddFileDialog.qml:58
 #, kde-format
-#| msgid "Open Wallpaper Image"
 msgctxt "@title:window"
 msgid "Open Image"
 msgstr "Mở ảnh"
 
 #: imagepackage/contents/ui/AddFileDialog.qml:70
 #, kde-format
-#| msgid "Directory with the wallpaper to show slides from"
 msgctxt "@title:window"
 msgid "Directory with the wallpaper to show slides from"
 msgstr "Thư mục chứa phông nền để trình chiếu"
@@ -103,7 +101,6 @@ msgstr "Ảnh phông nền tiếp theo"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:60
 #, kde-format
-#| msgid "Image Files"
 msgid "Images"
 msgstr "Ảnh"
 
@@ -115,21 +112,18 @@ msgstr "Thêm…"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:65
 #, kde-format
-#| msgid "Open Wallpaper Image"
 msgctxt "@action:button"
 msgid "Add Wallpaper Image…"
 msgstr "Thêm ảnh phông nền…"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:71
 #, kde-format
-#| msgid "Get New Wallpapers…"
 msgctxt "@action:button the new things being gotten are wallpapers"
 msgid "Get New…"
 msgstr "Lấy mới…"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:72
 #, kde-format
-#| msgid "Next Wallpaper Image"
 msgctxt "@action:button"
 msgid "Get New Wallpaper Images…"
 msgstr "Tải ảnh phông nền mới…"
@@ -204,7 +198,6 @@ msgstr ""
 #. i18n people, this isn't a "word puzzle". there is a specific string format for QFileDialog::setNameFilters
 #: plugin/imagebackend.cpp:330
 #, kde-format
-#| msgid "Image Files"
 msgid "Media Files"
 msgstr "Tệp phương tiện"
 
@@ -279,7 +272,6 @@ msgstr "Thêm…"
 
 #: slideshowpackage/contents/ui/SlideshowComponent.qml:211
 #, kde-format
-#| msgid "Add Folder…"
 msgctxt "@action:button"
 msgid "Add Folder…"
 msgstr "Thêm thư mục…"
@@ -291,7 +283,6 @@ msgstr "Xoá thư mục"
 
 #: slideshowpackage/contents/ui/SlideshowComponent.qml:260
 #, kde-format
-#| msgid "Open Folder"
 msgid "Open Folder…"
 msgstr "Mở thư mục…"
 
@@ -302,7 +293,6 @@ msgstr "Chưa cấu hình địa điểm chứa phông nền nào"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:49
 #, kde-format
-#| msgid "Get New Wallpapers…"
 msgctxt "@action:inmenu"
 msgid "Set as Wallpaper"
 msgstr "Đặt làm phông nền"
@@ -327,19 +317,16 @@ msgstr "Cả hai"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:97
 #, kde-kuit-format
-#| msgid "An error occurred while attempting to set the Plasma wallpaper:\n"
 msgctxt "@info %1 is the dbus error message"
 msgid "An error occurred while attempting to set the Plasma wallpaper:<nl/>%1"
 msgstr "Lỗi xảy ra khi đặt phông nền Plasma:<nl/>%1"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:110
 #, kde-format
-#| msgid "An error occurred while attempting to set the Plasma wallpaper:\n"
 msgid "An error occurred while attempting to open kscreenlockerrc config file."
 msgstr "Lỗi xảy ra khi mở tệp cấu hình kscreenlockerrc."
 
 #, fuzzy
-#~| msgid "Open Image"
 #~ msgctxt "@title:window"
 #~ msgid "Open Media"
 #~ msgstr "Mở ảnh"

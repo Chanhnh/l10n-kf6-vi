@@ -19,14 +19,12 @@ msgstr ""
 
 #: akregatorplugin.cpp:46
 #, kde-format
-#| msgid "Add Feed to Akregator"
 msgctxt "@action:inmenu"
 msgid "Add Feed to Akregator"
 msgstr "Thêm nguồn tin cho Akregator"
 
 #: konqfeedicon.cpp:130
 #, kde-format
-#| msgid "Add Feed to Akregator"
 msgid "Add feed to Akregator"
 msgstr "Thêm nguồn tin vào Akregator"
 

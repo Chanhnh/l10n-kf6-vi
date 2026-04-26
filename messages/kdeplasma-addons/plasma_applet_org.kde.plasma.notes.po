@@ -76,13 +76,11 @@ msgstr "Mảnh giấy nhớ màu hồng"
 
 #: package/contents/ui/configAppearance.qml:70
 #, kde-format
-#| msgid "A translucent sticky note"
 msgid "A transparent sticky note"
 msgstr "Ghi chú trong suốt"
 
 #: package/contents/ui/configAppearance.qml:71
 #, kde-format
-#| msgid "A translucent sticky note with light text"
 msgid "A transparent sticky note with light text"
 msgstr "Ghi chú trong suốt với chữ sáng màu"
 
@@ -221,16 +219,12 @@ msgstr "Hồng"
 
 #: package/contents/ui/main.qml:637
 #, kde-format
-#| msgctxt "@item:inmenu"
-#| msgid "Translucent"
 msgctxt "@item:inmenu"
 msgid "Transparent"
 msgstr "Trong suốt"
 
 #: package/contents/ui/main.qml:641
 #, kde-format
-#| msgctxt "@item:inmenu"
-#| msgid "Translucent Light"
 msgctxt "@item:inmenu"
 msgid "Transparent Light"
 msgstr "Trong suốt sáng"

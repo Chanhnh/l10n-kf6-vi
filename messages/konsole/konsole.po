@@ -31,7 +31,6 @@ msgstr "teppi82@gmail.com"
 #. i18n: ectx: Menu (file)
 #: ../desktop/konsoleui.rc:6
 #, kde-format
-#| msgid "Tab Titles"
 msgid "File"
 msgstr "Tệp"
 
@@ -40,14 +39,12 @@ msgstr "Tệp"
 #: ../desktop/konsoleui.rc:16 plugins/QuickCommands/quickcommandswidget.cpp:296
 #: plugins/SSHManager/sshwidget.ui:300
 #, kde-format
-#| msgid "Edit..."
 msgid "Edit"
 msgstr "Sửa"
 
 #. i18n: ectx: Menu (view)
 #: ../desktop/konsoleui.rc:19
 #, kde-format
-#| msgid "Next View"
 msgid "View"
 msgstr "Xem"
 
@@ -55,7 +52,6 @@ msgstr "Xem"
 #: ../desktop/konsoleui.rc:20 ../desktop/partui.rc:12
 #: ../desktop/sessionui.rc:62
 #, kde-format
-#| msgid "Shrink View"
 msgid "Split View"
 msgstr "Chia khung xem"
 
@@ -86,42 +82,35 @@ msgstr "Thanh công cụ chính"
 #. i18n: ectx: Menu (history)
 #: ../desktop/partui.rc:20
 #, kde-format
-#| msgid "No scrollback"
 msgid "S&crollback"
 msgstr "Cuộn ngượ&c"
 
 #. i18n: ectx: ToolBar (sessionToolbar)
 #: ../desktop/sessionui.rc:78
 #, kde-format
-#| msgid "Name"
 msgid "Session Toolbar"
 msgstr "Thanh công cụ phiên"
 
 #: Application.cpp:53
 #, kde-format
-#| msgid "Name of profile to use for new Konsole instance"
 msgctxt "@info:shell"
 msgid "Name of profile to use for new Konsole instance"
 msgstr "Tên hồ sơ dùng cho hiện thể Konsole mới"
 
 #: Application.cpp:54
 #, kde-format
-#| msgid "Name of profile to use for new Konsole instance"
 msgctxt "@info:shell"
 msgid "json layoutfile to be loaded to use for new Konsole instance"
 msgstr "tệp bố trí json cần tải để dùng cho hiện thể Konsole mới"
 
 #: Application.cpp:55
 #, kde-format
-#| msgid "Create a new profile based upon the selected profile"
 msgctxt "@info:shell"
 msgid "Use the built-in profile instead of the default profile"
 msgstr "Sử dụng hồ sơ tích hợp thay vì hồ sơ mặc định"
 
 #: Application.cpp:56
 #, kde-format
-#| msgid ""
-#| "The initial working directory for new terminal sessions using this profile"
 msgctxt "@info:shell"
 msgid "Set the initial working directory of the new tab or window to 'dir'"
 msgstr "Đặt thư mục làm việc ban đầu của thẻ hoặc cửa sổ mới thành 'dir'"
@@ -139,8 +128,8 @@ msgid ""
 "Create a new tab in an existing window rather than creating a new window "
 "('Run all Konsole windows in a single process' must be enabled)"
 msgstr ""
-"Tạo thẻ mới trong cửa sổ hiện có thay vì tạo cửa sổ mới ('Chạy tất cả cửa "
-"sổ Konsole trong một tiến trình' phải được bật)"
+"Tạo thẻ mới trong cửa sổ hiện có thay vì tạo cửa sổ mới ('Chạy tất cả cửa sổ "
+"Konsole trong một tiến trình' phải được bật)"
 
 #: Application.cpp:62
 #, kde-format
@@ -150,9 +139,6 @@ msgstr "Tạo các thẻ theo tệp cấu hình thẻ đã cho"
 
 #: Application.cpp:64
 #, kde-format
-#| msgid ""
-#| "Start Konsole in the background and bring to the front when the F12 key "
-#| "is pressed"
 msgctxt "@info:shell"
 msgid ""
 "Start Konsole in the background and bring to the front when Ctrl+Shift+F12 "
@@ -199,16 +185,12 @@ msgstr "Khởi động Konsole ở chế độ toàn màn hình"
 
 #: Application.cpp:71
 #, kde-format
-#| msgid ""
-#| "The background transparency setting will not be used because your desktop "
-#| "does not appear to support transparent windows."
 msgctxt "@info:shell"
 msgid "Disable transparent backgrounds, even if the system supports them."
 msgstr "Tắt nền trong suốt, ngay cả khi hệ thống hỗ trợ."
 
 #: Application.cpp:72
 #, kde-format
-#| msgid "List the available profiles"
 msgctxt "@info:shell"
 msgid "List the available profiles"
 msgstr "Liệt kê các hồ sơ sẵn có"
@@ -221,7 +203,6 @@ msgstr "Liệt kê tên và kiểu của các thuộc tính hồ sơ (dùng vớ
 
 #: Application.cpp:74
 #, kde-format
-#| msgid "Change the shape of the cursor"
 msgctxt "@info:shell"
 msgid "Change the value of a profile property."
 msgstr "Thay đổi giá trị của thuộc tính hồ sơ."
@@ -254,105 +235,78 @@ msgstr "Các đối số truyền cho lệnh"
 
 #: Application.cpp:516
 #, kde-format
-#| msgid "Background transparency:"
 msgctxt "@item"
 msgid "Toggle Background Window"
 msgstr "Bật/tắt cửa sổ nền"
 
 #: BookmarkHandler.cpp:107
 #, kde-format
-#| msgid "%1 on %2"
 msgctxt "@item:inmenu The user's name and host they are connected to via ssh"
 msgid "%1 on %2"
 msgstr "%1 trên %2"
 
 #: BookmarkHandler.cpp:109
 #, kde-format
-#| msgid "%1"
 msgctxt "@item:inmenu The host the user is connected to via ssh"
 msgid "%1"
 msgstr "%1"
 
 #: colorscheme/ColorScheme.cpp:123
-#, 
-#| msgid "Background color:"
 msgctxt "@item:intable palette"
 msgid "Foreground"
 msgstr "Màu chữ"
 
 #: colorscheme/ColorScheme.cpp:124
-#, 
-#| msgid "Background color:"
 msgctxt "@item:intable palette"
 msgid "Background"
 msgstr "Nền"
 
 #: colorscheme/ColorScheme.cpp:125
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 1"
 msgstr "Màu 1"
 
 #: colorscheme/ColorScheme.cpp:126
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 2"
 msgstr "Màu 2"
 
 #: colorscheme/ColorScheme.cpp:127
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 3"
 msgstr "Màu 3"
 
 #: colorscheme/ColorScheme.cpp:128
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 4"
 msgstr "Màu 4"
 
 #: colorscheme/ColorScheme.cpp:129
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 5"
 msgstr "Màu 5"
 
 #: colorscheme/ColorScheme.cpp:130
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 6"
 msgstr "Màu 6"
 
 #: colorscheme/ColorScheme.cpp:131
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 7"
 msgstr "Màu 7"
 
 #: colorscheme/ColorScheme.cpp:132
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 8"
 msgstr "Màu 8"
 
 #: colorscheme/ColorScheme.cpp:133
-#, 
-#| msgid "Background transparency:"
 msgctxt "@item:intable palette"
 msgid "Foreground (Intense)"
 msgstr "Tiền cảnh (Đậm)"
 
 #: colorscheme/ColorScheme.cpp:134
-#, 
-#| msgid "Background transparency:"
 msgctxt "@item:intable palette"
 msgid "Background (Intense)"
 msgstr "Nền (Đậm)"
@@ -398,92 +352,69 @@ msgid "Color 8 (Intense)"
 msgstr "Màu 8 (Đậm)"
 
 #: colorscheme/ColorScheme.cpp:143
-#, 
-#| msgid "Background transparency:"
 msgctxt "@item:intable palette"
 msgid "Foreground (Faint)"
 msgstr "Tiền cảnh (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:144
-#, 
-#| msgid "Background transparency:"
 msgctxt "@item:intable palette"
 msgid "Background (Faint)"
 msgstr "Nền (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:145
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 1 (Faint)"
 msgstr "Màu 1 (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:146
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 2 (Faint)"
 msgstr "Màu 2 (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:147
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 3 (Faint)"
 msgstr "Màu 3 (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:148
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 4 (Faint)"
 msgstr "Màu 4 (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:149
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 5 (Faint)"
 msgstr "Màu 5 (Mờ nhạt)"
 
 #: colorscheme/ColorScheme.cpp:150
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 6 (Faint)"
 msgstr "Màu 6 (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:151
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 7 (Faint)"
 msgstr "Màu 7 (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:152
-#, 
-#| msgid "Color"
 msgctxt "@item:intable palette"
 msgid "Color 8 (Faint)"
 msgstr "Màu 8 (Mờ)"
 
 #: colorscheme/ColorScheme.cpp:451
 #, kde-format
-#| msgid "Un-named Color Scheme"
 msgctxt "@item"
 msgid "Un-named Color Scheme"
 msgstr "Quy hoạch màu không tên"
 
 #: colorscheme/ColorSchemeEditor.cpp:110
 #, kde-format
-#| msgid "Name"
 msgctxt "@label:listbox Column header text for color names"
 msgid "Name"
 msgstr "Tên"
 
 #: colorscheme/ColorSchemeEditor.cpp:110
 #, kde-format
-#| msgid "Color"
 msgctxt "@label:listbox Column header text for the actual colors"
 msgid "Color"
 msgstr "Màu"
@@ -497,16 +428,12 @@ msgstr "Màu đậm"
 # msgid "linux console"
 #: colorscheme/ColorSchemeEditor.cpp:112
 #, kde-format
-#| msgid "Linux console"
 msgctxt "@label:listbox Column header text for the actual faint colors"
 msgid "Faint color"
 msgstr "Màu mờ"
 
 #: colorscheme/ColorSchemeEditor.cpp:137
 #, kde-format
-#| msgid ""
-#| "The background transparency setting will not be used because your desktop "
-#| "does not appear to support transparent windows."
 msgctxt "@info:status"
 msgid ""
 "The background transparency setting will not be used because your desktop "
@@ -529,14 +456,12 @@ msgstr "Ảnh được hỗ trợ"
 
 #: colorscheme/ColorSchemeEditor.cpp:334
 #, kde-format
-#| msgid "New Color Scheme"
 msgctxt "@title:window"
 msgid "New Color Scheme"
 msgstr "Quy hoạch màu mới"
 
 #: colorscheme/ColorSchemeEditor.cpp:337
 #, kde-format
-#| msgid "Edit Color Scheme"
 msgctxt "@title:window"
 msgid "Edit Color Scheme"
 msgstr "Sửa quy hoạch màu"
@@ -555,7 +480,6 @@ msgstr "Bấm để chọn màu đậm"
 
 #: colorscheme/ColorSchemeEditor.cpp:393
 #, kde-format
-#| msgid "Click to send an email to '%1'."
 msgctxt "@info:tooltip"
 msgid "Click to choose Faint color"
 msgstr "Bấm để chọn màu Mờ"
@@ -576,9 +500,9 @@ msgid ""
 "settings.\n"
 "To see any effect, set colors with saturation value greater than 0."
 msgstr ""
-"Sắc độ và độ bão hòa của màu nền và chữ mặc định được ngẫu nhiên hóa. Một "
-"số bảng màu có thể dùng cài đặt ngẫu nhiên khác.\nĐể thấy hiệu ứng, đặt màu "
-"có độ bão hòa lớn hơn 0."
+"Sắc độ và độ bão hòa của màu nền và chữ mặc định được ngẫu nhiên hóa. Một số "
+"bảng màu có thể dùng cài đặt ngẫu nhiên khác.\n"
+"Để thấy hiệu ứng, đặt màu có độ bão hòa lớn hơn 0."
 
 #. i18n: ectx: property (text), widget (QCheckBox, randomizedBackgroundCheck)
 #: colorscheme/ColorSchemeEditor.ui:53
@@ -589,14 +513,12 @@ msgstr "Điều chỉnh màu ngẫu nhiên cho mỗi phiên"
 #. i18n: ectx: property (text), widget (QCheckBox, blurCheckBox)
 #: colorscheme/ColorSchemeEditor.ui:60
 #, kde-format
-#| msgid "Background color:"
 msgid "Blur background"
 msgstr "Làm mờ nền"
 
 #. i18n: ectx: property (text), widget (QLabel, transparencyLabel)
 #: colorscheme/ColorSchemeEditor.ui:69
 #, kde-format
-#| msgid "Background transparency:"
 msgid "Background color transparency:"
 msgstr "Độ trong suốt màu nền:"
 
@@ -610,28 +532,24 @@ msgstr "Phần trăm"
 #. i18n: ectx: property (text), widget (QLabel, wallpaperTransparencyLabel)
 #: colorscheme/ColorSchemeEditor.ui:103
 #, kde-format
-#| msgid "Background transparency:"
 msgid "Wallpaper transparency:"
 msgstr "Độ trong suốt của phông nền:"
 
 #. i18n: ectx: property (text), widget (QLabel, wallpaperLabel)
 #: colorscheme/ColorSchemeEditor.ui:137
 #, kde-format
-#| msgid "Background color:"
 msgid "Background image:"
 msgstr "Ảnh nền:"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, wallpaperPath)
 #: colorscheme/ColorSchemeEditor.ui:144
 #, kde-format
-#| msgid "Color Scheme && Background"
 msgid "Edit the path of the background image"
 msgstr "Sửa đường dẫn ảnh nền"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, wallpaperSelectButton)
 #: colorscheme/ColorSchemeEditor.ui:151
 #, kde-format
-#| msgid "Color Scheme && Background"
 msgid "Choose the background image"
 msgstr "Chọn ảnh nền"
 
@@ -677,14 +595,12 @@ msgstr "Điều chỉnh"
 #. i18n: ectx: property (text), item, widget (QComboBox, wallpaperScalingType)
 #: colorscheme/ColorSchemeEditor.ui:193
 #, kde-format
-#| msgid "Scrolling"
 msgid "NoScaling"
 msgstr "Không co giãn"
 
 #. i18n: ectx: property (text), widget (QLabel, wallpaperFlipLabel)
 #: colorscheme/ColorSchemeEditor.ui:205
 #, kde-format
-#| msgid "Background transparency:"
 msgid "Wallpaper flip:"
 msgstr "Lật phông nền:"
 
@@ -721,7 +637,6 @@ msgstr "Điểm neo ngang:"
 #. i18n: ectx: property (text), widget (QLabel, wallpaperHorizontalAnchorPosition)
 #: colorscheme/ColorSchemeEditor.ui:266
 #, kde-format
-#| msgid "Text size:"
 msgid "Left"
 msgstr "Trái"
 
@@ -744,7 +659,6 @@ msgstr "AaZz09..."
 
 #: CopyInputDialog.cpp:30
 #, kde-format
-#| msgid "Input"
 msgid "Copy Input"
 msgstr "Sao chép Kết nhập"
 
@@ -758,20 +672,17 @@ msgstr "Bộ lọc:"
 #. i18n: ectx: property (text), widget (QPushButton, selectAllButton)
 #: CopyInputDialog.ui:46
 #, kde-format
-#| msgid "Select"
 msgid "Select All"
 msgstr "Bôi đen tất cả"
 
 #. i18n: ectx: property (text), widget (QPushButton, deselectAllButton)
 #: CopyInputDialog.ui:53
 #, kde-format
-#| msgid "Select"
 msgid "Deselect All"
 msgstr "Bỏ chọn tất cả"
 
 #: filterHotSpots/ColorFilterHotSpot.cpp:84
 #, kde-format
-#| msgid "New Color Scheme"
 msgctxt "Caption of hover tooltip"
 msgid "Color Preview"
 msgstr "Xem thử màu"
@@ -782,12 +693,11 @@ msgid ""
 "Could not open file with the text editor specified in the profile settings;\n"
 "it will be opened with the system default editor."
 msgstr ""
-"Không mở được tệp bằng trình sửa văn bản được chỉ định trong cài đặt hồ "
-"sơ;\nNó sẽ được mở bằng trình sửa mặc định của hệ thống."
+"Không mở được tệp bằng trình sửa văn bản được chỉ định trong cài đặt hồ sơ;\n"
+"Nó sẽ được mở bằng trình sửa mặc định của hệ thống."
 
 #: filterHotSpots/FileFilterHotspot.cpp:172
 #, kde-format
-#| msgid "Cursor Options"
 msgid "Copy Location"
 msgstr "Sao chép địa điểm"
 
@@ -818,7 +728,6 @@ msgstr "Chép địa chỉ thư"
 
 #: FontDialog.cpp:26
 #, kde-format
-#| msgid "Edit Font..."
 msgctxt "@title:window"
 msgid "Select font"
 msgstr "Chọn phông chữ"
@@ -837,14 +746,13 @@ msgid ""
 "equal width (monospace). Any non monospaced font may cause display issues. "
 "This should not be necessary except in rare cases."
 msgstr ""
-"Về bản chất, một chương trình dòng lệnh yêu cầu các ký tự phông chữ có "
-"chiều rộng bằng nhau (đơn cách). Bất kỳ phông chữ không đơn cách nào cũng "
-"có thể gây ra vấn đề hiển thị. Điều này chỉ cần thiết trong một số trường "
-"hợp hiếm gặp."
+"Về bản chất, một chương trình dòng lệnh yêu cầu các ký tự phông chữ có chiều "
+"rộng bằng nhau (đơn cách). Bất kỳ phông chữ không đơn cách nào cũng có thể "
+"gây ra vấn đề hiển thị. Điều này chỉ cần thiết trong một số trường hợp hiếm "
+"gặp."
 
 #: HistorySizeDialog.cpp:25
 #, kde-format
-#| msgid "No scrollback"
 msgctxt "@title:window"
 msgid "Adjust Scrollback"
 msgstr "Điều chỉnh cuộn ngược"
@@ -907,7 +815,6 @@ msgstr "Xoá"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: KeyBindingEditor.ui:94
 #, kde-format
-#| msgid "Test Area"
 msgctxt "Title of the area where you test your keys are properly configured"
 msgid "Test Area"
 msgstr "Vùng kiểm thử"
@@ -926,14 +833,12 @@ msgstr "Ra:"
 
 #: main.cpp:186
 #, kde-format
-#| msgid "Konsole"
 msgctxt "@title"
 msgid "Konsole"
 msgstr "Konsole"
 
 #: main.cpp:188
 #, kde-format
-#| msgid "Terminal emulator"
 msgctxt "@title"
 msgid "Terminal emulator"
 msgstr "Trình giả lập thiết bị đầu cuối"
@@ -952,7 +857,6 @@ msgstr "Kurt Hindenburg"
 
 #: main.cpp:343
 #, kde-format
-#| msgid "Bug fixes and general improvements"
 msgctxt "@info:credit"
 msgid "General maintainer, bug fixes and general improvements"
 msgstr "Người bảo trì chính, sửa lỗi và cải tiến chung"
@@ -977,7 +881,6 @@ msgstr "Lars Doelle"
 
 #: main.cpp:349
 #, kde-format
-#| msgid "Terminal emulator"
 msgctxt "@info:credit"
 msgid "Original author"
 msgstr "Tác giả gốc"
@@ -990,7 +893,6 @@ msgstr "Ahmad Samir"
 
 #: main.cpp:351 main.cpp:354 main.cpp:357 main.cpp:360
 #, kde-format
-#| msgid "Bug fixes and general improvements"
 msgctxt "@info:credit"
 msgid "Major refactoring, bug fixes and major improvements"
 msgstr "Cải tiến lớn, sửa lỗi và cải thiện đáng kể"
@@ -1022,7 +924,6 @@ msgstr "Edwin Pujols"
 #: main.cpp:363 main.cpp:366 main.cpp:368 main.cpp:373 main.cpp:375
 #: main.cpp:376 main.cpp:377
 #, kde-format
-#| msgid "Bug fixes and general improvements"
 msgctxt "@info:credit"
 msgid "Bug fixes and general improvements"
 msgstr "Sửa lỗi và cải tiến chung"
@@ -1047,7 +948,6 @@ msgstr "Mariusz Glebocki"
 
 #: main.cpp:370
 #, kde-format
-#| msgid "Bug fixes and general improvements"
 msgctxt "@info:credit"
 msgid "Bug fixes and major improvements"
 msgstr "Sửa lỗi và cải tiến lớn"
@@ -1084,7 +984,6 @@ msgstr "Thomas Dreibholz"
 
 #: main.cpp:378
 #, kde-format
-#| msgid "Bug fixes and general improvements"
 msgctxt "@info:credit"
 msgid "General improvements"
 msgstr "Cải tiến chung"
@@ -1098,7 +997,6 @@ msgstr "Chris Machemer"
 #: main.cpp:379 main.cpp:380 main.cpp:407 main.cpp:408 main.cpp:409
 #: main.cpp:410
 #, kde-format
-#| msgid "Bug fixes"
 msgctxt "@info:credit"
 msgid "Bug fixes"
 msgstr "Sửa lỗi"
@@ -1117,7 +1015,6 @@ msgstr "Stephan Kulow"
 
 #: main.cpp:381
 #, kde-format
-#| msgid "Solaris support and history"
 msgctxt "@info:credit"
 msgid "Solaris support and history"
 msgstr "Hỗ trợ Solaris và lịch sử"
@@ -1130,7 +1027,6 @@ msgstr "Alexander Neundorf"
 
 #: main.cpp:383
 #, kde-format
-#| msgid "Bug fixes and improved startup performance"
 msgctxt "@info:credit"
 msgid "Bug fixes and improved startup performance"
 msgstr "Sửa lỗi và cải thiện hiệu suất khởi động"
@@ -1143,7 +1039,6 @@ msgstr "Peter Silva"
 
 #: main.cpp:385
 #, kde-format
-#| msgid "Marking improvements"
 msgctxt "@info:credit"
 msgid "Marking improvements"
 msgstr "Cải tiến đánh dấu"
@@ -1156,14 +1051,13 @@ msgstr "Lotzi Boloni"
 
 #: main.cpp:388
 #, kde-format
-#| msgid ""
-#| "Embedded Konsole\n"
-#| "Toolbar and session names"
 msgctxt "@info:credit"
 msgid ""
 "Embedded Konsole\n"
 "Toolbar and session names"
-msgstr "Konsole nhúng\nTên thanh công cụ và phiên"
+msgstr ""
+"Konsole nhúng\n"
+"Tên thanh công cụ và phiên"
 
 #: main.cpp:391
 #, kde-format
@@ -1173,14 +1067,13 @@ msgstr "David Faure"
 
 #: main.cpp:393
 #, kde-format
-#| msgid ""
-#| "Embedded Konsole\n"
-#| "General improvements"
 msgctxt "@info:credit"
 msgid ""
 "Embedded Konsole\n"
 "General improvements"
-msgstr "Konsole nhúng\nCải tiến chung"
+msgstr ""
+"Konsole nhúng\n"
+"Cải tiến chung"
 
 #: main.cpp:396
 #, kde-format
@@ -1190,7 +1083,6 @@ msgstr "Antonio Larrosa"
 
 #: main.cpp:396
 #, kde-format
-#| msgid "Visual effects"
 msgctxt "@info:credit"
 msgid "Visual effects"
 msgstr "Hiệu ứng trực quan"
@@ -1203,14 +1095,13 @@ msgstr "Matthias Ettrich"
 
 #: main.cpp:399
 #, kde-format
-#| msgid ""
-#| "Code from the kvt project\n"
-#| "General improvements"
 msgctxt "@info:credit"
 msgid ""
 "Code from the kvt project\n"
 "General improvements"
-msgstr "Mã từ dự án kvt\nCải tiến chung"
+msgstr ""
+"Mã từ dự án kvt\n"
+"Cải tiến chung"
 
 #: main.cpp:402
 #, kde-format
@@ -1220,7 +1111,6 @@ msgstr "Warwick Allison"
 
 #: main.cpp:403
 #, kde-format
-#| msgid "Schema and text selection improvements"
 msgctxt "@info:credit"
 msgid "Schema and text selection improvements"
 msgstr "Cải tiến sơ đồ và phần bôi đen văn bản"
@@ -1233,7 +1123,6 @@ msgstr "Dan Pilone"
 
 #: main.cpp:405
 #, kde-format
-#| msgid "SGI port"
 msgctxt "@info:credit"
 msgid "SGI port"
 msgstr "Cổng SGI"
@@ -1246,7 +1135,6 @@ msgstr "Kevin Street"
 
 #: main.cpp:406
 #, kde-format
-#| msgid "FreeBSD port"
 msgctxt "@info:credit"
 msgid "FreeBSD port"
 msgstr "Cổng FreeBSD"
@@ -1277,55 +1165,47 @@ msgstr "Lars Knoll"
 
 #: main.cpp:411
 #, kde-format
-#| msgid "Thanks to many others.\n"
 msgctxt "@info:credit"
 msgid "Thanks to many others.\n"
 msgstr "Cảm ơn nhiều người khác.\n"
 
 #: MainWindow.cpp:327
 #, kde-format
-#| msgid "New &Tab"
 msgctxt "@action:inmenu"
 msgid "&New Tab"
 msgstr "Thẻ mớ&i"
 
 #: MainWindow.cpp:337
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@action:inmenu"
 msgid "&Clone Tab"
 msgstr "N&hân bản thẻ"
 
 #: MainWindow.cpp:344
 #, kde-format
-#| msgid "New &Window"
 msgctxt "@action:inmenu"
 msgid "New &Window"
 msgstr "&Cửa sổ mới"
 
 #: MainWindow.cpp:351
 #, kde-format
-#| msgid "Konsole"
 msgctxt "@action:inmenu"
 msgid "Close Window"
 msgstr "Đóng cửa sổ"
 
 #: MainWindow.cpp:356
 #, kde-format
-#| msgid "&Bookmarks"
 msgctxt "@title:menu"
 msgid "&Bookmarks"
 msgstr "&Dấu trang"
 
 #: MainWindow.cpp:379
 #, kde-format
-#| msgid "New Color Scheme"
 msgid "&Window Color Scheme"
 msgstr "Quy hoạch màu cử&a sổ"
 
 #: MainWindow.cpp:391
 #, kde-format
-#| msgid "Manage Profiles"
 msgctxt "@action:inmenu"
 msgid "Manage Profiles..."
 msgstr "Quản lý hồ sơ..."
@@ -1338,7 +1218,6 @@ msgstr "Kích hoạt trình đơn"
 
 #: MainWindow.cpp:403
 #, kde-format
-#| msgid "Move Here"
 msgctxt "@action:inmenu"
 msgid "Save Tab Layout..."
 msgstr "Lưu Bố cục Thẻ..."
@@ -1365,14 +1244,12 @@ msgstr "Xác nhận đóng"
 
 #: MainWindow.cpp:733 MainWindow.cpp:750 MainWindow.cpp:764
 #, kde-format
-#| msgid "Konsole"
 msgctxt "@action:button"
 msgid "Close &Window"
 msgstr "Đó&ng cửa sổ"
 
 #: MainWindow.cpp:751 MainWindow.cpp:765
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@action:button"
 msgid "Close Current &Tab"
 msgstr "Đóng t&hẻ hiện tại"
@@ -1385,14 +1262,12 @@ msgstr "Có %1 dòng lệnh đang mở trong cửa sổ này. Bạn vẫn muốn
 
 #: MainWindow.cpp:867 Part.cpp:297
 #, kde-format
-#| msgid "New Profile"
 msgctxt "@title Preferences page name"
 msgid "Profiles"
 msgstr "Hồ sơ"
 
 #: MainWindow.cpp:884
 #, kde-format
-#| msgid "General"
 msgctxt "@title Preferences page name"
 msgid "General"
 msgstr "Chung"
@@ -1436,7 +1311,6 @@ msgstr "Biểu mẫu"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: plugins/QuickCommands/qcwidget.ui:22
 #, kde-format
-#| msgid "Shortcut"
 msgid "Shortcut:"
 msgstr "Phím tắt:"
 
@@ -1457,7 +1331,6 @@ msgstr "Đảo ngược"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: plugins/QuickCommands/qcwidget.ui:97
 #, kde-format
-#| msgid "Tab Titles"
 msgid "Title"
 msgstr "Tiêu đề"
 
@@ -1477,14 +1350,12 @@ msgstr "Nhóm"
 #. i18n: ectx: property (currentText), widget (QComboBox, folder)
 #: plugins/QuickCommands/qcwidget.ui:128 plugins/SSHManager/sshwidget.ui:213
 #, kde-format
-#| msgid "Set as Default"
 msgid "Default"
 msgstr "Mặc định"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: plugins/QuickCommands/qcwidget.ui:143
 #, kde-format
-#| msgid "Command:"
 msgid "Command"
 msgstr "Lệnh"
 
@@ -1504,7 +1375,6 @@ msgstr "Chạy"
 #. i18n: ectx: property (text), widget (QPushButton, btnSave)
 #: plugins/QuickCommands/qcwidget.ui:256
 #, kde-format
-#| msgid "Tab Titles"
 msgid "Save"
 msgstr "Lưu"
 
@@ -1524,7 +1394,6 @@ msgstr "Huỷ"
 #: plugins/QuickCommands/quickcommandsplugin.cpp:46
 #: plugins/QuickCommands/quickcommandsplugin.cpp:113
 #, kde-format
-#| msgid "Command:"
 msgid "Quick Commands"
 msgstr "Lệnh Nhanh"
 
@@ -1540,7 +1409,6 @@ msgstr "Không tìm thấy lệnh nhanh. Bạn có thể thêm trong Plugins -> 
 
 #: plugins/QuickCommands/quickcommandsplugin.cpp:107
 #, kde-format
-#| msgid "Command:"
 msgid "Plugins - Quick Commands"
 msgstr "Phần bổ trợ - Lệnh nhanh"
 
@@ -1581,7 +1449,9 @@ msgstr "Chạy"
 msgid ""
 "You are about to delete the group %1,\n"
 " with multiple configurations, are you sure?"
-msgstr "Bạn sắp xóa nhóm %1,\nvới nhiều cấu hình, bạn có chắc chắn không?"
+msgstr ""
+"Bạn sắp xóa nhóm %1,\n"
+"với nhiều cấu hình, bạn có chắc chắn không?"
 
 #: plugins/QuickCommands/quickcommandswidget.cpp:243
 #: plugins/SSHManager/sshmanagerpluginwidget.cpp:231
@@ -1606,7 +1476,6 @@ msgstr "Lệnh không thể trống"
 
 #: plugins/QuickCommands/quickcommandswidget.cpp:300
 #, kde-format
-#| msgid "User name"
 msgid "Rename"
 msgstr "Đổi tên"
 
@@ -1628,7 +1497,6 @@ msgstr "Cấu hình SSH"
 
 #: plugins/SSHManager/sshmanagermodel.cpp:49
 #, kde-format
-#| msgid "Set as Default"
 msgctxt "@item:inlistbox The default list of ssh hosts"
 msgid "Default"
 msgstr "Mặc định"
@@ -1660,7 +1528,6 @@ msgstr "Trình quản lý SSH"
 
 #: plugins/SSHManager/sshmanagerplugin.cpp:96
 #, kde-format
-#| msgid "Show Menu Bar"
 msgid "Show SSH Manager"
 msgstr "Hiện trình quản lý SSH"
 
@@ -1676,7 +1543,6 @@ msgstr "Không tìm thấy cấu hình SSH đã lưu. Thêm tại Plugins -> SSH
 
 #: plugins/SSHManager/sshmanagerplugin.cpp:147
 #, kde-format
-#| msgid "Show Menu Bar"
 msgid "Plugins - SSH Manager"
 msgstr "Phần bổ trợ - Trình quản lý SSH"
 
@@ -1701,7 +1567,8 @@ msgstr "Lỗi thực hiện lệnh SSH"
 #, kde-format
 msgid ""
 "Can't issue SSH command outside the shell application (eg, bash, zsh, sh)"
-msgstr "Không thể thực thi lệnh SSH bên ngoài ứng dụng hệ vỏ (ví dụ: bash, zsh, sh)"
+msgstr ""
+"Không thể thực thi lệnh SSH bên ngoài ứng dụng hệ vỏ (ví dụ: bash, zsh, sh)"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: plugins/SSHManager/sshmanagerpluginwidget.cpp:78
@@ -1726,7 +1593,9 @@ msgstr "Không thay đổi"
 msgid ""
 "You are about to delete the folder %1,\n"
 " with multiple SSH Configurations, are you sure?"
-msgstr "Bạn sắp xóa thư mục %1,\nchứa nhiều cấu hình SSH, bạn chắc chắn chứ?"
+msgstr ""
+"Bạn sắp xóa thư mục %1,\n"
+"chứa nhiều cấu hình SSH, bạn chắc chắn chứ?"
 
 #: plugins/SSHManager/sshmanagerpluginwidget.cpp:238
 #, kde-format
@@ -1793,14 +1662,12 @@ msgstr "Bạn không thể xóa mục được thêm tự động."
 
 #: plugins/SSHManager/sshmanagerpluginwidget.cpp:453
 #, kde-format
-#| msgid "Edit the selected profile"
 msgid "Delete selected entry"
 msgstr "Xóa mục đã chọn"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: plugins/SSHManager/sshwidget.ui:19
 #, kde-format
-#| msgid "Shortcut"
 msgid "Shortcut"
 msgstr "Phím tắt"
 
@@ -1819,7 +1686,6 @@ msgstr "Đổi hồ sơ khi kết nối/ngắt kết nối"
 #. i18n: ectx: property (text), widget (QCheckBox, btnManageProfile)
 #: plugins/SSHManager/sshwidget.ui:60
 #, kde-format
-#| msgid "Manage Profiles"
 msgid "Manage profile"
 msgstr "Quản lý hồ sơ"
 
@@ -1881,7 +1747,6 @@ msgstr "Khoá bí mật được sử dụng cho kết nối này"
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, sshkey)
 #: plugins/SSHManager/sshwidget.ui:148
 #, kde-format
-#| msgid "Terminal Features"
 msgid "The private key"
 msgstr "Khoá bí mật"
 
@@ -1904,7 +1769,6 @@ msgstr "Dùng ~/.ssh/config cho khóa"
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: plugins/SSHManager/sshwidget.ui:177
 #, kde-format
-#| msgid "User name"
 msgid "Username"
 msgstr "Tên người dùng"
 
@@ -1917,8 +1781,6 @@ msgstr "Tên người dùng cho kết nối"
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, username)
 #: plugins/SSHManager/sshwidget.ui:187
 #, kde-format
-#| msgctxt "NAME OF TRANSLATORS"
-#| msgid "Your names"
 msgid "Your username"
 msgstr "Tên người dùng của bạn"
 
@@ -1937,7 +1799,6 @@ msgstr "Để phục vụ mục đích tổ chức, mục này sẽ nằm trong 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: plugins/SSHManager/sshwidget.ui:220
 #, kde-format
-#| msgid "New Profile"
 msgid "Profile"
 msgstr "Hồ sơ"
 
@@ -1956,14 +1817,12 @@ msgstr "Thêm mục SSH mới"
 #. i18n: ectx: property (toolTip), widget (QPushButton, btnDelete)
 #: plugins/SSHManager/sshwidget.ui:284
 #, kde-format
-#| msgid "Edit the selected profile"
 msgid "Delete selected SSH entry"
 msgstr "Xóa mục SSH đã chọn"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, btnEdit)
 #: plugins/SSHManager/sshwidget.ui:297
 #, kde-format
-#| msgid "Edit the selected profile"
 msgid "Edit selected entry"
 msgstr "Sửa mục đã chọn"
 
@@ -1988,7 +1847,6 @@ msgstr "Không có plugin nào khả dụng"
 #. i18n: ectx: property (title), widget (QGroupBox, OutputOptions)
 #: PrintOptions.ui:14 PrintOptions.ui:20
 #, kde-format
-#| msgid "Options"
 msgid "Output Options"
 msgstr "Tùy chọn đầu ra"
 
@@ -2014,13 +1872,11 @@ msgstr "Tích hợp"
 
 #: profile/ProfileList.cpp:37 widgets/EditProfileDialog.cpp:537
 #, kde-format
-#| msgid "Delete Profile"
 msgid "Default profile"
 msgstr "Hồ sơ mặc định"
 
 #: profile/ProfileManager.cpp:280
 #, kde-format
-#| msgid "Edit Profile \"%1\""
 msgctxt "New profile name, %1 is a number"
 msgid "Profile %1"
 msgstr "Hồ sơ %1"
@@ -2032,14 +1888,12 @@ msgstr "Konsole không có quyền lưu hồ sơ này vào %1"
 
 #: profile/ProfileModel.cpp:55
 #, kde-format
-#| msgid "Name"
 msgctxt "@title:column Profile name"
 msgid "Name"
 msgstr "Tên"
 
 #: profile/ProfileModel.cpp:57
 #, kde-format
-#| msgid "Shortcut"
 msgctxt "@title:column Profile keyboard shortcut"
 msgid "Shortcut"
 msgstr "Phím tắt"
@@ -2054,7 +1908,6 @@ msgstr " [Chỉ đọc]"
 
 #: profile/ProfileModel.cpp:84
 #, kde-format
-#| msgid "Set as Default"
 msgctxt "@label:textbox added to the name of the current default profile"
 msgid " [Default]"
 msgstr " [Mặc định]"
@@ -2078,7 +1931,6 @@ msgstr "Thuộc tính thẻ"
 
 #: SaveHistoryTask.cpp:71
 #, kde-format
-#| msgid "Save Output from %1"
 msgid "Save Output From %1"
 msgstr "Lưu kết xuất từ %1"
 
@@ -2103,7 +1955,6 @@ msgstr "Đen trên vàng nhạt"
 
 #: schemas.cpp:2
 #, kde-format
-#| msgid "Black on Light Yellow"
 msgid "Black on Random Light"
 msgstr "Đen trên nền sáng ngẫu nhiên"
 
@@ -2114,7 +1965,6 @@ msgstr "Đen trên trắng"
 
 #: schemas.cpp:4
 #, kde-format
-#| msgid "White on Black"
 msgid "Blue on Black"
 msgstr "Xanh trên đen"
 
@@ -2130,20 +1980,17 @@ msgstr "Màu tối nhạt"
 
 #: schemas.cpp:7
 #, kde-format
-#| msgid "White on Black"
 msgid "Green on Black"
 msgstr "Xanh lá trên đen"
 
 # msgid "linux console"
 #: schemas.cpp:8
 #, kde-format
-#| msgid "Linux console"
 msgid "Linux Colors"
 msgstr "Màu Linux"
 
 #: schemas.cpp:9
 #, kde-format
-#| msgid "White on Black"
 msgid "Red on Black"
 msgstr "Đỏ trên đen"
 
@@ -2187,7 +2034,6 @@ msgstr "Bàn giao tiếp Solaris"
 
 #: session/Session.cpp:109
 #, kde-format
-#| msgid "Bell in session '%1'"
 msgid "Bell in '%1' (Session '%2')"
 msgstr "Chuông trong '%1' (Phiên '%2')"
 
@@ -2223,7 +2069,6 @@ msgstr "Không khởi động được chương trình '%1' với tham số '%2'
 
 #: session/Session.cpp:741
 #, kde-format
-#| msgid "Silence in session '%1'"
 msgid "Silence in '%1' (Session '%2')"
 msgstr "Im lặng trong '%1' (Phiên '%2')"
 
@@ -2231,7 +2076,6 @@ msgstr "Im lặng trong '%1' (Phiên '%2')"
 #: session/SessionController.cpp:354 session/SessionController.cpp:1846
 #: terminalDisplay/TerminalBell.cpp:43 Vt102Emulation.cpp:1149
 #, kde-format
-#| msgid "Konsole"
 msgid "Show session"
 msgstr "Hiện phiên"
 
@@ -2243,28 +2087,25 @@ msgid ""
 "methods can be changed to internal use only by re-compiling Konsole. <p>This "
 "warning will only show once for this Konsole instance.</p>"
 msgstr ""
-"Các phương thức D-Bus sendText/runCommand vừa được sử dụng. Có những lo "
-"ngại về an ninh khi cho phép các phương thức này công khai. Nếu muốn, các "
-"phương thức này có thể được thay đổi chỉ để sử dụng nội bộ bằng cách biên "
-"dịch lại Konsole. <p>Cảnh báo này sẽ chỉ hiển thị một lần cho phiên bản "
-"Konsole này.</p>"
+"Các phương thức D-Bus sendText/runCommand vừa được sử dụng. Có những lo ngại "
+"về an ninh khi cho phép các phương thức này công khai. Nếu muốn, các phương "
+"thức này có thể được thay đổi chỉ để sử dụng nội bộ bằng cách biên dịch lại "
+"Konsole. <p>Cảnh báo này sẽ chỉ hiển thị một lần cho phiên bản Konsole này.</"
+"p>"
 
 #: session/Session.cpp:1066
 #, kde-format
-#| msgid "<Finished>"
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr "Kết thúc"
 
 #: session/Session.cpp:1080 session/Session.cpp:1096
 #, kde-format
-#| msgid "Session '%1' exited unexpectedly."
 msgid "Program '%1' crashed."
 msgstr "Chương trình '%1' bị đổ vỡ."
 
 #: session/Session.cpp:1082
 #, kde-format
-#| msgid "Session '%1' exited with status %2."
 msgid "Program '%1' exited with status %2."
 msgstr "Chương trình '%1' kết thúc với trạng thái %2."
 
@@ -2275,7 +2116,6 @@ msgstr "Tiến trình ZModem"
 
 #: session/Session.cpp:2079
 #, kde-format
-#| msgid "Activity in session '%1'"
 msgid "Activity in '%1' (Session '%2')"
 msgstr "Hoạt động trong '%1' (Phiên '%2')"
 
@@ -2301,13 +2141,11 @@ msgstr "Tìm kiếm '%1' với"
 
 #: session/SessionController.cpp:531
 #, kde-format
-#| msgid "Manage Profiles..."
 msgid "Configure Web Shortcuts..."
 msgstr "Cấu hình lối tắt Web..."
 
 #: session/SessionController.cpp:641
 #, kde-format
-#| msgid "Konsole"
 msgid "&Close Session"
 msgstr "Đó&ng phiên"
 
@@ -2318,19 +2156,16 @@ msgstr "Mở Trình quản lý tệp"
 
 #: session/SessionController.cpp:660
 #, kde-format
-#| msgid "&Copy"
 msgid "Copy"
 msgstr "Sao chép"
 
 #: session/SessionController.cpp:667
 #, kde-format
-#| msgid "Split View Left/Right"
 msgid "Split View Left-Right"
 msgstr "Chia khung xem Trái-Phải"
 
 #: session/SessionController.cpp:672
 #, kde-format
-#| msgid "Split View Top/Bottom"
 msgid "Split View Top-Bottom"
 msgstr "Chia khung xem trên-dưới"
 
@@ -2341,13 +2176,11 @@ msgstr "Sao chép trừ lời nhắc"
 
 #: session/SessionController.cpp:682
 #, kde-format
-#| msgid "Input"
 msgid "Copy user input"
 msgstr "Sao chép đầu vào người dùng"
 
 #: session/SessionController.cpp:688
 #, kde-format
-#| msgid "Input"
 msgid "Copy command output"
 msgstr "Sao chép đầu ra lệnh"
 
@@ -2363,25 +2196,21 @@ msgstr "Tìm kiếm Web"
 
 #: session/SessionController.cpp:716
 #, kde-format
-#| msgid "Select"
 msgid "&Select All"
 msgstr "&Bôi đen tất cả"
 
 #: session/SessionController.cpp:720
 #, kde-format
-#| msgid "Select"
 msgid "Select &Mode"
 msgstr "C&hế độ bôi đen"
 
 #: session/SessionController.cpp:725
 #, kde-format
-#| msgid "Select"
 msgid "Select &Line"
 msgstr "&Bôi đen dòng"
 
 #: session/SessionController.cpp:728
 #, kde-format
-#| msgid "Save Output..."
 msgid "Save Output &As..."
 msgstr "Lưu kế&t xuất thành..."
 
@@ -2392,7 +2221,6 @@ msgstr "Chụp mà&n hình..."
 
 #: session/SessionController.cpp:738
 #, kde-format
-#| msgid "Manage Profiles..."
 msgid "Adjust Scrollback..."
 msgstr "Điều chỉnh cuộn lùi..."
 
@@ -2403,31 +2231,26 @@ msgstr "Xoá vùng cuộn ngược"
 
 #: session/SessionController.cpp:746
 #, kde-format
-#| msgid "Clear Scrollback && Reset"
 msgid "Clear Scrollback and Reset"
 msgstr "Làm trống vùng cuộn ngược và đặt lại"
 
 #: session/SessionController.cpp:757
 #, kde-format
-#| msgid "Edit Profile"
 msgid "Next Profile"
 msgstr "Hồ sơ tiếp theo"
 
 #: session/SessionController.cpp:762
 #, kde-format
-#| msgid "Previous"
 msgid "Previous Profile"
 msgstr "Hồ sơ trước"
 
 #: session/SessionController.cpp:765
 #, kde-format
-#| msgid "Edit Profile"
 msgid "Switch Profile"
 msgstr "Chuyển hồ sơ"
 
 #: session/SessionController.cpp:790
 #, kde-format
-#| msgid "Encoding"
 msgid "Set &Encoding"
 msgstr "Đặt mã h&oá"
 
@@ -2445,7 +2268,6 @@ msgstr "Chỉ đọc"
 
 #: session/SessionController.cpp:832
 #, kde-format
-#| msgid "&Rename Tab..."
 msgid "&Configure or Rename Tab..."
 msgstr "&Cấu hình hoặc đổi tên thẻ..."
 
@@ -2456,7 +2278,6 @@ msgstr "Tất cả Tab trong Cửa &sổ Hiện tại"
 
 #: session/SessionController.cpp:845
 #, kde-format
-#| msgid "&Rename Tab..."
 msgid "&Select Tabs..."
 msgstr "Bôi đe&n thẻ..."
 
@@ -2468,7 +2289,6 @@ msgstr "K&hông"
 
 #: session/SessionController.cpp:859
 #, kde-format
-#| msgid "Input"
 msgid "Copy Input To"
 msgstr "Sao chép Đầu vào Đến"
 
@@ -2484,7 +2304,6 @@ msgstr "Màn hình Một lần"
 
 #: session/SessionController.cpp:877
 #, kde-format
-#| msgid "Monitor for &Activity"
 msgid "Monitor for &Prompt"
 msgstr "Theo dõi lời nhắ&c"
 
@@ -2500,7 +2319,6 @@ msgstr "Theo dõi sự &nghỉ"
 
 #: session/SessionController.cpp:896
 #, kde-format
-#| msgid "Monitor for &Activity"
 msgid "Monitor for Process Finishing"
 msgstr "Giám sát quá trình kết thúc"
 
@@ -2511,13 +2329,11 @@ msgstr "Phóng to phông chữ"
 
 #: session/SessionController.cpp:911
 #, kde-format
-#| msgid "Shrink View"
 msgid "Shrink Font"
 msgstr "Thu nhỏ phông chữ"
 
 #: session/SessionController.cpp:916
 #, kde-format
-#| msgid "Increase Text Size"
 msgid "Reset Font Size"
 msgstr "Đặt lại cỡ phông chữ"
 
@@ -2533,7 +2349,6 @@ msgstr "Tạm dừn&g tác vụ"
 
 #: session/SessionController.cpp:931
 #, kde-format
-#| msgid "&Close Tab"
 msgid "&Continue Task"
 msgstr "Tiếp tục tác &vụ"
 
@@ -2549,7 +2364,6 @@ msgstr "Ngắt Tá&c Vụ"
 
 #: session/SessionController.cpp:946
 #, kde-format
-#| msgid "Terminal Features"
 msgid "&Terminate Task"
 msgstr "&Kết thúc tác vụ"
 
@@ -2570,7 +2384,6 @@ msgstr "Tín hiệu người dùng &2"
 
 #: session/SessionController.cpp:979
 #, kde-format
-#| msgid "New Profile..."
 msgid "Create New Profile..."
 msgstr "Tạo hồ sơ mới..."
 
@@ -2584,7 +2397,8 @@ msgstr "Sửa hồ sơ hiện thời..."
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
-msgstr "Một chương trình đang chạy trong phiên này. Bạn có chắc muốn đóng nó không?"
+msgstr ""
+"Một chương trình đang chạy trong phiên này. Bạn có chắc muốn đóng nó không?"
 
 #: session/SessionController.cpp:1116
 #, kde-format
@@ -2592,8 +2406,7 @@ msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr ""
-"Chương trình '%1' đang chạy trong phiên này. Bạn có chắc muốn đóng nó "
-"không?"
+"Chương trình '%1' đang chạy trong phiên này. Bạn có chắc muốn đóng nó không?"
 
 #: session/SessionController.cpp:1123 session/SessionController.cpp:1158
 #, kde-format
@@ -2602,7 +2415,6 @@ msgstr "Xác nhận đóng"
 
 #: session/SessionController.cpp:1124
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@action:button"
 msgid "Close Program"
 msgstr "Đóng chương trình"
@@ -2679,14 +2491,12 @@ msgstr "Bôi đen tệp để tải lên qua ZModem"
 
 #: session/SessionListModel.cpp:89
 #, kde-format
-#| msgid "Name"
 msgctxt "@item:intable The session index"
 msgid "Number"
 msgstr "Số"
 
 #: session/SessionListModel.cpp:91
 #, kde-format
-#| msgid "Tab Titles"
 msgctxt "@item:intable The session title"
 msgid "Title"
 msgstr "Tiêu đề"
@@ -2741,7 +2551,6 @@ msgstr "Nhắm dòng lệnh khi con trỏ chuột di chuyển qua"
 #. i18n: ectx: label, entry (SearchRegExpression), group (SearchSettings)
 #: settings/GeneralSettings.ui:105 settings/konsole.kcfg:69
 #, kde-format
-#| msgid "Match regular expression"
 msgid "Match using regular expressions"
 msgstr "Khớp bằng biểu thức chính quy"
 
@@ -2762,7 +2571,6 @@ msgstr "Chạy tất cả cửa sổ Konsole trong một tiến trình duy nhấ
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_SearchHighlightMatches)
 #: settings/GeneralSettings.ui:134
 #, kde-format
-#| msgid "Highlight all"
 msgid "Highlight all matches"
 msgstr "Tô sáng tất cả kết quả trùng khớp"
 
@@ -2776,7 +2584,6 @@ msgstr "Đặt tìm kiếm phân biệt chữ hoa chữ thường"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_SearchCaseSensitive)
 #: settings/GeneralSettings.ui:166
 #, kde-format
-#| msgid "Close Active"
 msgid "Case sensitive"
 msgstr "Phân biệt chữ hoa chữ thường"
 
@@ -2842,13 +2649,15 @@ msgstr "Không quay đầu"
 #: settings/konsole.kcfg:18
 #, kde-format
 msgid "Show window title set by escape sequence on the titlebar"
-msgstr "Hiển thị tiêu đề cửa sổ được đặt bởi chuỗi chuyển dịch trên thanh tiêu đề"
+msgstr ""
+"Hiển thị tiêu đề cửa sổ được đặt bởi chuỗi chuyển dịch trên thanh tiêu đề"
 
 #. i18n: ectx: tooltip, entry (AllowMenuAccelerators), group (KonsoleWindow)
 #: settings/konsole.kcfg:23
 #, kde-format
 msgid "Allow users to access top menu through Alt+Key combination"
-msgstr "Cho phép người dùng truy cập trình đơn trên cùng bằng tổ hợp phím Alt+Phím"
+msgstr ""
+"Cho phép người dùng truy cập trình đơn trên cùng bằng tổ hợp phím Alt+Phím"
 
 #. i18n: ectx: label, entry (RememberWindowSize), group (KonsoleWindow)
 #: settings/konsole.kcfg:27
@@ -2898,14 +2707,12 @@ msgstr "Dùng Ctrl để hiển thị hình nhỏ"
 #. i18n: ectx: label, entry (SearchCaseSensitive), group (SearchSettings)
 #: settings/konsole.kcfg:64
 #, kde-format
-#| msgid "Close Active"
 msgid "Search is case sensitive"
 msgstr "Tìm kiếm phân biệt chữ hoa/thường"
 
 #. i18n: ectx: label, entry (SearchHighlightMatches), group (SearchSettings)
 #: settings/konsole.kcfg:73
 #, kde-format
-#| msgid "Highlight all"
 msgid "Highlight all search matches"
 msgstr "Tô sáng tất cả kết quả tìm kiếm"
 
@@ -2962,7 +2769,6 @@ msgstr "Điều chỉnh kiểu cách trực quan của thanh thẻ"
 #. i18n: ectx: label, entry (TabBarUseUserStyleSheet), group (TabBar)
 #: settings/konsole.kcfg:143
 #, kde-format
-#| msgid "Use a custom, fixed color for the cursor"
 msgid "Use a user-defined .css file for the tab bar"
 msgstr "Dùng tệp .css do người dùng định nghĩa cho thanh thẻ"
 
@@ -3044,11 +2850,11 @@ msgid ""
 "might cause greater slowdowns during high memory consumption and specifying\n"
 "excessively low values might still cause Konsole to be killed."
 msgstr ""
-"Thay đổi sẽ có hiệu lực sau khi khởi động lại. Nếu bật, khi Konsole tiêu "
-"thụ bộ nhớ liên tục vượt quá giá trị đã chỉ định, systemd-oomd sẽ loại bỏ "
-"(các) tab chứa (các) tiến trình tiêu tốn nhiều bộ nhớ. Lưu ý: việc bật có "
-"thể gây chậm trễ hơn khi tiêu thụ bộ nhớ cao và việc chỉ định giá trị quá "
-"thấp vẫn có thể khiến Konsole bị đóng."
+"Thay đổi sẽ có hiệu lực sau khi khởi động lại. Nếu bật, khi Konsole tiêu thụ "
+"bộ nhớ liên tục vượt quá giá trị đã chỉ định, systemd-oomd sẽ loại bỏ (các) "
+"tab chứa (các) tiến trình tiêu tốn nhiều bộ nhớ. Lưu ý: việc bật có thể gây "
+"chậm trễ hơn khi tiêu thụ bộ nhớ cao và việc chỉ định giá trị quá thấp vẫn "
+"có thể khiến Konsole bị đóng."
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: settings/MemorySettings.ui:41
@@ -3073,32 +2879,28 @@ msgid ""
 "format=guided&product=konsole&component=kpart\">bug report</a> if you desire "
 "a change to how these are handled.</body></html>"
 msgstr ""
-"<html><head/><body><&p>Các ứng dụng sử dụng KonsolePart chia sẻ hồ "
-"sơ.</p><p>Chúng không chia sẻ với Konsole hoặc các ứng dụng khác:<ul><li>hồ "
-"sơ mặc định</li><li>hiển thị trong menu</li><li>phím "
-"tắt</li></ul></p><p>Hãy tự nhiên mở một <a "
-"href=\"https://bugs.kde.org/enter_bug.cgi?format=guidedproduct=konsolecomponent=kpart\">báo "
-"cáo lỗi</a> Konsole nếu bạn muốn thay đổi cách xử lý những điều "
-"này.</body></html>"
+"<html><head/><body><&p>Các ứng dụng sử dụng KonsolePart chia sẻ hồ sơ.</"
+"p><p>Chúng không chia sẻ với Konsole hoặc các ứng dụng khác:<ul><li>hồ sơ "
+"mặc định</li><li>hiển thị trong menu</li><li>phím tắt</li></ul></p><p>Hãy tự "
+"nhiên mở một <a href=\"https://bugs.kde.org/enter_bug.cgi?"
+"format=guidedproduct=konsolecomponent=kpart\">báo cáo lỗi</a> Konsole nếu "
+"bạn muốn thay đổi cách xử lý những điều này.</body></html>"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newProfileButton)
 #: settings/ProfileSettings.ui:51
 #, kde-format
-#| msgid "Create a new profile based upon the selected profile"
 msgid "Create a new profile based on the selected profile"
 msgstr "Tạo hồ sơ mới dựa trên hồ sơ đã chọn"
 
 #. i18n: ectx: property (text), widget (QPushButton, newProfileButton)
 #: settings/ProfileSettings.ui:54
 #, kde-format
-#| msgid "New..."
 msgid "&New..."
 msgstr "&Mới..."
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, editProfileButton)
 #: settings/ProfileSettings.ui:64
 #, kde-format
-#| msgid "Set the selected profile as the default for new terminal sessions"
 msgid ""
 "Edit the selected profile (this button is disabled for read-only profiles)"
 msgstr "Sửa hồ sơ đã chọn (nút này bị tắt đối với hồ sơ chỉ đọc)"
@@ -3106,21 +2908,18 @@ msgstr "Sửa hồ sơ đã chọn (nút này bị tắt đối với hồ sơ c
 #. i18n: ectx: property (text), widget (QPushButton, editProfileButton)
 #: settings/ProfileSettings.ui:67
 #, kde-format
-#| msgid "Edit..."
 msgid "&Edit..."
 msgstr "Sử&a..."
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, deleteProfileButton)
 #: settings/ProfileSettings.ui:77
 #, kde-format
-#| msgid "Delete the selected profile"
 msgid "Delete the selected profile"
 msgstr "Xóa hồ sơ đã chọn"
 
 #. i18n: ectx: property (text), widget (QPushButton, deleteProfileButton)
 #: settings/ProfileSettings.ui:80
 #, kde-format
-#| msgid "Remove"
 msgid "&Remove"
 msgstr "&Xoá"
 
@@ -3133,14 +2932,12 @@ msgstr "Đặt hồ sơ đã chọn làm mặc định cho các phiên chạy th
 #. i18n: ectx: property (text), widget (QPushButton, setAsDefaultButton)
 #: settings/ProfileSettings.ui:93
 #, kde-format
-#| msgid "Set as Default"
 msgid "&Set as Default"
 msgstr "Đặt là&m mặc định"
 
 #. i18n: ectx: attribute (title), widget (QWidget, appearanceTab)
 #: settings/TabBarSettings.ui:39
 #, kde-format
-#| msgid "Appearance"
 msgctxt "@title:tab Tab bar settings"
 msgid "Appearance"
 msgstr "Diện mạo"
@@ -3172,56 +2969,48 @@ msgstr "&Không bao giờ"
 #. i18n: ectx: property (text), widget (QLabel, positionLabel)
 #: settings/TabBarSettings.ui:109
 #, kde-format
-#| msgid "Description:"
 msgid "Position:"
 msgstr "Vị trí:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, Top)
 #: settings/TabBarSettings.ui:119
 #, kde-format
-#| msgid "Above terminal displays"
 msgid "Above terminal area"
 msgstr "Phía trên vùng dòng lệnh"
 
 #. i18n: ectx: property (text), widget (QRadioButton, Bottom)
 #: settings/TabBarSettings.ui:129
 #, kde-format
-#| msgid "Below terminal displays"
 msgid "Be&low terminal area"
 msgstr "Bên dưới vùng dòng &lệnh"
 
 #. i18n: ectx: property (text), widget (QRadioButton, Left)
 #: settings/TabBarSettings.ui:139
 #, kde-format
-#| msgid "Below terminal displays"
 msgid "To the left of terminal area"
 msgstr "Bên trái vùng dòng lệnh"
 
 #. i18n: ectx: property (text), widget (QRadioButton, Right)
 #: settings/TabBarSettings.ui:149
 #, kde-format
-#| msgid "Below terminal displays"
 msgid "To the &right of terminal area"
 msgstr "Bên phải vùng dòng &lệnh"
 
 #. i18n: ectx: property (text), widget (QLabel, showCloseTabButtonLabel)
 #: settings/TabBarSettings.ui:175
 #, kde-format
-#| msgid "&Close Tab"
 msgid "Show Close Tab button:"
 msgstr "Hiển thị nút Đóng thẻ:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, OnEachTab)
 #: settings/TabBarSettings.ui:185
 #, kde-format
-#| msgid "&Detach View"
 msgid "On ea&ch tab"
 msgstr "Trên mỗ&i thẻ"
 
 #. i18n: ectx: property (text), widget (QRadioButton, OnTabBar)
 #: settings/TabBarSettings.ui:195
 #, kde-format
-#| msgid "&Detach View"
 msgid "On &the tab bar"
 msgstr "Trên &thanh thẻ"
 
@@ -3243,7 +3032,6 @@ msgstr "Khác:"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_NewTabButton)
 #: settings/TabBarSettings.ui:241
 #, kde-format
-#| msgid "&Close Tab"
 msgid "Show 'New Tab' button"
 msgstr "Hiển thị nút 'Thẻ mới'"
 
@@ -3256,7 +3044,6 @@ msgstr "Mở rộng chiều rộng từng thẻ đến toàn bộ cửa sổ"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_TabBarUseUserStyleSheet)
 #: settings/TabBarSettings.ui:255
 #, kde-format
-#| msgid "Use a custom, fixed color for the cursor"
 msgid "Use user-defined stylesheet:"
 msgstr "Dùng bảng định kiểu do người dùng xác định:"
 
@@ -3277,7 +3064,6 @@ msgstr "Hành vi"
 #. i18n: ectx: property (text), widget (QLabel, putNewTabsLabel)
 #: settings/TabBarSettings.ui:318
 #, kde-format
-#| msgid "Enter new tab text:"
 msgid "Put new tabs:"
 msgstr "Đặt thẻ mới:"
 
@@ -3290,7 +3076,6 @@ msgstr "Ở c&uối"
 #. i18n: ectx: property (text), widget (QRadioButton, PutNewTabAfterCurrentTab)
 #: settings/TabBarSettings.ui:338
 #, kde-format
-#| msgid "&Close Tab"
 msgid "After current &tab"
 msgstr "Sau &thẻ hiện tại"
 
@@ -3303,14 +3088,12 @@ msgstr "Đóng thẻ bằng chuột giữa"
 #. i18n: ectx: attribute (title), widget (QWidget, splitTab)
 #: settings/TabBarSettings.ui:397
 #, kde-format
-#| msgid "Shrink View"
 msgid "Splits"
 msgstr "Phân chia"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: settings/TabBarSettings.ui:403
 #, kde-format
-#| msgid "Show Menu Bar"
 msgid "Show Header:"
 msgstr "Hiện tiêu đề:"
 
@@ -3337,7 +3120,6 @@ msgstr "Kích thước quai móc kéo:"
 #. i18n: ectx: property (text), widget (QRadioButton, SplitDragHandleSmall)
 #: settings/TabBarSettings.ui:456
 #, kde-format
-#| msgid "Small"
 msgctxt "@option:radio Small height/width of splitter widget"
 msgid "Small"
 msgstr "Nhỏ"
@@ -3352,7 +3134,6 @@ msgstr "Trung bình"
 #. i18n: ectx: property (text), widget (QRadioButton, SplitDragHandleLarge)
 #: settings/TabBarSettings.ui:476
 #, kde-format
-#| msgid "Large"
 msgctxt "@option:radio Large height/width of splitter widget"
 msgid "Large"
 msgstr "Lớn"
@@ -3383,7 +3164,6 @@ msgstr "Thư mục bộ nhớ đệm người dùng (%1)"
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: settings/TemporaryFilesSettings.ui:25
 #, kde-format
-#| msgid "Scrollback Options"
 msgid "Scrollback file location:"
 msgstr "Vị trí tệp cuộn ngược:"
 
@@ -3414,14 +3194,13 @@ msgid ""
 "weight:600;\">Mouse-&gt;Miscellaneous-&gt;Underline </span><span style=\" "
 "font-weight:600;\">files</span> in your profile settings</p></body></html>"
 msgstr ""
-"Để sử dụn&g tính năng này, hãy bật <span style=\" "
-"font-weight:600;\">Chuột-gt;Khác-gt;Gạch chân </span><span style=\" "
-"font-weight:600;\">tệp</span> trong cài đặt hồ sơ của bạn"
+"Để sử dụn&g tính năng này, hãy bật <span style=\" font-weight:600;\">Chuột-"
+"gt;Khác-gt;Gạch chân </span><span style=\" font-weight:600;\">tệp</span> "
+"trong cài đặt hồ sơ của bạn"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: settings/ThumbnailsSettings.ui:53
 #, kde-format
-#| msgid "Description:"
 msgid "Activation:"
 msgstr "Kích hoạt:"
 
@@ -3528,14 +3307,12 @@ msgstr "Xác nhận dán"
 
 #: terminalDisplay/TerminalDisplay.cpp:2326
 #, kde-format
-#| msgid "Set cursor color to match current character"
 msgctxt "@action:button"
 msgid "Paste &without control characters"
 msgstr "Dán &không có ký tự điều khiển"
 
 #: terminalDisplay/TerminalDisplay.cpp:2327
 #, kde-format
-#| msgid "&Paste"
 msgctxt "@action:button"
 msgid "&Paste everything"
 msgstr "Dán &tất cả"
@@ -3548,17 +3325,14 @@ msgstr "H&uỷ"
 
 #: terminalDisplay/TerminalDisplay.cpp:2559
 #, kde-format
-#| msgid ""
-#| "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/XON"
-#| "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
 "Software_flow_control\">suspended</a> by pressing Ctrl+S. Press <b>Ctrl+Q</"
 "b> to resume.</qt>"
 msgstr ""
-"Kết xuất đã bị <a "
-"href=\"https://en.wikipedia.org/wiki/Software_flow_control\">tạm dừng</a> "
-"bằng cách nhấn Ctrl+S. Nhấn <b>Ctrl+Q</b> để tiếp tục."
+"Kết xuất đã bị <a href=\"https://en.wikipedia.org/wiki/"
+"Software_flow_control\">tạm dừng</a> bằng cách nhấn Ctrl+S. Nhấn <b>Ctrl+Q</"
+"b> để tiếp tục."
 
 #: terminalDisplay/TerminalDisplay.cpp:2614
 #, kde-format
@@ -3567,61 +3341,52 @@ msgstr "Dòng lệnh này chỉ đọc."
 
 #: terminalDisplay/TerminalDisplay.cpp:3009
 #, kde-format
-#| msgid "Change Directory"
 msgid "Change &Directory To"
 msgstr "Đổ&i thư mục đến"
 
 #: terminalDisplay/TerminalDisplay.cpp:3042
 #, kde-format
-#| msgid "&Paste"
 msgid "&Paste Location"
 msgstr "Dá&n địa điểm"
 
 #: ViewManager.cpp:120
 #, kde-format
-#| msgid "Shrink View"
 msgctxt "@action:inmenu"
 msgid "Split View"
 msgstr "Chia khung xem"
 
 #: ViewManager.cpp:127
 #, kde-format
-#| msgid "Split View Left/Right"
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr "Chia khung xem trái/phải"
 
 #: ViewManager.cpp:135
 #, kde-format
-#| msgid "Split View Top/Bottom"
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr "Chia khung xem trên/dưới"
 
 #: ViewManager.cpp:143
 #, kde-format
-#| msgid "Split View Top/Bottom"
 msgctxt "@action:inmenu"
 msgid "Split View Automatically"
 msgstr "Tự động chia khung xem"
 
 #: ViewManager.cpp:153
 #, kde-format
-#| msgid "Split View Left/Right"
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right from next tab"
 msgstr "Chia khung xem trái/phải từ thẻ tiếp"
 
 #: ViewManager.cpp:161
 #, kde-format
-#| msgid "Split View Top/Bottom"
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom from next tab"
 msgstr "Chia khung xem trên/dưới từ thẻ tiếp"
 
 #: ViewManager.cpp:169
 #, kde-format
-#| msgid "Split View Top/Bottom"
 msgctxt "@action:inmenu"
 msgid "Split View Automatically from next tab"
 msgstr "Tự động chia khung xem từ thẻ tiếp"
@@ -3646,56 +3411,48 @@ msgstr "Tải thẻ mới với bố cục 1x2 trình dòng lệnh"
 
 #: ViewManager.cpp:205
 #, kde-format
-#| msgid "Expand View"
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr "Mở rộng khung xem"
 
 #: ViewManager.cpp:213
 #, kde-format
-#| msgid "Shrink View"
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr "Thu nhỏ khung xem"
 
 #: ViewManager.cpp:223
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@action:inmenu"
 msgid "Detach Current &View"
 msgstr "Tách kh&ung xem hiện tại"
 
 #: ViewManager.cpp:235
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@action:inmenu"
 msgid "Detach Current &Tab"
 msgstr "&Tách thẻ hiện tại"
 
 #: ViewManager.cpp:240
 #, kde-format
-#| msgid "New &Tab"
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr "Thẻ tiếp"
 
 #: ViewManager.cpp:248
 #, kde-format
-#| msgid "Previous"
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr "Thẻ trước"
 
 #: ViewManager.cpp:256
 #, kde-format
-#| msgid "Above terminal displays"
 msgctxt "@action Shortcut entry"
 msgid "Focus Above Terminal"
 msgstr "Nhắm dòng lệnh phía trên"
 
 #: ViewManager.cpp:263
 #, kde-format
-#| msgid "Below terminal displays"
 msgctxt "@action Shortcut entry"
 msgid "Focus Below Terminal"
 msgstr "Nhắm dòng lệnh bên dưới"
@@ -3762,14 +3519,12 @@ msgstr "Bật/tắt phóng to tối đa khung xem hiện tại"
 
 #: ViewManager.cpp:320
 #, kde-format
-#| msgid "Split View Left/Right"
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the right"
 msgstr "Di chuyển thẻ sang phải"
 
 #: ViewManager.cpp:327
 #, kde-format
-#| msgid "Move Here"
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the left"
 msgstr "Di chuyển thẻ sang trái"
@@ -3806,7 +3561,6 @@ msgstr "Chuyển đến Thẻ %1"
 
 #: ViewManager.cpp:576
 #, kde-format
-#| msgid "Interaction Options"
 msgid "Semantic hints "
 msgstr "Gợi ý ngữ nghĩa"
 
@@ -3817,7 +3571,6 @@ msgstr "Số dòng "
 
 #: ViewManager.cpp:1177
 #, kde-format
-#| msgid "Move Here"
 msgctxt "@title:window"
 msgid "Save Tab Layout"
 msgstr "Lưu bố cục thẻ"
@@ -3830,25 +3583,23 @@ msgstr "Bố cục khung xem Konsole (*.json)"
 
 #: ViewManager.cpp:1192
 #, kde-format
-#| msgid ""
-#| "A problem occurred when saving the output.\n"
-#| "%1"
 msgctxt "@label:textbox"
 msgid ""
 "A problem occurred when saving the Layout.\n"
 "%1"
-msgstr "Gặp lỗi khi lưu bố cục.\n%1"
+msgstr ""
+"Gặp lỗi khi lưu bố cục.\n"
+"%1"
 
 #: ViewManager.cpp:1253
 #, kde-format
-#| msgid ""
-#| "A problem occurred when saving the output.\n"
-#| "%1"
 msgctxt "@label:textbox"
 msgid ""
 "A problem occurred when loading the Layout.\n"
 "%1"
-msgstr "Gặp lỗi khi tải bố cục.\n%1"
+msgstr ""
+"Gặp lỗi khi tải bố cục.\n"
+"%1"
 
 #: ViewManager.cpp:1264
 #, kde-format
@@ -3945,7 +3696,6 @@ msgstr "Điều khiển luồng"
 #. i18n: ectx: property (text), widget (QLabel, label_14)
 #: widgets/EditProfileAdvancedPage.ui:222
 #, kde-format
-#| msgid "Default character encoding:"
 msgid "&Default character encoding:"
 msgstr "Bảng mã &kí tự mặc định:"
 
@@ -3958,7 +3708,6 @@ msgstr "Phím tắt để xem nhanh màn hình chính:"
 #. i18n: ectx: property (text), widget (QLabel, label_linenums)
 #: widgets/EditProfileAdvancedPage.ui:263
 #, kde-format
-#| msgid "Name"
 msgid "Line Numbers:"
 msgstr "Số dòng:"
 
@@ -3986,7 +3735,6 @@ msgstr "Luôn &luôn"
 #. i18n: ectx: attribute (title), widget (QWidget, colorSchemeTab)
 #: widgets/EditProfileAppearancePage.ui:36
 #, kde-format
-#| msgid "Color Scheme && Background"
 msgid "Color scheme && font"
 msgstr "Quy hoạch màu && phông chữ"
 
@@ -3999,7 +3747,6 @@ msgstr "Tạo một giản đồ màu mới dựa vào giản đồ đã chọn"
 #. i18n: ectx: property (text), widget (QPushButton, newColorSchemeButton)
 #: widgets/EditProfileAppearancePage.ui:72
 #, kde-format
-#| msgid "New..."
 msgctxt "@action:button Create an alternate color scheme"
 msgid "New..."
 msgstr "Mới..."
@@ -4030,7 +3777,6 @@ msgstr "Xoá giản đồ màu đã chọn"
 #. i18n: ectx: property (toolTip), widget (QPushButton, resetColorSchemeButton)
 #: widgets/EditProfileAppearancePage.ui:99
 #, kde-format
-#| msgid "Use the selected color scheme for this profile"
 msgid "Reset the selected color scheme settings to the default values"
 msgstr "Đặt lại thiết lập quy hoạch màu đã chọn về giá trị mặc định"
 
@@ -4039,14 +3785,12 @@ msgstr "Đặt lại thiết lập quy hoạch màu đã chọn về giá trị 
 #: widgets/EditProfileAppearancePage.ui:102
 #: widgets/EditProfileKeyboardPage.ui:93
 #, kde-format
-#| msgid "Set as Default"
 msgid "Defaults"
 msgstr "Mặc định"
 
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: widgets/EditProfileAppearancePage.ui:135
 #, kde-format
-#| msgid "Font"
 msgid "Font:"
 msgstr "Phông chữ:"
 
@@ -4098,7 +3842,6 @@ msgstr "Sử dụng ký tự Braille unicode có trong phông chữ"
 #. i18n: ectx: attribute (title), widget (QWidget, cursorTab)
 #: widgets/EditProfileAppearancePage.ui:209
 #, kde-format
-#| msgid "Cursor shape:"
 msgid "Cursor"
 msgstr "Con trỏ"
 
@@ -4111,7 +3854,6 @@ msgstr "Hình dạng:"
 #. i18n: ectx: property (text), widget (QRadioButton, cursorShapeBlock)
 #: widgets/EditProfileAppearancePage.ui:239
 #, kde-format
-#| msgid "Block"
 msgctxt "A solid rectangular"
 msgid "Block"
 msgstr "Khối"
@@ -4119,7 +3861,6 @@ msgstr "Khối"
 #. i18n: ectx: property (text), widget (QRadioButton, cursorShapeIBeam)
 #: widgets/EditProfileAppearancePage.ui:249
 #, kde-format
-#| msgid "I-Beam"
 msgctxt "A vertical line on the left edge"
 msgid "I-Beam"
 msgstr "Tia I"
@@ -4127,7 +3868,6 @@ msgstr "Tia I"
 #. i18n: ectx: property (text), widget (QRadioButton, cursorShapeUnderline)
 #: widgets/EditProfileAppearancePage.ui:259
 #, kde-format
-#| msgid "Underline"
 msgctxt "A hortizonal line on the bottom edge"
 msgid "Underline"
 msgstr "Gạch dưới"
@@ -4135,7 +3875,6 @@ msgstr "Gạch dưới"
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: widgets/EditProfileAppearancePage.ui:291
 #, kde-format
-#| msgid "Color"
 msgctxt "Cursor color options"
 msgid "Color:"
 msgstr "Màu:"
@@ -4149,7 +3888,6 @@ msgstr "Đặt con chạy để khớp với màu của kí tự dưới nó."
 #. i18n: ectx: property (text), widget (QRadioButton, autoCursorColorButton)
 #: widgets/EditProfileAppearancePage.ui:310
 #, kde-format
-#| msgid "Set cursor color to match current character"
 msgid "Match current character"
 msgstr "Khớp với kí tự hiện tại"
 
@@ -4162,14 +3900,12 @@ msgstr "Dùng màu riêng cố định cho con chạy"
 #. i18n: ectx: property (text), widget (QRadioButton, customCursorColorButton)
 #: widgets/EditProfileAppearancePage.ui:329
 #, kde-format
-#| msgid "Custom cursor color:"
 msgid "Custom cursor color"
 msgstr "Màu con trỏ tùy chọn"
 
 #. i18n: ectx: property (text), widget (QLabel, customCursorColorLabel)
 #: widgets/EditProfileAppearancePage.ui:360
 #, kde-format
-#| msgid "Cursor shape:"
 msgid "Cursor:"
 msgstr "Con trỏ:"
 
@@ -4188,14 +3924,12 @@ msgstr "Văn bản:"
 #. i18n: ectx: property (toolTip), widget (KColorButton, customTextColorSelectButton)
 #: widgets/EditProfileAppearancePage.ui:406
 #, kde-format
-#| msgid "Select the color used to draw the cursor"
 msgid "Select the color used to draw the character underneath the cursor"
 msgstr "Chọn màu dùng để vẽ kí tự dưới con trỏ"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: widgets/EditProfileAppearancePage.ui:431
 #, kde-format
-#| msgid "Blinking cursor"
 msgid "Blinking:"
 msgstr "Nhấp nháy:"
 
@@ -4224,7 +3958,6 @@ msgstr "Hỗn hợp"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: widgets/EditProfileAppearancePage.ui:484
 #, kde-format
-#| msgid "New &Window"
 msgid "Window:"
 msgstr "Cửa sổ:"
 
@@ -4235,8 +3968,7 @@ msgid ""
 "Show terminal size in columns and lines in the center of window after "
 "resizing"
 msgstr ""
-"Hiện kích thước dòng lệnh theo cột và dòng ở giữa cửa sổ sau khi đổi kích "
-"cỡ"
+"Hiện kích thước dòng lệnh theo cột và dòng ở giữa cửa sổ sau khi đổi kích cỡ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, showTerminalSizeHintButton)
 #: widgets/EditProfileAppearancePage.ui:494
@@ -4259,7 +3991,6 @@ msgstr "Độ tối:"
 #. i18n: ectx: property (text), widget (QLabel, borderLabel)
 #: widgets/EditProfileAppearancePage.ui:543
 #, kde-format
-#| msgid "Color"
 msgctxt "Border color options"
 msgid "Color:"
 msgstr "Màu:"
@@ -4267,28 +3998,24 @@ msgstr "Màu:"
 #. i18n: ectx: property (toolTip), widget (KColorButton, focusBorderColor)
 #: widgets/EditProfileAppearancePage.ui:559
 #, kde-format
-#| msgid "Select the color used to draw the cursor"
 msgid "Select the color used to draw the border"
 msgstr "Bôi đen màu dùng để vẽ viền"
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: widgets/EditProfileAppearancePage.ui:581
 #, kde-format
-#| msgid "Terminal Features"
 msgid "Inactive Terminals:"
 msgstr "Thiết bị cuối bất hoạt:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #: widgets/EditProfileAppearancePage.ui:591
 #, kde-format
-#| msgid "Terminal Features"
 msgid "Active Terminals:"
 msgstr "Thiết bị cuối hoạt động:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, contentsGroup)
 #: widgets/EditProfileAppearancePage.ui:601
 #, kde-format
-#| msgid "Terminal Features"
 msgctxt "@title:group"
 msgid "Terminal contents"
 msgstr "Nội dung dòng lệnh"
@@ -4417,14 +4144,12 @@ msgstr "Kết xuất các từ của ký tự chữ viết Brahmi cùng nhau"
 #. i18n: ectx: property (text), widget (QCheckBox, wordModeBrahmic)
 #: widgets/EditProfileAppearancePage.ui:912
 #, kde-format
-#| msgid "Set cursor color to match current character"
 msgid "Brahmic scripts characters"
 msgstr "Các ký tự chữ viết Brahmic"
 
 #. i18n: ectx: property (text), widget (QLabel, label_17)
 #: widgets/EditProfileAppearancePage.ui:925
 #, kde-format
-#| msgid "Font"
 msgid "Emoji Font:"
 msgstr "Phông hình biểu cảm:"
 
@@ -4471,7 +4196,6 @@ msgstr "Vượt hiệu lực chế độ BiDi ký tự bảng"
 #. i18n: ectx: property (toolTip), widget (QCheckBox, ignoreWcWidth)
 #: widgets/EditProfileAppearancePage.ui:999
 #, kde-format
-#| msgid "Set cursor color to match current character"
 msgid "Ignore wcwidth of problematic characters"
 msgstr "Bỏ qua wcwidth của các ký tự gây vấn đề"
 
@@ -4488,7 +4212,6 @@ msgstr "Sửa hồ sơ"
 
 #: widgets/EditProfileDialog.cpp:93
 #, kde-format
-#| msgid "General"
 msgctxt "@title:tab Generic, common options"
 msgid "General"
 msgstr "Chung"
@@ -4515,7 +4238,6 @@ msgstr "Bàn phím"
 
 #: widgets/EditProfileDialog.cpp:152
 #, kde-format
-#| msgid "Key Bindings"
 msgid "Key bindings"
 msgstr "Tổ hợp phím"
 
@@ -4526,7 +4248,6 @@ msgstr "Chuột"
 
 #: widgets/EditProfileDialog.cpp:179
 #, kde-format
-#| msgid "Advanced"
 msgctxt "@title:tab Complex options"
 msgid "Advanced"
 msgstr "Nâng cao"
@@ -4568,14 +4289,12 @@ msgstr "Các ký tự được tô sáng không hợp lệ trong tên hồ sơ: 
 
 #: widgets/EditProfileDialog.cpp:416
 #, kde-format
-#| msgid "Edit Profile \"%1\""
 msgid "Editing profile: %2"
 msgid_plural "Editing %1 profiles: %2"
 msgstr[0] "Đang chỉnh sửa %1 hồ sơ: %2"
 
 #: widgets/EditProfileDialog.cpp:420
 #, kde-format
-#| msgid "New Profile..."
 msgid "Create New Profile"
 msgstr "Tạo hồ sơ mới"
 
@@ -4609,13 +4328,11 @@ msgstr "Chuông Hệ Thống"
 
 #: widgets/EditProfileDialog.cpp:526
 #, kde-format
-#| msgid "&Paste"
 msgid "System Notifications"
 msgstr "Thông báo hệ thống"
 
 #: widgets/EditProfileDialog.cpp:526
 #, kde-format
-#| msgid "Visual effects"
 msgid "Visual Bell"
 msgstr "Chuông trực quan"
 
@@ -4626,7 +4343,6 @@ msgstr "Bỏ qua Sự kiện Chuông"
 
 #: widgets/EditProfileDialog.cpp:535
 #, kde-format
-#| msgid "Set the selected profile as the default for new terminal sessions"
 msgid "Default profile for new terminal sessions in %1"
 msgstr "Hồ sơ mặc định cho phiên dòng lệnh mới trong %1"
 
@@ -4654,7 +4370,6 @@ msgstr "Chọn thư mục đầu tiên"
 
 #: widgets/EditProfileDialog.cpp:946
 #, kde-format
-#| msgid "New..."
 msgid "Get New..."
 msgstr "Tải mới..."
 
@@ -4670,8 +4385,8 @@ msgid ""
 "This color scheme uses a transparent background which does not appear to be "
 "supported on your desktop"
 msgstr ""
-"Quy hoạch màu này sử dụng nền trong suốt không được hỗ trợ trên máy tính "
-"của bạn"
+"Quy hoạch màu này sử dụng nền trong suốt không được hỗ trợ trên máy tính của "
+"bạn"
 
 #: widgets/EditProfileDialog.cpp:1527
 #, kde-format
@@ -4684,7 +4399,6 @@ msgstr ""
 
 #: widgets/EditProfileDialog.cpp:1895
 #, kde-format
-#| msgid "Delete Profile"
 msgid "Default for file type"
 msgstr "Mặc định cho kiểu tệp"
 
@@ -4704,13 +4418,18 @@ msgid ""
 "will be ignored and the file will be opened by the default text\n"
 "editor."
 msgstr ""
-"Định dạng là vd. 'editorExec PATH:LINE:COLUMN'\n\nPATH    sẽ được thay thế "
-"bằng đường dẫn đến tệp văn bản\nLINE    sẽ được thay thế bằng số "
-"dòng\nCOLUMN  (tùy chọn) sẽ được thay thế bằng số cột\nLưu ý: bạn cần thay "
-"thế 'PATH:LINE:COLUMN' bằng cú pháp thực tế\nmà trình biên tập bạn muốn sử "
-"dụng hỗ trợ; vd.:\ngedit +LINE:COLUMN PATH\n\nNếu PATH hoặc LINE không có "
-"trong lệnh, cài đặt này\nsẽ bị bỏ qua và tệp sẽ được mở bằng trình biên "
-"tập\nvăn bản mặc định."
+"Định dạng là vd. 'editorExec PATH:LINE:COLUMN'\n"
+"\n"
+"PATH    sẽ được thay thế bằng đường dẫn đến tệp văn bản\n"
+"LINE    sẽ được thay thế bằng số dòng\n"
+"COLUMN  (tùy chọn) sẽ được thay thế bằng số cột\n"
+"Lưu ý: bạn cần thay thế 'PATH:LINE:COLUMN' bằng cú pháp thực tế\n"
+"mà trình biên tập bạn muốn sử dụng hỗ trợ; vd.:\n"
+"gedit +LINE:COLUMN PATH\n"
+"\n"
+"Nếu PATH hoặc LINE không có trong lệnh, cài đặt này\n"
+"sẽ bị bỏ qua và tệp sẽ được mở bằng trình biên tập\n"
+"văn bản mặc định."
 
 #: widgets/EditProfileDialog.cpp:1934
 #, kde-format
@@ -4720,7 +4439,6 @@ msgstr "Lệnh Tự Chọn Trình Biên Tập Văn Bản"
 #. i18n: ectx: attribute (title), widget (QWidget, general)
 #: widgets/EditProfileGeneralPage.ui:42
 #, kde-format
-#| msgid "Bug fixes and general improvements"
 msgid "General Settings"
 msgstr "Thiết lập chung"
 
@@ -4739,7 +4457,6 @@ msgstr "Một tên diễn tả mô sơ"
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, profileNameEdit)
 #: widgets/EditProfileGeneralPage.ui:87
 #, kde-format
-#| msgid "Profile name:"
 msgctxt "@label:textbox"
 msgid "Profile name"
 msgstr "Tên hồ sơ"
@@ -4747,7 +4464,6 @@ msgstr "Tên hồ sơ"
 #. i18n: ectx: property (text), widget (QCheckBox, setAsDefaultButton)
 #: widgets/EditProfileGeneralPage.ui:94
 #, kde-format
-#| msgid "Delete Profile"
 msgid "Default Profile"
 msgstr "Hồ sơ mặc định"
 
@@ -4775,7 +4491,6 @@ msgstr "/bin/sh"
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: widgets/EditProfileGeneralPage.ui:157
 #, kde-format
-#| msgid "Initial directory:"
 msgid "I&nitial directory:"
 msgstr "Thư mục ba&n đầu:"
 
@@ -4795,7 +4510,6 @@ msgstr "/home/tênngườidùng"
 #. i18n: ectx: property (toolTip), widget (QToolButton, dirSelectButton)
 #: widgets/EditProfileGeneralPage.ui:183
 #, kde-format
-#| msgid "Browse for initial directory"
 msgid "Choose the initial directory"
 msgstr "Chọn thư mục ban đầu"
 
@@ -4820,7 +4534,6 @@ msgstr "Sửa danh sách biến môi trường và giá trị liên quan"
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: widgets/EditProfileGeneralPage.ui:271
 #, kde-format
-#| msgid "Terminal Features"
 msgid "Initial terminal si&ze:"
 msgstr "Kích thước ban đầ&u dòng lệnh:"
 
@@ -4834,20 +4547,18 @@ msgid ""
 "for these entries to work.</p></body></html>"
 msgstr ""
 "<html><head/><body><p><span style=\" font-style:italic;\">Thiết lập → Cấu "
-"hình Konsole → Chung → Nhớ kích thước cửa sổ</span> phải được tắt để các "
-"mục này hoạt động.</p></body></html>"
+"hình Konsole → Chung → Nhớ kích thước cửa sổ</span> phải được tắt để các mục "
+"này hoạt động.</p></body></html>"
 
 #. i18n: ectx: property (text), widget (QLabel, terminalBellLabel)
 #: widgets/EditProfileGeneralPage.ui:359
 #, kde-format
-#| msgid "Terminal emulator"
 msgid "&Terminal bell mode:"
 msgstr "Chế độ chuô&ng dòng lệnh:"
 
 #. i18n: ectx: attribute (title), widget (QWidget, semantic)
 #: widgets/EditProfileGeneralPage.ui:377
 #, kde-format
-#| msgid "Interaction Options"
 msgid "Semantic Integration"
 msgstr "Tích hợp ngữ nghĩa"
 
@@ -4917,7 +4628,6 @@ msgstr "Thanh lỗi đỏ:"
 #. i18n: ectx: property (text), widget (QLabel, label_30)
 #: widgets/EditProfileGeneralPage.ui:495
 #, kde-format
-#| msgid "Background color:"
 msgid "Red error background:"
 msgstr "Nền lỗi màu đỏ:"
 
@@ -4930,17 +4640,12 @@ msgstr "Thanh xen kẽ:"
 #. i18n: ectx: property (text), widget (QLabel, label_50)
 #: widgets/EditProfileGeneralPage.ui:587
 #, kde-format
-#| msgid "Background color:"
 msgid "Alternating background:"
 msgstr "Nền xen kẽ:"
 
 #. i18n: ectx: property (text), widget (QLabel, note)
 #: widgets/EditProfileKeyboardPage.ui:17
 #, kde-format
-#| msgid ""
-#| "Key bindings control how combinations of key presses in the terminal "
-#| "window are converted into the stream of characters which is sent to the "
-#| "current terminal program."
 msgctxt "@info"
 msgid ""
 "Key bindings control how combinations of keystrokes in the terminal window "
@@ -4955,14 +4660,12 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QPushButton, newKeyBindingsButton)
 #: widgets/EditProfileKeyboardPage.ui:60
 #, kde-format
-#| msgid "Create a new key bindings list based upon the selected bindings"
 msgid "Create a new key bindings scheme based upon the selected bindings"
 msgstr "Tạo quy hoạch kết buộc phím mới dựa trên kết buộc đã chọn"
 
 #. i18n: ectx: property (text), widget (QPushButton, newKeyBindingsButton)
 #: widgets/EditProfileKeyboardPage.ui:63
 #, kde-format
-#| msgid "New..."
 msgctxt "@action:button Create an alternate key binding"
 msgid "New..."
 msgstr "Mới..."
@@ -4970,28 +4673,24 @@ msgstr "Mới..."
 #. i18n: ectx: property (toolTip), widget (QPushButton, editKeyBindingsButton)
 #: widgets/EditProfileKeyboardPage.ui:70
 #, kde-format
-#| msgid "Edit the selected key bindings list"
 msgid "Edit the selected key bindings scheme"
 msgstr "Sửa quy hoạch kết buộc phím đã chọn"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, removeKeyBindingsButton)
 #: widgets/EditProfileKeyboardPage.ui:80
 #, kde-format
-#| msgid "Delete the selected key bindings list"
 msgid "Delete the selected key bindings scheme"
 msgstr "Xoá quy hoạch kết buộc phím đã chọn"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, resetKeyBindingsButton)
 #: widgets/EditProfileKeyboardPage.ui:90
 #, kde-format
-#| msgid "Use the selected color scheme for this profile"
 msgid "Reset the selected key bindings scheme to its default values"
 msgstr "Đặt lại quy hoạch kết buộc phím đã chọn về giá trị mặc định"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: widgets/EditProfileMousePage.ui:36
 #, kde-format
-#| msgid "Interaction Options"
 msgid "Text interaction"
 msgstr "Tương tác văn bản"
 
@@ -4999,9 +4698,6 @@ msgstr "Tương tác văn bản"
 #. i18n: ectx: property (toolTip), widget (QLineEdit, wordCharacterEdit)
 #: widgets/EditProfileMousePage.ui:50 widgets/EditProfileMousePage.ui:71
 #, kde-format
-#| msgid ""
-#| "Characters which are considered part of a word when double-clicking to "
-#| "select whole words in the terminal"
 msgctxt "@info:tooltip"
 msgid ""
 "Characters which are considered part of a word when double-clicking to "
@@ -5025,7 +4721,6 @@ msgstr "Nhấp ba lần chọn:"
 #. i18n: ectx: property (text), widget (QRadioButton, tripleClickSelectsTheWholeLine)
 #: widgets/EditProfileMousePage.ui:104
 #, kde-format
-#| msgid "Edit Current Profile..."
 msgid "&The whole line"
 msgstr "&Toàn bộ dòng"
 
@@ -5044,21 +4739,18 @@ msgstr "Nhấp giữa để dán:"
 #. i18n: ectx: property (text), widget (QRadioButton, pasteFromClipboardButton)
 #: widgets/EditProfileMousePage.ui:150
 #, kde-format
-#| msgid "&Paste"
 msgid "From clipboard"
 msgstr "Từ bảng nháp"
 
 #. i18n: ectx: property (text), widget (QRadioButton, pasteFromX11SelectionButton)
 #: widgets/EditProfileMousePage.ui:160
 #, kde-format
-#| msgid "&Paste"
 msgid "From selection"
 msgstr "Từ phần bôi đen"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: widgets/EditProfileMousePage.ui:186
 #, kde-format
-#| msgid "Cursor Options"
 msgid "Copy options:"
 msgstr "Tùy chọn sao chép:"
 
@@ -5071,7 +4763,6 @@ msgstr "Tự động sao chép văn bản đã chọn vào bảng nháp"
 #. i18n: ectx: property (text), widget (QCheckBox, copyTextToClipboardButton)
 #: widgets/EditProfileMousePage.ui:199
 #, kde-format
-#| msgid "Copy Here"
 msgid "Copy on select"
 msgstr "Chép khi bôi đen"
 
@@ -5079,7 +4770,8 @@ msgstr "Chép khi bôi đen"
 #: widgets/EditProfileMousePage.ui:206
 #, kde-format
 msgid "Copy text as HTML (including formatting, font faces, colors... etc)"
-msgstr "Sao chép văn bản dạng HTML (bao gồm định dạng, phông chữ, màu sắc... v.v.)"
+msgstr ""
+"Sao chép văn bản dạng HTML (bao gồm định dạng, phông chữ, màu sắc... v.v.)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, copyTextAsHTMLButton)
 #: widgets/EditProfileMousePage.ui:209
@@ -5103,7 +4795,8 @@ msgstr "Xóa khoảng trắng đầu dòng"
 #: widgets/EditProfileMousePage.ui:226
 #, kde-format
 msgid "Trim trailing spaces in selected text, useful in some instances"
-msgstr "Xóa khoảng trắng cuối trong văn bản đã chọn, hữu ích trong một số hiện thể"
+msgstr ""
+"Xóa khoảng trắng cuối trong văn bản đã chọn, hữu ích trong một số hiện thể"
 
 #. i18n: ectx: property (text), widget (QCheckBox, trimTrailingSpacesButton)
 #: widgets/EditProfileMousePage.ui:229
@@ -5124,7 +4817,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, underlineLinksButton)
 #: widgets/EditProfileMousePage.ui:269
 #, kde-format
-#| msgid "Underline"
 msgid "Underline links"
 msgstr "Gạch dưới liên kết"
 
@@ -5139,7 +4831,6 @@ msgstr "Văn bản được nhận dạng là tệp sẽ được gạch chân k
 #. i18n: ectx: property (text), widget (QCheckBox, underlineFilesButton)
 #: widgets/EditProfileMousePage.ui:279
 #, kde-format
-#| msgid "Underline"
 msgid "Underline files"
 msgstr "Gạch dưới tệp"
 
@@ -5164,8 +4855,8 @@ msgid ""
 "Text recognized as a file, link or an email address can be opened by direct "
 "mouse click."
 msgstr ""
-"Văn bản được nhận dạng là tệp, liên kết hoặc địa chỉ thư có thể được mở "
-"bằng cách nhấp chuột trực tiếp."
+"Văn bản được nhận dạng là tệp, liên kết hoặc địa chỉ thư có thể được mở bằng "
+"cách nhấp chuột trực tiếp."
 
 #. i18n: ectx: property (text), widget (QCheckBox, openLinksByDirectClickButton)
 #: widgets/EditProfileMousePage.ui:338
@@ -5194,7 +4885,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: widgets/EditProfileMousePage.ui:374
 #, kde-format
-#| msgid "Allow blinking text"
 msgid "Allowed link formats: "
 msgstr "Định dạng liên kết được phép:"
 
@@ -5202,7 +4892,8 @@ msgstr "Định dạng liên kết được phép:"
 #: widgets/EditProfileMousePage.ui:384
 #, kde-format
 msgid "The formats of possible links, like http://, https:// and file://"
-msgstr "Các định dạng của các liên kết có thể, như http://, https:// và file://"
+msgstr ""
+"Các định dạng của các liên kết có thể, như http://, https:// và file://"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, ctrlRequiredForDragButton)
 #: widgets/EditProfileMousePage.ui:395
@@ -5295,7 +4986,6 @@ msgstr "Cho phép ứng dụng dòng lệnh quai móc nhấp và kéo"
 #. i18n: ectx: property (text), widget (QLabel, historySizeLabel)
 #: widgets/EditProfileScrollingPage.ui:25
 #, kde-format
-#| msgid "No scrollback"
 msgid "Scrollback:"
 msgstr "Cuộn ngược:"
 
@@ -5332,7 +5022,6 @@ msgstr "Chiề&u cao toàn màn hình"
 #. i18n: ectx: property (text), widget (QLabel, labelSize)
 #: widgets/EditProfileScrollingPage.ui:131
 #, kde-format
-#| msgid "Tab bar position:"
 msgid "Scrollbar position:"
 msgstr "Vị trí thanh cuộn:"
 
@@ -5345,7 +5034,6 @@ msgstr "Hiển thị thanh cuộn bên phải cửa sổ thiết bị cuối"
 #. i18n: ectx: property (text), widget (QRadioButton, scrollBarRightButton)
 #: widgets/EditProfileScrollingPage.ui:144
 #, kde-format
-#| msgid "Show on right side"
 msgctxt "@option:radio Show scrollbar on the right side"
 msgid "Ri&ght side"
 msgstr "Bê&n phải"
@@ -5359,7 +5047,6 @@ msgstr "Hiển thị thanh cuộn bên trái cửa sổ thiết bị cuối"
 #. i18n: ectx: property (text), widget (QRadioButton, scrollBarLeftButton)
 #: widgets/EditProfileScrollingPage.ui:157
 #, kde-format
-#| msgid "Text size:"
 msgctxt "@option:radio Show scrollbar on the left side"
 msgid "&Left side"
 msgstr "&Bên trái"
@@ -5367,7 +5054,6 @@ msgstr "&Bên trái"
 #. i18n: ectx: property (text), widget (QRadioButton, scrollBarHiddenButton)
 #: widgets/EditProfileScrollingPage.ui:167
 #, kde-format
-#| msgid "Hidden"
 msgctxt "@option:radio Hide the scroll bar"
 msgid "Hidden"
 msgstr "Ẩn"
@@ -5422,7 +5108,6 @@ msgstr "Ngưỡng im lặng liên tục để Konsole phát hiện"
 
 #: widgets/HistorySizeWidget.cpp:40
 #, kde-format
-#| msgid "lines"
 msgctxt "@label:textbox Unit of scrollback"
 msgid " line"
 msgid_plural " lines"
@@ -5449,10 +5134,10 @@ msgid ""
 "Konsole → Temporary Files</emphasis> to select the location of the temporary "
 "files."
 msgstr ""
-"Khi dùng tùy chọn này, dữ liệu cuộn lùi sẽ được ghi không mã hóa vào tệp "
-"tạm thời. Các tệp tạm thời sẽ tự động xóa khi Konsole đóng bình "
-"thường.<nl/>Dùng <emphasis>Thiết lập → Cấu hình Konsole → Tệp tạm "
-"thời</emphasis> để bôi đen địa điểm của tệp tạm thời."
+"Khi dùng tùy chọn này, dữ liệu cuộn lùi sẽ được ghi không mã hóa vào tệp tạm "
+"thời. Các tệp tạm thời sẽ tự động xóa khi Konsole đóng bình thường.<nl/>Dùng "
+"<emphasis>Thiết lập → Cấu hình Konsole → Tệp tạm thời</emphasis> để bôi đen "
+"địa điểm của tệp tạm thời."
 
 #. i18n: ectx: property (toolTip), widget (QRadioButton, fixedSizeHistoryButton)
 #: widgets/HistorySizeWidget.ui:60
@@ -5463,7 +5148,6 @@ msgstr "Giới hạn kết xuất đã nhớ thành số dòng cố định"
 #. i18n: ectx: property (text), widget (QRadioButton, fixedSizeHistoryButton)
 #: widgets/HistorySizeWidget.ui:63
 #, kde-format
-#| msgid "Fixed size scrollback: "
 msgid "Fi&xed size:"
 msgstr "Kí&ch thước cố định:"
 
@@ -5482,7 +5166,6 @@ msgstr "Nhớ toàn bộ kết xuất được tạo ra bởi thiết bị cuố
 #. i18n: ectx: property (text), widget (QRadioButton, unlimitedHistoryButton)
 #: widgets/HistorySizeWidget.ui:137
 #, kde-format
-#| msgid "Unlimited scrollback"
 msgctxt "Save all lines to the scrollback history"
 msgid "&Unlimited"
 msgstr "&Vô hạn"
@@ -5490,7 +5173,6 @@ msgstr "&Vô hạn"
 #. i18n: ectx: property (toolTip), widget (QRadioButton, noHistoryButton)
 #: widgets/HistorySizeWidget.ui:172
 #, kde-format
-#| msgid "Disable scroll bar and do not remember previous output"
 msgid "Do not remember previous output"
 msgstr "Không nhớ kết xuất trước"
 
@@ -5503,7 +5185,6 @@ msgstr "&Không"
 
 #: widgets/IncrementalSearchBar.cpp:49
 #, kde-format
-#| msgid "Find:"
 msgctxt "@label:textbox"
 msgid "Find..."
 msgstr "Tìm..."
@@ -5516,7 +5197,6 @@ msgstr "Nhập văn bản cần tìm kiếm vào đây"
 
 #: widgets/IncrementalSearchBar.cpp:75
 #, kde-format
-#| msgid "Next"
 msgctxt "@action:button Go to the next phrase"
 msgid "Next"
 msgstr "Tiếp"
@@ -5529,7 +5209,6 @@ msgstr "Tìm kết quả tiếp theo cho cụm từ tìm kiếm hiện tại"
 
 #: widgets/IncrementalSearchBar.cpp:85
 #, kde-format
-#| msgid "Previous"
 msgctxt "@action:button Go to the previous phrase"
 msgid "Previous"
 msgstr "Trước"
@@ -5548,14 +5227,12 @@ msgstr "Hiển thị trình đơn tùy chọn"
 
 #: widgets/IncrementalSearchBar.cpp:109
 #, kde-format
-#| msgid "Close Others"
 msgctxt "@info:tooltip"
 msgid "Close the search bar"
 msgstr "Đóng thanh tìm kiếm"
 
 #: widgets/IncrementalSearchBar.cpp:119
 #, kde-format
-#| msgid "Close Active"
 msgctxt "@item:inmenu"
 msgid "Case sensitive"
 msgstr "Phân biệt chữ hoa/thường"
@@ -5568,14 +5245,12 @@ msgstr "Đặt tìm kiếm phân biệt chữ hoa chữ thường"
 
 #: widgets/IncrementalSearchBar.cpp:124
 #, kde-format
-#| msgid "Match regular expression"
 msgctxt "@item:inmenu"
 msgid "Match regular expression"
 msgstr "Khớp biểu thức chính quy"
 
 #: widgets/IncrementalSearchBar.cpp:128
 #, kde-format
-#| msgid "Highlight all"
 msgctxt "@item:inmenu"
 msgid "Highlight all matches"
 msgstr "Tô sáng tất cả kết quả trùng khớp"
@@ -5624,7 +5299,6 @@ msgstr "Tìm kiếm cụm từ hiện tại từ đầu"
 
 #: widgets/KonsolePrintManager.cpp:50
 #, kde-format
-#| msgid "Print &header"
 msgid "Print Shell"
 msgstr "In hệ vỏ"
 
@@ -5637,9 +5311,6 @@ msgstr "Không"
 #. i18n: ectx: property (toolTip), widget (QLineEdit, remoteTabTitleEdit)
 #: widgets/RenameTabWidget.ui:41
 #, kde-format
-#| msgid ""
-#| "Tab title format used when a remote command (eg. connection to another "
-#| "computer via SSH) is being executed"
 msgid ""
 "Tab title format used when a remote command (e.g. connection to another "
 "computer via SSH) is being executed"
@@ -5656,57 +5327,45 @@ msgstr "Định dạng tựa thẻ ở xa:"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: widgets/RenameTabWidget.ui:79
 #, kde-format
-#| msgid "Tab title format:"
 msgid "&Tab title format:"
 msgstr "Định dạng &tiêu đề thẻ:"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, tabTitleEdit)
 #: widgets/RenameTabWidget.ui:98
 #, kde-format
-#| msgid "Normal tab title format "
 msgid "Normal tab title format"
 msgstr "Định dạng tiêu đề thẻ thông thường"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: widgets/RenameTabWidget.ui:105
 #, kde-format
-#| msgid "Color"
 msgid "Tab Co&lor:"
 msgstr "Mà&u thẻ:"
 
 #: widgets/TabTitleFormatButton.cpp:21
 #, c-format
-#| msgid "Program name"
 msgid "Program Name: %n"
 msgstr "Tên chương trình: %n"
 
 #: widgets/TabTitleFormatButton.cpp:22
 #, c-format
-#| msgid "Current directory (Short)"
 msgid "Current Directory (Short): %d"
 msgstr "Thư mục hiện tại (Ngắn): %d"
 
 #: widgets/TabTitleFormatButton.cpp:23
-#, 
-#| msgid "Current directory (Long)"
 msgid "Current Directory (Long): %D"
 msgstr "Thư mục hiện tại (Dài): %D"
 
 #: widgets/TabTitleFormatButton.cpp:24 widgets/TabTitleFormatButton.cpp:39
-#, 
-#| msgid "Window title set by shell"
 msgid "Window Title Set by Shell: %w"
 msgstr "Tiêu đề cửa sổ đặt bởi Shell: %w"
 
 #: widgets/TabTitleFormatButton.cpp:25 widgets/TabTitleFormatButton.cpp:40
-#, 
-#| msgid "Name"
 msgid "Session Number: %#"
 msgstr "Số phiên: %#"
 
 #: widgets/TabTitleFormatButton.cpp:26 widgets/TabTitleFormatButton.cpp:34
 #, c-format
-#| msgid "User name"
 msgid "User Name: %u"
 msgstr "Tên người dùng: %u"
 
@@ -5719,20 +5378,14 @@ msgid "User's Bourne prompt sigil: %B"
 msgstr "Ký hiệu nhắc Bourne của người dùng: %B"
 
 #: widgets/TabTitleFormatButton.cpp:35
-#, 
-#| msgid "User name"
 msgid "User Name@ (if given): %U"
 msgstr "Tên người dùng@ (nếu có): %U"
 
 #: widgets/TabTitleFormatButton.cpp:36
-#, 
-#| msgid "Remote host (Short)"
 msgid "Remote Host (Short): %h"
 msgstr "Máy ở xa (Ngắn): %h"
 
 #: widgets/TabTitleFormatButton.cpp:37
-#, 
-#| msgid "Remote host (Long)"
 msgid "Remote Host (Long): %H"
 msgstr "Máy ở xa (Dài): %H"
 
@@ -5748,89 +5401,76 @@ msgstr "Chèn"
 
 #: widgets/TabTitleFormatButton.cpp:73
 #, kde-format
-#| msgid "Tab title format:"
 msgctxt "@info:tooltip"
 msgid "Insert title format"
 msgstr "Chèn định dạng tiêu đề"
 
 #: widgets/TabTitleFormatButton.cpp:77
 #, kde-format
-#| msgid "Remote tab title format:"
 msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr "Chèn định dạng tiêu đề từ xa"
 
 #: widgets/TerminalHeaderBar.cpp:80 widgets/TerminalHeaderBar.cpp:188
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@info:tooltip"
 msgid "Maximize terminal"
 msgstr "Phóng to dòng lệnh"
 
 #: widgets/TerminalHeaderBar.cpp:91
 #, kde-format
-#| msgid "Above terminal displays"
 msgctxt "@info:tooltip"
 msgid "Move terminal to new tab"
 msgstr "Di chuyển dòng lệnh sang thẻ mới"
 
 #: widgets/TerminalHeaderBar.cpp:101
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@info:tooltip"
 msgid "Close terminal"
 msgstr "Đóng dòng lệnh"
 
 #: widgets/TerminalHeaderBar.cpp:186
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@info:tooltip"
 msgid "Restore terminal"
 msgstr "Khôi phục dòng lệnh"
 
 #: widgets/ViewContainer.cpp:56
 #, kde-format
-#| msgid "&Detach View"
 msgctxt "@info:tooltip"
 msgid "Open a new tab"
 msgstr "Mở thẻ mới"
 
 #: widgets/ViewContainer.cpp:61
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@info:tooltip"
 msgid "Close this tab"
 msgstr "Đóng thẻ này"
 
 #: widgets/ViewContainer.cpp:94
 #, kde-format
-#| msgid "&Detach View"
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr "Tác&h thẻ"
 
 #: widgets/ViewContainer.cpp:100
 #, kde-format
-#| msgid "&Rename Tab..."
 msgctxt "@action:inmenu"
 msgid "&Configure or Rename Tab..."
 msgstr "&Cấu hình hoặc đổi tên thẻ..."
 
 #: widgets/ViewContainer.cpp:105
 #, kde-format
-#| msgid "&Close Tab"
 msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr "Đóng thẻ"
 
 #, fuzzy
-#~| msgid "Tab Titles"
 #~ msgctxt "@title:window"
 #~ msgid "Save File"
 #~ msgstr "Tựa thẻ"
 
 #, fuzzy
-#~| msgid "Open Link"
 #~ msgctxt "@title:window"
 #~ msgid "Open File"
 #~ msgstr "Mở liên kết"
@@ -5839,33 +5479,27 @@ msgstr "Đóng thẻ"
 #~ msgstr "Cỡ: XXX x XXX"
 
 #, fuzzy
-#~| msgid "Set as Default"
 #~ msgctxt "Name of the default/builtin profile"
 #~ msgid "Default"
 #~ msgstr "Làm mặc định"
 
 #, fuzzy
-#~| msgid "Set as Default"
 #~ msgctxt "@label:textbox added to the name of the current default profile"
 #~ msgid " (default)"
 #~ msgstr "Làm mặc định"
 
 #, fuzzy
-#~| msgid "SGI port"
 #~ msgid "Import"
 #~ msgstr "Chuyển sang SGI"
 
 #, fuzzy
-#~| msgid "Show Menu Bar"
 #~ msgid "Show menubar"
 #~ msgstr "Hiện thanh trình đơn"
 
 #, fuzzy
-#~| msgid "Show menu bar in new windows created from this profile"
 #~ msgid "Show menubar by default"
 #~ msgstr "Hiển thị thanh trình đơn trong cửa sổ mới được tạo từ hồ sơ này"
 
 #, fuzzy
-#~| msgid "Show menu bar in new windows created from this profile"
 #~ msgid "Show menubar by default in each Konsole window"
 #~ msgstr "Hiển thị thanh trình đơn trong cửa sổ mới được tạo từ hồ sơ này"

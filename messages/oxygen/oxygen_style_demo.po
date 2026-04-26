@@ -158,7 +158,8 @@ msgstr "Chuẩn kiểm"
 #: oxygendemodialog.cpp:160
 #, kde-format
 msgid "Emulates user interaction with widgets for benchmarking"
-msgstr "Giả lập tương tác của người dùng với các tiện ích để đánh giá hiệu suất"
+msgstr ""
+"Giả lập tương tác của người dùng với các tiện ích để đánh giá hiệu suất"
 
 #: oxygeninputdemowidget.cpp:20
 #, kde-format
@@ -842,14 +843,12 @@ msgstr "Trang thứ ba"
 #. i18n: ectx: property (text), widget (QCheckBox, animateProgressBarCheckBox)
 #: ui/oxygensliderdemowidget.ui:29
 #, kde-format
-#| msgid "Animate progress bars"
 msgid "Animate Progress Bars"
 msgstr "Hoạt cảnh các thanh tiến hành"
 
 #. i18n: ectx: property (text), widget (QCheckBox, invertProgressBarCheckBox)
 #: ui/oxygensliderdemowidget.ui:36
 #, kde-format
-#| msgid "Animate progress bars"
 msgid "Invert Progress Bars"
 msgstr "Đảo ngược thanh tiến hành"
 

@@ -14,15 +14,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.kpat.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "Patience"
 msgctxt "Name"
 msgid "KPatience"
 msgstr "KPatience"
 
 #: src/org.kde.kpat.desktop:63
-#, 
 msgctxt "GenericName"
 msgid "Patience Card Game"
 msgstr "Trò chơi Patience"
@@ -68,7 +64,6 @@ msgid "Card style theme"
 msgstr "Chủ đề kiểu cách bài bài"
 
 #, fuzzy
-#~| msgid "Name=Clanbomber"
 #~ msgctxt "Name"
 #~ msgid "Older Theme"
 #~ msgstr "Name=Clanbomber "

@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,11 +22,13 @@ msgstr "Trình tạo mẫu mã ứng dụng"
 
 #. (itstool) path: description/p
 #: org.kde.kapptemplate.appdata.xml:12
-msgid "KAppTemplate is an application to start development quickly using existing templates providing basic repeatedly written code and a proper structure."
+msgid ""
+"KAppTemplate is an application to start development quickly using existing "
+"templates providing basic repeatedly written code and a proper structure."
 msgstr ""
 "KAppTemplate là một ứng dụng để khởi động phát triển nhanh chóng bằng cách "
-"sử dụng các mẫu hiện có, cung cấp mã được viết lại nhiều lần và một cấu "
-"trúc phù hợp."
+"sử dụng các mẫu hiện có, cung cấp mã được viết lại nhiều lần và một cấu trúc "
+"phù hợp."
 
 #. (itstool) path: description/p
 #: org.kde.kapptemplate.appdata.xml:16
@@ -49,15 +52,20 @@ msgstr "Các mẫu cho các hệ thống xây dựng và khung khác nhau"
 
 #. (itstool) path: ul/li
 #: org.kde.kapptemplate.appdata.xml:21
-msgid "Templates especially for KDE-development (plugins for Plasma, QtQuick, KTextEditor, KRunner, Akonadi)"
+msgid ""
+"Templates especially for KDE-development (plugins for Plasma, QtQuick, "
+"KTextEditor, KRunner, Akonadi)"
 msgstr ""
 "Các mẫu đặc biệt dành cho phát triển KDE (plugin cho Plasma, QtQuick, "
 "KTextEditor, KRunner, Akonadi)"
 
 #. (itstool) path: ul/li
 #: org.kde.kapptemplate.appdata.xml:22
-msgid "It is easy to create new templates using space holders and a simple CMake-command"
-msgstr "Tạo các mẫu mới sử dụng các giữ chỗ và lệnh CMake đơn giản là rất dễ dàng"
+msgid ""
+"It is easy to create new templates using space holders and a simple CMake-"
+"command"
+msgstr ""
+"Tạo các mẫu mới sử dụng các giữ chỗ và lệnh CMake đơn giản là rất dễ dàng"
 
 #. (itstool) path: ul/li
 #: org.kde.kapptemplate.appdata.xml:23

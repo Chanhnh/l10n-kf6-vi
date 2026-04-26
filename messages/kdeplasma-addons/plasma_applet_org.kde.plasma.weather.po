@@ -301,8 +301,6 @@ msgstr ""
 
 #: package/contents/ui/ForecastView.qml:77
 #, kde-format
-#| msgctxt "certain weather condition (probability percentage)"
-#| msgid "%1 (%2 %)"
 msgctxt "certain weather condition (probability percentage)"
 msgid "%1 (%2%)"
 msgstr "%1 (%2%)"
@@ -492,8 +490,6 @@ msgstr "Chi tiết"
 
 #: package/contents/ui/SwitchPanel.qml:42
 #, kde-format
-#| msgctxt "@title:tab"
-#| msgid "Notices"
 msgctxt ""
 "@title:tab %1 is the number of weather notices (alerts, warnings, "
 "watches, ...) issued"

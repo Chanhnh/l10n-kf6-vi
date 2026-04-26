@@ -24,7 +24,6 @@ msgstr "Mở thư mục chứa"
 
 #: baloosearchrunner.cpp:84
 #, kde-format
-#| msgid "Audio"
 msgctxt ""
 "Audio files; translate this as a plural noun in languages with a plural form "
 "of the word"
@@ -33,49 +32,41 @@ msgstr "Các tệp âm thanh"
 
 #: baloosearchrunner.cpp:86
 #, kde-format
-#| msgid "Image"
 msgid "Images"
 msgstr "Ảnh"
 
 #: baloosearchrunner.cpp:87
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "Phim"
 
 #: baloosearchrunner.cpp:88
 #, kde-format
-#| msgid "Spreadsheet"
 msgid "Spreadsheets"
 msgstr "Bảng tính"
 
 #: baloosearchrunner.cpp:89
 #, kde-format
-#| msgid "Presentation"
 msgid "Presentations"
 msgstr "Trình chiếu"
 
 #: baloosearchrunner.cpp:90
 #, kde-format
-#| msgid "Folder"
 msgid "Folders"
 msgstr "Thư mục"
 
 #: baloosearchrunner.cpp:91
 #, kde-format
-#| msgid "Document"
 msgid "Documents"
 msgstr "Tài liệu"
 
 #: baloosearchrunner.cpp:92
 #, kde-format
-#| msgid "Archive"
 msgid "Archives"
 msgstr "Kho lưu trữ"
 
 #: baloosearchrunner.cpp:93
 #, kde-format
-#| msgid "Text"
 msgid "Texts"
 msgstr "Văn bản"
 

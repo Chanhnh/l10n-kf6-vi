@@ -55,9 +55,6 @@ msgstr "Xoá dữ liệu chỉ mục"
 
 #: ui/main.qml:90
 #, kde-format
-#| msgid ""
-#| "File Search helps you quickly locate all your files based on their "
-#| "content."
 msgid ""
 "File Search helps you quickly locate your files. You can choose which "
 "folders and what types of file data are indexed."
@@ -67,7 +64,6 @@ msgstr ""
 
 #: ui/main.qml:104
 #, kde-format
-#| msgid "Currently indexing: %1"
 msgctxt "@title:group"
 msgid "File indexing:"
 msgstr "Lập chỉ mục tệp:"
@@ -96,7 +92,6 @@ msgstr "Chỉ tên tệp"
 
 #: ui/main.qml:155
 #, kde-format
-#| msgid "Index hidden files and folders"
 msgid "Hidden files and folders"
 msgstr "Tệp và thư mục ẩn"
 
@@ -108,28 +103,24 @@ msgstr "Địa điểm"
 
 #: ui/main.qml:184
 #, kde-format
-#| msgid "Start indexing a folder…"
 msgctxt "@action:button"
 msgid "Start Indexing a Folder…"
 msgstr "Khởi động lập chỉ mục thư mục…"
 
 #: ui/main.qml:192
 #, kde-format
-#| msgid "Stop indexing a folder…"
 msgctxt "@action:button"
 msgid "Stop Indexing a Folder…"
 msgstr "Dừng lập chỉ mục thư mục…"
 
 #: ui/main.qml:210
 #, kde-format
-#| msgid "Status: %1, %2% complete"
 msgctxt "State and a percentage of progress"
 msgid "%1, %2% complete"
 msgstr "%1, hoàn tất %2%"
 
 #: ui/main.qml:217
 #, kde-kuit-format
-#| msgid "Currently indexing: %1"
 msgctxt "@info Currently Indexing"
 msgid "Currently indexing: <filename>%1</filename>"
 msgstr "Đang lập chỉ mục: <filename>%1</filename>"
@@ -160,7 +151,6 @@ msgid "Select a folder to exclude"
 msgstr "Chọn một thư mục để bỏ đi"
 
 #, fuzzy
-#~| msgid "Currently indexing: %1"
 #~ msgctxt "@label file currently being indexed"
 #~ msgid "Currently indexing:"
 #~ msgstr "Đang lập chỉ mục: %1"

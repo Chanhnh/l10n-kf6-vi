@@ -14,7 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/org.kde.klickety.desktop:2
-#, 
 msgctxt "Name"
 msgid "Klickety"
 msgstr "Klickety"
@@ -30,23 +29,16 @@ msgid "SameGame"
 msgstr "SameGame"
 
 #: themes/default.desktop:2
-#, 
 msgctxt "Name"
 msgid "Classic"
 msgstr "Cổ điển"
 
 #: themes/default.desktop:66
-#, 
-#| msgctxt "Name"
-#| msgid "Classic Red"
 msgctxt "Description"
 msgid "Klickety Classic Theme"
 msgstr "Chủ đề Klickety Cổ điển"
 
 #: themes/ksame.desktop:2
-#, 
-#| msgctxt "Name"
-#| msgid "KSnakeRace"
 msgctxt "Name"
 msgid "KSame"
 msgstr "KSame"
